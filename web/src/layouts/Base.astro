@@ -1,0 +1,32 @@
+---
+import "../styles/global.css";
+
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const { title, description = "A daily AI and tech briefing you can read in minutes." } =
+  Astro.props;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <title>{title}</title>
+  </head>
+  <body class="min-h-screen bg-stone-50 text-stone-900 antialiased">
+    <div class="mx-auto max-w-2xl px-4 py-8">
+      <slot />
+      <footer class="mt-16 border-t border-stone-200 pt-6 text-sm text-stone-500">
+        <p>
+          This briefing summarizes and links to original reporting. We are an aggregator,
+          not the original publisher — follow the source links for full articles.
+        </p>
+      </footer>
+    </div>
+  </body>
+</html>
