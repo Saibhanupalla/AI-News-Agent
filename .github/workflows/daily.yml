@@ -1,17 +1,17 @@
-# Daily briefing pipeline.
-# Schedule: 00:00 UTC = 05:30 IST, so the edition is ready with morning coffee in India.
-# The commit of data/ triggers the Cloudflare Pages (or CI) rebuild of the site.
+# Daily briefing. 00:00 UTC = 05:30 IST.
+# GitHub only lists a workflow after it parses cleanly; this file avoids the
+# `inputs` context (unreliable on schedule-only workflows) so it actually appears.
 name: Daily edition
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
   workflow_dispatch:
     inputs:
       dry_run:
-        description: "Dry run: stop after the quality gate (no LLM, no commit)"
+        description: Dry run — stop after the quality gate (no LLM, no commit)
         type: boolean
         default: false
+  schedule:
+    - cron: "0 0 * * *"
 
 permissions:
   contents: write
@@ -23,6 +23,8 @@ concurrency:
 jobs:
   publish:
     runs-on: ubuntu-latest
+    env:
+      DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.dry_run == 'true' }}
     steps:
       - uses: actions/checkout@v4
 
@@ -35,7 +37,7 @@ jobs:
         run: uv sync --frozen
 
       - name: Guard - API key must exist for a real run
-        if: ${{ !inputs.dry_run }}
+        if: ${{ env.DRY_RUN != 'true' }}
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
@@ -44,18 +46,18 @@ jobs:
             exit 1
           fi
 
-      - name: Dry run (fixtures of the day, no LLM, no commit)
-        if: ${{ inputs.dry_run }}
+      - name: Dry run (feeds of the day, no LLM, no commit)
+        if: ${{ env.DRY_RUN == 'true' }}
         run: uv run python -m pipeline run --date today --no-llm
 
       - name: Build today's edition
-        if: ${{ !inputs.dry_run }}
+        if: ${{ env.DRY_RUN != 'true' }}
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: uv run python -m pipeline run --date today
 
       - name: Commit edition and memory
-        if: ${{ !inputs.dry_run }}
+        if: ${{ env.DRY_RUN != 'true' }}
         run: |
           git config user.name "briefing-bot"
           git config user.email "actions@github.com"

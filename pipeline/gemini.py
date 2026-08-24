@@ -4,6 +4,7 @@ import json
 import os
 from pathlib import Path
 
+from pipeline.config import REPO_ROOT
 from pipeline.llm import ClusterAnnotation, EditorialDecision
 from pipeline.models import TOPIC_IDS, TOPIC_LABELS, Cluster
 
@@ -18,7 +19,9 @@ class MissingApiKeyError(RuntimeError):
 def load_api_key(env_file: Path | None = None) -> str:
     """GEMINI_API_KEY from the environment, falling back to a local .env file."""
     key = os.environ.get("GEMINI_API_KEY", "").strip()
-    if not key and env_file is not None and env_file.exists():
+    if env_file is None:
+        env_file = REPO_ROOT / ".env"
+    if not key and env_file.exists():
         for line in env_file.read_text().splitlines():
             line = line.strip()
             if line.startswith("GEMINI_API_KEY="):
@@ -78,7 +81,7 @@ class GeminiClient:
     def __init__(self, api_key: str | None = None) -> None:
         from google import genai
 
-        self._client = genai.Client(api_key=api_key or load_api_key())
+        self._client = genai.Client(api_key=api_key or load_api_key(REPO_ROOT / ".env"))
 
     def annotate_clusters(self, clusters: list[Cluster]) -> list[ClusterAnnotation]:
         payload = json.dumps([_cluster_payload(c) for c in clusters], indent=1)
