@@ -1,0 +1,68 @@
+# Daily briefing pipeline.
+# Schedule: 00:00 UTC = 05:30 IST, so the edition is ready with morning coffee in India.
+# The commit of data/ triggers the Cloudflare Pages (or CI) rebuild of the site.
+name: Daily edition
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Dry run: stop after the quality gate (no LLM, no commit)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-edition
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+
+      - name: Sync dependencies
+        run: uv sync --frozen
+
+      - name: Guard - API key must exist for a real run
+        if: ${{ !inputs.dry_run }}
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          if [ -z "$GEMINI_API_KEY" ]; then
+            echo "::error::GEMINI_API_KEY secret is not set; refusing to run the LLM stage."
+            exit 1
+          fi
+
+      - name: Dry run (fixtures of the day, no LLM, no commit)
+        if: ${{ inputs.dry_run }}
+        run: uv run python -m pipeline run --date today --no-llm
+
+      - name: Build today's edition
+        if: ${{ !inputs.dry_run }}
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: uv run python -m pipeline run --date today
+
+      - name: Commit edition and memory
+        if: ${{ !inputs.dry_run }}
+        run: |
+          git config user.name "briefing-bot"
+          git config user.email "actions@github.com"
+          git add data/editions data/memory
+          if git diff --cached --quiet; then
+            echo "nothing new to commit"
+          else
+            git commit -m "Edition: $(date -u +%F)"
+            git push
+          fi

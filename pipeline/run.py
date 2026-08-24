@@ -44,6 +44,11 @@ def run_command(args: argparse.Namespace) -> int:
 
     if args.command == "run":
         articles = ingest_all(load_feeds(), HttpxFetcher())
+        if not articles:
+            # Every feed failed. Fail hard so the cron run alerts instead of
+            # silently publishing an empty edition.
+            logger.error("zero articles ingested; aborting the day")
+            return 1
         clusters = cluster_articles(articles)
         logger.info("clustered %d articles into %d clusters", len(articles), len(clusters))
 
