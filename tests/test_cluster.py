@@ -52,6 +52,15 @@ def test_launch_and_pricing_rumor_do_not_merge() -> None:
     assert not titles_match("Gemini 3 launch", "Gemini 3 pricing rumor")
 
 
+def test_short_title_does_not_swallow_headlines_containing_it() -> None:
+    # Regression from the first live run: OpenAI's feed lists pages titled
+    # "Universe" / "Healthcare"; token_set_ratio merged them with any headline
+    # containing that word.
+    assert not titles_match("Universe", "New simulation maps the observable universe")
+    assert not titles_match("Healthcare", "AI healthcare startup raises $50M")
+    assert titles_match("Universe", "Universe")
+
+
 def test_tracking_param_urls_collapse() -> None:
     a = article("Cerebra raises $400M", "https://wire.example.com/cerebra?utm_source=rss")
     b = article("Cerebra raises $400M", "https://wire.example.com/cerebra?fbclid=zzz")

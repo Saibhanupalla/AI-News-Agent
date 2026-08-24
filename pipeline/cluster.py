@@ -19,9 +19,13 @@ def normalize_title(title: str) -> str:
 
 
 def titles_match(a: str, b: str) -> bool:
-    return fuzz.token_set_ratio(normalize_title(a), normalize_title(b)) >= (
-        TITLE_SIMILARITY_THRESHOLD
-    )
+    norm_a, norm_b = normalize_title(a), normalize_title(b)
+    # token_set_ratio scores subset matches at 100, so a 1-2 word title ("Universe",
+    # "Healthcare") would merge with any headline containing it. Require a plain
+    # ratio for short titles instead.
+    if min(len(norm_a.split()), len(norm_b.split())) < 3:
+        return fuzz.ratio(norm_a, norm_b) >= 95.0
+    return fuzz.token_set_ratio(norm_a, norm_b) >= TITLE_SIMILARITY_THRESHOLD
 
 
 def make_cluster_id(articles: list[Article]) -> str:
