@@ -4,17 +4,22 @@ This is the implementation map for the AI/tech daily briefing. Work **one phase 
 
 Do not skip ahead to the site or the LLM. Most of these products fail on junk sources and repeating yesterday, not on the model.
 
-## Status (2026-08-24)
+## Status (2026-08-24, end of day)
 
-Planning is done. **Code is not started.** This repo currently contains only this file. No git repo, no `pipeline/`, no `web/`, no API keys.
+**Phases 0–9 are built and committed** (one commit per phase, 56 pipeline tests + 14 web tests, all green). The pipeline runs live end-to-end through the quality gate; the site builds and renders the golden edition with onboarding.
 
-Ready to start **Phase 0**. Do not start Phase 2+ until 0 and 1 are done.
+**Remaining user actions to go live** (see README "Going live"):
 
-**You will need later (not for Phase 0):**
+1. Create a GitHub repo and push
+2. Add `GEMINI_API_KEY` secret (free key from Google AI Studio)
+3. Connect Cloudflare Pages (root `web/`, build `npm run build`, output `dist`)
+4. Dispatch the "Daily edition" workflow once and eyeball the result
 
-- Google AI Studio key — Phase 6
-- GitHub repo + Actions secrets — Phase 9
-- Cloudflare Pages account — Phase 9
+**Known deviations from the letter of this plan:**
+
+- Phase 8 browser test is pure-logic + build-output assertions, not Playwright (kept CI light; add Playwright later if UI regressions bite)
+- Terse lab titles ("Introducing GPT-6") do not merge with press coverage of the same event — documented limitation with a regression test
+- Live Gemini run not yet eyeballed (needs the API key)
 
 ## How to use this file
 
@@ -432,18 +437,7 @@ Do not start this to “finish the architecture.” Only if real readers exist.
 
 ---
 
-## Suggested week-by-week (if we move fast)
 
-| When | Phases |
-|---|---|
-| Day 1 | 0 Scaffold + 1 test harness |
-| Day 2 | 2 Ingest + 3 cluster |
-| Day 3 | 4 Freshness + 5 quality (two-day fixture is the exam) |
-| Day 4 | 6 LLM edition (fake in CI, live on your machine) |
-| Day 5 | 7 Site + 8 onboard |
-| Day 6 | 9 Cron + Cloudflare |
-
-Slip is fine. The order is not.
 
 ---
 
