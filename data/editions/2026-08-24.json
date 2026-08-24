@@ -1,100 +1,52 @@
 {
   "date": "2026-08-24",
-  "intro": "OpenAI's GPT-6 launch headlines a busy day, while Brussels finalizes AI liability rules and inference hardware keeps pulling money.",
+  "intro": "Today's highlights focus on the intersection of AI safety and practical implementation. Industry leaders are uniting to establish new safety standards, while research sheds light on how AI agents are beginning to reshape professional workflows.",
   "must_know": [
     {
-      "cluster_id": "77828c37a2298248",
-      "title": "OpenAI launches GPT-6 with real-time reasoning",
-      "summary": "OpenAI announced GPT-6, its next flagship model, with real-time reasoning aimed at agent workloads.",
-      "why_it_matters": "Sets the bar every other lab will be measured against this quarter.",
+      "cluster_id": "ba57a65720b4e04f",
+      "title": "How agents are transforming work",
+      "summary": "Recent research from OpenAI explores the evolution of AI agents, demonstrating their capacity to handle increasingly complex, multi-step tasks in professional environments. Similar trends are being observed across diverse business sectors and public administration.",
+      "why_it_matters": "AI agents are shifting from simple chat interfaces to autonomous tools that directly execute complex workflows for organizations.",
       "topic_ids": [
-        "foundation-models",
-        "big-tech"
+        "research",
+        "tools"
       ],
       "story_type": "news",
       "update_delta": "",
       "sources": [
         {
-          "name": "Fixture Source",
-          "url": "https://techpress.example.com/2026/08/24/openai-gpt-6-launch"
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/how-agents-are-transforming-work"
+        },
+        {
+          "name": "Google News: AI",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWnFsQU5oNkJrSzl5d0p1WDFvQWJkdE53TmlJd0pOX2FWYjhxbzN4cHZka2xZZjVSd1BXd01aOXY4d1ZoTDJhRDd5bk1abHFiSGtsLUdGYmlBUUlLMUp2ZTE5eVhXenBXS1QxU2hadldxTDJ6bjhVTkprUTZ5amtqZWxQODJhbEpaRHpoS3ItRlM?oc=5"
         }
       ]
     },
     {
-      "cluster_id": "63fa9f3c9bc18324",
-      "title": "EU parliament approves final AI liability rules",
-      "summary": "EU lawmakers approved liability rules covering high-risk AI deployments, ending a two-year negotiation.",
-      "why_it_matters": "Anyone shipping AI features into the EU now has concrete liability exposure.",
+      "cluster_id": "bb872792c981085b",
+      "title": "Frontier Model Forum",
+      "summary": "Leading AI labs have formed a new industry body, the Frontier Model Forum, to develop safety standards and best practices for frontier AI models. The move follows research highlighting a lack of documented containment plans for rogue AI behavior.",
+      "why_it_matters": "The formation of this body signals a concerted industry effort to preemptively address AI safety concerns and facilitate collaboration with regulators.",
       "topic_ids": [
+        "foundation-models",
         "policy"
       ],
       "story_type": "news",
       "update_delta": "",
       "sources": [
         {
-          "name": "Fixture Source",
-          "url": "https://techpress.example.com/2026/08/24/eu-ai-liability-rules"
-        }
-      ]
-    },
-    {
-      "cluster_id": "840769f5c8f05380",
-      "title": "Chipmaker Cerebra raises $400M for wafer-scale inference",
-      "summary": "Cerebra closed a $400M round to scale its wafer-scale inference chips.",
-      "why_it_matters": "Investors keep betting inference, not training, is the next hardware bottleneck.",
-      "topic_ids": [
-        "startups-funding",
-        "hardware"
-      ],
-      "story_type": "news",
-      "update_delta": "",
-      "sources": [
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model"
+        },
         {
-          "name": "Fixture Source",
-          "url": "https://wire.example.com/story/cerebra-400m-round"
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/frontier-model-forum"
         }
       ]
     }
   ],
-  "sections": {
-    "research": [
-      {
-        "cluster_id": "93afb9a07ab97688",
-        "title": "Scaling sparse attention to 100M context",
-        "summary": "A research note describes sparse attention kernels that extend usable context windows toward 100M tokens.",
-        "why_it_matters": "",
-        "topic_ids": [
-          "research"
-        ],
-        "story_type": "news",
-        "update_delta": "",
-        "sources": [
-          {
-            "name": "Fixture Source",
-            "url": "https://lab.example.com/blog/sparse-attention-100m"
-          }
-        ]
-      }
-    ]
-  },
-  "continuing": [
-    {
-      "cluster_id": "6eb4c7ee916dafec",
-      "title": "US expands chip export restrictions to inference GPUs",
-      "summary": "The US extended chip export restrictions to cover inference GPUs.",
-      "why_it_matters": "",
-      "topic_ids": [
-        "policy",
-        "hardware"
-      ],
-      "story_type": "update",
-      "update_delta": "Inference GPUs were added to the restricted list, expanding yesterday's training-chip rules.",
-      "sources": [
-        {
-          "name": "Fixture Source",
-          "url": "https://wire.example.com/story/chip-exports-day2"
-        }
-      ]
-    }
-  ]
+  "sections": {},
+  "continuing": []
 }

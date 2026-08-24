@@ -1,0 +1,28 @@
+{
+  "entries": [
+    {
+      "event_key": "frontier-model-forum-formation",
+      "urls": [
+        "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model",
+        "https://openai.com/index/frontier-model-forum"
+      ],
+      "title": "Frontier Model Forum",
+      "first_seen": "2026-08-24",
+      "last_shipped": "2026-08-24",
+      "last_summary": "Leading AI labs have formed a new industry body, the Frontier Model Forum, to develop safety standards and best practices for frontier AI models. The move follows research highlighting a lack of documented containment plans for rogue AI behavior.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "ai-agents-productivity-research",
+      "urls": [
+        "https://openai.com/index/how-agents-are-transforming-work",
+        "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWnFsQU5oNkJrSzl5d0p1WDFvQWJkdE53TmlJd0pOX2FWYjhxbzN4cHZka2xZZjVSd1BXd01aOXY4d1ZoTDJhRDd5bk1abHFiSGtsLUdGYmlBUUlLMUp2ZTE5eVhXenBXS1QxU2hadldxTDJ6bjhVTkprUTZ5amtqZWxQODJhbEpaRHpoS3ItRlM?oc=5"
+      ],
+      "title": "How agents are transforming work",
+      "first_seen": "2026-08-24",
+      "last_shipped": "2026-08-24",
+      "last_summary": "Recent research from OpenAI explores the evolution of AI agents, demonstrating their capacity to handle increasingly complex, multi-step tasks in professional environments. Similar trends are being observed across diverse business sectors and public administration.",
+      "was_must_know": true
+    }
+  ]
+}
