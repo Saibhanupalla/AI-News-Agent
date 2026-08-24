@@ -44,6 +44,7 @@ class Article(BaseModel):
     published_at: datetime | None = None
     snippet: str = ""
     source_weight: float = 0.5
+    max_age_hours: int = 36
 
 
 class FreshnessLabel(StrEnum):

@@ -61,6 +61,7 @@ def normalize_entry(entry: feedparser.FeedParserDict, feed: Feed) -> Article | N
         published_at=_parse_published(entry),
         snippet=snippet,
         source_weight=feed.source_weight,
+        max_age_hours=feed.max_age_hours,
     )
 
 
