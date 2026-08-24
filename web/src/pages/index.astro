@@ -2,6 +2,7 @@
 import Base from "../layouts/Base.astro";
 import Header from "../components/Header.astro";
 import EditionView from "../components/EditionView.astro";
+import Onboard from "../components/Onboard.astro";
 import { latestEdition } from "../lib/editions";
 
 const edition = latestEdition();
@@ -21,4 +22,5 @@ const edition = latestEdition();
       </div>
     )}
   </main>
+  {edition && <Onboard />}
 </Base>

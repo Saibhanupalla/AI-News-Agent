@@ -45,6 +45,14 @@ test("edition permalink page was built", () => {
   assert.ok(existsSync(path.join(DIST, "edition", GOLDEN_DATE, "index.html")));
 });
 
+test("onboarding dialog and settings button ship with the home page", () => {
+  const html = distHtml("index.html");
+  assert.match(html, /onboard-dialog/);
+  assert.match(html, /What do you want in your briefing\?/);
+  assert.match(html, /topic-settings-button/);
+  assert.match(html, /Rest of today/);
+});
+
 test("build with zero editions shows empty state instead of crashing", () => {
   const emptyDir = mkdtempSync(path.join(tmpdir(), "no-editions-"));
   const outDir = mkdtempSync(path.join(tmpdir(), "empty-dist-"));
