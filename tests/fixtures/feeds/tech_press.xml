@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Tech Press Daily</title>
+    <link>https://techpress.example.com</link>
+    <description>Fixture trade-press feed</description>
+    <item>
+      <title>OpenAI launches GPT-6 with real-time reasoning</title>
+      <link>https://techpress.example.com/2026/08/24/openai-gpt-6-launch?utm_source=rss&amp;utm_medium=feed</link>
+      <pubDate>Mon, 24 Aug 2026 04:30:00 GMT</pubDate>
+      <description>OpenAI today announced GPT-6, its next flagship model, with what it calls real-time reasoning for agent workloads.</description>
+    </item>
+    <item>
+      <title>EU parliament approves final AI liability rules</title>
+      <link>https://techpress.example.com/2026/08/24/eu-ai-liability-rules</link>
+      <pubDate>Mon, 24 Aug 2026 02:10:00 GMT</pubDate>
+      <description>Lawmakers approved liability rules covering high-risk AI deployments, ending a two-year negotiation.</description>
+    </item>
+    <item>
+      <title>The 10 best AI tools to try this weekend</title>
+      <link>https://techpress.example.com/2026/08/23/best-ai-tools-weekend</link>
+      <pubDate>Sun, 23 Aug 2026 20:00:00 GMT</pubDate>
+      <description>A roundup of our favorite AI tools, from note takers to image editors.</description>
+    </item>
+  </channel>
+</rss>

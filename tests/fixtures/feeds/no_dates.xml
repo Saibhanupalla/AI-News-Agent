@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>No Dates Feed</title>
+    <link>https://nodates.example.com</link>
+    <description>Fixture feed with missing pubDates</description>
+    <item>
+      <title>Story without a publication date</title>
+      <link>https://nodates.example.com/undated-story</link>
+      <description>This entry has no pubDate element at all.</description>
+    </item>
+  </channel>
+</rss>

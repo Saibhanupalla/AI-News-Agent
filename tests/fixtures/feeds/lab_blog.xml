@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Frontier Lab Blog</title>
+  <link href="https://lab.example.com/blog"/>
+  <updated>2026-08-24T05:00:00Z</updated>
+  <entry>
+    <title>Introducing GPT-6</title>
+    <link href="https://lab.example.com/blog/introducing-gpt-6"/>
+    <id>tag:lab.example.com,2026:gpt-6</id>
+    <updated>2026-08-24T04:00:00Z</updated>
+    <summary>We are releasing GPT-6, our most capable model, available in the API starting today.</summary>
+  </entry>
+  <entry>
+    <title>Scaling sparse attention to 100M context</title>
+    <link href="https://lab.example.com/blog/sparse-attention-100m"/>
+    <id>tag:lab.example.com,2026:sparse-attention</id>
+    <updated>2026-08-23T18:00:00Z</updated>
+    <summary>A research note on sparse attention kernels that extend usable context windows.</summary>
+  </entry>
+</feed>

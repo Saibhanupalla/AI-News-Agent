@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Aggregator Wire</title>
+    <link>https://wire.example.com</link>
+    <description>Fixture aggregator feed that duplicates coverage</description>
+    <item>
+      <title>OpenAI unveils GPT-6, promises real-time reasoning</title>
+      <link>https://wire.example.com/story/openai-gpt6-unveiled?fbclid=abc123</link>
+      <pubDate>Mon, 24 Aug 2026 05:15:00 GMT</pubDate>
+      <description>The startup unveiled GPT-6 on Monday, touting real-time reasoning capabilities.</description>
+    </item>
+    <item>
+      <title>Chipmaker Cerebra raises $400M for wafer-scale inference</title>
+      <link>https://wire.example.com/story/cerebra-400m-round</link>
+      <pubDate>Mon, 24 Aug 2026 03:45:00 GMT</pubDate>
+      <description>Cerebra closed a $400M round to scale its wafer-scale inference chips.</description>
+    </item>
+    <item>
+      <title>Untitled item with no link</title>
+      <pubDate>Mon, 24 Aug 2026 01:00:00 GMT</pubDate>
+      <description>This entry is missing a link and must be skipped.</description>
+    </item>
+    <item>
+      <title>Old story from last week</title>
+      <link>https://wire.example.com/story/old-news</link>
+      <pubDate>Mon, 17 Aug 2026 09:00:00 GMT</pubDate>
+      <description>A week-old story that the recency filter should drop.</description>
+    </item>
+  </channel>
+</rss>
