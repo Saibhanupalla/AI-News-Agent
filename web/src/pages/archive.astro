@@ -1,0 +1,29 @@
+---
+import Base from "../layouts/Base.astro";
+import Header from "../components/Header.astro";
+import { formatDate, listEditionDates } from "../lib/editions";
+
+const dates = listEditionDates();
+---
+
+<Base title="Archive — AI News Briefing">
+  <Header />
+  <main class="mt-6">
+    <h1 class="text-2xl font-bold text-stone-900">Archive</h1>
+    {dates.length > 0 ? (
+      <ul class="mt-4 space-y-2">
+        {dates.map((date) => (
+          <li>
+            <a
+              href={`/edition/${date}/`}
+              class="text-stone-700 underline decoration-stone-300 underline-offset-2 hover:text-stone-900"
+              >{formatDate(date)}</a
+            >
+          </li>
+        ))}
+      </ul>
+    ) : (
+      <p class="mt-4 text-stone-600">No editions published yet.</p>
+    )}
+  </main>
+</Base>

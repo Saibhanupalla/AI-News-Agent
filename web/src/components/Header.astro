@@ -1,0 +1,22 @@
+---
+interface Props {
+  showSettings?: boolean;
+}
+
+const { showSettings = false } = Astro.props;
+---
+
+<header class="flex items-baseline justify-between border-b border-stone-200 pb-4">
+  <a href="/" class="text-lg font-bold tracking-tight text-stone-900">AI News Briefing</a>
+  <nav class="flex items-center gap-4 text-sm text-stone-600">
+    <a href="/archive" class="hover:text-stone-900">Archive</a>
+    {showSettings && (
+      <button
+        id="topic-settings-button"
+        type="button"
+        class="rounded border border-stone-300 px-2 py-1 hover:bg-stone-100"
+        >Topics</button
+      >
+    )}
+  </nav>
+</header>

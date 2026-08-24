@@ -1,0 +1,20 @@
+---
+import Base from "../../layouts/Base.astro";
+import Header from "../../components/Header.astro";
+import EditionView from "../../components/EditionView.astro";
+import { listEditionDates, loadEdition } from "../../lib/editions";
+
+export function getStaticPaths() {
+  return listEditionDates().map((date) => ({ params: { date } }));
+}
+
+const { date } = Astro.params;
+const edition = loadEdition(date!);
+---
+
+<Base title={`${edition.date} — AI News Briefing`}>
+  <Header />
+  <main class="mt-6">
+    <EditionView edition={edition} />
+  </main>
+</Base>

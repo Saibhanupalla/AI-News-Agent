@@ -1,0 +1,48 @@
+---
+import type { EditionItem } from "../lib/editions";
+
+interface Props {
+  item: EditionItem;
+  emphasis?: boolean;
+}
+
+const { item, emphasis = false } = Astro.props;
+---
+
+<article
+  class:list={[
+    "rounded-lg border border-stone-200 bg-white p-4",
+    emphasis && "border-amber-300 bg-amber-50",
+  ]}
+  data-story-id={item.cluster_id}
+>
+  <h3 class="font-semibold leading-snug text-stone-900">
+    {item.story_type === "update" && (
+      <span
+        class="mr-1.5 inline-block rounded bg-sky-100 px-1.5 py-0.5 align-middle text-xs font-medium uppercase tracking-wide text-sky-700"
+        >Update</span
+      >
+    )}
+    {item.title}
+  </h3>
+  <p class="mt-1.5 text-sm leading-relaxed text-stone-700">
+    {item.story_type === "update" && item.update_delta ? item.update_delta : item.summary}
+  </p>
+  {item.why_it_matters && (
+    <p class="mt-1.5 text-sm italic text-stone-500">{item.why_it_matters}</p>
+  )}
+  <p class="mt-2 text-xs text-stone-500">
+    {item.sources.map((source, index) => (
+      <>
+        {index > 0 && <span aria-hidden="true"> · </span>}
+        <a
+          href={source.url}
+          target="_blank"
+          rel="noopener noreferrer"
+          class="underline decoration-stone-300 underline-offset-2 hover:text-stone-800"
+          >{source.name}</a
+        >
+      </>
+    ))}
+  </p>
+</article>

@@ -44,3 +44,10 @@ jobs:
 
       - name: Build
         run: npm run build
+        env:
+          ASTRO_TELEMETRY_DISABLED: "1"
+
+      - name: Test build output
+        run: npm test
+        env:
+          ASTRO_TELEMETRY_DISABLED: "1"
