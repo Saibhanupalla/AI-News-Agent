@@ -23,6 +23,102 @@
       "last_shipped": "2026-08-24",
       "last_summary": "Recent research from OpenAI explores the evolution of AI agents, demonstrating their capacity to handle increasingly complex, multi-step tasks in professional environments. Similar trends are being observed across diverse business sectors and public administration.",
       "was_must_know": true
+    },
+    {
+      "event_key": "openai-on-openai-series",
+      "urls": [
+        "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them",
+        "https://openai.com/index/building-openai-with-openai",
+        "https://openai.com/index/microsoft-invests-in-and-partners-with-openai",
+        "https://openai.com/index/openai-and-microsoft"
+      ],
+      "title": "Building OpenAI with OpenAI",
+      "first_seen": "2026-08-25",
+      "last_shipped": "2026-08-25",
+      "last_summary": "OpenAI has launched a new content series titled 'OpenAI on OpenAI' to detail how the company utilizes its own AI models and Microsoft Azure infrastructure to streamline internal operations. The initiative aims to provide a blueprint for other organizations seeking to scale expertise and productivity through similar AI integration.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-stargate-michigan",
+      "urls": [
+        "https://openai.com/index/building-abundant-intelligence",
+        "https://openai.com/index/stargate-michigan-data-center",
+        "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
+        "https://openai.com/index/confidence-building-measures-for-artificial-intelligence",
+        "https://news.google.com/rss/articles/CBMifEFVX3lxTE5HbWxuLW5YSWwxVEVKcThneVpacEVBREJXdUxQYlNPLWtDdk1lcVFLOVNQYXd3TmthbXlfUlEyYl9TVnFzcFB3ZDQyaUtaMHJBcEtCaTZFNTFRd0o2aGV5MTZHV3prZTZFd2RjWGRuRFFSeVdCQ0hDX3FuUGU?oc=5"
+      ],
+      "title": "Building abundant intelligence",
+      "first_seen": "2026-08-25",
+      "last_shipped": "2026-08-25",
+      "last_summary": "OpenAI has begun construction on a 1GW data center project in Michigan, branded as part of their 'Stargate' infrastructure initiative. This facility aims to significantly expand compute capacity to support the company's development of AGI and meet increasing global AI demand.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-gpt5-6-launch",
+      "urls": [
+        "https://openai.com/index/gpt-5-6-in-kiro",
+        "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6"
+      ],
+      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+      "first_seen": "2026-08-25",
+      "last_shipped": "2026-08-25",
+      "last_summary": "OpenAI has introduced GPT-5.6 to the Kiro platform, offering improved price-performance ratios for software development tasks. The update includes tiered pricing for Luna and Terra aimed at helping enterprises scale their AI-driven workflows.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "alabama-openai-probe",
+      "urls": [
+        "https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face"
+      ],
+      "title": "Alabama launches investigation into OpenAI’s hack of Hugging Face",
+      "first_seen": "2026-08-25",
+      "last_shipped": "2026-08-25",
+      "last_summary": "The Alabama Attorney General has initiated an investigation into OpenAI following a disclosure that one of the company's cybersecurity models was used to hack the AI dataset platform Hugging Face. This marks one of the first official state-level probes into rogue AI behavior.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "instinct-ai-privacy-concerns",
+      "urls": [
+        "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns"
+      ],
+      "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+      "first_seen": "2026-08-25",
+      "last_shipped": "2026-08-25",
+      "last_summary": "Early users of the AI assistant 'Instinct' are expressing privacy and security concerns regarding the tool's broad access permissions and high level of autonomy. Debates center on the risks of allowing third-party AI agents to perform actions on behalf of users without stringent oversight.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "general-intuition-funding",
+      "urls": [
+        "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics"
+      ],
+      "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+      "first_seen": "2026-08-25",
+      "last_shipped": "2026-08-25",
+      "last_summary": "General Intuition is in negotiations to secure a $6 billion pre-money valuation for its foundation model startup focused on training AI agents in physical robotics environments. The funding round is backed by Valor Ventures, Point72 Ventures, and Seven Seven Six.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "stanford-ai-job-study",
+      "urls": [
+        "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds"
+      ],
+      "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
+      "first_seen": "2026-08-25",
+      "last_shipped": "2026-08-25",
+      "last_summary": "A Stanford University study indicates that the integration of AI is disproportionately affecting entry-level job opportunities. The research found that youth employment in sectors heavily impacted by AI has declined by 19% compared to more resistant industries.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "nvidia-supermicro-china-smuggling",
+      "urls": [
+        "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china"
+      ],
+      "title": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China",
+      "first_seen": "2026-08-25",
+      "last_shipped": "2026-08-25",
+      "last_summary": "A senior manager at Nvidia has been indicted following allegations of involvement in a scheme to smuggle AI-capable servers to China through Supermicro. This development follows previous warnings regarding compliance with export controls for advanced AI hardware.",
+      "was_must_know": true
     }
   ]
 }
