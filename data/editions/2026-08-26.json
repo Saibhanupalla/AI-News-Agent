@@ -1,0 +1,407 @@
+{
+  "date": "2026-08-26",
+  "intro": "Today's developments highlight major hardware and efficiency breakthroughs in AI infrastructure. We are also seeing significant updates to enterprise tool integration and shifts in organizational leadership. New research continues to explore the complex relationship between human cognition and machine learning tools.",
+  "must_know": [
+    {
+      "cluster_id": "1902952369d2ce2a",
+      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "summary": "OpenAI announced 'Jalapeño,' a custom inference chip designed to improve speed and power efficiency for modern AI models. Additionally, analysis shows that training compute requirements for neural networks have halved every 16 months since 2012.",
+      "why_it_matters": "Custom silicon represents a strategic move for AI companies to lower latency and infrastructure costs.",
+      "topic_ids": [
+        "hardware",
+        "research"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/jalapeno-first-results"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/ai-and-efficiency"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/tiiuae/falcon-h1"
+        }
+      ]
+    },
+    {
+      "cluster_id": "a2112436e7f3ff10",
+      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+      "summary": "OpenAI introduced an Admin plugin for ChatGPT Work to manage workspace usage and permissions. The update also includes new releases like the Codex app for macOS and specialized health-focused AI experiences.",
+      "why_it_matters": "Expanded enterprise tools and specialized applications broaden the utility of generative AI in professional and healthcare environments.",
+      "topic_ids": [
+        "tools",
+        "foundation-models"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-admin-plugin"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-gpt-5-3-codex"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-the-codex-app"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-chatgpt-health"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-gpt-5-2-codex"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-gpt-5-2"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/chatgpt-shopping-research"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/gpt-5-1-for-developers"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/group-chats-in-chatgpt"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-gpt-oss-safeguard"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-chatgpt-atlas"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-apps-in-chatgpt"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-chatgpt-pulse"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-upgrades-to-codex"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-gpt-realtime"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-gpt-5-for-developers"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-gpt-5"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-gpt-oss"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/chatgpt-study-mode"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-chatgpt-agent"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/gpt-4-1"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-our-next-generation-audio-models"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-deep-research"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-chatgpt-pro"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-chatgpt-search"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-canvas"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-the-realtime-api"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-vision-to-the-fine-tuning-api"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/mercado-libre"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-structured-outputs-in-the-api"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-chatgpt-and-whisper-apis"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-improvements-to-the-fine-tuning-api-and-expanding-our-custom-models-program"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-the-gpt-store"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-chatgpt-team"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-chatgpt-enterprise"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-the-chatgpt-app-for-ios"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/chatgpt-plus"
+        },
+        {
+          "name": "Google DeepMind Blog",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber"
+        },
+        {
+          "name": "Google DeepMind Blog",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber"
+        },
+        {
+          "name": "Google DeepMind Blog",
+          "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash"
+        },
+        {
+          "name": "Google DeepMind Blog",
+          "url": "https://deepmind.google/blog/introducing-gemini-omni"
+        },
+        {
+          "name": "Google DeepMind Blog",
+          "url": "https://deepmind.google/blog/introducing-google-antigravity-2-0"
+        },
+        {
+          "name": "Google DeepMind Blog",
+          "url": "https://deepmind.google/blog/introducing-google-antigravity"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/openenv"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/agents"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/leaderboard-patronus"
+        }
+      ]
+    },
+    {
+      "cluster_id": "c5401387773bd6a8",
+      "title": "Claude Cowork finally remembers what you told the app in chat",
+      "summary": "Anthropic updated Claude Cowork to include shared memory across chat sessions, allowing the AI to retain context regarding user projects and preferences.",
+      "why_it_matters": "Long-term memory features are essential for improving the utility of AI agents in multi-step professional tasks.",
+      "topic_ids": [
+        "tools"
+      ],
+      "story_type": "update",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat"
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "tools": [
+      {
+        "cluster_id": "653f160d42c7b44d",
+        "title": "Teaching with AI",
+        "summary": "OpenAI released a guide for educators on using ChatGPT in classrooms, including resources on model limitations and AI detection. Related research explores efficient 4D reconstruction and differences between AI and human visual processing.",
+        "why_it_matters": "Provides practical resources for the integration of AI into educational curricula as adoption grows.",
+        "topic_ids": [
+          "research",
+          "tools"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/teaching-with-ai"
+          },
+          {
+            "name": "Google DeepMind Blog",
+            "url": "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions"
+          },
+          {
+            "name": "Google DeepMind Blog",
+            "url": "https://deepmind.google/blog/teaching-ai-to-see-the-world-more-like-we-do"
+          },
+          {
+            "name": "Google News: AI",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOG1xVmEwNTZUc1k3ZXpZbkhWU09vZzFFVlYzejd5WWJUQU40NFVLTW9PTk1PZW5ydEVpb2c1Uk5seTdYSE1pRVdWUTRBT0Z2VVNPdnp4Q2hoOEFZalJNYS1SY3lKWm4ySXEtNWJWdTNOaWtXOFhEelpSZVNGOThEdGRiZi1xVlNxdGxwMlpHbWRJWUV4Skg0SklnNFpDRTE1Tjd6bHM3YjBTVGtpV1hUYXBFZHhGUQ?oc=5"
+          }
+        ]
+      }
+    ],
+    "research": [
+      {
+        "cluster_id": "590862ea313ca292",
+        "title": "Your brain on AI",
+        "summary": "A study from the MIT Media Lab indicates that reliance on AI chatbots for news consumption may negatively impact user accuracy in identifying credible information.",
+        "why_it_matters": "Highlights potential cognitive risks associated with using AI as a primary news interface.",
+        "topic_ids": [
+          "research"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/08/25/1140958/your-brain-on-ai"
+          }
+        ]
+      },
+      {
+        "cluster_id": "f1c76f23a788b688",
+        "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+        "summary": "A new method called Quantization-Aware Healing creates compressed 4-bit models that demonstrate performance gains over their full-precision counterparts.",
+        "why_it_matters": "Advancing model compression techniques is critical for deploying high-performance AI on hardware with limited resources.",
+        "topic_ids": [
+          "research",
+          "open-source"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "Hugging Face Blog",
+            "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing"
+          }
+        ]
+      }
+    ],
+    "foundation-models": [
+      {
+        "cluster_id": "332557c4e027e71d",
+        "title": "Preserving languages for the future",
+        "summary": "OpenAI is exploring applications for GPT-4 to assist in the preservation and documentation of Icelandic language and cultural materials.",
+        "why_it_matters": "Demonstrates the utility of large language models in digitizing and protecting at-risk cultural heritage.",
+        "topic_ids": [
+          "foundation-models"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "Ars Technica",
+            "url": "https://arstechnica.com/science/2026/08/how-chemistry-can-keep-glow-in-the-dark-pigments-from-fading"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/government-of-iceland"
+          }
+        ]
+      }
+    ],
+    "big-tech": [
+      {
+        "cluster_id": "62003111f3b592c5",
+        "title": "Disrupting a new covert influence campaign from Russia",
+        "summary": "OpenAI has banned accounts originating from Russia that were engaged in a covert influence campaign using AI to spread geopolitical narratives.",
+        "why_it_matters": "Highlights the ongoing challenge of mitigating AI-driven disinformation and the role of tech companies in platform security.",
+        "topic_ids": [
+          "policy",
+          "big-tech"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia"
+          }
+        ]
+      }
+    ],
+    "startups-funding": [
+      {
+        "cluster_id": "a38b81289bbf6e18",
+        "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+        "summary": "The robotics startup Generalist has reportedly secured a $200 million extension, bringing its valuation to $3 billion.",
+        "why_it_matters": "Reflects continued high investor confidence in the 'physical AI' and robotics sector.",
+        "topic_ids": [
+          "startups-funding"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say"
+          }
+        ]
+      }
+    ]
+  },
+  "continuing": [
+    {
+      "cluster_id": "887097f45ca5709d",
+      "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+      "summary": "OpenAI has seen the departure of a high-level data center executive, following a recent reorganization of its infrastructure group.",
+      "why_it_matters": "Personnel turnover within critical infrastructure teams can signal internal shifts as the company scales operations.",
+      "topic_ids": [
+        "big-tech"
+      ],
+      "story_type": "update",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues"
+        }
+      ]
+    }
+  ]
+}
