@@ -1,0 +1,131 @@
+{
+  "date": "2026-08-28",
+  "intro": "Today's briefing highlights a major court ruling regarding AI blacklisting and new updates from Google and Meta. These developments reflect the ongoing tension between rapid AI innovation and regulatory scrutiny.",
+  "must_know": [
+    {
+      "cluster_id": "06a4d38d1bd65b9b",
+      "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
+      "summary": "A judge has ruled that the Trump administration's blacklisting of Anthropic was unconstitutional, resolving a lawsuit regarding alleged retaliation over AI red-teaming.",
+      "why_it_matters": "This ruling establishes a significant precedent for AI companies challenging government restrictions on their operations.",
+      "topic_ids": [
+        "policy",
+        "big-tech"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling"
+        }
+      ]
+    },
+    {
+      "cluster_id": "3609705edb24692b",
+      "title": "Gemini Omni 1.1 Flash lets you build with more control",
+      "summary": "Google has released Gemini Omni 1.1 Flash, providing developers with improved control and new tools for building applications.",
+      "why_it_matters": "Enhanced developer control often leads to more stable and specialized applications built on Google's foundation models.",
+      "topic_ids": [
+        "foundation-models",
+        "tools"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "Google DeepMind Blog",
+          "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control"
+        },
+        {
+          "name": "Hacker News Front Page",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash"
+        }
+      ]
+    },
+    {
+      "cluster_id": "c2f6f531a81db199",
+      "title": "Meta addresses ‘pervert glasses’ reputation with a privacy fix and a new marketing campaign",
+      "summary": "Meta is updating its smart glasses to prevent recording when the front-facing LED indicator light is physically covered.",
+      "why_it_matters": "This update directly addresses long-standing privacy concerns regarding the covert surveillance potential of wearable AI hardware.",
+      "topic_ids": [
+        "hardware",
+        "big-tech",
+        "policy"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/985851/meta-privacy-loophole-fix-marketing-campaign"
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "policy": [
+      {
+        "cluster_id": "979a8de0738849c0",
+        "title": "Buried in Meta’s $18B settlement is a legal pass on kids’ data",
+        "summary": "Meta's recent $18 billion settlement includes provisions allowing the company to retain data from children under 13 to improve age-detection models.",
+        "why_it_matters": "The deal highlights a complex trade-off between privacy regulations and the data requirements needed to build safety systems for minors.",
+        "topic_ids": [
+          "policy",
+          "big-tech"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/08/27/buried-in-metas-18b-settlement-is-a-legal-pass-on-kids-data"
+          }
+        ]
+      }
+    ],
+    "foundation-models": [
+      {
+        "cluster_id": "efdd486f2792fbc9",
+        "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
+        "summary": "Google introduced Gemini 3.5 Transcribe, an AI-powered speech-to-text model, for integration into Chrome and other Google products.",
+        "why_it_matters": "This represents a wider expansion of Google's proprietary AI transcription tech beyond mobile into web browsing environments.",
+        "topic_ids": [
+          "foundation-models",
+          "tools"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "Ars Technica",
+            "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text"
+          },
+          {
+            "name": "Hacker News Front Page",
+            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe"
+          }
+        ]
+      }
+    ],
+    "tools": [
+      {
+        "cluster_id": "e056252ba19a5071",
+        "title": "Google’s AI note-taking app now allows you to interact with books",
+        "summary": "Google's Gemini Notebook app now allows users to ingest books purchased from Google Play to generate summaries, podcasts, and infographics.",
+        "why_it_matters": "Google is integrating its AI tools more deeply into its ecosystem of purchased digital content.",
+        "topic_ids": [
+          "tools"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books"
+          }
+        ]
+      }
+    ]
+  },
+  "continuing": []
+}
