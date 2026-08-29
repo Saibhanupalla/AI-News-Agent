@@ -442,6 +442,72 @@
       "last_shipped": "2026-08-28",
       "last_summary": "Meta's recent $18 billion settlement includes provisions allowing the company to retain data from children under 13 to improve age-detection models.",
       "was_must_know": false
+    },
+    {
+      "event_key": "google-search-ai-ui-change",
+      "urls": [
+        "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand"
+      ],
+      "title": "Google further buries search results under AI mode",
+      "first_seen": "2026-08-29",
+      "last_shipped": "2026-08-29",
+      "last_summary": "Google has begun automatically expanding AI search summaries for certain queries, pushing organic search results further down the page. This change increases the prominence of AI-generated content over traditional web links.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "dlss-5-mod-leak",
+      "urls": [
+        "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai"
+      ],
+      "title": "DLSS 5 leaked and modders are putting Nvidia&#8217;s AI effects on everything",
+      "first_seen": "2026-08-29",
+      "last_shipped": "2026-08-29",
+      "last_summary": "Modders have extracted code from an early-access build of NBA 2K27, creating an unofficial version of Nvidia's DLSS 5. This allows users to apply the company's AI upscaling effects to various other games.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "lambda-1b-debt-funding",
+      "urls": [
+        "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips"
+      ],
+      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+      "first_seen": "2026-08-29",
+      "last_shipped": "2026-08-29",
+      "last_summary": "Cloud provider Lambda has secured $1 billion in private debt to purchase Nvidia AI chips. The hardware will be leased primarily to Microsoft to support AI infrastructure demand.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "anthropic-self-improving-ai",
+      "urls": [
+        "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai"
+      ],
+      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+      "first_seen": "2026-08-29",
+      "last_shipped": "2026-08-29",
+      "last_summary": "An Anthropic researcher demonstrated an automated system that successfully improved performance across 10 benchmarks for misaligned AI behaviors. The model achieved these improvements without degrading its primary capabilities.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "anthropic-pentagon-lawsuit",
+      "urls": [
+        "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label"
+      ],
+      "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+      "first_seen": "2026-08-29",
+      "last_shipped": "2026-08-29",
+      "last_summary": "A federal judge ruled that the previous administration's labeling of Anthropic as a supply-chain risk was illegal. This marks a legal victory for the AI company in its ongoing disputes with government agencies.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "anthropic-hardware-interface",
+      "urls": [
+        "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world"
+      ],
+      "title": "Anthropic's new hardware standard lets AI agents control the physical world",
+      "first_seen": "2026-08-29",
+      "last_shipped": "2026-08-29",
+      "last_summary": "Anthropic has introduced a standardized driver interface that allows AI agents to interact directly with hardware devices. The goal is to enable interoperability between AI software and the physical world.",
+      "was_must_know": true
     }
   ]
 }

@@ -1,0 +1,122 @@
+{
+  "date": "2026-08-29",
+  "intro": "Today's headlines highlight significant advancements in AI agent capabilities alongside critical shifts in search infrastructure. Companies like Anthropic continue to lead with breakthroughs in self-improvement and hardware integration, while major industry players navigate legal and operational challenges.",
+  "must_know": [
+    {
+      "cluster_id": "d0e5614bdcb44a1f",
+      "title": "Google further buries search results under AI mode",
+      "summary": "Google has begun automatically expanding AI search summaries for certain queries, pushing organic search results further down the page. This change increases the prominence of AI-generated content over traditional web links.",
+      "why_it_matters": "This shift continues to impact web traffic patterns for publishers and alters the fundamental user experience of search.",
+      "topic_ids": [
+        "big-tech",
+        "tools"
+      ],
+      "story_type": "update",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand"
+        }
+      ]
+    },
+    {
+      "cluster_id": "14adab6546acabca",
+      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+      "summary": "An Anthropic researcher demonstrated an automated system that successfully improved performance across 10 benchmarks for misaligned AI behaviors. The model achieved these improvements without degrading its primary capabilities.",
+      "why_it_matters": "Self-improving safety mechanisms could be a significant step toward developing more reliable, controllable AI systems.",
+      "topic_ids": [
+        "research",
+        "foundation-models"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai"
+        }
+      ]
+    },
+    {
+      "cluster_id": "5956c380babd629b",
+      "title": "Anthropic's new hardware standard lets AI agents control the physical world",
+      "summary": "Anthropic has introduced a standardized driver interface that allows AI agents to interact directly with hardware devices. The goal is to enable interoperability between AI software and the physical world.",
+      "why_it_matters": "Standardizing how AI controls hardware is a necessary step for the development of autonomous agents that interact with physical objects.",
+      "topic_ids": [
+        "foundation-models",
+        "tools"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world"
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "big-tech": [
+      {
+        "cluster_id": "1bdef960944d20b7",
+        "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+        "summary": "Cloud provider Lambda has secured $1 billion in private debt to purchase Nvidia AI chips. The hardware will be leased primarily to Microsoft to support AI infrastructure demand.",
+        "why_it_matters": "High capital expenditures for hardware remain a critical bottleneck and cost driver in the AI industry.",
+        "topic_ids": [
+          "startups-funding",
+          "hardware",
+          "big-tech"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips"
+          }
+        ]
+      },
+      {
+        "cluster_id": "0c24a3ca3dcbcabd",
+        "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+        "summary": "A federal judge ruled that the previous administration's labeling of Anthropic as a supply-chain risk was illegal. This marks a legal victory for the AI company in its ongoing disputes with government agencies.",
+        "why_it_matters": "Legal scrutiny of AI supply chains is evolving, with significant implications for how agencies regulate AI companies.",
+        "topic_ids": [
+          "policy",
+          "big-tech"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label"
+          }
+        ]
+      }
+    ],
+    "tools": [
+      {
+        "cluster_id": "3604ac0866f32847",
+        "title": "DLSS 5 leaked and modders are putting Nvidia&#8217;s AI effects on everything",
+        "summary": "Modders have extracted code from an early-access build of NBA 2K27, creating an unofficial version of Nvidia's DLSS 5. This allows users to apply the company's AI upscaling effects to various other games.",
+        "why_it_matters": "Demonstrates the community's drive to port proprietary AI graphics tech to titles that do not officially support them.",
+        "topic_ids": [
+          "research",
+          "tools"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai"
+          }
+        ]
+      }
+    ]
+  },
+  "continuing": []
+}
