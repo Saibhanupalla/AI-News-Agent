@@ -1,0 +1,87 @@
+{
+  "date": "2026-08-30",
+  "intro": "Today's tech landscape is defined by escalating legal battles over copyright and the evolving strategic focus of major AI hardware and infrastructure. Companies are balancing these external pressures with aggressive moves in the acquisition market to secure top-tier AI talent and technology.",
+  "must_know": [
+    {
+      "cluster_id": "f593ff968abe8d62",
+      "title": "Sony Music and Warner Chappell are suing Anthropic",
+      "summary": "Sony Music and Warner Chappell have sued Anthropic in federal court, alleging that the company utilized tens of thousands of copyrighted works to train its AI models.",
+      "why_it_matters": "Major record labels are escalating legal challenges against AI companies, testing the boundaries of copyright infringement in model training.",
+      "topic_ids": [
+        "foundation-models",
+        "policy"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright"
+        }
+      ]
+    },
+    {
+      "cluster_id": "ec3126d6bd370413",
+      "title": "Nvidia’s AI advantage is moving beyond the GPU",
+      "summary": "Nvidia is evolving its data center strategy by focusing on smarter traffic control and system-level efficiency rather than relying solely on pure GPU processing power.",
+      "why_it_matters": "This marks a shift in how the industry optimizes large-scale AI infrastructure for better throughput and performance.",
+      "topic_ids": [
+        "hardware",
+        "research"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu"
+        }
+      ]
+    },
+    {
+      "cluster_id": "62d02422bb713ffe",
+      "title": "OpenAI and journalism",
+      "summary": "OpenAI published a statement reiterating its commitment to supporting journalism and partnering with news organizations while describing the ongoing lawsuit with The New York Times as meritless.",
+      "why_it_matters": "It underscores the ongoing legal tension between generative AI developers and traditional media entities regarding copyright and content usage.",
+      "topic_ids": [
+        "big-tech",
+        "policy"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/openai-and-journalism"
+        },
+        {
+          "name": "Google News: AI",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSnhoTkFzY1VmZE9yZks4aS1ISzRrX09mT2dEdDVoNmN6QkhDckJaQUFreGhuVHU3YTF0VXFoYjNOZTBFMG5HUXhIcm9CNXFNSWNsOVZGVFZqV2dtWFJJYS1SUzZKQmpaSnN5RzB6NjNfaE15eGxlZTJHZWlRalQyUVViWEJhQ1FYU3dmVVVjNVEwbk1PMGxUb1RVcDZ1X0hmc1V2QnE3LVlGXzBQcFg5bmEtX1V6WnV5UDhqUTZaYTVlbF9RQUFaN0lmZnM3M3gwXzV6QVdSOFBoclRYc0w0cGd4cEJna1U?oc=5"
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "open-source": [
+      {
+        "cluster_id": "7bbb293c57c5ff6b",
+        "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
+        "summary": "Companies developing open-weight AI models are becoming primary acquisition targets for tech giants looking to integrate advanced technology into their ecosystems.",
+        "why_it_matters": "The acquisition trend highlights the strategic value of open-weight models in the competitive AI market.",
+        "topic_ids": [
+          "open-source",
+          "startups-funding"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets"
+          }
+        ]
+      }
+    ]
+  },
+  "continuing": []
+}
