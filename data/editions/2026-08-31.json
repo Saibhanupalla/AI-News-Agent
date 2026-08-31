@@ -1,0 +1,191 @@
+{
+  "date": "2026-08-31",
+  "intro": "Today's tech landscape is defined by major advancements in enterprise AI infrastructure and strategic corporate automation. From OpenAI's latest product ecosystem to Meta's data center robotics, companies are aggressively integrating AI into core operations. Meanwhile, public policy regarding surveillance and security continues to evolve alongside these technological shifts.",
+  "must_know": [
+    {
+      "cluster_id": "c942d304a9316204",
+      "title": "Introducing OpenAI Presence",
+      "summary": "OpenAI has announced several new initiatives, including the enterprise AI agent platform 'Presence', a $150 million partner investment network, and an economic research exchange. Additionally, the company launched a multi-year partnership with Singapore to boost local AI adoption and talent development.",
+      "why_it_matters": "OpenAI is aggressively expanding its enterprise capabilities and international footprint to capture wider market share.",
+      "topic_ids": [
+        "big-tech",
+        "foundation-models"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-openai-presence"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-openai-partner-network"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-the-openai-economic-research-exchange"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-openai-for-singapore"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-openai-privacy-filter"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/safety-bug-bounty"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/openai-for-india"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-openai-frontier"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/openai-academy-for-news-organizations"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/global-affairs/openai-for-australia"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/openai-for-ireland"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-aardvark"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/global-affairs/introducing-openai-for-government"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/global-affairs/openai-for-countries"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-o3-and-o4-mini"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/openai-o3-mini"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-openai-o1-preview"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/openai-o1-mini-advancing-cost-efficient-reasoning"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-openai-for-nonprofits"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-openai-japan"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-openai-dublin"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-openai-london"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/bug-bounty-program"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/economic-impacts"
+        },
+        {
+          "name": "Google News: AI",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObF91RUp0RnkzRVZzUW0xSGlLRDZKUzRiSlcyVUZ5NTdsY3dWZE43YndTelZscHp5SEl0elZKTmkxQkxIYkJJai14d2ZwVlZuQWF4MGNrdnZCeUUzbGJjYzBVVEtYalZpbDgxOFhCbEIteFB5dGlfOExERko2WEJBNjNtNlg4bWdEdV9ldzUzajJiR0JEZ2E5eXcyRzVlRFB0Rm9MN2thS2YxQ1JvYm1ZN0tFQTgtX1lhZEg0U0JvcGRibWR6VUsxUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "cluster_id": "49adf2046003b266",
+      "title": "Inside Meta’s push to put robots to work in data centers",
+      "summary": "Meta is currently testing the use of robotics to perform routine technician tasks within its data centers. The initiative aims to automate maintenance and physical management of server environments.",
+      "why_it_matters": "Automation in data center maintenance could significantly improve operational efficiency as AI infrastructure scales rapidly.",
+      "topic_ids": [
+        "big-tech",
+        "hardware"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers"
+        }
+      ]
+    },
+    {
+      "cluster_id": "56ab7bb503c79149",
+      "title": "Biodefense in the Intelligence Age",
+      "summary": "OpenAI has published a five-part action plan focused on strengthening cybersecurity through AI-powered defense mechanisms. The strategy aims to democratize AI security tools while protecting critical infrastructure.",
+      "why_it_matters": "As cyber threats evolve, prioritizing AI-driven defense mechanisms is becoming a strategic imperative for technological resilience.",
+      "topic_ids": [
+        "research",
+        "policy"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/biodefense-in-the-intelligence-age"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/cybersecurity-in-the-intelligence-age"
+        },
+        {
+          "name": "Google News: AI",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWW13N3VDNS0wQ1hNREVkcjUxREtlZ21qNTUyTk83M3U2SkMwa3FVMGNxNUc0VUNKaXdGZTdIQWUxc2d4UjVIdlNLelFnQlAxSDVXb0ZhWm50Snl0UmI5Yk40QXhPS0x1SnZqQlRrMU5paWxCZnBwOV9fMTVtLUlkNXVNd3ltdkFHQUhVYTdlT3JWRE1qNnkzWk1yOWNvczlPdlc1NzBfRkI0cC1udXh1dzdlbnNkSGZPNUxsNDZYNklROUVUZ000ZXEwd0pGQXZ0VTZMTmV2LTdMY2ZKcGpKdmI2cXE?oc=5"
+        },
+        {
+          "name": "Google News: AI",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZlRLRnRTaDNhbG92SUZUeTI0OWNzdGQ0YXZnUG5LRV9VaU5fZVBMaXFBTHQ4RWRGRi1DZjZaQ0RWV2UtVDBrWkxDR1dkaXhYdUZqYzlWbVFGZjhyQU50QjZVTUpWcGdTWlNIX1JpQmZ3bVBCdy0tUHpsN2hmMmpyNzhGb1dzN1VVUkNkLVhIOEtvbE0?oc=5"
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "policy": [
+      {
+        "cluster_id": "6bfed2ab471f8cf4",
+        "title": "Texas Governor Abbott blocks funding for more Flock cameras",
+        "summary": "Texas Governor Greg Abbott has halted state spending on Flock AI surveillance cameras following public backlash and an investigative report on the state's $30 million expenditure.",
+        "why_it_matters": "This highlights the growing political friction regarding the deployment of AI-powered surveillance systems in public law enforcement.",
+        "topic_ids": [
+          "policy",
+          "tools"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras"
+          }
+        ]
+      }
+    ]
+  },
+  "continuing": []
+}

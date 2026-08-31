@@ -1,30 +1,6 @@
 {
   "entries": [
     {
-      "event_key": "frontier-model-forum-formation",
-      "urls": [
-        "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model",
-        "https://openai.com/index/frontier-model-forum"
-      ],
-      "title": "Frontier Model Forum",
-      "first_seen": "2026-08-24",
-      "last_shipped": "2026-08-24",
-      "last_summary": "Leading AI labs have formed a new industry body, the Frontier Model Forum, to develop safety standards and best practices for frontier AI models. The move follows research highlighting a lack of documented containment plans for rogue AI behavior.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "ai-agents-productivity-research",
-      "urls": [
-        "https://openai.com/index/how-agents-are-transforming-work",
-        "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWnFsQU5oNkJrSzl5d0p1WDFvQWJkdE53TmlJd0pOX2FWYjhxbzN4cHZka2xZZjVSd1BXd01aOXY4d1ZoTDJhRDd5bk1abHFiSGtsLUdGYmlBUUlLMUp2ZTE5eVhXenBXS1QxU2hadldxTDJ6bjhVTkprUTZ5amtqZWxQODJhbEpaRHpoS3ItRlM?oc=5"
-      ],
-      "title": "How agents are transforming work",
-      "first_seen": "2026-08-24",
-      "last_shipped": "2026-08-24",
-      "last_summary": "Recent research from OpenAI explores the evolution of AI agents, demonstrating their capacity to handle increasingly complex, multi-step tasks in professional environments. Similar trends are being observed across diverse business sectors and public administration.",
-      "was_must_know": true
-    },
-    {
       "event_key": "openai-on-openai-series",
       "urls": [
         "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them",
@@ -553,6 +529,77 @@
       "last_shipped": "2026-08-30",
       "last_summary": "Companies developing open-weight AI models are becoming primary acquisition targets for tech giants looking to integrate advanced technology into their ecosystems.",
       "was_must_know": false
+    },
+    {
+      "event_key": "openai-enterprise-expansion-2024",
+      "urls": [
+        "https://openai.com/index/introducing-openai-presence",
+        "https://openai.com/index/introducing-openai-partner-network",
+        "https://openai.com/index/introducing-the-openai-economic-research-exchange",
+        "https://openai.com/index/introducing-openai-for-singapore",
+        "https://openai.com/index/introducing-openai-privacy-filter",
+        "https://openai.com/index/safety-bug-bounty",
+        "https://openai.com/index/openai-for-india",
+        "https://openai.com/index/introducing-openai-frontier",
+        "https://openai.com/index/openai-academy-for-news-organizations",
+        "https://openai.com/global-affairs/openai-for-australia",
+        "https://openai.com/index/openai-for-ireland",
+        "https://openai.com/index/introducing-aardvark",
+        "https://openai.com/global-affairs/introducing-openai-for-government",
+        "https://openai.com/global-affairs/openai-for-countries",
+        "https://openai.com/index/introducing-o3-and-o4-mini",
+        "https://openai.com/index/openai-o3-mini",
+        "https://openai.com/index/introducing-openai-o1-preview",
+        "https://openai.com/index/openai-o1-mini-advancing-cost-efficient-reasoning",
+        "https://openai.com/index/introducing-openai-for-nonprofits",
+        "https://openai.com/index/introducing-openai-japan",
+        "https://openai.com/index/introducing-openai-dublin",
+        "https://openai.com/index/introducing-openai-london",
+        "https://openai.com/index/bug-bounty-program",
+        "https://openai.com/index/economic-impacts",
+        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObF91RUp0RnkzRVZzUW0xSGlLRDZKUzRiSlcyVUZ5NTdsY3dWZE43YndTelZscHp5SEl0elZKTmkxQkxIYkJJai14d2ZwVlZuQWF4MGNrdnZCeUUzbGJjYzBVVEtYalZpbDgxOFhCbEIteFB5dGlfOExERko2WEJBNjNtNlg4bWdEdV9ldzUzajJiR0JEZ2E5eXcyRzVlRFB0Rm9MN2thS2YxQ1JvYm1ZN0tFQTgtX1lhZEg0U0JvcGRibWR6VUsxUQ?oc=5"
+      ],
+      "title": "Introducing OpenAI Presence",
+      "first_seen": "2026-08-31",
+      "last_shipped": "2026-08-31",
+      "last_summary": "OpenAI has announced several new initiatives, including the enterprise AI agent platform 'Presence', a $150 million partner investment network, and an economic research exchange. Additionally, the company launched a multi-year partnership with Singapore to boost local AI adoption and talent development.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "openai-cybersecurity-plan",
+      "urls": [
+        "https://openai.com/index/biodefense-in-the-intelligence-age",
+        "https://openai.com/index/cybersecurity-in-the-intelligence-age",
+        "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWW13N3VDNS0wQ1hNREVkcjUxREtlZ21qNTUyTk83M3U2SkMwa3FVMGNxNUc0VUNKaXdGZTdIQWUxc2d4UjVIdlNLelFnQlAxSDVXb0ZhWm50Snl0UmI5Yk40QXhPS0x1SnZqQlRrMU5paWxCZnBwOV9fMTVtLUlkNXVNd3ltdkFHQUhVYTdlT3JWRE1qNnkzWk1yOWNvczlPdlc1NzBfRkI0cC1udXh1dzdlbnNkSGZPNUxsNDZYNklROUVUZ000ZXEwd0pGQXZ0VTZMTmV2LTdMY2ZKcGpKdmI2cXE?oc=5",
+        "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZlRLRnRTaDNhbG92SUZUeTI0OWNzdGQ0YXZnUG5LRV9VaU5fZVBMaXFBTHQ4RWRGRi1DZjZaQ0RWV2UtVDBrWkxDR1dkaXhYdUZqYzlWbVFGZjhyQU50QjZVTUpWcGdTWlNIX1JpQmZ3bVBCdy0tUHpsN2hmMmpyNzhGb1dzN1VVUkNkLVhIOEtvbE0?oc=5"
+      ],
+      "title": "Biodefense in the Intelligence Age",
+      "first_seen": "2026-08-31",
+      "last_shipped": "2026-08-31",
+      "last_summary": "OpenAI has published a five-part action plan focused on strengthening cybersecurity through AI-powered defense mechanisms. The strategy aims to democratize AI security tools while protecting critical infrastructure.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "texas-flock-ban",
+      "urls": [
+        "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras"
+      ],
+      "title": "Texas Governor Abbott blocks funding for more Flock cameras",
+      "first_seen": "2026-08-31",
+      "last_shipped": "2026-08-31",
+      "last_summary": "Texas Governor Greg Abbott has halted state spending on Flock AI surveillance cameras following public backlash and an investigative report on the state's $30 million expenditure.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "meta-data-center-robots",
+      "urls": [
+        "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers"
+      ],
+      "title": "Inside Meta’s push to put robots to work in data centers",
+      "first_seen": "2026-08-31",
+      "last_shipped": "2026-08-31",
+      "last_summary": "Meta is currently testing the use of robotics to perform routine technician tasks within its data centers. The initiative aims to automate maintenance and physical management of server environments.",
+      "was_must_know": true
     }
   ]
 }
