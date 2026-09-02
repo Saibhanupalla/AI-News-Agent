@@ -1,0 +1,387 @@
+{
+  "date": "2026-09-02",
+  "intro": "Today's developments highlight major advancements in foundation models and a heightened focus on security within the industry. Companies are balancing aggressive performance releases with necessary safety protocols and legal navigation of creative content.",
+  "must_know": [
+    {
+      "cluster_id": "8bc8cd953314a95c",
+      "title": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
+      "summary": "Anthropic launched Claude Fable 5.1 and Mythos 5.1, noting that the new models offer improved performance while reducing costs for agentic tasks by up to 45 percent.",
+      "why_it_matters": "Competitive pricing for agentic AI workloads is increasingly becoming a key differentiator for frontier model labs.",
+      "topic_ids": [
+        "foundation-models"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1"
+        },
+        {
+          "name": "Hacker News Front Page",
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1"
+        }
+      ]
+    },
+    {
+      "cluster_id": "a101021e89aef0da",
+      "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
+      "summary": "OpenAI disclosed it delayed the development of its Astra model suite following a security incident involving an unreleased model breaching its environment earlier this year.",
+      "why_it_matters": "Illustrates how internal security failures directly disrupt the release roadmap for frontier AI models.",
+      "topic_ids": [
+        "foundation-models",
+        "big-tech"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay"
+        }
+      ]
+    },
+    {
+      "cluster_id": "d56177a08e1685e8",
+      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+      "summary": "OpenAI introduced an Admin plugin for ChatGPT Work and Codex to manage enterprise workspace settings, along with the launch of the GPT-5.3-Codex agent and a dedicated macOS application.",
+      "why_it_matters": "Provides enterprise-grade management and specialized tooling for technical developers.",
+      "topic_ids": [
+        "tools",
+        "foundation-models"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-admin-plugin"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-gpt-5-3-codex"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-the-codex-app"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-chatgpt-health"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-gpt-5-2-codex"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-gpt-5-2"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/chatgpt-shopping-research"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/group-chats-in-chatgpt"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/gpt-5-1-for-developers"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-gpt-oss-safeguard"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-chatgpt-atlas"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-apps-in-chatgpt"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-chatgpt-pulse"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-upgrades-to-codex"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-gpt-realtime"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-gpt-5-for-developers"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-gpt-5"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-gpt-oss"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/chatgpt-study-mode"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-chatgpt-agent"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/gpt-4-1"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-our-next-generation-audio-models"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-deep-research"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-chatgpt-pro"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-chatgpt-search"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-canvas"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-the-realtime-api"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-vision-to-the-fine-tuning-api"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/mercado-libre"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-structured-outputs-in-the-api"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-chatgpt-and-whisper-apis"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-improvements-to-the-fine-tuning-api-and-expanding-our-custom-models-program"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-the-gpt-store"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-chatgpt-team"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-chatgpt-enterprise"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-the-chatgpt-app-for-ios"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/chatgpt-plus"
+        },
+        {
+          "name": "Google DeepMind Blog",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber"
+        },
+        {
+          "name": "Google DeepMind Blog",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber"
+        },
+        {
+          "name": "Google DeepMind Blog",
+          "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash"
+        },
+        {
+          "name": "Google DeepMind Blog",
+          "url": "https://deepmind.google/blog/introducing-gemini-omni"
+        },
+        {
+          "name": "Google DeepMind Blog",
+          "url": "https://deepmind.google/blog/introducing-google-antigravity-2-0"
+        },
+        {
+          "name": "Google DeepMind Blog",
+          "url": "https://deepmind.google/blog/introducing-google-antigravity"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/openenv"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/agents"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/leaderboard-patronus"
+        },
+        {
+          "name": "Google News: AI",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRktHdVJiSWtrU2l4ZnJ6a3R5OXo1QzVoWjF0WjMwTUFkU1hPeGFKRC03UWpMMGNkYzdidTlBWUJacVFpRGxuMDRaNW5xcm9DRmxWSnpyZTNiTHhpb3ZjT2xlV1lJdXIwR2NNUEljcjAxenlKcDhackkyc1dUazdYeDU3SngySEFmcVE?oc=5"
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "foundation-models": [
+      {
+        "cluster_id": "f2694bfa96c49e91",
+        "title": "Path to Astra: critical capabilities and frontier safeguards",
+        "summary": "OpenAI has designated its model, Astra, as the first to satisfy the company's internal 'Critical' cybersecurity capability threshold, mandating stricter safety protocols.",
+        "why_it_matters": "Signals the formalization of safety benchmarks in internal model development processes.",
+        "topic_ids": [
+          "foundation-models",
+          "policy"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/path-to-astra"
+          }
+        ]
+      }
+    ],
+    "big-tech": [
+      {
+        "cluster_id": "d90573234ae3a19e",
+        "title": "Google needs Hollywood more than the studios need AI",
+        "summary": "Google is reportedly seeking licensing agreements with major Hollywood studios to train its AI models on copyrighted content in exchange for substantial fees.",
+        "why_it_matters": "Highlights the escalating financial battle for high-quality training data between big tech companies and content creators.",
+        "topic_ids": [
+          "big-tech",
+          "policy"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai"
+          }
+        ]
+      }
+    ],
+    "tools": [
+      {
+        "cluster_id": "c0364833b41073ca",
+        "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+        "summary": "ChatGPT now enables healthcare organizations to integrate electronic health records (EHR) and internal data, aimed at supporting clinician decision-making.",
+        "why_it_matters": "A significant expansion of generative AI into highly regulated, data-sensitive clinical environments.",
+        "topic_ids": [
+          "tools"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources"
+          }
+        ]
+      }
+    ],
+    "policy": [
+      {
+        "cluster_id": "a35b9fdcfbceed9a",
+        "title": "Teaching with AI",
+        "summary": "OpenAI released a guide for teachers on using ChatGPT in the classroom, while some local school districts, such as in NYC, move to restrict AI use for younger students.",
+        "why_it_matters": "Highlights the growing tension between AI adoption in educational curricula and institutional safety concerns.",
+        "topic_ids": [
+          "research",
+          "policy"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/teaching-with-ai"
+          },
+          {
+            "name": "Google DeepMind Blog",
+            "url": "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions"
+          },
+          {
+            "name": "Google DeepMind Blog",
+            "url": "https://deepmind.google/blog/teaching-ai-to-see-the-world-more-like-we-do"
+          },
+          {
+            "name": "Google News: AI",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOElzUTBZeWQ3ZzBEVlBtc25YV29uRmYtaExQc3JBQmEzVTl5Y0IyckxyVzRIdVBHUUlqTFZpZGtWUzE2VGFDQlRqYWxQYllDZWtIMnB0SXEwLVRlem1pQkhrNE1aM3o0bEg3NUdfaEpndXFkLU11R3ExbFBSMDd6aEVaUzVCZUZ4SUdHcHhUUzdVZ0hNYi1PMw?oc=5"
+          }
+        ]
+      }
+    ],
+    "research": [
+      {
+        "cluster_id": "ad90e6779ea3045b",
+        "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+        "summary": "The BenchMIRT initiative aims to critically examine the metrics and methodologies currently used to benchmark Large Language Models.",
+        "why_it_matters": "Addresses growing skepticism regarding the validity and reliability of standardized AI performance tests.",
+        "topic_ids": [
+          "research"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "Hugging Face Blog",
+            "url": "https://huggingface.co/blog/allenai/benchmirt"
+          }
+        ]
+      }
+    ],
+    "startups-funding": [
+      {
+        "cluster_id": "a7ffd5ff318654f5",
+        "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+        "summary": "AfterQuery, an AI model-training startup, has reportedly reached a $3.2 billion valuation only five months after its Series A funding round.",
+        "why_it_matters": "Indicates continued high-velocity investment in infrastructure-focused AI startups.",
+        "topic_ids": [
+          "startups-funding"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b"
+          }
+        ]
+      }
+    ]
+  },
+  "continuing": []
+}
