@@ -1,74 +1,6 @@
 {
   "entries": [
     {
-      "event_key": "google-gemini-omni-1-1-flash-release",
-      "urls": [
-        "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control",
-        "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash"
-      ],
-      "title": "Gemini Omni 1.1 Flash lets you build with more control",
-      "first_seen": "2026-08-28",
-      "last_shipped": "2026-08-28",
-      "last_summary": "Google has released Gemini Omni 1.1 Flash, providing developers with improved control and new tools for building applications.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "google-gemini-3-5-transcribe-launch",
-      "urls": [
-        "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text",
-        "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe"
-      ],
-      "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
-      "first_seen": "2026-08-28",
-      "last_shipped": "2026-08-28",
-      "last_summary": "Google introduced Gemini 3.5 Transcribe, an AI-powered speech-to-text model, for integration into Chrome and other Google products.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "anthropic-blacklist-ruling",
-      "urls": [
-        "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling"
-      ],
-      "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
-      "first_seen": "2026-08-28",
-      "last_shipped": "2026-08-28",
-      "last_summary": "A judge has ruled that the Trump administration's blacklisting of Anthropic was unconstitutional, resolving a lawsuit regarding alleged retaliation over AI red-teaming.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "meta-glasses-privacy-update",
-      "urls": [
-        "https://www.theverge.com/tech/985851/meta-privacy-loophole-fix-marketing-campaign"
-      ],
-      "title": "Meta addresses ‘pervert glasses’ reputation with a privacy fix and a new marketing campaign",
-      "first_seen": "2026-08-28",
-      "last_shipped": "2026-08-28",
-      "last_summary": "Meta is updating its smart glasses to prevent recording when the front-facing LED indicator light is physically covered.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "google-notebook-play-books-integration",
-      "urls": [
-        "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books"
-      ],
-      "title": "Google’s AI note-taking app now allows you to interact with books",
-      "first_seen": "2026-08-28",
-      "last_shipped": "2026-08-28",
-      "last_summary": "Google's Gemini Notebook app now allows users to ingest books purchased from Google Play to generate summaries, podcasts, and infographics.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "meta-settlement-kids-data",
-      "urls": [
-        "https://techcrunch.com/2026/08/27/buried-in-metas-18b-settlement-is-a-legal-pass-on-kids-data"
-      ],
-      "title": "Buried in Meta’s $18B settlement is a legal pass on kids’ data",
-      "first_seen": "2026-08-28",
-      "last_shipped": "2026-08-28",
-      "last_summary": "Meta's recent $18 billion settlement includes provisions allowing the company to retain data from children under 13 to improve age-detection models.",
-      "was_must_know": false
-    },
-    {
       "event_key": "google-search-ai-ui-change",
       "urls": [
         "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand"
@@ -604,6 +536,89 @@
       "first_seen": "2026-09-03",
       "last_shipped": "2026-09-03",
       "last_summary": "OpenAI's Astra model utilizes a technique called 'recurrent depth,' allowing it to deviate from standard sequential reasoning patterns. The new approach has drawn criticism from AI safety experts concerned about model unpredictability.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-gpt6-astra-launch",
+      "urls": [
+        "https://openai.com/index/gpt-6-astra",
+        "https://openai.com/index/legora-financial-statement-review-with-astra",
+        "https://openai.com/index/playco-game-prototyping-with-astra",
+        "https://openai.com/index/safety-overview-gpt-6-astra",
+        "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release"
+      ],
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "first_seen": "2026-09-04",
+      "last_shipped": "2026-09-04",
+      "last_summary": "OpenAI has officially released GPT-6 Astra, which the company describes as a generational leap in AI capability for professional, scientific, and software engineering domains.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "openai-daybreak-launch",
+      "urls": [
+        "https://openai.com/index/daybreak-for-frontline-defenders"
+      ],
+      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+      "first_seen": "2026-09-04",
+      "last_shipped": "2026-09-04",
+      "last_summary": "OpenAI launched 'Daybreak for Frontline Defenders,' a $1 billion initiative aimed at providing frontier cyber AI and support to essential public services.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "google-deepmind-weather-next",
+      "urls": [
+        "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model",
+        "https://deepmind.google/blog/weathernext-2-our-most-advanced-weather-forecasting-model"
+      ],
+      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+      "first_seen": "2026-09-04",
+      "last_shipped": "2026-09-04",
+      "last_summary": "Google DeepMind announced WeatherNext 3, an AI model designed to improve the accuracy and resolution of global weather predictions.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "nvidia-dlss5-modding",
+      "urls": [
+        "https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40"
+      ],
+      "title": "Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control",
+      "first_seen": "2026-09-04",
+      "last_shipped": "2026-09-04",
+      "last_summary": "Modders have successfully ported Nvidia's DLSS 5 rendering to older hardware, despite official limitations restricting it to RTX 50 series GPUs.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "tesla-cybercab-launch",
+      "urls": [
+        "https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk"
+      ],
+      "title": "The unusually muted Tesla Cybercab launch",
+      "first_seen": "2026-09-04",
+      "last_shipped": "2026-09-04",
+      "last_summary": "Tesla held a closed-door event in Austin to officially unveil its Cybercab autonomous vehicle.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "microsoft-xbox-cloud-changes",
+      "urls": [
+        "https://www.theverge.com/news/989166/microsoft-xbox-cloud-gaming-hourly-limits-changes",
+        "https://www.theverge.com/news/989211/microsoft-xbox-cloud-gaming-pay-as-you-go-option"
+      ],
+      "title": "Microsoft slashes Xbox Cloud Gaming to just 15 hours a month for Ultimate subscribers",
+      "first_seen": "2026-09-04",
+      "last_shipped": "2026-09-04",
+      "last_summary": "Beginning in November, Microsoft will offer a new pay-as-you-go option for Xbox Cloud Gaming, allowing access without a recurring subscription.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "crusoe-funding-round",
+      "urls": [
+        "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation"
+      ],
+      "title": "Crusoe reportedly raises $3B at a  $30B valuation",
+      "first_seen": "2026-09-04",
+      "last_shipped": "2026-09-04",
+      "last_summary": "Data center developer Crusoe has reportedly secured $3 billion in new funding, reaching a $30 billion valuation following a major contract with Jane Street.",
       "was_must_know": false
     }
   ]
