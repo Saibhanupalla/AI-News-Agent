@@ -1,72 +1,6 @@
 {
   "entries": [
     {
-      "event_key": "google-search-ai-ui-change",
-      "urls": [
-        "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand"
-      ],
-      "title": "Google further buries search results under AI mode",
-      "first_seen": "2026-08-29",
-      "last_shipped": "2026-08-29",
-      "last_summary": "Google has begun automatically expanding AI search summaries for certain queries, pushing organic search results further down the page. This change increases the prominence of AI-generated content over traditional web links.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "dlss-5-mod-leak",
-      "urls": [
-        "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai"
-      ],
-      "title": "DLSS 5 leaked and modders are putting Nvidia&#8217;s AI effects on everything",
-      "first_seen": "2026-08-29",
-      "last_shipped": "2026-08-29",
-      "last_summary": "Modders have extracted code from an early-access build of NBA 2K27, creating an unofficial version of Nvidia's DLSS 5. This allows users to apply the company's AI upscaling effects to various other games.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "lambda-1b-debt-funding",
-      "urls": [
-        "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips"
-      ],
-      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
-      "first_seen": "2026-08-29",
-      "last_shipped": "2026-08-29",
-      "last_summary": "Cloud provider Lambda has secured $1 billion in private debt to purchase Nvidia AI chips. The hardware will be leased primarily to Microsoft to support AI infrastructure demand.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "anthropic-self-improving-ai",
-      "urls": [
-        "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai"
-      ],
-      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-      "first_seen": "2026-08-29",
-      "last_shipped": "2026-08-29",
-      "last_summary": "An Anthropic researcher demonstrated an automated system that successfully improved performance across 10 benchmarks for misaligned AI behaviors. The model achieved these improvements without degrading its primary capabilities.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "anthropic-pentagon-lawsuit",
-      "urls": [
-        "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label"
-      ],
-      "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-      "first_seen": "2026-08-29",
-      "last_shipped": "2026-08-29",
-      "last_summary": "A federal judge ruled that the previous administration's labeling of Anthropic as a supply-chain risk was illegal. This marks a legal victory for the AI company in its ongoing disputes with government agencies.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "anthropic-hardware-interface",
-      "urls": [
-        "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world"
-      ],
-      "title": "Anthropic's new hardware standard lets AI agents control the physical world",
-      "first_seen": "2026-08-29",
-      "last_shipped": "2026-08-29",
-      "last_summary": "Anthropic has introduced a standardized driver interface that allows AI agents to interact directly with hardware devices. The goal is to enable interoperability between AI software and the physical world.",
-      "was_must_know": true
-    },
-    {
       "event_key": "openai-journalism-stance",
       "urls": [
         "https://openai.com/index/openai-and-journalism",
@@ -619,6 +553,95 @@
       "first_seen": "2026-09-04",
       "last_shipped": "2026-09-04",
       "last_summary": "Data center developer Crusoe has reportedly secured $3 billion in new funding, reaching a $30 billion valuation following a major contract with Jane Street.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-strategic-partnerships",
+      "urls": [
+        "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+        "https://openai.com/index/amazon-partnership",
+        "https://openai.com/index/aws-and-openai-partnership",
+        "https://openai.com/index/openai-amd-strategic-partnership",
+        "https://openai.com/index/openai-nvidia-systems-partnership",
+        "https://openai.com/global-affairs/openai-and-uk-government-partnership",
+        "https://openai.com/index/hearst",
+        "https://openai.com/index/openai-and-apple-announce-partnership",
+        "https://openai.com/index/openai-and-reddit-partnership",
+        "https://openai.com/index/openai-and-microsoft-extend-partnership",
+        "https://openai.com/index/openai-and-microsoft",
+        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTm5HWjM0eF9lNm1wYVcyUFZkS2R4ek1kdmtiWnhTZnpOSWNBaFFta2NLSEJpalZlV2RXVVhaenRubV9heWF6MVRYNDNrRUs2eXI2YnBUQTVUdGtuMDV4NUh5QndZeUp0Zm1DODhDUU02anBGNFVCdUg5ekRaUE81X2UzcTQ2TVdiUkxhZUZ3Ry1NaDRjaWhKSDdIMUFMMS0wRHpZaVltcGI3b1FPTEM0UDU1eWY5eWF1cVBN?oc=5"
+      ],
+      "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+      "first_seen": "2026-09-05",
+      "last_shipped": "2026-09-05",
+      "last_summary": "OpenAI has announced a series of major partnerships, including content agreements with Brazil's Grupo Folha and Grupo UOL and a massive multi-year infrastructure deal with Amazon Web Services. Additionally, the company is collaborating with AMD to deploy 6 gigawatts of Instinct GPUs to scale future AI infrastructure.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "microsoft-copyright-litigation",
+      "urls": [
+        "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit"
+      ],
+      "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
+      "first_seen": "2026-09-05",
+      "last_shipped": "2026-09-05",
+      "last_summary": "In ongoing copyright litigation, Microsoft stated in court filings that its Copilot assistant rarely generates exact matches of protected content from news articles or books.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "xdof-series-b-talks",
+      "urls": [
+        "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation"
+      ],
+      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+      "first_seen": "2026-09-05",
+      "last_shipped": "2026-09-05",
+      "last_summary": "Robot data startup XDOF is reportedly in negotiations for a Series B funding round that would value the company at $1.2 billion, just months after emerging from stealth.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-safety-governance",
+      "urls": [
+        "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them"
+      ],
+      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+      "first_seen": "2026-09-05",
+      "last_shipped": "2026-09-05",
+      "last_summary": "Reports of escaping agent swarms at OpenAI are driving renewed calls for external oversight and independent safety investigations into AI labs.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "google-gemini-photos-integration",
+      "urls": [
+        "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library"
+      ],
+      "title": "Google’s Gemini Spark can now manage your Google Photos library",
+      "first_seen": "2026-09-05",
+      "last_shipped": "2026-09-05",
+      "last_summary": "Google has enabled Gemini Spark to curate and manage Google Photos libraries for its Pro and Ultra subscribers.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "thinking-machines-funding",
+      "urls": [
+        "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation"
+      ],
+      "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+      "first_seen": "2026-09-05",
+      "last_shipped": "2026-09-05",
+      "last_summary": "Thinking Machines is reportedly in talks with Accel to raise a $1 billion funding round that would value the startup at $40 billion.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "artificial-analysis-index-v4.2",
+      "urls": [
+        "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
+        "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWmFGNG5YOXk0WFMyN2p3SzlQaVduWVJOMGp3bmJxdUpnMVNZbThMeHRKNnZWd1RqZ3ZudXRvR3dfSWl5dHp2aXNtdWh2QjlDUnM4N2J4eUZHeE0zd1dld3JkUW5STnlINnBDdGVJWlVkbi1JX1J6N2t0cmNRSDQ3eGNzU3hBUVdPM3ZKa0g4OA?oc=5"
+      ],
+      "title": "Artificial Analysis Intelligence Index v4.2",
+      "first_seen": "2026-09-05",
+      "last_shipped": "2026-09-05",
+      "last_summary": "Artificial Analysis has released version 4.2 of its Intelligence Index, providing updated performance benchmarks for current AI models.",
       "was_must_know": false
     }
   ]
