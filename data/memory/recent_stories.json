@@ -1,51 +1,6 @@
 {
   "entries": [
     {
-      "event_key": "openai-journalism-stance",
-      "urls": [
-        "https://openai.com/index/openai-and-journalism",
-        "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSnhoTkFzY1VmZE9yZks4aS1ISzRrX09mT2dEdDVoNmN6QkhDckJaQUFreGhuVHU3YTF0VXFoYjNOZTBFMG5HUXhIcm9CNXFNSWNsOVZGVFZqV2dtWFJJYS1SUzZKQmpaSnN5RzB6NjNfaE15eGxlZTJHZWlRalQyUVViWEJhQ1FYU3dmVVVjNVEwbk1PMGxUb1RVcDZ1X0hmc1V2QnE3LVlGXzBQcFg5bmEtX1V6WnV5UDhqUTZaYTVlbF9RQUFaN0lmZnM3M3gwXzV6QVdSOFBoclRYc0w0cGd4cEJna1U?oc=5"
-      ],
-      "title": "OpenAI and journalism",
-      "first_seen": "2026-08-30",
-      "last_shipped": "2026-08-30",
-      "last_summary": "OpenAI published a statement reiterating its commitment to supporting journalism and partnering with news organizations while describing the ongoing lawsuit with The New York Times as meritless.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "anthropic-music-lawsuit",
-      "urls": [
-        "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright"
-      ],
-      "title": "Sony Music and Warner Chappell are suing Anthropic",
-      "first_seen": "2026-08-30",
-      "last_shipped": "2026-08-30",
-      "last_summary": "Sony Music and Warner Chappell have sued Anthropic in federal court, alleging that the company utilized tens of thousands of copyrighted works to train its AI models.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "nvidia-data-center-strategy",
-      "urls": [
-        "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu"
-      ],
-      "title": "Nvidia’s AI advantage is moving beyond the GPU",
-      "first_seen": "2026-08-30",
-      "last_shipped": "2026-08-30",
-      "last_summary": "Nvidia is evolving its data center strategy by focusing on smarter traffic control and system-level efficiency rather than relying solely on pure GPU processing power.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "open-weight-ai-acquisitions",
-      "urls": [
-        "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets"
-      ],
-      "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
-      "first_seen": "2026-08-30",
-      "last_shipped": "2026-08-30",
-      "last_summary": "Companies developing open-weight AI models are becoming primary acquisition targets for tech giants looking to integrate advanced technology into their ecosystems.",
-      "was_must_know": false
-    },
-    {
       "event_key": "openai-enterprise-expansion-2024",
       "urls": [
         "https://openai.com/index/introducing-openai-presence",
@@ -642,6 +597,115 @@
       "first_seen": "2026-09-05",
       "last_shipped": "2026-09-05",
       "last_summary": "Artificial Analysis has released version 4.2 of its Intelligence Index, providing updated performance benchmarks for current AI models.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-stargate-infrastructure",
+      "urls": [
+        "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+        "https://openai.com/index/building-abundant-intelligence",
+        "https://openai.com/index/stargate-michigan-data-center",
+        "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
+        "https://openai.com/index/confidence-building-measures-for-artificial-intelligence",
+        "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc3lnODlaa0ZWMC1laTU4ZnM0cHFxOVNaSjd3bW1qTXZRWTFtSVR5TmVZM0FTZXNsU3ZZTHpTT2xVNEhUQ2hSSzV4WmRQZjBWTGYxRHFzTlVzT2xTbHl5c3UxUWxCeElwb19hd20wTEp2M183M1BpOWdmUENncHFZN2FIajdabmxVUTJyU00wUkxpV2NLVFI1OA?oc=5",
+        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRl83ZzFIanc4dk8yRU1POEdIb3F3Y3RTYlJrbkd3aFUxLVROS3J3RWNKQV9ydjY5Q2s2dGZMbWE4M1pnaUhhandrcGdjNzFya2JGQ0ZJUHBsZ3B5QllXNXozSjd5elpfVC1ZaGdqLVZGbm5WemtQQ3hzam0zc0ozVnFjMXljekR5Q0Rn?oc=5"
+      ],
+      "title": "The full stack behind abundant intelligence",
+      "first_seen": "2026-09-06",
+      "last_shipped": "2026-09-06",
+      "last_summary": "OpenAI is outlining a full-stack infrastructure strategy to support AGI, including the development of a 1GW data center in Michigan. The project, referred to as Stargate, aims to scale compute capacity and increase accessibility for AI workloads.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "huggingface-paperswithcode-integration",
+      "urls": [
+        "https://huggingface.co/blog/pwc-search",
+        "https://huggingface.co/blog/inference-endpoints-llm",
+        "https://huggingface.co/blog/panel-on-hugging-face",
+        "https://huggingface.co/blog/huggingface-and-amd",
+        "https://huggingface.co/blog/hub-duckdb",
+        "https://huggingface.co/blog/hugging-face-endpoints-on-azure",
+        "https://huggingface.co/blog/fetch-eap-case-study",
+        "https://huggingface.co/blog/inference-update",
+        "https://huggingface.co/blog/arxiv",
+        "https://huggingface.co/blog/spaces_3dmoljs",
+        "https://huggingface.co/blog/vision-transformers",
+        "https://huggingface.co/blog/decision-transformers",
+        "https://huggingface.co/blog/streamlit-spaces",
+        "https://huggingface.co/blog/pytorch-xla",
+        "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPS1V3Z1dRQlVDN21lQ3JnVzNfby1tRUtwOEF6S1pBUFZGOWpMY1ZDdTVTNTlPbTZ5SHFZbVZJYVNRLXdRSjdWMmhoNkg4MFU0cWhxQ0M1VFRrbWd1bDQ3c0pfdWVkNHNVT0RYUGRmeGQ3MkFmaEhfQzZSSTAwUHBVVDVIUkU2cWlveVRCMTB2RDlnZnBWUjVGbTBiVm4yMTBmbFRPZkVOdDlvU29vWkxIbG5EeGZwMy1ZUzA4cmpJNTZTQXZsVHVJUWZ1VHh2cmxvQ0lOcGRCNXNzR3o3cHpaRg?oc=5"
+      ],
+      "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+      "first_seen": "2026-09-06",
+      "last_shipped": "2026-09-06",
+      "last_summary": "Hugging Face is utilizing its internal Inference Endpoints, Jobs, and storage buckets to improve search functionality on the Papers with Code platform.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-agent-wiki-incident",
+      "urls": [
+        "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure",
+        "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident"
+      ],
+      "title": "OpenAI admits to German wiki ‘incident’",
+      "first_seen": "2026-09-06",
+      "last_shipped": "2026-09-06",
+      "last_summary": "OpenAI has officially confirmed a recent incident involving its agents interacting with a German wiki forum. The company stated it is actively working on a framework to improve how such instances are disclosed.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "tesla-cybercab-age-policy",
+      "urls": [
+        "https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab"
+      ],
+      "title": "No little kids allowed, and other new info about Tesla’s Cybercab",
+      "first_seen": "2026-09-06",
+      "last_shipped": "2026-09-06",
+      "last_summary": "Tesla's Cybercab will prohibit children under 13 from riding, even when accompanied by a guardian. This policy makes the vehicle more restrictive than current Tesla robotaxi offerings.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "gpt6-astra-robotics",
+      "urls": [
+        "https://openai.robocurve.org/gpt-6-astra"
+      ],
+      "title": "GPT-6 Astra on robot arms",
+      "first_seen": "2026-09-06",
+      "last_shipped": "2026-09-06",
+      "last_summary": "Reports are circulating regarding the integration of GPT-6 Astra with robotic arm hardware. The developments indicate ongoing work in multimodal AI agents capable of physical manipulation.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "cloud-in-a-bottle-launch",
+      "urls": [
+        "https://cloudinabottle.org/blog/launch-post"
+      ],
+      "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
+      "first_seen": "2026-09-06",
+      "last_shipped": "2026-09-06",
+      "last_summary": "Cloud in a Bottle is a new project designed to simplify self-hosting infrastructure. The tool aims to make managing personal server environments more accessible to non-technical users.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "chrome-privacy-exemption",
+      "urls": [
+        "https://lapcatsoftware.com/articles/2026/9/1.html"
+      ],
+      "title": "Chrome again exempts Google from user site data settings",
+      "first_seen": "2026-09-06",
+      "last_shipped": "2026-09-06",
+      "last_summary": "The Google Chrome browser has reportedly maintained an exemption for Google services within its user site data and privacy settings. This allows Google to bypass specific restrictions that apply to other third-party sites.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "okf-agent-memory-launch",
+      "urls": [
+        "https://github.com/okf-memory/okf-agent-memory"
+      ],
+      "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+      "first_seen": "2026-09-06",
+      "last_shipped": "2026-09-06",
+      "last_summary": "OKF Agent Memory is an open-source project providing Git-native persistent memory for AI coding agents. It enables AI tools to retain context and state across long-running development tasks.",
       "was_must_know": false
     }
   ]
