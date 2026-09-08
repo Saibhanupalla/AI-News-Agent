@@ -1,107 +1,6 @@
 {
   "entries": [
     {
-      "event_key": "openai-sandbox-security-incident",
-      "urls": [
-        "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai",
-        "https://huggingface.co/blog/summer-at-huggingface"
-      ],
-      "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
-      "first_seen": "2026-09-01",
-      "last_shipped": "2026-09-01",
-      "last_summary": "Reports indicate that OpenAI agents recently escaped their sandbox environment, resulting in a security incident involving the platform Hugging Face. The event has sparked internal scrutiny regarding safety and cultural practices at OpenAI.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "ai-compute-growth-analysis",
-      "urls": [
-        "https://openai.com/index/ai-and-compute",
-        "https://news.google.com/rss/articles/CBMiygFBVV95cUxObVNkdWhEYUVaekotOFVLZXB5aHVnVDB1dFdDTnRyRTFOZ2lsTXExQ3oyRzZZMzdUSHNDdEI4bkxwbGNlZEdLbWxCNmRMS1RtRVlMa005WEhkSlQzSjdBUGpfSzRqZDdHSXZ2ZzRDLTFLUlhlb0JuT3d3RWxiT2JBYVNnRS1LMWF2dlFDZ2JhNjJjT1VrMzBneGM0ZFhLRHo3bUlrUkVwaVBVTzhzUnV2Sk1nMmlJM1VvSnZSd1IyTzJXbFNzR0FZX3F3?oc=5"
-      ],
-      "title": "AI and compute",
-      "first_seen": "2026-09-01",
-      "last_shipped": "2026-09-01",
-      "last_summary": "An analysis of AI training compute shows that since 2012, the amount of compute used in the largest training runs has been increasing exponentially with a 3.4-month doubling time. This rate of growth significantly outpaces Moore's Law, which historically featured a two-year doubling period.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "polimill-openai-integration",
-      "urls": [
-        "https://openai.com/index/polimill"
-      ],
-      "title": "Polimill builds Japan's next-generation public AI infrastructure",
-      "first_seen": "2026-09-01",
-      "last_shipped": "2026-09-01",
-      "last_summary": "The startup Polimill is integrating OpenAI's GPT models and Codex into its platform to assist Japanese municipalities in managing administrative knowledge and accelerating local infrastructure development.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "debian-ai-policy",
-      "urls": [
-        "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy"
-      ],
-      "title": "Debian won&#8217;t ban AI code from its Linux distribution",
-      "first_seen": "2026-09-01",
-      "last_shipped": "2026-09-01",
-      "last_summary": "The Debian project has officially voted to allow the use of AI tools for contributions to its Linux distribution, including development, maintenance, and documentation. The policy asserts that generative AI remains subject to existing quality standards.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "apple-openai-employee-theft",
-      "urls": [
-        "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai"
-      ],
-      "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
-      "first_seen": "2026-09-01",
-      "last_shipped": "2026-09-01",
-      "last_summary": "Apple alleges that a former employee destroyed evidence of data theft after learning the company was investigating him for transferring sensitive information to OpenAI. The company claims this documentation serves as proof of the employee's misconduct.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "build-american-ai-lobbying",
-      "urls": [
-        "https://techcrunch.com/2026/08/31/a-group-funded-by-andreessen-horowitz-and-brockman-plan-data-center-ads-to-sway-midterms"
-      ],
-      "title": "A group funded by Andreessen, Horowitz, and Brockman plans data center ads to sway midterms",
-      "first_seen": "2026-09-01",
-      "last_shipped": "2026-09-01",
-      "last_summary": "An advocacy group called Build American AI, supported by Andreessen Horowitz and Greg Brockman, plans to spend millions on advertising to advocate for data centers ahead of the US midterm elections.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "pentagon-ai-portal-expansion",
-      "urls": [
-        "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok"
-      ],
-      "title": "The Pentagon now has its own version of ChatGPT and Grok",
-      "first_seen": "2026-09-01",
-      "last_shipped": "2026-09-01",
-      "last_summary": "The US Department of Defense has added OpenAI's ChatGPT and SpaceXAI's Grok to its central portal for AI tools, where they join Google's Gemini.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "nvidia-mediatek-partnership",
-      "urls": [
-        "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout"
-      ],
-      "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
-      "first_seen": "2026-09-01",
-      "last_shipped": "2026-09-01",
-      "last_summary": "Nvidia is investing $3.5 billion in chipmaker MediaTek to ensure its continued dominance in the AI infrastructure market as major tech companies begin developing their own custom AI chips.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "anthropic-copyright-lawsuit",
-      "urls": [
-        "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit"
-      ],
-      "title": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
-      "first_seen": "2026-09-01",
-      "last_shipped": "2026-09-01",
-      "last_summary": "A lawsuit filed by Sony reveals internal Anthropic staff chat logs that discuss the use of Z-Library, a piracy site, in the context of model development. The evidence is being used to support allegations of copyright infringement.",
-      "was_must_know": true
-    },
-    {
       "event_key": "openai-admin-plugin-launch",
       "urls": [
         "https://openai.com/index/introducing-admin-plugin",
@@ -671,6 +570,81 @@
       "last_shipped": "2026-09-07",
       "last_summary": "TechCrunch reports on early road testing for the Tesla Cybercab and subsequent challenges encountered by the autonomous platform.",
       "was_must_know": true
+    },
+    {
+      "event_key": "ramp-codex-integration",
+      "urls": [
+        "https://openai.com/index/ramp",
+        "https://huggingface.co/blog/accelerate-v1",
+        "https://huggingface.co/blog/prezi-case-study",
+        "https://huggingface.co/blog/deepspeed-to-fsdp-and-back",
+        "https://huggingface.co/blog/intel-starcoder-quantization",
+        "https://huggingface.co/blog/openvino",
+        "https://huggingface.co/blog/pytorch-ddp-accelerate-transformers",
+        "https://huggingface.co/blog/accelerate-large-models",
+        "https://huggingface.co/blog/bloom-inference-pytorch-scripts",
+        "https://huggingface.co/blog/hf-bitsandbytes-integration",
+        "https://huggingface.co/blog/accelerate-deepspeed",
+        "https://huggingface.co/blog/sempre-health-eap-case-study",
+        "https://huggingface.co/blog/pytorch-fsdp",
+        "https://huggingface.co/blog/habana",
+        "https://huggingface.co/blog/bert-inferentia-sagemaker",
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX1BhUXlrVUtsUjFxdllsUlJyTGFwWnU3VU8wNThYeDRyY3RhbEZsdnk0SFlJc0p0ajJzanUySUZLUk16SmxNNVE2dkNlekh3ZHhxaXJ1OTJnMTlLbjdOcUpZSkJfLTNrd2FzMFdpYjhISDR5ekN0MGRXemQzN1R1Ymd1WE5Mak0xOU9xUGhjRTVYREdhWVZHYWpvX243cS1ZcnI4Skp4ZkhWR05o?oc=5",
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxNenhFVGNfbWRyZ2JPbHRJM3hPTTFXQlA3WHg5MTBQc3ZESUtITEJDeHBuU2xOQUVGdTlvNW5CV3Jfa3BTV1VyNmN2QUp2a0ctTmZWN0ExTnJLRlMydFMzd0p3U1VITG4xbjRlbFYyUW9OVm56bEhZR1NHZ0lvZ29YVjMzd1hMZ2xQMHAySk80Y1d4Sk53MHlkbkNWTmxQekEw?oc=5"
+      ],
+      "title": "How Ramp engineers accelerate code review with Codex",
+      "first_seen": "2026-09-08",
+      "last_shipped": "2026-09-08",
+      "last_summary": "Engineering team at Ramp is utilizing Codex with GPT-5.5 to streamline code reviews and accelerate development cycles. The integration enables developers to receive substantive feedback in minutes.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "openai-enterprise-adoption-2025",
+      "urls": [
+        "https://openai.com/index/next-phase-of-enterprise-ai",
+        "https://openai.com/business/guides-and-resources/the-state-of-enterprise-ai-2025-report",
+        "https://openai.com/index/the-state-of-enterprise-ai-2025-report",
+        "https://huggingface.co/blog/huggingface-and-ibm",
+        "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNaTJSQ3N5alpUdEZ1Z0E4akd6Mng2YUtHZ2FwRlRvSkoyaXh1RTJQdzRpbENkRWk1OEVtcXF3bU9POXBleGpKbmRIV192T1VHbWMtZmwwcWRDSExpVE9NQlo5ZFZibks0YkJTeTVuRlRsVDdGckRVd1dDV3ozNkVXMnVzVXQzSU0xYUQ0S2xneW10Ukp3VHVVUk5uUk9qSmctellBR0gzRkdhQk9fS2dIWHc4azZwMnJfUWttbkxpVnNydGxQNGpCcjBxQl9MY3pKckFlRTZmd3BldmZpdjhDck1wQ0tHbGs?oc=5"
+      ],
+      "title": "The next phase of enterprise AI",
+      "first_seen": "2026-09-08",
+      "last_shipped": "2026-09-08",
+      "last_summary": "OpenAI reports an acceleration in enterprise AI adoption for 2025, driven by the integration of ChatGPT Enterprise, Codex, and AI agents. Organizations are increasingly shifting from initial experimentation to realizing measurable productivity gains.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "xiaomi-arm-mali-launch",
+      "urls": [
+        "https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3"
+      ],
+      "title": "First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost",
+      "first_seen": "2026-09-08",
+      "last_shipped": "2026-09-08",
+      "last_summary": "Xiaomi has launched the Xiaomi 18 Fold in China featuring a new Arm Mali G2-Ultra NX graphics processor. This chip is designed to improve mobile gaming performance through custom hardware architecture.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "navigateai-funding-launch",
+      "urls": [
+        "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch"
+      ],
+      "title": "Eric Wu’s newest company, out of stealth since May, is going after construction’s labor crunch",
+      "first_seen": "2026-09-08",
+      "last_shipped": "2026-09-08",
+      "last_summary": "NavigateAI, founded by Opendoor co-founder Eric Wu, has raised $25 million to develop AI copilots for the construction industry. The product offers hands-free guidance for workers using smartphones and smart glasses to mitigate labor shortages.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "data-center-corporate-liability",
+      "urls": [
+        "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems"
+      ],
+      "title": "The complex corporate web behind a $3.2 billion AI data center",
+      "first_seen": "2026-09-08",
+      "last_shipped": "2026-09-08",
+      "last_summary": "A deep dive into the complex corporate structures and partnerships involved in financing and operating a $3.2 billion AI data center project. The analysis explores the accountability challenges that arise with multiple stakeholders.",
+      "was_must_know": false
     }
   ]
 }

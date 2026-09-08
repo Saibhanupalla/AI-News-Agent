@@ -1,0 +1,181 @@
+{
+  "date": "2026-09-08",
+  "intro": "Today's tech landscape is marked by a pivot toward measurable enterprise AI implementation and specialized industrial applications. Companies are increasingly integrating advanced developer tools and hardware to drive productivity and operational efficiency.",
+  "must_know": [
+    {
+      "cluster_id": "f8762025cb6bfaf9",
+      "title": "The next phase of enterprise AI",
+      "summary": "OpenAI reports an acceleration in enterprise AI adoption for 2025, driven by the integration of ChatGPT Enterprise, Codex, and AI agents. Organizations are increasingly shifting from initial experimentation to realizing measurable productivity gains.",
+      "why_it_matters": "Provides a snapshot of current enterprise maturity levels for generative AI.",
+      "topic_ids": [
+        "foundation-models",
+        "big-tech"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/next-phase-of-enterprise-ai"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/business/guides-and-resources/the-state-of-enterprise-ai-2025-report"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/the-state-of-enterprise-ai-2025-report"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/huggingface-and-ibm"
+        },
+        {
+          "name": "Google News: AI",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNaTJSQ3N5alpUdEZ1Z0E4akd6Mng2YUtHZ2FwRlRvSkoyaXh1RTJQdzRpbENkRWk1OEVtcXF3bU9POXBleGpKbmRIV192T1VHbWMtZmwwcWRDSExpVE9NQlo5ZFZibks0YkJTeTVuRlRsVDdGckRVd1dDV3ozNkVXMnVzVXQzSU0xYUQ0S2xneW10Ukp3VHVVUk5uUk9qSmctellBR0gzRkdhQk9fS2dIWHc4azZwMnJfUWttbkxpVnNydGxQNGpCcjBxQl9MY3pKckFlRTZmd3BldmZpdjhDck1wQ0tHbGs?oc=5"
+        }
+      ]
+    },
+    {
+      "cluster_id": "5429b43f9c904dc6",
+      "title": "Eric Wu’s newest company, out of stealth since May, is going after construction’s labor crunch",
+      "summary": "NavigateAI, founded by Opendoor co-founder Eric Wu, has raised $25 million to develop AI copilots for the construction industry. The product offers hands-free guidance for workers using smartphones and smart glasses to mitigate labor shortages.",
+      "why_it_matters": "Targeting specific blue-collar labor efficiency through specialized AI hardware and software.",
+      "topic_ids": [
+        "startups-funding",
+        "tools"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch"
+        }
+      ]
+    },
+    {
+      "cluster_id": "e77cdafaf164d627",
+      "title": "How Ramp engineers accelerate code review with Codex",
+      "summary": "Engineering team at Ramp is utilizing Codex with GPT-5.5 to streamline code reviews and accelerate development cycles. The integration enables developers to receive substantive feedback in minutes.",
+      "why_it_matters": "Demonstrates practical enterprise use cases for AI models in boosting developer productivity.",
+      "topic_ids": [
+        "tools"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/ramp"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/accelerate-v1"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/prezi-case-study"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/deepspeed-to-fsdp-and-back"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/intel-starcoder-quantization"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/openvino"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/pytorch-ddp-accelerate-transformers"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/accelerate-large-models"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/bloom-inference-pytorch-scripts"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/hf-bitsandbytes-integration"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/accelerate-deepspeed"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/sempre-health-eap-case-study"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/pytorch-fsdp"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/habana"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/bert-inferentia-sagemaker"
+        },
+        {
+          "name": "Google News: AI",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX1BhUXlrVUtsUjFxdllsUlJyTGFwWnU3VU8wNThYeDRyY3RhbEZsdnk0SFlJc0p0ajJzanUySUZLUk16SmxNNVE2dkNlekh3ZHhxaXJ1OTJnMTlLbjdOcUpZSkJfLTNrd2FzMFdpYjhISDR5ekN0MGRXemQzN1R1Ymd1WE5Mak0xOU9xUGhjRTVYREdhWVZHYWpvX243cS1ZcnI4Skp4ZkhWR05o?oc=5"
+        },
+        {
+          "name": "Google News: AI",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNenhFVGNfbWRyZ2JPbHRJM3hPTTFXQlA3WHg5MTBQc3ZESUtITEJDeHBuU2xOQUVGdTlvNW5CV3Jfa3BTV1VyNmN2QUp2a0ctTmZWN0ExTnJLRlMydFMzd0p3U1VITG4xbjRlbFYyUW9OVm56bEhZR1NHZ0lvZ29YVjMzd1hMZ2xQMHAySk80Y1d4Sk53MHlkbkNWTmxQekEw?oc=5"
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "big-tech": [
+      {
+        "cluster_id": "69cad8f3b5a8cff9",
+        "title": "The complex corporate web behind a $3.2 billion AI data center",
+        "summary": "A deep dive into the complex corporate structures and partnerships involved in financing and operating a $3.2 billion AI data center project. The analysis explores the accountability challenges that arise with multiple stakeholders.",
+        "why_it_matters": "Illuminates the hidden risks and legal complexities behind large-scale AI infrastructure investments.",
+        "topic_ids": [
+          "big-tech",
+          "policy"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "Ars Technica",
+            "url": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems"
+          }
+        ]
+      }
+    ],
+    "hardware": [
+      {
+        "cluster_id": "8d7dc77c7e0ca564",
+        "title": "First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost",
+        "summary": "Xiaomi has launched the Xiaomi 18 Fold in China featuring a new Arm Mali G2-Ultra NX graphics processor. This chip is designed to improve mobile gaming performance through custom hardware architecture.",
+        "why_it_matters": "Signals potential advancements in mobile gaming graphics powered by new ARM architecture.",
+        "topic_ids": [
+          "hardware"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3"
+          }
+        ]
+      }
+    ]
+  },
+  "continuing": []
+}
