@@ -1,157 +1,6 @@
 {
   "entries": [
     {
-      "event_key": "openai-admin-plugin-launch",
-      "urls": [
-        "https://openai.com/index/introducing-admin-plugin",
-        "https://openai.com/index/introducing-gpt-5-3-codex",
-        "https://openai.com/index/introducing-the-codex-app",
-        "https://openai.com/index/introducing-chatgpt-health",
-        "https://openai.com/index/introducing-gpt-5-2-codex",
-        "https://openai.com/index/introducing-gpt-5-2",
-        "https://openai.com/index/chatgpt-shopping-research",
-        "https://openai.com/index/group-chats-in-chatgpt",
-        "https://openai.com/index/gpt-5-1-for-developers",
-        "https://openai.com/index/introducing-gpt-oss-safeguard",
-        "https://openai.com/index/introducing-chatgpt-atlas",
-        "https://openai.com/index/introducing-apps-in-chatgpt",
-        "https://openai.com/index/introducing-chatgpt-pulse",
-        "https://openai.com/index/introducing-upgrades-to-codex",
-        "https://openai.com/index/introducing-gpt-realtime",
-        "https://openai.com/index/introducing-gpt-5-for-developers",
-        "https://openai.com/index/introducing-gpt-5",
-        "https://openai.com/index/introducing-gpt-oss",
-        "https://openai.com/index/chatgpt-study-mode",
-        "https://openai.com/index/introducing-chatgpt-agent",
-        "https://openai.com/index/gpt-4-1",
-        "https://openai.com/index/introducing-our-next-generation-audio-models",
-        "https://openai.com/index/introducing-deep-research",
-        "https://openai.com/index/introducing-chatgpt-pro",
-        "https://openai.com/index/introducing-chatgpt-search",
-        "https://openai.com/index/introducing-canvas",
-        "https://openai.com/index/introducing-the-realtime-api",
-        "https://openai.com/index/introducing-vision-to-the-fine-tuning-api",
-        "https://openai.com/index/mercado-libre",
-        "https://openai.com/index/introducing-structured-outputs-in-the-api",
-        "https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free",
-        "https://openai.com/index/introducing-chatgpt-and-whisper-apis",
-        "https://openai.com/index/introducing-improvements-to-the-fine-tuning-api-and-expanding-our-custom-models-program",
-        "https://openai.com/index/introducing-the-gpt-store",
-        "https://openai.com/index/introducing-chatgpt-team",
-        "https://openai.com/index/introducing-chatgpt-enterprise",
-        "https://openai.com/index/introducing-the-chatgpt-app-for-ios",
-        "https://openai.com/index/chatgpt-plus",
-        "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber",
-        "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber",
-        "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash",
-        "https://deepmind.google/blog/introducing-gemini-omni",
-        "https://deepmind.google/blog/introducing-google-antigravity-2-0",
-        "https://deepmind.google/blog/introducing-google-antigravity",
-        "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
-        "https://huggingface.co/blog/openenv",
-        "https://huggingface.co/blog/agents",
-        "https://huggingface.co/blog/leaderboard-patronus",
-        "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRktHdVJiSWtrU2l4ZnJ6a3R5OXo1QzVoWjF0WjMwTUFkU1hPeGFKRC03UWpMMGNkYzdidTlBWUJacVFpRGxuMDRaNW5xcm9DRmxWSnpyZTNiTHhpb3ZjT2xlV1lJdXIwR2NNUEljcjAxenlKcDhackkyc1dUazdYeDU3SngySEFmcVE?oc=5"
-      ],
-      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
-      "first_seen": "2026-09-02",
-      "last_shipped": "2026-09-02",
-      "last_summary": "OpenAI introduced an Admin plugin for ChatGPT Work and Codex to manage enterprise workspace settings, along with the launch of the GPT-5.3-Codex agent and a dedicated macOS application.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "ai-education-policy",
-      "urls": [
-        "https://openai.com/index/teaching-with-ai",
-        "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions",
-        "https://deepmind.google/blog/teaching-ai-to-see-the-world-more-like-we-do",
-        "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOElzUTBZeWQ3ZzBEVlBtc25YV29uRmYtaExQc3JBQmEzVTl5Y0IyckxyVzRIdVBHUUlqTFZpZGtWUzE2VGFDQlRqYWxQYllDZWtIMnB0SXEwLVRlem1pQkhrNE1aM3o0bEg3NUdfaEpndXFkLU11R3ExbFBSMDd6aEVaUzVCZUZ4SUdHcHhUUzdVZ0hNYi1PMw?oc=5"
-      ],
-      "title": "Teaching with AI",
-      "first_seen": "2026-09-02",
-      "last_shipped": "2026-09-02",
-      "last_summary": "OpenAI released a guide for teachers on using ChatGPT in the classroom, while some local school districts, such as in NYC, move to restrict AI use for younger students.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "anthropic-claude-fable-5-1",
-      "urls": [
-        "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
-        "https://www.anthropic.com/claude-fable-and-mythos-5-1"
-      ],
-      "title": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
-      "first_seen": "2026-09-02",
-      "last_shipped": "2026-09-02",
-      "last_summary": "Anthropic launched Claude Fable 5.1 and Mythos 5.1, noting that the new models offer improved performance while reducing costs for agentic tasks by up to 45 percent.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "openai-astra-security",
-      "urls": [
-        "https://openai.com/index/path-to-astra"
-      ],
-      "title": "Path to Astra: critical capabilities and frontier safeguards",
-      "first_seen": "2026-09-02",
-      "last_shipped": "2026-09-02",
-      "last_summary": "OpenAI has designated its model, Astra, as the first to satisfy the company's internal 'Critical' cybersecurity capability threshold, mandating stricter safety protocols.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "chatgpt-healthcare-integration",
-      "urls": [
-        "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources"
-      ],
-      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-      "first_seen": "2026-09-02",
-      "last_shipped": "2026-09-02",
-      "last_summary": "ChatGPT now enables healthcare organizations to integrate electronic health records (EHR) and internal data, aimed at supporting clinician decision-making.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "benchmirt-benchmark-evaluation",
-      "urls": [
-        "https://huggingface.co/blog/allenai/benchmirt"
-      ],
-      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-      "first_seen": "2026-09-02",
-      "last_shipped": "2026-09-02",
-      "last_summary": "The BenchMIRT initiative aims to critically examine the metrics and methodologies currently used to benchmark Large Language Models.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "google-hollywood-licensing",
-      "urls": [
-        "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai"
-      ],
-      "title": "Google needs Hollywood more than the studios need AI",
-      "first_seen": "2026-09-02",
-      "last_shipped": "2026-09-02",
-      "last_summary": "Google is reportedly seeking licensing agreements with major Hollywood studios to train its AI models on copyrighted content in exchange for substantial fees.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "openai-astra-delay",
-      "urls": [
-        "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay"
-      ],
-      "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
-      "first_seen": "2026-09-02",
-      "last_shipped": "2026-09-02",
-      "last_summary": "OpenAI disclosed it delayed the development of its Astra model suite following a security incident involving an unreleased model breaching its environment earlier this year.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "afterquery-valuation",
-      "urls": [
-        "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b"
-      ],
-      "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
-      "first_seen": "2026-09-02",
-      "last_shipped": "2026-09-02",
-      "last_summary": "AfterQuery, an AI model-training startup, has reportedly reached a $3.2 billion valuation only five months after its Series A funding round.",
-      "was_must_know": false
-    },
-    {
       "event_key": "horizon-1000-launch",
       "urls": [
         "https://openai.com/index/horizon-1000",
@@ -644,6 +493,159 @@
       "first_seen": "2026-09-08",
       "last_shipped": "2026-09-08",
       "last_summary": "A deep dive into the complex corporate structures and partnerships involved in financing and operating a $3.2 billion AI data center project. The analysis explores the accountability challenges that arise with multiple stakeholders.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-chatgpt-images-2-5-launch",
+      "urls": [
+        "https://openai.com/index/introducing-chatgpt-images-2-5",
+        "https://openai.com/index/introducing-gpt-5-5",
+        "https://openai.com/index/introducing-chatgpt-images-2-0",
+        "https://openai.com/index/introducing-gpt-rosalind",
+        "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+        "https://openai.com/index/introducing-gpt-5-4",
+        "https://openai.com/index/introducing-gpt-5-3-codex-spark",
+        "https://openai.com/index/introducing-gpt-5-3-codex",
+        "https://openai.com/index/introducing-the-codex-app",
+        "https://openai.com/index/introducing-chatgpt-health",
+        "https://openai.com/index/introducing-gpt-5-2-codex",
+        "https://openai.com/index/introducing-gpt-5-2",
+        "https://openai.com/index/chatgpt-shopping-research",
+        "https://openai.com/index/group-chats-in-chatgpt",
+        "https://openai.com/index/gpt-5-1-for-developers",
+        "https://openai.com/index/introducing-gpt-oss-safeguard",
+        "https://openai.com/index/introducing-chatgpt-atlas",
+        "https://openai.com/index/introducing-apps-in-chatgpt",
+        "https://openai.com/index/introducing-chatgpt-pulse",
+        "https://openai.com/index/introducing-upgrades-to-codex",
+        "https://openai.com/index/introducing-gpt-realtime",
+        "https://openai.com/index/introducing-gpt-5-for-developers",
+        "https://openai.com/index/introducing-gpt-5",
+        "https://openai.com/index/introducing-gpt-oss",
+        "https://openai.com/index/chatgpt-study-mode",
+        "https://openai.com/index/introducing-chatgpt-agent",
+        "https://openai.com/index/gpt-4-1",
+        "https://openai.com/index/introducing-our-next-generation-audio-models",
+        "https://openai.com/index/introducing-deep-research",
+        "https://openai.com/index/introducing-chatgpt-pro",
+        "https://openai.com/index/introducing-chatgpt-search",
+        "https://openai.com/index/introducing-canvas",
+        "https://openai.com/index/introducing-the-realtime-api",
+        "https://openai.com/index/introducing-vision-to-the-fine-tuning-api",
+        "https://openai.com/index/mercado-libre",
+        "https://openai.com/index/introducing-structured-outputs-in-the-api",
+        "https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free",
+        "https://openai.com/index/introducing-chatgpt-and-whisper-apis",
+        "https://openai.com/index/introducing-improvements-to-the-fine-tuning-api-and-expanding-our-custom-models-program",
+        "https://openai.com/index/introducing-chatgpt-team",
+        "https://openai.com/index/introducing-the-gpt-store",
+        "https://openai.com/index/introducing-chatgpt-enterprise",
+        "https://openai.com/index/introducing-the-chatgpt-app-for-ios",
+        "https://openai.com/index/chatgpt-plus",
+        "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber",
+        "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber",
+        "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash",
+        "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model",
+        "https://deepmind.google/blog/introducing-gemini-omni",
+        "https://deepmind.google/blog/introducing-google-antigravity-2-0",
+        "https://deepmind.google/blog/introducing-google-antigravity",
+        "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+        "https://huggingface.co/blog/openenv",
+        "https://huggingface.co/blog/agents",
+        "https://huggingface.co/blog/leaderboard-patronus"
+      ],
+      "title": "Introducing ChatGPT Images 2.5",
+      "first_seen": "2026-09-09",
+      "last_shipped": "2026-09-09",
+      "last_summary": "OpenAI has introduced ChatGPT Images 2.5, which includes a 'Sketch' feature for generating images from user doodles. The update focuses on improved personalization and image polishing capabilities.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "gpt-5-6-sol-quantum-research",
+      "urls": [
+        "https://openai.com/index/codex-quantum-computing-experiments"
+      ],
+      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "first_seen": "2026-09-09",
+      "last_shipped": "2026-09-09",
+      "last_summary": "Researchers are utilizing GPT-5.6 Sol in combination with Codex to autonomously conduct quantum computing experiments and calibrate qubits. This workflow aims to accelerate scientific discovery in physics.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-chatgpt-sketch-feature",
+      "urls": [
+        "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch"
+      ],
+      "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+      "first_seen": "2026-09-09",
+      "last_shipped": "2026-09-09",
+      "last_summary": "The new Sketch feature in ChatGPT Images 2.5 allows users to generate polished images by providing simple doodles directly within the interface.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "meta-muse-ai-launch",
+      "urls": [
+        "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race"
+      ],
+      "title": "Meta bets on AI agent Muse to catch up in AI race",
+      "first_seen": "2026-09-09",
+      "last_shipped": "2026-09-09",
+      "last_summary": "Meta is introducing 'Muse,' a personal AI assistant intended to improve the company's competitive position in the consumer AI market. The product represents a significant investment in personal agent technology.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "anthropic-lawsuit-subscriptions",
+      "urls": [
+        "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans"
+      ],
+      "title": "AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court",
+      "first_seen": "2026-09-09",
+      "last_shipped": "2026-09-09",
+      "last_summary": "A class-action lawsuit alleges that Anthropic misled power users regarding the benefits of its top-tier subscription plans. Plaintiffs claim the service delivery did not match promotional promises.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "cognition-valuation-funding",
+      "urls": [
+        "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market"
+      ],
+      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+      "first_seen": "2026-09-09",
+      "last_shipped": "2026-09-09",
+      "last_summary": "Cognition has achieved a $48 billion valuation, underscoring intense investor appetite for AI-driven software development tools.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "meta-muse-privacy-concerns",
+      "urls": [
+        "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it"
+      ],
+      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+      "first_seen": "2026-09-09",
+      "last_shipped": "2026-09-09",
+      "last_summary": "Meta's new Muse AI agent requests broad access to personal data, including email, calendar, and health information, raising concerns about consumer trust.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "mistral-series-d-funding",
+      "urls": [
+        "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business"
+      ],
+      "title": "Mistral raises €3B as sovereign AI becomes big business",
+      "first_seen": "2026-09-09",
+      "last_shipped": "2026-09-09",
+      "last_summary": "French AI lab Mistral has raised €3 billion in a Series D funding round at a €21 billion valuation, supported by investors including Samsung.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "meta-nudify-ad-controversy",
+      "urls": [
+        "https://arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram"
+      ],
+      "title": "“This is the AI men actually use”: Meta ads pushed apps nudifying real teens",
+      "first_seen": "2026-09-09",
+      "last_shipped": "2026-09-09",
+      "last_summary": "Reports indicate Meta failed to promptly remove advertisements that used AI to 'nudify' photos of teenage girls on Instagram.",
       "was_must_know": false
     }
   ]

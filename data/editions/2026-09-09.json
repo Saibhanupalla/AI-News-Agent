@@ -1,0 +1,391 @@
+{
+  "date": "2026-09-09",
+  "intro": "Today's tech landscape highlights aggressive expansion from industry leaders and significant new funding for AI startups. Meta's latest agent rollout and OpenAI's creative updates show the industry's push toward deeper consumer integration.",
+  "must_know": [
+    {
+      "cluster_id": "d6f651093c95c13b",
+      "title": "Meta bets on AI agent Muse to catch up in AI race",
+      "summary": "Meta is introducing 'Muse,' a personal AI assistant intended to improve the company's competitive position in the consumer AI market. The product represents a significant investment in personal agent technology.",
+      "why_it_matters": "Meta is aggressively pushing into the agentic space to challenge incumbents like OpenAI and Google.",
+      "topic_ids": [
+        "big-tech",
+        "tools"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race"
+        }
+      ]
+    },
+    {
+      "cluster_id": "cc176219ddc52766",
+      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+      "summary": "Cognition has achieved a $48 billion valuation, underscoring intense investor appetite for AI-driven software development tools.",
+      "why_it_matters": "The high valuation suggests that the market does not view AI coding assistants as a winner-take-all space.",
+      "topic_ids": [
+        "startups-funding"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market"
+        }
+      ]
+    },
+    {
+      "cluster_id": "2f431554cf8941b6",
+      "title": "Mistral raises €3B as sovereign AI becomes big business",
+      "summary": "French AI lab Mistral has raised €3 billion in a Series D funding round at a €21 billion valuation, supported by investors including Samsung.",
+      "why_it_matters": "Significant capital injection reinforces the importance of sovereign AI development in Europe.",
+      "topic_ids": [
+        "startups-funding",
+        "foundation-models"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business"
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "big-tech": [
+      {
+        "cluster_id": "3c847c358ea6854f",
+        "title": "AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court",
+        "summary": "A class-action lawsuit alleges that Anthropic misled power users regarding the benefits of its top-tier subscription plans. Plaintiffs claim the service delivery did not match promotional promises.",
+        "why_it_matters": "Highlights growing legal friction between AI companies and their professional user base regarding service expectations.",
+        "topic_ids": [
+          "big-tech",
+          "policy"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans"
+          }
+        ]
+      },
+      {
+        "cluster_id": "f1e83fe39da0e322",
+        "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+        "summary": "Meta's new Muse AI agent requests broad access to personal data, including email, calendar, and health information, raising concerns about consumer trust.",
+        "why_it_matters": "The rollout of Muse serves as a high-stakes stress test for Meta's reputation regarding data privacy.",
+        "topic_ids": [
+          "big-tech",
+          "policy"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it"
+          }
+        ]
+      },
+      {
+        "cluster_id": "afdfb531103edc5c",
+        "title": "“This is the AI men actually use”: Meta ads pushed apps nudifying real teens",
+        "summary": "Reports indicate Meta failed to promptly remove advertisements that used AI to 'nudify' photos of teenage girls on Instagram.",
+        "why_it_matters": "The incident highlights ongoing safety and content moderation failures regarding AI-generated abusive content on major platforms.",
+        "topic_ids": [
+          "big-tech",
+          "policy"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "Ars Technica",
+            "url": "https://arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram"
+          }
+        ]
+      }
+    ],
+    "foundation-models": [
+      {
+        "cluster_id": "fa24bbe459caa99b",
+        "title": "Introducing ChatGPT Images 2.5",
+        "summary": "OpenAI has introduced ChatGPT Images 2.5, which includes a 'Sketch' feature for generating images from user doodles. The update focuses on improved personalization and image polishing capabilities.",
+        "why_it_matters": "New multi-modal input methods make generative image tools more accessible for non-designers.",
+        "topic_ids": [
+          "foundation-models",
+          "tools"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/introducing-chatgpt-images-2-5"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/introducing-gpt-5-5"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/introducing-chatgpt-images-2-0"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/introducing-gpt-rosalind"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/introducing-gpt-5-4"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/introducing-gpt-5-3-codex"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/introducing-the-codex-app"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/introducing-chatgpt-health"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/introducing-gpt-5-2-codex"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/introducing-gpt-5-2"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/chatgpt-shopping-research"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/group-chats-in-chatgpt"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/gpt-5-1-for-developers"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/introducing-gpt-oss-safeguard"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/introducing-chatgpt-atlas"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/introducing-apps-in-chatgpt"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/introducing-chatgpt-pulse"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/introducing-upgrades-to-codex"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/introducing-gpt-realtime"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/introducing-gpt-5-for-developers"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/introducing-gpt-5"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/introducing-gpt-oss"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/chatgpt-study-mode"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/introducing-chatgpt-agent"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/gpt-4-1"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/introducing-our-next-generation-audio-models"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/introducing-deep-research"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/introducing-chatgpt-pro"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/introducing-chatgpt-search"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/introducing-canvas"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/introducing-the-realtime-api"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/introducing-vision-to-the-fine-tuning-api"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/mercado-libre"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/introducing-structured-outputs-in-the-api"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/introducing-chatgpt-and-whisper-apis"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/introducing-improvements-to-the-fine-tuning-api-and-expanding-our-custom-models-program"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/introducing-chatgpt-team"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/introducing-the-gpt-store"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/introducing-chatgpt-enterprise"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/introducing-the-chatgpt-app-for-ios"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/chatgpt-plus"
+          },
+          {
+            "name": "Google DeepMind Blog",
+            "url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber"
+          },
+          {
+            "name": "Google DeepMind Blog",
+            "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber"
+          },
+          {
+            "name": "Google DeepMind Blog",
+            "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash"
+          },
+          {
+            "name": "Google DeepMind Blog",
+            "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model"
+          },
+          {
+            "name": "Google DeepMind Blog",
+            "url": "https://deepmind.google/blog/introducing-gemini-omni"
+          },
+          {
+            "name": "Google DeepMind Blog",
+            "url": "https://deepmind.google/blog/introducing-google-antigravity-2-0"
+          },
+          {
+            "name": "Google DeepMind Blog",
+            "url": "https://deepmind.google/blog/introducing-google-antigravity"
+          },
+          {
+            "name": "Hugging Face Blog",
+            "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence"
+          },
+          {
+            "name": "Hugging Face Blog",
+            "url": "https://huggingface.co/blog/openenv"
+          },
+          {
+            "name": "Hugging Face Blog",
+            "url": "https://huggingface.co/blog/agents"
+          },
+          {
+            "name": "Hugging Face Blog",
+            "url": "https://huggingface.co/blog/leaderboard-patronus"
+          }
+        ]
+      },
+      {
+        "cluster_id": "503e9c2326e78f3e",
+        "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+        "summary": "Researchers are utilizing GPT-5.6 Sol in combination with Codex to autonomously conduct quantum computing experiments and calibrate qubits. This workflow aims to accelerate scientific discovery in physics.",
+        "why_it_matters": "Demonstrates the practical application of frontier AI models in managing high-precision, automated lab environments.",
+        "topic_ids": [
+          "foundation-models",
+          "research"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/codex-quantum-computing-experiments"
+          }
+        ]
+      }
+    ]
+  },
+  "continuing": [
+    {
+      "cluster_id": "9d0b33baabbac2f5",
+      "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+      "summary": "The new Sketch feature in ChatGPT Images 2.5 allows users to generate polished images by providing simple doodles directly within the interface.",
+      "why_it_matters": "Simplifies image generation by lowering the barrier to entry for creative prompting.",
+      "topic_ids": [
+        "foundation-models",
+        "tools"
+      ],
+      "story_type": "update",
+      "update_delta": "Provides specific detail on the new sketching input functionality announced with ChatGPT Images 2.5.",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch"
+        }
+      ]
+    }
+  ]
+}
