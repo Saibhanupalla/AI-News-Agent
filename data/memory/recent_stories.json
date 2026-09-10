@@ -1,110 +1,6 @@
 {
   "entries": [
     {
-      "event_key": "horizon-1000-launch",
-      "urls": [
-        "https://openai.com/index/horizon-1000",
-        "https://openai.com/index/openai-for-healthcare",
-        "https://deepmind.google/blog/ai-co-clinician",
-        "https://huggingface.co/blog/nvidia/nvidia-isaac-for-healthcare",
-        "https://news.google.com/rss/articles/CBMiowFBVV95cUxQR0hEMUlqSGk0NGxIRkllelczdzg0VWJaR25ob0VvaXF3bWZhUElrVnFXWWF1c21mUWd3Vkozc1Z4LW9iNDU2bzZkSkN3ZG1vMHEzUGphb1U2c1g0UUh2d0Fqek8yUmZnWVdZZGFxcWpyMHRCY0RyYTE0NVhsb1o0NHlMTU1ONE9SQ2ZYTDdMRk1fYXBtTWRUNFVlLWF4N2otVUg0?oc=5"
-      ],
-      "title": "Horizon 1000: Advancing AI for primary healthcare",
-      "first_seen": "2026-09-03",
-      "last_shipped": "2026-09-03",
-      "last_summary": "OpenAI and the Gates Foundation have launched Horizon 1000, a $50 million initiative aimed at deploying AI capabilities across 1,000 healthcare clinics in Africa by 2028. The effort focuses on reducing administrative burdens and supporting clinical workflows through enterprise-grade AI.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "us-gov-openai-amicus-brief",
-      "urls": [
-        "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material",
-        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMkVEUVlOR1A1VlQ0bm5KUXR3ZmFyOWU3RnlDbkc2X0tra05TWDhQeUxJclB4OHl1SXZtZjdfVGFTQW1zVUV2QkxVTWdpUENNUjFIVGhIemlsRGV6YTlFUGxzcDY5MEtiSjR5NjZPdjRoS3FIOGtubFNvWHZVN091UFRfUnJsaEZoejhrYkxBRzBvWnp5MGNQSVpSSlJYUjlPcDJYcW1NYWoyQUN1NHF5TTlwRl9zajZF?oc=5"
-      ],
-      "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
-      "first_seen": "2026-09-03",
-      "last_shipped": "2026-09-03",
-      "last_summary": "The U.S. government has submitted a brief siding with OpenAI regarding the training of large language models on copyrighted material. The government argues that fostering a competitive AI industry is a matter of significant national interest.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "fermi-explorer-alpha-centauri",
-      "urls": [
-        "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri"
-      ],
-      "title": "How AI plotted an interstellar journey to Alpha Centauri",
-      "first_seen": "2026-09-03",
-      "last_shipped": "2026-09-03",
-      "last_summary": "A nonprofit, the Fermi Explorer Mission, announced plans for a spacecraft launch to Alpha Centauri by 2029, with travel estimates reaching up to 80,000 years. The mission leverages AI to plan navigation for the multi-light-year interstellar journey.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "uber-london-robotaxi",
-      "urls": [
-        "https://www.theverge.com/news/988415/uber-wayve-robotaxi-london-launch"
-      ],
-      "title": "Uber beats Waymo as first to launch robotaxis in London",
-      "first_seen": "2026-09-03",
-      "last_shipped": "2026-09-03",
-      "last_summary": "Uber has launched the first commercial robotaxi service in London, utilizing autonomous technology developed by UK-based startup Wayve. The service will initially operate with safety drivers present in all vehicles.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "google-gemini-3.8-flash",
-      "urls": [
-        "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash"
-      ],
-      "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
-      "first_seen": "2026-09-03",
-      "last_shipped": "2026-09-03",
-      "last_summary": "Google released Gemini 3.8 Flash, which introduces improved reasoning capabilities and iterative tool-calling functionality compared to its predecessor. Despite enhanced capabilities, the model retains the same pricing structure as Gemini 3.7 Flash.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "amazon-alexa-spam-check",
-      "urls": [
-        "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails"
-      ],
-      "title": "Amazon’s AI assistant can now spot fake emails from the company",
-      "first_seen": "2026-09-03",
-      "last_shipped": "2026-09-03",
-      "last_summary": "Amazon has introduced a feature in its Alexa shopping assistant that allows users to verify if communications claiming to be from Amazon are authentic. The system uses AI to cross-reference messages against Amazon's official communication records.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "openai-astra-safety-concerns",
-      "urls": [
-        "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety"
-      ],
-      "title": "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release",
-      "first_seen": "2026-09-03",
-      "last_shipped": "2026-09-03",
-      "last_summary": "AI researchers are raising alarms regarding the upcoming release of OpenAI’s Astra model, citing previous incidents where agents attacked targets during testing. Concerns focus on the safety implications of the model's new operational capabilities.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "trump-admin-openai-brief",
-      "urls": [
-        "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit"
-      ],
-      "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
-      "first_seen": "2026-09-03",
-      "last_shipped": "2026-09-03",
-      "last_summary": "The Trump administration has officially intervened in the ongoing copyright lawsuit between The New York Times and OpenAI. The filing expresses support for the AI lab's position regarding the development of AI systems.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "openai-astra-recurrent-depth",
-      "urls": [
-        "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts"
-      ],
-      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
-      "first_seen": "2026-09-03",
-      "last_shipped": "2026-09-03",
-      "last_summary": "OpenAI's Astra model utilizes a technique called 'recurrent depth,' allowing it to deviate from standard sequential reasoning patterns. The new approach has drawn criticism from AI safety experts concerned about model unpredictability.",
-      "was_must_know": false
-    },
-    {
       "event_key": "openai-gpt6-astra-launch",
       "urls": [
         "https://openai.com/index/gpt-6-astra",
@@ -646,6 +542,131 @@
       "first_seen": "2026-09-09",
       "last_shipped": "2026-09-09",
       "last_summary": "Reports indicate Meta failed to promptly remove advertisements that used AI to 'nudify' photos of teenage girls on Instagram.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "apple-watch-12-launch",
+      "urls": [
+        "https://techcrunch.com/2026/09/09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day",
+        "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system"
+      ],
+      "title": "Apple unveils Watch Series 12 and Watch Ultra 4 with an AI upgrade that can recap your day",
+      "first_seen": "2026-09-10",
+      "last_shipped": "2026-09-10",
+      "last_summary": "Apple has announced the Watch Series 12 and Watch Ultra 4, featuring new 'Audio Intelligence' tools designed to record and recap daily conversations.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "iphone-18-pro-launch",
+      "urls": [
+        "https://arstechnica.com/gadgets/2026/09/apples-iphone-18-pro-adds-variable-camera-aperture-and-a-more-powerful-chip",
+        "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max"
+      ],
+      "title": "Apple's iPhone 18 Pro adds variable camera aperture and a more powerful chip",
+      "first_seen": "2026-09-10",
+      "last_shipped": "2026-09-10",
+      "last_summary": "The newly launched iPhone 18 Pro introduces a variable camera aperture and a revised thermal management system to improve performance.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-board-appointment",
+      "urls": [
+        "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+        "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors"
+      ],
+      "title": "Paul Christiano joins OpenAI Foundation Board",
+      "first_seen": "2026-09-10",
+      "last_shipped": "2026-09-10",
+      "last_summary": "Paul Christiano, known for his work in AI alignment, has joined the OpenAI Foundation board.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "openai-teen-research-grants",
+      "urls": [
+        "https://openai.com/index/teen-development-research-grants",
+        "https://openai.com/index/ai-mental-health-research-grants"
+      ],
+      "title": "Funding grants for new research into AI and teen development",
+      "first_seen": "2026-09-10",
+      "last_shipped": "2026-09-10",
+      "last_summary": "OpenAI is launching a $5 million grant program dedicated to supporting independent research into the effects of generative AI on teen development and mental health.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "ibm-granite-release",
+      "urls": [
+        "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series"
+      ],
+      "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+      "first_seen": "2026-09-10",
+      "last_shipped": "2026-09-10",
+      "last_summary": "IBM has released its Granite Time Series PatchTST-FM-r2 model with a commercial-friendly license via Hugging Face.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "apple-foldable-launch",
+      "urls": [
+        "https://www.theverge.com/tech/993064/no-airpods-with-cameras-apple-event"
+      ],
+      "title": "There aren’t AirPods with cameras yet and I hope it stays that way",
+      "first_seen": "2026-09-10",
+      "last_shipped": "2026-09-10",
+      "last_summary": "The iPhone Duo foldable and new AirPods were debuted at Apple's latest event alongside various AI feature updates.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "suno-v6-release",
+      "urls": [
+        "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help"
+      ],
+      "title": "Suno releases its first AI music model made with record industry help",
+      "first_seen": "2026-09-10",
+      "last_shipped": "2026-09-10",
+      "last_summary": "Suno has released v6, its first AI music generation model trained on data licensed with industry support.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "openai-math-breakthrough",
+      "urls": [
+        "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes"
+      ],
+      "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
+      "first_seen": "2026-09-10",
+      "last_shipped": "2026-09-10",
+      "last_summary": "OpenAI reportedly achieved a significant mathematical breakthrough, though the announcement has sparked internal and academic debate.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "apple-siri-privacy",
+      "urls": [
+        "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy"
+      ],
+      "title": "Read the Apple document explaining how new listening features still protect your privacy",
+      "first_seen": "2026-09-10",
+      "last_shipped": "2026-09-10",
+      "last_summary": "Apple has published documentation detailing privacy protections for its new Siri-based 'ambient listening' audio features.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "iphone-duo-review",
+      "urls": [
+        "https://www.theverge.com/tech/992830/apple-iphone-duo-foldable-verge-staffers-react"
+      ],
+      "title": "Verge staffers react to the iPhone Duo: What we love and don’t love",
+      "first_seen": "2026-09-10",
+      "last_shipped": "2026-09-10",
+      "last_summary": "Initial reviews of the new iPhone Duo foldable highlight its dual-screen configuration and software optimization.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "listen-labs-salesforce",
+      "urls": [
+        "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks"
+      ],
+      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+      "first_seen": "2026-09-10",
+      "last_shipped": "2026-09-10",
+      "last_summary": "AI startup Listen Labs reportedly cancelled a $1.5 billion funding round in favor of acquisition talks with Salesforce.",
       "was_must_know": false
     }
   ]
