@@ -1,0 +1,258 @@
+{
+  "date": "2026-09-11",
+  "intro": "Today's updates are headlined by the launch of OpenAI's GPT-6 Astra and major new partnerships aimed at expanding compute and enterprise capabilities. We also track the latest shifts in productivity tools and the growing infrastructure challenges facing AI energy demands.",
+  "must_know": [
+    {
+      "cluster_id": "662e6c1950f332c5",
+      "title": "GPT-6 Astra: The next generation in intelligence for work",
+      "summary": "OpenAI announced GPT-6 Astra, its new business-focused model featuring enhanced reasoning, computer use, and improved judgment.",
+      "why_it_matters": "The shift toward models with direct 'computer use' capabilities signals the next major phase of AI-driven enterprise automation.",
+      "topic_ids": [
+        "foundation-models"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/gpt-6-astra-next-generation-work"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/gpt-6-astra"
+        }
+      ]
+    },
+    {
+      "cluster_id": "a463afed51f54c65",
+      "title": "OpenAI partners with Cerebras",
+      "summary": "OpenAI is partnering with Cerebras to secure 750MW of high-speed AI compute power to improve real-time ChatGPT performance.",
+      "why_it_matters": "Securing massive, specialized hardware capacity is critical for reducing inference latency in competitive AI markets.",
+      "topic_ids": [
+        "foundation-models",
+        "hardware",
+        "big-tech"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/cerebras-partnership"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/global-affairs/the-washington-post-partners-with-openai"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/openai-partners-with-schibsted-media-group"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/conde-nast"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/openai-partners-with-scale-to-provide-support-for-enterprises-fine-tuning-models"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/microsoft-invests-in-and-partners-with-openai"
+        },
+        {
+          "name": "Google News: AI",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcXB3ZTR1cm5DUm8xYmNjUHgzOUVoQm81TzIyLWdFRG5lVWFOQ2xpS21LLVR1ZGt4TUlNSmZWYkxfQXJQRXpaZEJoU3owYy1EVVVtY01Kbml5VXJOTE4xT29YVjE1aTF2SVZVb1hXWnJrbFZEbTU2TVp1MTNZdDZtbGVCb1A3Smo2bTZ5TVJvR0NOcFBtckxUcEM5NFdBamdvVEk0X2owVVM4SVRwZTAzQllLYUF0QkVHZ0tjStIBwgFBVV95cUxOckxCMmtKNWdVekphODEzNGw2OVVRRHphYUtJZWpWNlJJOTY1cWc4S2FQdjRKVDlkX2ltR2ZYOHlQdGt4MFhXczg3anV2WGxYMDhqNEdvdjdhOTQ5NExWVTVLbHlRR1EtRWEtSm9ZZi1KbkhncDZjb0UwNEh3VU1YRWE2VkVoaHhkXy1iQzNKRWxUWldZZjB1cWtTNk45UzlVRU8tZ3dURFFJMTNvZUZnd3Y1dU5tREtqSk9qUnpVY2IzUQ?oc=5"
+        },
+        {
+          "name": "Google News: AI",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPU2t0S2RKdnBiUnMzZnprbWZMVWhhd2ZOMXNTVG1TUnJYbFllc3RuQVcxT1NORjlQU2o2b2czS05yNDRERmNsU0k4S2EyQnB5OEN2aVctMjdOc3BVcXd2czhTOEo3YzAtMXBZbHhWS1pjXzFqM0l3Yk5zeE4zdVE4RDZkMW1GOTZCbFBZSUtORGMwT3dDRWwxaQ?oc=5"
+        }
+      ]
+    },
+    {
+      "cluster_id": "6a886414536a09e3",
+      "title": "Now everyone can put data to work",
+      "summary": "OpenAI introduced a Data agent for ChatGPT Work, allowing users to connect company data and generate interactive dashboards using natural language.",
+      "why_it_matters": "This feature lowers the barrier for non-technical users to build tools and extract actionable insights from corporate datasets.",
+      "topic_ids": [
+        "tools",
+        "foundation-models"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/put-data-to-work"
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "foundation-models": [
+      {
+        "cluster_id": "b8a75fb67d817922",
+        "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+        "summary": "The GPT-Live-1 model is now available in the OpenAI API, featuring full-duplex voice capabilities, custom voices, and telephony integration.",
+        "why_it_matters": "This update enables developers to build more natural and responsive voice-based AI applications.",
+        "topic_ids": [
+          "tools",
+          "foundation-models"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api"
+          }
+        ]
+      }
+    ],
+    "tools": [
+      {
+        "cluster_id": "baa39032259715dd",
+        "title": "Slack can now vibe-code interactive charts and reports inside chats",
+        "summary": "Slack is introducing 'Slackforce Surfaces,' an AI-powered tool that allows users to generate interactive reports and dashboards via natural language commands.",
+        "why_it_matters": "The feature demonstrates a shift toward internal 'vibe-coding' to automate data visualization directly within communication platforms.",
+        "topic_ids": [
+          "tools"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch"
+          }
+        ]
+      },
+      {
+        "cluster_id": "b6ba2e025271a1e2",
+        "title": "Meta’s Muse AI works and creeps me out",
+        "summary": "Meta has launched 'Muse,' an AI assistant designed to automate personal productivity tasks like email management, shopping, and travel planning.",
+        "why_it_matters": "Meta is aggressively moving into the consumer agent space to compete with other integrated productivity AI tools.",
+        "topic_ids": [
+          "tools",
+          "big-tech"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on"
+          }
+        ]
+      }
+    ],
+    "hardware": [
+      {
+        "cluster_id": "f37aa50a575f6307",
+        "title": "Powering AI is an architecture problem",
+        "summary": "Infrastructure failures in major data center hubs like Ashburn, Virginia, highlight the increasing fragility of energy grids as AI compute demand rises.",
+        "why_it_matters": "Power availability and grid stability are becoming the primary physical constraints on the expansion of large-scale AI clusters.",
+        "topic_ids": [
+          "hardware"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem"
+          }
+        ]
+      },
+      {
+        "cluster_id": "f6f9b14607f2afe5",
+        "title": "The iPhone Duo’s hardware doesn’t look special, but its software might be",
+        "summary": "The new iPhone Duo enters the foldable market, relying on high-level software polish to differentiate itself from existing Android hardware offerings.",
+        "why_it_matters": "Apple's entry into the foldable segment focuses on software-driven UX rather than purely novel hardware specifications.",
+        "topic_ids": [
+          "hardware"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/tech/993300/iphone-duo-hardware-software-android-samsung-oppo"
+          }
+        ]
+      }
+    ],
+    "big-tech": [
+      {
+        "cluster_id": "3802aa15c4b6ae22",
+        "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+        "summary": "OpenAI and the GSA are launching a program to provide governments with $0 license fees, discounted usage, and enhanced cyber defense support.",
+        "why_it_matters": "This subsidization encourages public sector adoption of AI while focusing on security and defense applications.",
+        "topic_ids": [
+          "policy",
+          "big-tech"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/expanding-ai-access-us-government"
+          }
+        ]
+      }
+    ],
+    "policy": [
+      {
+        "cluster_id": "5ebfd29fa4496f33",
+        "title": "New policy ideas for the Intelligence Age",
+        "summary": "OpenAI is funding 14 independent projects focused on industrial policy and economic resilience in the era of advanced AI.",
+        "why_it_matters": "The initiative aims to shape the societal and economic framework of the 'Intelligence Age' through people-first research.",
+        "topic_ids": [
+          "policy"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age"
+          },
+          {
+            "name": "Google News: AI",
+            "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQWWJ3RExveFFRbjQ0M1BnTGVhR1M1R3E1OUZHV3FLd1hqWjZfbEV2cjhSekFNcWRKWmdEWTUweFI4ZmlpN0w4WnM2eU5TRF9QRUhDdFh1RUtiTXcxNWozb2hkbUZJdklody13dmN6SUdtSmRmekdpNGpub3BUNFNfVml6SnFVWGRSVkJhVXpPRGF4aVp2YTN3RnBiU19nYTg4QUJGTDIzMUpUMVB2STJ2eHZBU3dJWUFvS1hETkRBcHc2S25QTFA2c2pDemhkXzF4X1BiTURWYmhKWS0xOFBrNExGYjRLWUpDM1VoZzNoMDNNNGVQZGRnZXRDTlMwbmtnSVJiZGwtU25nTjBkXzFkU2tPU3hVb3B0UXc?oc=5"
+          }
+        ]
+      }
+    ],
+    "research": [
+      {
+        "cluster_id": "e07fded7053d0981",
+        "title": "How AI training scales",
+        "summary": "Researchers have identified gradient noise scale as a metric that predicts the parallelizability of neural network training.",
+        "why_it_matters": "The finding suggests that larger batch sizes can effectively scale training, removing a known bottleneck for future model growth.",
+        "topic_ids": [
+          "research"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/how-ai-training-scales"
+          },
+          {
+            "name": "Google News: AI",
+            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQ3Nhc0JCU2JkSFQ1Ym1SUE9TeW93NldDakctQXFkNURRTkJELWlRWEdWRHk2OEFTcVNwTTJMTGRwbk5YNE1Vc3dqa1dTejUtenlwTDBNREs4SVl3aEFRdHl3N3ZMRDNUT2FaQnoydkFHajlvLUVqZWVDT245dndqY2VuT2lDUzZWczNiVFhGdVFPTEJBN2FXY3dyTEN3d1NSb2Z0N2VOZTgxYXVzdFhOUzYtcEpaUzZLWG5ZUy1JeDBtT1NuZklYYlNPVjQ2bXYyRHc1WlZXMFRqVlE?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  "continuing": []
+}

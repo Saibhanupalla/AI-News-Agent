@@ -1,89 +1,6 @@
 {
   "entries": [
     {
-      "event_key": "openai-gpt6-astra-launch",
-      "urls": [
-        "https://openai.com/index/gpt-6-astra",
-        "https://openai.com/index/legora-financial-statement-review-with-astra",
-        "https://openai.com/index/playco-game-prototyping-with-astra",
-        "https://openai.com/index/safety-overview-gpt-6-astra",
-        "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release"
-      ],
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "first_seen": "2026-09-04",
-      "last_shipped": "2026-09-04",
-      "last_summary": "OpenAI has officially released GPT-6 Astra, which the company describes as a generational leap in AI capability for professional, scientific, and software engineering domains.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "openai-daybreak-launch",
-      "urls": [
-        "https://openai.com/index/daybreak-for-frontline-defenders"
-      ],
-      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-      "first_seen": "2026-09-04",
-      "last_shipped": "2026-09-04",
-      "last_summary": "OpenAI launched 'Daybreak for Frontline Defenders,' a $1 billion initiative aimed at providing frontier cyber AI and support to essential public services.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "google-deepmind-weather-next",
-      "urls": [
-        "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model",
-        "https://deepmind.google/blog/weathernext-2-our-most-advanced-weather-forecasting-model"
-      ],
-      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-      "first_seen": "2026-09-04",
-      "last_shipped": "2026-09-04",
-      "last_summary": "Google DeepMind announced WeatherNext 3, an AI model designed to improve the accuracy and resolution of global weather predictions.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "nvidia-dlss5-modding",
-      "urls": [
-        "https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40"
-      ],
-      "title": "Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control",
-      "first_seen": "2026-09-04",
-      "last_shipped": "2026-09-04",
-      "last_summary": "Modders have successfully ported Nvidia's DLSS 5 rendering to older hardware, despite official limitations restricting it to RTX 50 series GPUs.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "tesla-cybercab-launch",
-      "urls": [
-        "https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk"
-      ],
-      "title": "The unusually muted Tesla Cybercab launch",
-      "first_seen": "2026-09-04",
-      "last_shipped": "2026-09-04",
-      "last_summary": "Tesla held a closed-door event in Austin to officially unveil its Cybercab autonomous vehicle.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "microsoft-xbox-cloud-changes",
-      "urls": [
-        "https://www.theverge.com/news/989166/microsoft-xbox-cloud-gaming-hourly-limits-changes",
-        "https://www.theverge.com/news/989211/microsoft-xbox-cloud-gaming-pay-as-you-go-option"
-      ],
-      "title": "Microsoft slashes Xbox Cloud Gaming to just 15 hours a month for Ultimate subscribers",
-      "first_seen": "2026-09-04",
-      "last_shipped": "2026-09-04",
-      "last_summary": "Beginning in November, Microsoft will offer a new pay-as-you-go option for Xbox Cloud Gaming, allowing access without a recurring subscription.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "crusoe-funding-round",
-      "urls": [
-        "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation"
-      ],
-      "title": "Crusoe reportedly raises $3B at a  $30B valuation",
-      "first_seen": "2026-09-04",
-      "last_shipped": "2026-09-04",
-      "last_summary": "Data center developer Crusoe has reportedly secured $3 billion in new funding, reaching a $30 billion valuation following a major contract with Jane Street.",
-      "was_must_know": false
-    },
-    {
       "event_key": "openai-strategic-partnerships",
       "urls": [
         "https://openai.com/index/grupo-folha-grupo-uol-partnership",
@@ -667,6 +584,138 @@
       "first_seen": "2026-09-10",
       "last_shipped": "2026-09-10",
       "last_summary": "AI startup Listen Labs reportedly cancelled a $1.5 billion funding round in favor of acquisition talks with Salesforce.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-policy-funding",
+      "urls": [
+        "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+        "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+        "https://news.google.com/rss/articles/CBMimgJBVV95cUxQWWJ3RExveFFRbjQ0M1BnTGVhR1M1R3E1OUZHV3FLd1hqWjZfbEV2cjhSekFNcWRKWmdEWTUweFI4ZmlpN0w4WnM2eU5TRF9QRUhDdFh1RUtiTXcxNWozb2hkbUZJdklody13dmN6SUdtSmRmekdpNGpub3BUNFNfVml6SnFVWGRSVkJhVXpPRGF4aVp2YTN3RnBiU19nYTg4QUJGTDIzMUpUMVB2STJ2eHZBU3dJWUFvS1hETkRBcHc2S25QTFA2c2pDemhkXzF4X1BiTURWYmhKWS0xOFBrNExGYjRLWUpDM1VoZzNoMDNNNGVQZGRnZXRDTlMwbmtnSVJiZGwtU25nTjBkXzFkU2tPU3hVb3B0UXc?oc=5"
+      ],
+      "title": "New policy ideas for the Intelligence Age",
+      "first_seen": "2026-09-11",
+      "last_shipped": "2026-09-11",
+      "last_summary": "OpenAI is funding 14 independent projects focused on industrial policy and economic resilience in the era of advanced AI.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-cerebras-partnership",
+      "urls": [
+        "https://openai.com/index/cerebras-partnership",
+        "https://openai.com/global-affairs/the-washington-post-partners-with-openai",
+        "https://openai.com/index/openai-partners-with-schibsted-media-group",
+        "https://openai.com/index/conde-nast",
+        "https://openai.com/index/openai-partners-with-scale-to-provide-support-for-enterprises-fine-tuning-models",
+        "https://openai.com/index/microsoft-invests-in-and-partners-with-openai",
+        "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcXB3ZTR1cm5DUm8xYmNjUHgzOUVoQm81TzIyLWdFRG5lVWFOQ2xpS21LLVR1ZGt4TUlNSmZWYkxfQXJQRXpaZEJoU3owYy1EVVVtY01Kbml5VXJOTE4xT29YVjE1aTF2SVZVb1hXWnJrbFZEbTU2TVp1MTNZdDZtbGVCb1A3Smo2bTZ5TVJvR0NOcFBtckxUcEM5NFdBamdvVEk0X2owVVM4SVRwZTAzQllLYUF0QkVHZ0tjStIBwgFBVV95cUxOckxCMmtKNWdVekphODEzNGw2OVVRRHphYUtJZWpWNlJJOTY1cWc4S2FQdjRKVDlkX2ltR2ZYOHlQdGt4MFhXczg3anV2WGxYMDhqNEdvdjdhOTQ5NExWVTVLbHlRR1EtRWEtSm9ZZi1KbkhncDZjb0UwNEh3VU1YRWE2VkVoaHhkXy1iQzNKRWxUWldZZjB1cWtTNk45UzlVRU8tZ3dURFFJMTNvZUZnd3Y1dU5tREtqSk9qUnpVY2IzUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMimAFBVV95cUxPU2t0S2RKdnBiUnMzZnprbWZMVWhhd2ZOMXNTVG1TUnJYbFllc3RuQVcxT1NORjlQU2o2b2czS05yNDRERmNsU0k4S2EyQnB5OEN2aVctMjdOc3BVcXd2czhTOEo3YzAtMXBZbHhWS1pjXzFqM0l3Yk5zeE4zdVE4RDZkMW1GOTZCbFBZSUtORGMwT3dDRWwxaQ?oc=5"
+      ],
+      "title": "OpenAI partners with Cerebras",
+      "first_seen": "2026-09-11",
+      "last_shipped": "2026-09-11",
+      "last_summary": "OpenAI is partnering with Cerebras to secure 750MW of high-speed AI compute power to improve real-time ChatGPT performance.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "gradient-noise-scale-research",
+      "urls": [
+        "https://openai.com/index/how-ai-training-scales",
+        "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQ3Nhc0JCU2JkSFQ1Ym1SUE9TeW93NldDakctQXFkNURRTkJELWlRWEdWRHk2OEFTcVNwTTJMTGRwbk5YNE1Vc3dqa1dTejUtenlwTDBNREs4SVl3aEFRdHl3N3ZMRDNUT2FaQnoydkFHajlvLUVqZWVDT245dndqY2VuT2lDUzZWczNiVFhGdVFPTEJBN2FXY3dyTEN3d1NSb2Z0N2VOZTgxYXVzdFhOUzYtcEpaUzZLWG5ZUy1JeDBtT1NuZklYYlNPVjQ2bXYyRHc1WlZXMFRqVlE?oc=5"
+      ],
+      "title": "How AI training scales",
+      "first_seen": "2026-09-11",
+      "last_shipped": "2026-09-11",
+      "last_summary": "Researchers have identified gradient noise scale as a metric that predicts the parallelizability of neural network training.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-data-agent-launch",
+      "urls": [
+        "https://openai.com/index/put-data-to-work"
+      ],
+      "title": "Now everyone can put data to work",
+      "first_seen": "2026-09-11",
+      "last_shipped": "2026-09-11",
+      "last_summary": "OpenAI introduced a Data agent for ChatGPT Work, allowing users to connect company data and generate interactive dashboards using natural language.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "openai-government-access",
+      "urls": [
+        "https://openai.com/index/expanding-ai-access-us-government"
+      ],
+      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+      "first_seen": "2026-09-11",
+      "last_shipped": "2026-09-11",
+      "last_summary": "OpenAI and the GSA are launching a program to provide governments with $0 license fees, discounted usage, and enhanced cyber defense support.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-gpt-live-api",
+      "urls": [
+        "https://openai.com/index/introducing-gpt-live-1-in-the-api"
+      ],
+      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+      "first_seen": "2026-09-11",
+      "last_shipped": "2026-09-11",
+      "last_summary": "The GPT-Live-1 model is now available in the OpenAI API, featuring full-duplex voice capabilities, custom voices, and telephony integration.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-gpt-6-astra-launch",
+      "urls": [
+        "https://openai.com/index/gpt-6-astra-next-generation-work",
+        "https://openai.com/index/gpt-6-astra"
+      ],
+      "title": "GPT-6 Astra: The next generation in intelligence for work",
+      "first_seen": "2026-09-11",
+      "last_shipped": "2026-09-11",
+      "last_summary": "OpenAI announced GPT-6 Astra, its new business-focused model featuring enhanced reasoning, computer use, and improved judgment.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "ai-data-center-energy-grid",
+      "urls": [
+        "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem"
+      ],
+      "title": "Powering AI is an architecture problem",
+      "first_seen": "2026-09-11",
+      "last_shipped": "2026-09-11",
+      "last_summary": "Infrastructure failures in major data center hubs like Ashburn, Virginia, highlight the increasing fragility of energy grids as AI compute demand rises.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "slack-ai-dashboards",
+      "urls": [
+        "https://www.theverge.com/tech/989853/slackforce-surfaces-launch"
+      ],
+      "title": "Slack can now vibe-code interactive charts and reports inside chats",
+      "first_seen": "2026-09-11",
+      "last_shipped": "2026-09-11",
+      "last_summary": "Slack is introducing 'Slackforce Surfaces,' an AI-powered tool that allows users to generate interactive reports and dashboards via natural language commands.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "meta-muse-launch",
+      "urls": [
+        "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on"
+      ],
+      "title": "Meta’s Muse AI works and creeps me out",
+      "first_seen": "2026-09-11",
+      "last_shipped": "2026-09-11",
+      "last_summary": "Meta has launched 'Muse,' an AI assistant designed to automate personal productivity tasks like email management, shopping, and travel planning.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "apple-iphone-duo-review",
+      "urls": [
+        "https://www.theverge.com/tech/993300/iphone-duo-hardware-software-android-samsung-oppo"
+      ],
+      "title": "The iPhone Duo’s hardware doesn’t look special, but its software might be",
+      "first_seen": "2026-09-11",
+      "last_shipped": "2026-09-11",
+      "last_summary": "The new iPhone Duo enters the foldable market, relying on high-level software polish to differentiate itself from existing Android hardware offerings.",
       "was_must_know": false
     }
   ]
