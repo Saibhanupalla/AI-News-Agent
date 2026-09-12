@@ -1,0 +1,177 @@
+{
+  "date": "2026-09-12",
+  "intro": "Today's tech landscape is defined by the rapid integration of advanced AI models into specialized industries and autonomous agent systems. Meanwhile, emerging policy concerns around data security and model distillation highlight the ongoing tension between innovation and safety.",
+  "must_know": [
+    {
+      "cluster_id": "8f5be2f4cc61c0d2",
+      "title": "First look at GPT-5",
+      "summary": "OpenAI is providing an initial look at GPT-5, highlighting its adoption by developers.",
+      "why_it_matters": "The release of GPT-5 is highly anticipated as the next major iteration of OpenAI's flagship LLM.",
+      "topic_ids": [
+        "foundation-models",
+        "big-tech"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/994055/meta-project-phoenix-headset-leak"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/gpt-5-first-look"
+        }
+      ]
+    },
+    {
+      "cluster_id": "968c32634dc2a1cb",
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "summary": "Perplexity is utilizing GPT-6 Astra for autonomous systems tasks, including communication, software modification, and production monitoring.",
+      "why_it_matters": "Real-world industrial application of agentic models shows the potential for systems to manage complex technical workflows with less human oversight.",
+      "topic_ids": [
+        "foundation-models",
+        "tools"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
+        }
+      ]
+    },
+    {
+      "cluster_id": "ef2856f80dd39d55",
+      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+      "summary": "Anthropic reports an increase in distillation attacks where China-based companies use its models to train their own competing LLMs.",
+      "why_it_matters": "Model distillation has become a key front in the geopolitical competition for AI supremacy.",
+      "topic_ids": [
+        "policy",
+        "big-tech"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek"
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "foundation-models": [
+      {
+        "cluster_id": "0f277248dca263ec",
+        "title": "Horizon 1000: Advancing AI for primary healthcare",
+        "summary": "OpenAI and the Gates Foundation have launched Horizon 1000, a $50 million initiative to deploy AI in 1,000 African clinics by 2028. Additionally, OpenAI is marketing new healthcare-specific enterprise features aimed at reducing administrative burdens.",
+        "why_it_matters": "This marks a major push for AI-augmented clinical workflows in underserved regions.",
+        "topic_ids": [
+          "foundation-models",
+          "tools"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/horizon-1000"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/openai-for-healthcare"
+          },
+          {
+            "name": "Google DeepMind Blog",
+            "url": "https://deepmind.google/blog/ai-co-clinician"
+          },
+          {
+            "name": "Hugging Face Blog",
+            "url": "https://huggingface.co/blog/nvidia/nvidia-isaac-for-healthcare"
+          },
+          {
+            "name": "Google News: AI",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONHl4NVV1U2NpZDV4SXgzTFh4UDd1RTc2eGJsWHRFbldBeU9KalkyLUQ3eUdqSHVEUFlCYzB2WGF4eGtYWGFUcF9lNjc1dlNVNnJSTC1TcnBfVnIzY3JYWkhjWXlrVjU4OFF1NzduS2tBSFJSMTlmTDRvQXJoRmdvWXZsa2ZoLTA1RWFSTXg5aTFHdEEtWHBjbjZIVnE4VzRHdGZPS2F2cjFfU0Y5eUtCZGVOc0JEVXdqYldaX1NfTG5sQ2h6aUZJ?oc=5"
+          }
+        ]
+      },
+      {
+        "cluster_id": "4aeb82da9975e2f5",
+        "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+        "summary": "Cognition is integrating GPT-6 Astra into its Devin AI agent to automate software testing.",
+        "why_it_matters": "Agentic testing tools could significantly reduce the manual code review burden for software engineers.",
+        "topic_ids": [
+          "foundation-models",
+          "tools"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/cognition-devin-testing-with-astra"
+          }
+        ]
+      }
+    ],
+    "policy": [
+      {
+        "cluster_id": "136a4de1f8b5907b",
+        "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
+        "summary": "A New Mexico lawyer was fined $5,000 for submitting court filings containing AI-generated fake witnesses and police testimony.",
+        "why_it_matters": "Courts are increasingly penalizing legal professionals who fail to verify AI-produced outputs in legal documentation.",
+        "topic_ids": [
+          "policy"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal"
+          }
+        ]
+      },
+      {
+        "cluster_id": "626b0ed26a7b7fd6",
+        "title": "Claude users found ways around safeguards for bioweapons research",
+        "summary": "Researchers have identified methods by which users can bypass Claude's safeguards to perform bioweapons-related inquiries.",
+        "why_it_matters": "This highlights the persistent challenge of balancing open research with safety guardrails against dual-use risks.",
+        "topic_ids": [
+          "policy",
+          "research"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "Ars Technica",
+            "url": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research"
+          }
+        ]
+      }
+    ],
+    "hardware": [
+      {
+        "cluster_id": "45b8e9486320eb86",
+        "title": "Proxima Fusion bets €140M on a critical fusion ingredient dominated by Asian suppliers",
+        "summary": "Proxima Fusion is investing €140 million to build a factory for superconducting tape, a critical component for fusion energy reactors.",
+        "why_it_matters": "Domestic production of key fusion components is seen as a way to reduce dependency on international supply chains.",
+        "topic_ids": [
+          "hardware"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/09/10/proxima-fusion-bets-e140m-on-a-critical-fusion-ingredient-dominated-by-asian-suppliers"
+          }
+        ]
+      }
+    ]
+  },
+  "continuing": []
+}
