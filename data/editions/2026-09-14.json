@@ -1,0 +1,72 @@
+{
+  "date": "2026-09-14",
+  "intro": "The debate over AI governance is heating up as political leaders weigh in on the industry's direction. Simultaneously, OpenAI is responding to high-profile legal challenges regarding its foundational goals.",
+  "must_know": [
+    {
+      "cluster_id": "395acc6e88d3562e",
+      "title": "Trump and Mike Johnson think the AI industry is overreacting",
+      "summary": "Donald Trump and House Speaker Mike Johnson have expressed skepticism toward recent calls from industry leaders to slow down AI development. This contrasts with statements from executives at Anthropic, OpenAI, and Alphabet who have recently supported pacing the frontier.",
+      "why_it_matters": "A political divide is emerging regarding whether the AI industry should voluntarily slow its development pace for safety reasons.",
+      "topic_ids": [
+        "policy"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting"
+        }
+      ]
+    },
+    {
+      "cluster_id": "080f8e06d1652191",
+      "title": "Elon Musk wanted an OpenAI for-profit",
+      "summary": "OpenAI has responded to Elon Musk’s latest legal filing by highlighting that Musk himself attempted to establish a for-profit structure for the company in 2017. The organization maintains that it remains committed to its original mission despite the ongoing litigation.",
+      "why_it_matters": "The back-and-forth between Musk and OpenAI continues to focus on the company's shift from a non-profit to a for-profit model.",
+      "topic_ids": [
+        "big-tech",
+        "foundation-models"
+      ],
+      "story_type": "update",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/elon-musk-wanted-an-openai-for-profit"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/openai-elon-musk"
+        },
+        {
+          "name": "Google News: AI",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQlhQUVhMMWE4RFpEUXBNVWIyNHk0MXJzNkR6NUJtZlBmY3B5ZFhjNGJjaWtXZEtodlgzX0ZMV1M5WXh5UUw5S0cyaXlYc2RoYjlIemhzN0JCZ3pjTjBIOGxMZ24wWHNlNUZkeXRTQlN0Q1hTenNzaXlabWVISmFQRkxsSFNfVkJWOFJkdE9FSHhEOWFmQnBseDlnUXJGc2pWU09ZWXRfMW1wS21PQXA3M080em1reXYyaXdONWdR?oc=5"
+        }
+      ]
+    },
+    {
+      "cluster_id": "a9168f763f4cb25f",
+      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+      "summary": "Former President Barack Obama has advised the Democratic party to establish a formal and clear strategy for AI safety and economic regulation. He emphasized that addressing AI should be a central component of the party's future policy agenda.",
+      "why_it_matters": "As AI becomes a major political issue, prominent political figures are pushing for more concrete regulatory frameworks.",
+      "topic_ids": [
+        "policy"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards"
+        },
+        {
+          "name": "Google News: AI",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQjBfVTl3bVNERE9wVU5ENmdobTJEbFJUWm1iclpkMVNWTkhsV0lLV28yS0NTSHB2enhsOU1LQUlHMXdjb3RBM3BOSHFnOXk1SVFiTnRnTU9kanY4X0h0RVNBeC0xM0NINDlFV2Z5dmFnbFU1R1d6VldHR3BkVWJWcElpb2xRSU1MRkIxR3ljcWxzVm9WZ0lOdGZxaw?oc=5"
+        }
+      ]
+    }
+  ],
+  "sections": {},
+  "continuing": []
+}

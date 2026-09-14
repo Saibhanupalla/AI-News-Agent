@@ -1,41 +1,6 @@
 {
   "entries": [
     {
-      "event_key": "frontier-model-forum-update",
-      "urls": [
-        "https://openai.com/index/frontier-model-forum-updates",
-        "https://openai.com/index/frontier-model-forum",
-        "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sNFF3Q0dBSF9ZR25qQlBUdGFVME1uVW5CZEYxUTJEd3Noams5aHBPNUROM0kzQ3MxTHh0WGNINE9XYTRWQ0hmTW1mY0wwVmhlV2xKYkFzOW85RGszLVE?oc=5"
-      ],
-      "title": "Frontier Model Forum updates",
-      "first_seen": "2026-09-07",
-      "last_shipped": "2026-09-07",
-      "last_summary": "The Frontier Model Forum, a coalition including OpenAI, Anthropic, Google, and Microsoft, has appointed a new executive director and established a $10 million AI Safety Fund.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "openai-research-agents",
-      "urls": [
-        "https://openai.com/index/research-acceleration-view-inside-openai"
-      ],
-      "title": "Research acceleration: The view inside OpenAI",
-      "first_seen": "2026-09-07",
-      "last_shipped": "2026-09-07",
-      "last_summary": "OpenAI released internal data regarding the integration of coding agents into their research workflows, highlighting impacts on task complexity and experimentation speed.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "tesla-cybercab-testing",
-      "urls": [
-        "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag"
-      ],
-      "title": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
-      "first_seen": "2026-09-07",
-      "last_shipped": "2026-09-07",
-      "last_summary": "TechCrunch reports on early road testing for the Tesla Cybercab and subsequent challenges encountered by the autonomous platform.",
-      "was_must_know": true
-    },
-    {
       "event_key": "ramp-codex-integration",
       "urls": [
         "https://openai.com/index/ramp",
@@ -708,6 +673,42 @@
       "last_shipped": "2026-09-13",
       "last_summary": "AgentsDock is a newly highlighted IDE tailored specifically for researchers and developers working on agentic AI workflows. The tool aims to simplify the debugging and development process for complex autonomous systems.",
       "was_must_know": false
+    },
+    {
+      "event_key": "openai-musk-lawsuit-developments",
+      "urls": [
+        "https://openai.com/index/elon-musk-wanted-an-openai-for-profit",
+        "https://openai.com/index/openai-elon-musk",
+        "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQlhQUVhMMWE4RFpEUXBNVWIyNHk0MXJzNkR6NUJtZlBmY3B5ZFhjNGJjaWtXZEtodlgzX0ZMV1M5WXh5UUw5S0cyaXlYc2RoYjlIemhzN0JCZ3pjTjBIOGxMZ24wWHNlNUZkeXRTQlN0Q1hTenNzaXlabWVISmFQRkxsSFNfVkJWOFJkdE9FSHhEOWFmQnBseDlnUXJGc2pWU09ZWXRfMW1wS21PQXA3M080em1reXYyaXdONWdR?oc=5"
+      ],
+      "title": "Elon Musk wanted an OpenAI for-profit",
+      "first_seen": "2026-09-14",
+      "last_shipped": "2026-09-14",
+      "last_summary": "OpenAI has responded to Elon Musk’s latest legal filing by highlighting that Musk himself attempted to establish a for-profit structure for the company in 2017. The organization maintains that it remains committed to its original mission despite the ongoing litigation.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "obama-ai-policy-advocacy",
+      "urls": [
+        "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards",
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQjBfVTl3bVNERE9wVU5ENmdobTJEbFJUWm1iclpkMVNWTkhsV0lLV28yS0NTSHB2enhsOU1LQUlHMXdjb3RBM3BOSHFnOXk1SVFiTnRnTU9kanY4X0h0RVNBeC0xM0NINDlFV2Z5dmFnbFU1R1d6VldHR3BkVWJWcElpb2xRSU1MRkIxR3ljcWxzVm9WZ0lOdGZxaw?oc=5"
+      ],
+      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+      "first_seen": "2026-09-14",
+      "last_shipped": "2026-09-14",
+      "last_summary": "Former President Barack Obama has advised the Democratic party to establish a formal and clear strategy for AI safety and economic regulation. He emphasized that addressing AI should be a central component of the party's future policy agenda.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "political-skepticism-ai-slowing",
+      "urls": [
+        "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting"
+      ],
+      "title": "Trump and Mike Johnson think the AI industry is overreacting",
+      "first_seen": "2026-09-14",
+      "last_shipped": "2026-09-14",
+      "last_summary": "Donald Trump and House Speaker Mike Johnson have expressed skepticism toward recent calls from industry leaders to slow down AI development. This contrasts with statements from executives at Anthropic, OpenAI, and Alphabet who have recently supported pacing the frontier.",
+      "was_must_know": true
     }
   ]
 }
