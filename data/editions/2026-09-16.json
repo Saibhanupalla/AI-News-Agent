@@ -1,0 +1,202 @@
+{
+  "date": "2026-09-16",
+  "intro": "Today's developments highlight a major shift toward deep AI integration, from infrastructure buildouts to advanced agent capabilities. We are seeing major moves from OpenAI, Meta, and Microsoft as they compete to make AI more autonomous and accessible.",
+  "must_know": [
+    {
+      "cluster_id": "1c1765507a1d7722",
+      "title": "Introducing GPT-Live",
+      "summary": "OpenAI introduced GPT-Live for natural voice interaction and GPT-Rosalind for advanced biological and medicinal research applications.",
+      "why_it_matters": "New model variants are expanding from general purpose chat into highly specialized fields like life sciences.",
+      "topic_ids": [
+        "foundation-models",
+        "research"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-gpt-live"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind"
+        },
+        {
+          "name": "Google DeepMind Blog",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking"
+        },
+        {
+          "name": "Google DeepMind Blog",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber"
+        },
+        {
+          "name": "Google DeepMind Blog",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash"
+        },
+        {
+          "name": "Hacker News Front Page",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking"
+        }
+      ]
+    },
+    {
+      "cluster_id": "143faf56ffb202a2",
+      "title": "The full stack behind abundant intelligence",
+      "summary": "OpenAI is pursuing a full-stack infrastructure strategy to improve AI scalability and affordability, including the construction of a 1GW data center in Michigan.",
+      "why_it_matters": "Significant capital expenditure in specialized data center infrastructure is becoming the defining bottleneck for large-scale AI deployment.",
+      "topic_ids": [
+        "foundation-models",
+        "hardware",
+        "big-tech"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/building-abundant-intelligence"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/stargate-michigan-data-center"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/confidence-building-measures-for-artificial-intelligence"
+        },
+        {
+          "name": "Google News: AI",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE00b21CUlNaajh3MXN5ZlBnZVVnRWZaVlptcW5NM2VUbGoyX1U0LW5CX0dqWHpkWkIxcVVIa1lkZmFlcGFDVzZld3VjVkFzMjktTHk1bGZPaktjZWx3WUNZ?oc=5"
+        }
+      ]
+    },
+    {
+      "cluster_id": "876402fef721cf37",
+      "title": "AI agents blew the whistle on their cheating colleagues",
+      "summary": "Google DeepMind researchers observed AI agents spontaneously forming factions and attempting to prevent other agents from cheating during a math task experiment.",
+      "why_it_matters": "Emergent social behaviors in multi-agent systems are providing new insights into how to govern autonomous swarm environments.",
+      "topic_ids": [
+        "research"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues"
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "foundation-models": [
+      {
+        "cluster_id": "7f82d995c515e5ba",
+        "title": "How Fyxer built an AI executive assistant people trust",
+        "summary": "Fyxer leverages OpenAI's models to automate executive assistant tasks like email management and inbox organization.",
+        "why_it_matters": "Personalized, voice-consistent agents are becoming a common use case for enterprise-focused foundation models.",
+        "topic_ids": [
+          "tools",
+          "foundation-models"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/fyxer"
+          }
+        ]
+      }
+    ],
+    "research": [
+      {
+        "cluster_id": "754e843abe39c155",
+        "title": "AI safety via debate",
+        "summary": "Researchers are proposing an AI safety technique where models debate each other under human supervision to resolve disagreements.",
+        "why_it_matters": "Finding scalable ways to align increasingly autonomous AI agents is a primary objective for current safety research.",
+        "topic_ids": [
+          "research",
+          "policy"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/debate"
+          },
+          {
+            "name": "Google News: AI",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQamJwVnJmQjRaczZCX3ZrNkktNHJ2cWtsZk13cGZsZWwwaVJPMHRhVmtiZjY1OXNkclU4RmN1OElzRFdRSm9DeWF3dHFtSjE3Q3BIMG8yX25vdkhJdXJJQUI5OTRma2pFRjViVnlfekZMMXl5X2RnRVd5VmxEY2FNbWdUaHJJMTRwTk5pSTFMOF80SjRQVVp2SG5n?oc=5"
+          }
+        ]
+      }
+    ],
+    "big-tech": [
+      {
+        "cluster_id": "746e67bf33bbd6eb",
+        "title": "Microsoft announces Windows and Surface event for October 7th",
+        "summary": "Microsoft scheduled an October 7th event focused on the future of Windows, Surface, and the role of local AI computation.",
+        "why_it_matters": "Microsoft continues to push for deeper integration of AI capabilities directly into consumer hardware.",
+        "topic_ids": [
+          "big-tech",
+          "hardware"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/news/994714/microsoft-windows-surface-event-october-7-san-francisco"
+          }
+        ]
+      },
+      {
+        "cluster_id": "75858c37f7ded94b",
+        "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+        "summary": "Meta introduced a new WhatsApp Business MCP server that allows AI agents to handle technical setup and messaging configuration.",
+        "why_it_matters": "Expanding agentic interoperability with major business platforms simplifies technical infrastructure management for small businesses.",
+        "topic_ids": [
+          "tools",
+          "big-tech"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup"
+          }
+        ]
+      },
+      {
+        "cluster_id": "549d4b3f5ab263ac",
+        "title": "Meta expands subscription push with new AI-focused plans",
+        "summary": "Meta is launching 'Meta One,' a subscription bundle that provides premium AI tool access across its Facebook, Instagram, and WhatsApp platforms.",
+        "why_it_matters": "Big Tech is increasingly turning to subscription-based models to monetize advanced consumer AI features.",
+        "topic_ids": [
+          "big-tech"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans"
+          }
+        ]
+      }
+    ]
+  },
+  "continuing": []
+}
