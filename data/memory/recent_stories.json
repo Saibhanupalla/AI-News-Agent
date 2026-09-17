@@ -1,131 +1,6 @@
 {
   "entries": [
     {
-      "event_key": "apple-watch-12-launch",
-      "urls": [
-        "https://techcrunch.com/2026/09/09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day",
-        "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system"
-      ],
-      "title": "Apple unveils Watch Series 12 and Watch Ultra 4 with an AI upgrade that can recap your day",
-      "first_seen": "2026-09-10",
-      "last_shipped": "2026-09-10",
-      "last_summary": "Apple has announced the Watch Series 12 and Watch Ultra 4, featuring new 'Audio Intelligence' tools designed to record and recap daily conversations.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "iphone-18-pro-launch",
-      "urls": [
-        "https://arstechnica.com/gadgets/2026/09/apples-iphone-18-pro-adds-variable-camera-aperture-and-a-more-powerful-chip",
-        "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max"
-      ],
-      "title": "Apple's iPhone 18 Pro adds variable camera aperture and a more powerful chip",
-      "first_seen": "2026-09-10",
-      "last_shipped": "2026-09-10",
-      "last_summary": "The newly launched iPhone 18 Pro introduces a variable camera aperture and a revised thermal management system to improve performance.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "openai-board-appointment",
-      "urls": [
-        "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-        "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors"
-      ],
-      "title": "Paul Christiano joins OpenAI Foundation Board",
-      "first_seen": "2026-09-10",
-      "last_shipped": "2026-09-10",
-      "last_summary": "Paul Christiano, known for his work in AI alignment, has joined the OpenAI Foundation board.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "openai-teen-research-grants",
-      "urls": [
-        "https://openai.com/index/teen-development-research-grants",
-        "https://openai.com/index/ai-mental-health-research-grants"
-      ],
-      "title": "Funding grants for new research into AI and teen development",
-      "first_seen": "2026-09-10",
-      "last_shipped": "2026-09-10",
-      "last_summary": "OpenAI is launching a $5 million grant program dedicated to supporting independent research into the effects of generative AI on teen development and mental health.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "ibm-granite-release",
-      "urls": [
-        "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series"
-      ],
-      "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-      "first_seen": "2026-09-10",
-      "last_shipped": "2026-09-10",
-      "last_summary": "IBM has released its Granite Time Series PatchTST-FM-r2 model with a commercial-friendly license via Hugging Face.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "apple-foldable-launch",
-      "urls": [
-        "https://www.theverge.com/tech/993064/no-airpods-with-cameras-apple-event"
-      ],
-      "title": "There aren’t AirPods with cameras yet and I hope it stays that way",
-      "first_seen": "2026-09-10",
-      "last_shipped": "2026-09-10",
-      "last_summary": "The iPhone Duo foldable and new AirPods were debuted at Apple's latest event alongside various AI feature updates.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "suno-v6-release",
-      "urls": [
-        "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help"
-      ],
-      "title": "Suno releases its first AI music model made with record industry help",
-      "first_seen": "2026-09-10",
-      "last_shipped": "2026-09-10",
-      "last_summary": "Suno has released v6, its first AI music generation model trained on data licensed with industry support.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "openai-math-breakthrough",
-      "urls": [
-        "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes"
-      ],
-      "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
-      "first_seen": "2026-09-10",
-      "last_shipped": "2026-09-10",
-      "last_summary": "OpenAI reportedly achieved a significant mathematical breakthrough, though the announcement has sparked internal and academic debate.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "apple-siri-privacy",
-      "urls": [
-        "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy"
-      ],
-      "title": "Read the Apple document explaining how new listening features still protect your privacy",
-      "first_seen": "2026-09-10",
-      "last_shipped": "2026-09-10",
-      "last_summary": "Apple has published documentation detailing privacy protections for its new Siri-based 'ambient listening' audio features.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "iphone-duo-review",
-      "urls": [
-        "https://www.theverge.com/tech/992830/apple-iphone-duo-foldable-verge-staffers-react"
-      ],
-      "title": "Verge staffers react to the iPhone Duo: What we love and don’t love",
-      "first_seen": "2026-09-10",
-      "last_shipped": "2026-09-10",
-      "last_summary": "Initial reviews of the new iPhone Duo foldable highlight its dual-screen configuration and software optimization.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "listen-labs-salesforce",
-      "urls": [
-        "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks"
-      ],
-      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
-      "first_seen": "2026-09-10",
-      "last_shipped": "2026-09-10",
-      "last_summary": "AI startup Listen Labs reportedly cancelled a $1.5 billion funding round in favor of acquisition talks with Salesforce.",
-      "was_must_know": false
-    },
-    {
       "event_key": "openai-policy-funding",
       "urls": [
         "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
@@ -579,6 +454,138 @@
       "first_seen": "2026-09-16",
       "last_shipped": "2026-09-16",
       "last_summary": "Meta is launching 'Meta One,' a subscription bundle that provides premium AI tool access across its Facebook, Instagram, and WhatsApp platforms.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-partnerships-expansion",
+      "urls": [
+        "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+        "https://openai.com/index/amazon-partnership",
+        "https://openai.com/index/aws-and-openai-partnership",
+        "https://openai.com/index/openai-amd-strategic-partnership",
+        "https://openai.com/index/openai-nvidia-systems-partnership",
+        "https://openai.com/global-affairs/openai-and-uk-government-partnership",
+        "https://openai.com/index/hearst",
+        "https://openai.com/index/openai-and-apple-announce-partnership",
+        "https://openai.com/index/openai-and-reddit-partnership",
+        "https://openai.com/index/openai-and-microsoft-extend-partnership",
+        "https://openai.com/index/openai-and-microsoft",
+        "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbUNoRUZpb0NvNUtWS1hEZEt2d3ByaTFxM0w0MThMX2FrR0o2cktvZFdjNTR5dE5iXzN4Mnl1WGVMek1hcVk5bDRvZFZ5VFl4YUtNQnF2X25PenB4em1KZjBfUGNzXzNuNU1fakhlczRtdjRBSUhKZHdlRUFkTEFaemh0MlJ3aV9VbjRyRWVyR1ZweVJXT3F0T1lxdEk3RjZUX1N6aUxfMUN0NF9UQ1hwRXVPZGFKc1ZwUUJlSnlFMnE2eURoUGc?oc=5"
+      ],
+      "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+      "first_seen": "2026-09-17",
+      "last_shipped": "2026-09-17",
+      "last_summary": "OpenAI has announced multiple strategic infrastructure partnerships, including collaborations with Grupo Folha and Grupo UOL, a long-term agreement with AWS, and a large-scale GPU deployment deal with AMD.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "openai-advertising-tools",
+      "urls": [
+        "https://openai.com/index/reimagining-advertising-with-ai"
+      ],
+      "title": "Reimagining advertising with AI",
+      "first_seen": "2026-09-17",
+      "last_shipped": "2026-09-17",
+      "last_summary": "OpenAI introduced new advertising tools and experiences, including Sponsored Agents and integrations with platforms like HubSpot and Shopify.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-misalignment-framework",
+      "urls": [
+        "https://openai.com/index/model-misalignment-reporting-framework"
+      ],
+      "title": "Our framework for reporting model misalignment",
+      "first_seen": "2026-09-17",
+      "last_shipped": "2026-09-17",
+      "last_summary": "OpenAI released a new framework for investigating and disclosing instances of AI model misalignment, accompanied by six specific reports on model behavior.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "openai-workforce-research",
+      "urls": [
+        "https://openai.com/index/unlocking-new-ways-of-working"
+      ],
+      "title": "How workers are unlocking new ways of working",
+      "first_seen": "2026-09-17",
+      "last_shipped": "2026-09-17",
+      "last_summary": "New economic research from OpenAI explores how employees are integrating AI tools into their workflows and the resulting impact on their recurring daily tasks.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-biotech-data-strategy",
+      "urls": [
+        "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it"
+      ],
+      "title": "AI models need more data about biology, and OpenAI is paying to create it",
+      "first_seen": "2026-09-17",
+      "last_shipped": "2026-09-17",
+      "last_summary": "OpenAI is reportedly exploring the acquisition of data from bankrupt biotech firms to improve medical AI systems by accessing proprietary regulatory and clinical research data.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "huggingface-agent-reliability",
+      "urls": [
+        "https://huggingface.co/blog/ibm-research/altk-evolve-consistency"
+      ],
+      "title": "Your Agent Aced the Task. Will It Do It Again?",
+      "first_seen": "2026-09-17",
+      "last_shipped": "2026-09-17",
+      "last_summary": "Hugging Face published an update on agentic reliability and the challenges of ensuring consistent performance across repeated task execution.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "snap-specs-intelligence",
+      "urls": [
+        "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac"
+      ],
+      "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
+      "first_seen": "2026-09-17",
+      "last_shipped": "2026-09-17",
+      "last_summary": "Snap is launching 'Specs Intelligence,' an anticipatory AI assistant for iOS and Mac users that integrates digital account data to assist with workflow and travel tasks.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "ai-ewaste-report",
+      "urls": [
+        "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban"
+      ],
+      "title": "The AI data center e-waste problem is huge — and getting bigger",
+      "first_seen": "2026-09-17",
+      "last_shipped": "2026-09-17",
+      "last_summary": "A new report estimates that AI-driven data center expansion could generate significantly higher amounts of electronic waste than previously expected, reaching millions of containers by 2050.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "apple-server-hardware-rumor",
+      "urls": [
+        "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia"
+      ],
+      "title": "Apple might make servers again to cash in on the AI rush",
+      "first_seen": "2026-09-17",
+      "last_shipped": "2026-09-17",
+      "last_summary": "Reports suggest Apple may re-enter the server hardware market, potentially partnering with Nvidia to meet growing internal and external demand for AI compute infrastructure.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "google-home-mcp-integration",
+      "urls": [
+        "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date"
+      ],
+      "title": "Google will now let any AI agent run your smart home",
+      "first_seen": "2026-09-17",
+      "last_shipped": "2026-09-17",
+      "last_summary": "Google Home now supports the Model Context Protocol, allowing third-party AI agents like Claude to control smart home devices and analyze local home data.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "ai-safety-evaluators",
+      "urls": [
+        "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent"
+      ],
+      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+      "first_seen": "2026-09-17",
+      "last_shipped": "2026-09-17",
+      "last_summary": "Anthropic and OpenAI are moving to embed independent safety evaluators within their organizations, prompting discussions on whether these efforts provide sufficient transparency and oversight.",
       "was_must_know": false
     }
   ]

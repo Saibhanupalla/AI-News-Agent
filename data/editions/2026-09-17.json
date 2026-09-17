@@ -1,0 +1,260 @@
+{
+  "date": "2026-09-17",
+  "intro": "Today's headlines highlight a major expansion in AI infrastructure, ranging from new data partnerships and server investments to evolving safety frameworks. Companies are also rapidly integrating agentic AI into consumer and business workflows.",
+  "must_know": [
+    {
+      "cluster_id": "6468a37cb0411c0d",
+      "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+      "summary": "OpenAI has announced multiple strategic infrastructure partnerships, including collaborations with Grupo Folha and Grupo UOL, a long-term agreement with AWS, and a large-scale GPU deployment deal with AMD.",
+      "why_it_matters": "These major infrastructure and data partnerships are critical to scaling OpenAI's next-generation compute requirements and content ecosystems.",
+      "topic_ids": [
+        "foundation-models",
+        "big-tech"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/amazon-partnership"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/aws-and-openai-partnership"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/openai-amd-strategic-partnership"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/openai-nvidia-systems-partnership"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/global-affairs/openai-and-uk-government-partnership"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/hearst"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/openai-and-apple-announce-partnership"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/openai-and-reddit-partnership"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/openai-and-microsoft-extend-partnership"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/openai-and-microsoft"
+        },
+        {
+          "name": "Google News: AI",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbUNoRUZpb0NvNUtWS1hEZEt2d3ByaTFxM0w0MThMX2FrR0o2cktvZFdjNTR5dE5iXzN4Mnl1WGVMek1hcVk5bDRvZFZ5VFl4YUtNQnF2X25PenB4em1KZjBfUGNzXzNuNU1fakhlczRtdjRBSUhKZHdlRUFkTEFaemh0MlJ3aV9VbjRyRWVyR1ZweVJXT3F0T1lxdEk3RjZUX1N6aUxfMUN0NF9UQ1hwRXVPZGFKc1ZwUUJlSnlFMnE2eURoUGc?oc=5"
+        }
+      ]
+    },
+    {
+      "cluster_id": "14a1b53588b2bd7b",
+      "title": "Apple might make servers again to cash in on the AI rush",
+      "summary": "Reports suggest Apple may re-enter the server hardware market, potentially partnering with Nvidia to meet growing internal and external demand for AI compute infrastructure.",
+      "why_it_matters": "Apple's return to enterprise-grade server production would mark a major shift in the company's AI-focused hardware strategy.",
+      "topic_ids": [
+        "big-tech",
+        "hardware"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia"
+        }
+      ]
+    },
+    {
+      "cluster_id": "f3899afd4d6a0a2d",
+      "title": "Our framework for reporting model misalignment",
+      "summary": "OpenAI released a new framework for investigating and disclosing instances of AI model misalignment, accompanied by six specific reports on model behavior.",
+      "why_it_matters": "Establishing transparent reporting structures is essential for public trust as AI models become more capable and complex.",
+      "topic_ids": [
+        "foundation-models",
+        "policy"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/model-misalignment-reporting-framework"
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "foundation-models": [
+      {
+        "cluster_id": "6ac27c68838b29ee",
+        "title": "Reimagining advertising with AI",
+        "summary": "OpenAI introduced new advertising tools and experiences, including Sponsored Agents and integrations with platforms like HubSpot and Shopify.",
+        "why_it_matters": "This marks a strategic expansion of OpenAI's ecosystem into the marketing and advertising sector.",
+        "topic_ids": [
+          "tools",
+          "foundation-models"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/reimagining-advertising-with-ai"
+          }
+        ]
+      },
+      {
+        "cluster_id": "568c13fd56cd9c2d",
+        "title": "AI models need more data about biology, and OpenAI is paying to create it",
+        "summary": "OpenAI is reportedly exploring the acquisition of data from bankrupt biotech firms to improve medical AI systems by accessing proprietary regulatory and clinical research data.",
+        "why_it_matters": "Training on high-quality, hard-to-obtain specialized data is increasingly prioritized for developing AI in complex technical fields like medicine.",
+        "topic_ids": [
+          "research",
+          "foundation-models"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it"
+          }
+        ]
+      },
+      {
+        "cluster_id": "8e2af8466a148769",
+        "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+        "summary": "Anthropic and OpenAI are moving to embed independent safety evaluators within their organizations, prompting discussions on whether these efforts provide sufficient transparency and oversight.",
+        "why_it_matters": "Ensuring the independence of internal safety evaluations is a central challenge for tech companies attempting to prove model reliability.",
+        "topic_ids": [
+          "foundation-models",
+          "policy"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent"
+          }
+        ]
+      }
+    ],
+    "big-tech": [
+      {
+        "cluster_id": "b229c2cba9991e07",
+        "title": "Google will now let any AI agent run your smart home",
+        "summary": "Google Home now supports the Model Context Protocol, allowing third-party AI agents like Claude to control smart home devices and analyze local home data.",
+        "why_it_matters": "This interoperability standard enables broader integration for AI agents into the domestic IoT ecosystem.",
+        "topic_ids": [
+          "tools",
+          "big-tech"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date"
+          }
+        ]
+      }
+    ],
+    "tools": [
+      {
+        "cluster_id": "cb281fd96f2ff97e",
+        "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
+        "summary": "Snap is launching 'Specs Intelligence,' an anticipatory AI assistant for iOS and Mac users that integrates digital account data to assist with workflow and travel tasks.",
+        "why_it_matters": "Snap's move into anticipatory AI highlights the growing competition for persistent, multi-platform personal digital assistants.",
+        "topic_ids": [
+          "tools"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac"
+          }
+        ]
+      }
+    ],
+    "research": [
+      {
+        "cluster_id": "7d2872733a614740",
+        "title": "How workers are unlocking new ways of working",
+        "summary": "New economic research from OpenAI explores how employees are integrating AI tools into their workflows and the resulting impact on their recurring daily tasks.",
+        "why_it_matters": "Understanding real-world productivity shifts helps identify how AI effectively transforms professional environments.",
+        "topic_ids": [
+          "research"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/unlocking-new-ways-of-working"
+          }
+        ]
+      }
+    ],
+    "policy": [
+      {
+        "cluster_id": "46aa3a71d1463843",
+        "title": "The AI data center e-waste problem is huge — and getting bigger",
+        "summary": "A new report estimates that AI-driven data center expansion could generate significantly higher amounts of electronic waste than previously expected, reaching millions of containers by 2050.",
+        "why_it_matters": "The environmental impact of AI hardware infrastructure is becoming a critical sustainability concern for the tech industry.",
+        "topic_ids": [
+          "hardware",
+          "policy"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban"
+          }
+        ]
+      }
+    ]
+  },
+  "continuing": [
+    {
+      "cluster_id": "a1d018f16fad79f9",
+      "title": "Your Agent Aced the Task. Will It Do It Again?",
+      "summary": "Hugging Face published an update on agentic reliability and the challenges of ensuring consistent performance across repeated task execution.",
+      "why_it_matters": "Agent reliability is a key barrier to the production-grade adoption of autonomous AI tools.",
+      "topic_ids": [
+        "tools",
+        "research"
+      ],
+      "story_type": "update",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency"
+        }
+      ]
+    }
+  ]
+}
