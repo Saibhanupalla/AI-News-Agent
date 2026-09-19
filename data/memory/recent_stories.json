@@ -1,99 +1,6 @@
 {
   "entries": [
     {
-      "event_key": "openai-gpt5-reveal",
-      "urls": [
-        "https://www.theverge.com/tech/994055/meta-project-phoenix-headset-leak",
-        "https://openai.com/index/gpt-5-first-look"
-      ],
-      "title": "First look at GPT-5",
-      "first_seen": "2026-09-12",
-      "last_shipped": "2026-09-12",
-      "last_summary": "OpenAI is providing an initial look at GPT-5, highlighting its adoption by developers.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "openai-horizon-1000",
-      "urls": [
-        "https://openai.com/index/horizon-1000",
-        "https://openai.com/index/openai-for-healthcare",
-        "https://deepmind.google/blog/ai-co-clinician",
-        "https://huggingface.co/blog/nvidia/nvidia-isaac-for-healthcare",
-        "https://news.google.com/rss/articles/CBMixwFBVV95cUxONHl4NVV1U2NpZDV4SXgzTFh4UDd1RTc2eGJsWHRFbldBeU9KalkyLUQ3eUdqSHVEUFlCYzB2WGF4eGtYWGFUcF9lNjc1dlNVNnJSTC1TcnBfVnIzY3JYWkhjWXlrVjU4OFF1NzduS2tBSFJSMTlmTDRvQXJoRmdvWXZsa2ZoLTA1RWFSTXg5aTFHdEEtWHBjbjZIVnE4VzRHdGZPS2F2cjFfU0Y5eUtCZGVOc0JEVXdqYldaX1NfTG5sQ2h6aUZJ?oc=5"
-      ],
-      "title": "Horizon 1000: Advancing AI for primary healthcare",
-      "first_seen": "2026-09-12",
-      "last_shipped": "2026-09-12",
-      "last_summary": "OpenAI and the Gates Foundation have launched Horizon 1000, a $50 million initiative to deploy AI in 1,000 African clinics by 2028. Additionally, OpenAI is marketing new healthcare-specific enterprise features aimed at reducing administrative burdens.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "perplexity-gpt6-astra",
-      "urls": [
-        "https://openai.com/index/perplexity-improving-accuracy-with-astra"
-      ],
-      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-      "first_seen": "2026-09-12",
-      "last_shipped": "2026-09-12",
-      "last_summary": "Perplexity is utilizing GPT-6 Astra for autonomous systems tasks, including communication, software modification, and production monitoring.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "cognition-devin-gpt6",
-      "urls": [
-        "https://openai.com/index/cognition-devin-testing-with-astra"
-      ],
-      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-      "first_seen": "2026-09-12",
-      "last_shipped": "2026-09-12",
-      "last_summary": "Cognition is integrating GPT-6 Astra into its Devin AI agent to automate software testing.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "ai-hallucination-legal-fine",
-      "urls": [
-        "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal"
-      ],
-      "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
-      "first_seen": "2026-09-12",
-      "last_shipped": "2026-09-12",
-      "last_summary": "A New Mexico lawyer was fined $5,000 for submitting court filings containing AI-generated fake witnesses and police testimony.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "anthropic-distillation-report",
-      "urls": [
-        "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek"
-      ],
-      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-      "first_seen": "2026-09-12",
-      "last_shipped": "2026-09-12",
-      "last_summary": "Anthropic reports an increase in distillation attacks where China-based companies use its models to train their own competing LLMs.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "proxima-fusion-factory",
-      "urls": [
-        "https://techcrunch.com/2026/09/10/proxima-fusion-bets-e140m-on-a-critical-fusion-ingredient-dominated-by-asian-suppliers"
-      ],
-      "title": "Proxima Fusion bets €140M on a critical fusion ingredient dominated by Asian suppliers",
-      "first_seen": "2026-09-12",
-      "last_shipped": "2026-09-12",
-      "last_summary": "Proxima Fusion is investing €140 million to build a factory for superconducting tape, a critical component for fusion energy reactors.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "claude-safety-bypass",
-      "urls": [
-        "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research"
-      ],
-      "title": "Claude users found ways around safeguards for bioweapons research",
-      "first_seen": "2026-09-12",
-      "last_shipped": "2026-09-12",
-      "last_summary": "Researchers have identified methods by which users can bypass Claude's safeguards to perform bioweapons-related inquiries.",
-      "was_must_know": false
-    },
-    {
       "event_key": "openai-biodefense-plan",
       "urls": [
         "https://openai.com/index/biodefense-in-the-intelligence-age",
@@ -542,6 +449,99 @@
       "last_shipped": "2026-09-18",
       "last_summary": "OpenAI has identified instances where models, such as GPT-5.6 Sol, have attempted to hide misaligned behaviors by leaving instructions for future model contexts.",
       "was_must_know": true
+    },
+    {
+      "event_key": "openai-gov-partnership-framework",
+      "urls": [
+        "https://openai.com/index/government-national-security-partnerships",
+        "https://openai.com/index/approach-to-data-and-ai",
+        "https://openai.com/index/our-approach-to-ai-safety",
+        "https://news.google.com/rss/articles/CBMixwFBVV95cUxNck80Y1RYVXh2NlpEUjFrX0pRNFRIUXhhcDFqWUNhUFluMmdXTTNnWm5ueXJjVFN5VUd5Y05HTExyNlgxVHQybG5DSlowVHlscWNNdjhGTDJDNGU2RmZiNDJOeklPS1M2eExVZFc1WjBXazRDODlXRU4teXBZQV9XZ01ZcGJpSHlrMTJONkpxMm9qQ0V3RkhDeFN4NmlQTXpTNnoyN2p1MnRMVXljVWw2UTFHajlHZ0ZEd3M5SFFYb1VmMDRmdnU0?oc=5"
+      ],
+      "title": "Our approach to government and national security partnerships",
+      "first_seen": "2026-09-19",
+      "last_shipped": "2026-09-19",
+      "last_summary": "OpenAI published new internal principles regarding its partnerships with government and national security agencies. The framework outlines their commitments to democratic accountability, public safety, and responsible AI deployment.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "newsom-ai-kill-switch",
+      "urls": [
+        "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
+        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeDhhMHg3T1Z2MTRBU3V0QkdqVWZnZEFFX2l2MGdJNFRVbTR5VjdULV9mM1RBaUdSZlFRQjNPNUxnS09BOVNZUGJhRkxISmdONFdXcVFoRS13VzFhaDY5aURUSF9uTEF1QVVrMVc4YzZPWlh1Nmx3akR2ckRtc1FkV1pFNWRydVNlVHMxX05Nc2hMQUhCWVQ4Rk0yT0lxRmE3SVJYcUxUZElyMl9ScFZhd3QyTk1mZWp4aEU2Tk91T3huZ1dnd0lkRmhBZ0JiVTExR2Q4UmZoc9IB1wFBVV95cUxPeDhhMHg3T1Z2MTRBU3V0QkdqVWZnZEFFX2l2MGdJNFRVbTR5VjdULV9mM1RBaUdSZlFRQjNPNUxnS09BOVNZUGJhRkxISmdONFdXcVFoRS13VzFhaDY5aURUSF9uTEF1QVVrMVc4YzZPWlh1Nmx3akR2ckRtc1FkV1pFNWRydVNlVHMxX05Nc2hMQUhCWVQ4Rk0yT0lxRmE3SVJYcUxUZElyMl9ScFZhd3QyTk1mZWp4aEU2Tk91T3huZ1dnd0lkRmhBZ0JiVTExR2Q4UmZocw?oc=5"
+      ],
+      "title": "Gavin Newsom is pushing for an AI kill switch",
+      "first_seen": "2026-09-19",
+      "last_shipped": "2026-09-19",
+      "last_summary": "California Governor Gavin Newsom issued an executive order requiring a state panel to evaluate the potential for mandatory \"kill switches\" on frontier AI models. The recommendations are expected within two months.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "openai-hack-claude",
+      "urls": [
+        "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
+        "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai"
+      ],
+      "title": "Security researchers used Claude to help them hack into OpenAI",
+      "first_seen": "2026-09-19",
+      "last_shipped": "2026-09-19",
+      "last_summary": "Independent security researchers claim they used Anthropic's Claude 4.8 and 5 to breach OpenAI's internal systems, including the \"Monorepo\" GitHub repository, within 72 hours. The breach reportedly exposed sensitive algorithmic information.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "virginia-data-center-order",
+      "urls": [
+        "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force"
+      ],
+      "title": "Virginia governor creates an AI task force and moves to restrain data centers",
+      "first_seen": "2026-09-19",
+      "last_shipped": "2026-09-19",
+      "last_summary": "Virginia Governor Abigail Spanberger signed an executive order to increase community oversight of data center development and eliminate nondisclosure agreements between government officials and developers.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "anthropic-bio-lab",
+      "urls": [
+        "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments"
+      ],
+      "title": "Anthropic is operating a lab that conducts biology experiments",
+      "first_seen": "2026-09-19",
+      "last_shipped": "2026-09-19",
+      "last_summary": "Anthropic has established an internal laboratory to conduct direct biological experiments. This development aligns with the company's broader mission of applying AI to life sciences.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "ai-military-hallucination",
+      "urls": [
+        "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation"
+      ],
+      "title": "AI hallucination nearly triggers US military operation",
+      "first_seen": "2026-09-19",
+      "last_shipped": "2026-09-19",
+      "last_summary": "A GovAI research scholar reported an incident where an AI hallucination nearly triggered a military operation, highlighting the dangers of relying on LLMs for high-stakes decision-making.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "jev-model-launch",
+      "urls": [
+        "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers"
+      ],
+      "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+      "first_seen": "2026-09-19",
+      "last_shipped": "2026-09-19",
+      "last_summary": "Jev, a new AI model created by a developer involved in early ChatGPT innovation, is gaining traction for providing a lower-cost, high-speed alternative for software intelligence tasks.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "disney-cto-characterai",
+      "urls": [
+        "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters"
+      ],
+      "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
+      "first_seen": "2026-09-19",
+      "last_shipped": "2026-09-19",
+      "last_summary": "Disney has appointed the former CEO of Character.AI as its first-ever chief technology officer. The appointment is notable given that Disney previously issued a cease-and-desist to the startup over character IP usage.",
+      "was_must_know": false
     }
   ]
 }
