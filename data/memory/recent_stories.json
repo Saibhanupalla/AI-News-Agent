@@ -1,42 +1,6 @@
 {
   "entries": [
     {
-      "event_key": "openai-musk-lawsuit-developments",
-      "urls": [
-        "https://openai.com/index/elon-musk-wanted-an-openai-for-profit",
-        "https://openai.com/index/openai-elon-musk",
-        "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQlhQUVhMMWE4RFpEUXBNVWIyNHk0MXJzNkR6NUJtZlBmY3B5ZFhjNGJjaWtXZEtodlgzX0ZMV1M5WXh5UUw5S0cyaXlYc2RoYjlIemhzN0JCZ3pjTjBIOGxMZ24wWHNlNUZkeXRTQlN0Q1hTenNzaXlabWVISmFQRkxsSFNfVkJWOFJkdE9FSHhEOWFmQnBseDlnUXJGc2pWU09ZWXRfMW1wS21PQXA3M080em1reXYyaXdONWdR?oc=5"
-      ],
-      "title": "Elon Musk wanted an OpenAI for-profit",
-      "first_seen": "2026-09-14",
-      "last_shipped": "2026-09-14",
-      "last_summary": "OpenAI has responded to Elon Musk’s latest legal filing by highlighting that Musk himself attempted to establish a for-profit structure for the company in 2017. The organization maintains that it remains committed to its original mission despite the ongoing litigation.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "obama-ai-policy-advocacy",
-      "urls": [
-        "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards",
-        "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQjBfVTl3bVNERE9wVU5ENmdobTJEbFJUWm1iclpkMVNWTkhsV0lLV28yS0NTSHB2enhsOU1LQUlHMXdjb3RBM3BOSHFnOXk1SVFiTnRnTU9kanY4X0h0RVNBeC0xM0NINDlFV2Z5dmFnbFU1R1d6VldHR3BkVWJWcElpb2xRSU1MRkIxR3ljcWxzVm9WZ0lOdGZxaw?oc=5"
-      ],
-      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-      "first_seen": "2026-09-14",
-      "last_shipped": "2026-09-14",
-      "last_summary": "Former President Barack Obama has advised the Democratic party to establish a formal and clear strategy for AI safety and economic regulation. He emphasized that addressing AI should be a central component of the party's future policy agenda.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "political-skepticism-ai-slowing",
-      "urls": [
-        "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting"
-      ],
-      "title": "Trump and Mike Johnson think the AI industry is overreacting",
-      "first_seen": "2026-09-14",
-      "last_shipped": "2026-09-14",
-      "last_summary": "Donald Trump and House Speaker Mike Johnson have expressed skepticism toward recent calls from industry leaders to slow down AI development. This contrasts with statements from executives at Anthropic, OpenAI, and Alphabet who have recently supported pacing the frontier.",
-      "was_must_know": true
-    },
-    {
       "event_key": "openai-infrastructure-stargate",
       "urls": [
         "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
@@ -538,6 +502,86 @@
       "first_seen": "2026-09-20",
       "last_shipped": "2026-09-20",
       "last_summary": "Developers have released CUA-S1, a 'System One' model specifically designed for streamlined computer use tasks rather than general-purpose reasoning.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-math-advisory-group",
+      "urls": [
+        "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+        "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence",
+        "https://news.google.com/rss/articles/CBMib0FVX3lxTE50TVpFbHFkWkJyVkNRV1l3T0VTb3V4YmFhOWZsd19nNEYwV0ZsVURHeElOMG8zYVNRc0NEYUxMYkNua3ozeXBGTTdoRlY5amo1b3dIU3o3TkxUQ0VHRnZ1STYta0FkM3NxZ0dob2Npdw?oc=5"
+      ],
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "first_seen": "2026-09-22",
+      "last_shipped": "2026-09-22",
+      "last_summary": "OpenAI has established an independent Advisory Group on Mathematics and Artificial Intelligence to help oversee the evaluation and communication of new AI-driven mathematical research.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "openai-learning-outcomes-suite",
+      "urls": [
+        "https://openai.com/index/understanding-ai-and-learning-outcomes",
+        "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTjU2ZnczR0JQRlU5ZklqYnd5ZDJkaHNGb3V5ei0zTTBZYWdPMG1NZk9makYtbERFTUNnckI2Q3RTbWFDT19PLUNhajdYN0d0Vi1VcFNmbjBGdW4xSVl0R1VBaGw4ZlMzZVRvbUZncFJ4bUtta2ZFcElZXzhZeFB5OTI5bUdGeWh2TDZWQlROR0gtbDBlUUVXdWp3a3hpX0xBdjU4M0dJUUl5QkZHb0hPYUNpeUlyMjlYS2ZHNkx4SVNQQ2lQOXd2WkpUQWVoQXJsaGxFWnBDdHk0cnpCOHc?oc=5"
+      ],
+      "title": "Understanding AI and learning outcomes",
+      "first_seen": "2026-09-22",
+      "last_shipped": "2026-09-22",
+      "last_summary": "OpenAI has launched the Learning Outcomes Measurement Suite to empirically evaluate how AI integration influences student learning in various educational settings.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-global-standards",
+      "urls": [
+        "https://openai.com/index/building-standards-next-phase-ai"
+      ],
+      "title": "Building standards for the next phase of AI",
+      "first_seen": "2026-09-22",
+      "last_shipped": "2026-09-22",
+      "last_summary": "OpenAI has released a proposal for standardized global frameworks for the evaluation, reporting, and governance of foundation models.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "v7-institutional-memory-agents",
+      "urls": [
+        "https://openai.com/index/v7"
+      ],
+      "title": "How V7 gives AI agents institutional memory",
+      "first_seen": "2026-09-22",
+      "last_shipped": "2026-09-22",
+      "last_summary": "V7 is leveraging GPT-5.6 to transform internal company data into institutional memory, allowing AI agents to perform complex, source-linked tasks.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "amazon-colorado-river-conservation",
+      "urls": [
+        "https://www.theverge.com/tech/998539/amazon-data-center-water-conservation-colorado-river"
+      ],
+      "title": "Amazon wants to help the Colorado River, but we still don’t know how much water the company uses",
+      "first_seen": "2026-09-22",
+      "last_shipped": "2026-09-22",
+      "last_summary": "Amazon has pledged $20 million toward water conservation in the Colorado River basin amid ongoing public pressure regarding data center water usage.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "california-data-center-regulation",
+      "urls": [
+        "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills"
+      ],
+      "title": "California tightens rules on AI data center energy and water use",
+      "first_seen": "2026-09-22",
+      "last_shipped": "2026-09-22",
+      "last_summary": "California Governor Gavin Newsom has signed legislation requiring data centers to pay for utility upgrades, aiming to prevent infrastructure costs from impacting residential rates.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "meta-muse-adoption-stats",
+      "urls": [
+        "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch"
+      ],
+      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+      "first_seen": "2026-09-22",
+      "last_shipped": "2026-09-22",
+      "last_summary": "Data from Appfigures indicates that Meta’s new AI agent, Muse, has surpassed the initial mobile download and engagement rates seen by ChatGPT during its launch phase.",
       "was_must_know": false
     }
   ]

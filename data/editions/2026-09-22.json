@@ -1,0 +1,153 @@
+{
+  "date": "2026-09-22",
+  "intro": "Today's briefing focuses on significant moves by OpenAI to formalize research and governance standards for AI systems. We also track new regulatory pressures in California and Colorado regarding the physical environmental impact of data centers.",
+  "must_know": [
+    {
+      "cluster_id": "10538c022345675d",
+      "title": "Building standards for the next phase of AI",
+      "summary": "OpenAI has released a proposal for standardized global frameworks for the evaluation, reporting, and governance of foundation models.",
+      "why_it_matters": "Establishing global benchmarks is a key step toward standardizing AI safety protocols across international jurisdictions.",
+      "topic_ids": [
+        "policy",
+        "foundation-models"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/building-standards-next-phase-ai"
+        }
+      ]
+    },
+    {
+      "cluster_id": "5fb2a618a0bb669f",
+      "title": "California tightens rules on AI data center energy and water use",
+      "summary": "California Governor Gavin Newsom has signed legislation requiring data centers to pay for utility upgrades, aiming to prevent infrastructure costs from impacting residential rates.",
+      "why_it_matters": "This represents a significant shift toward local regulation of data center externalities and energy costs.",
+      "topic_ids": [
+        "policy",
+        "hardware"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills"
+        }
+      ]
+    },
+    {
+      "cluster_id": "e7c6090606e0dac2",
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "summary": "OpenAI has established an independent Advisory Group on Mathematics and Artificial Intelligence to help oversee the evaluation and communication of new AI-driven mathematical research.",
+      "why_it_matters": "The group provides a formal mechanism for external academic oversight as AI models increasingly tackle complex, open mathematical problems.",
+      "topic_ids": [
+        "research",
+        "foundation-models"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai"
+        },
+        {
+          "name": "Hacker News Front Page",
+          "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence"
+        },
+        {
+          "name": "Google News: AI",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50TVpFbHFkWkJyVkNRV1l3T0VTb3V4YmFhOWZsd19nNEYwV0ZsVURHeElOMG8zYVNRc0NEYUxMYkNua3ozeXBGTTdoRlY5amo1b3dIU3o3TkxUQ0VHRnZ1STYta0FkM3NxZ0dob2Npdw?oc=5"
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "policy": [
+      {
+        "cluster_id": "c604386e20bfe5b6",
+        "title": "Amazon wants to help the Colorado River, but we still don’t know how much water the company uses",
+        "summary": "Amazon has pledged $20 million toward water conservation in the Colorado River basin amid ongoing public pressure regarding data center water usage.",
+        "why_it_matters": "This underscores the growing tension between AI infrastructure expansion and local resource sustainability.",
+        "topic_ids": [
+          "big-tech",
+          "policy"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/tech/998539/amazon-data-center-water-conservation-colorado-river"
+          }
+        ]
+      }
+    ],
+    "foundation-models": [
+      {
+        "cluster_id": "d2871d486c61275a",
+        "title": "How V7 gives AI agents institutional memory",
+        "summary": "V7 is leveraging GPT-5.6 to transform internal company data into institutional memory, allowing AI agents to perform complex, source-linked tasks.",
+        "why_it_matters": "Turning siloed enterprise data into accessible knowledge for AI agents is a significant productivity goal for businesses.",
+        "topic_ids": [
+          "tools",
+          "foundation-models"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/v7"
+          }
+        ]
+      },
+      {
+        "cluster_id": "4c045e0925c89f1a",
+        "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+        "summary": "Data from Appfigures indicates that Meta’s new AI agent, Muse, has surpassed the initial mobile download and engagement rates seen by ChatGPT during its launch phase.",
+        "why_it_matters": "It suggests that established social media platforms have a competitive advantage in rapid AI deployment and user adoption.",
+        "topic_ids": [
+          "big-tech",
+          "foundation-models"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch"
+          }
+        ]
+      }
+    ],
+    "research": [
+      {
+        "cluster_id": "ddbc0b9c9b8db4cd",
+        "title": "Understanding AI and learning outcomes",
+        "summary": "OpenAI has launched the Learning Outcomes Measurement Suite to empirically evaluate how AI integration influences student learning in various educational settings.",
+        "why_it_matters": "This provides a data-driven approach to understanding the actual pedagogical impact of AI tools in schools.",
+        "topic_ids": [
+          "research",
+          "tools"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/understanding-ai-and-learning-outcomes"
+          },
+          {
+            "name": "Google News: AI",
+            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTjU2ZnczR0JQRlU5ZklqYnd5ZDJkaHNGb3V5ei0zTTBZYWdPMG1NZk9makYtbERFTUNnckI2Q3RTbWFDT19PLUNhajdYN0d0Vi1VcFNmbjBGdW4xSVl0R1VBaGw4ZlMzZVRvbUZncFJ4bUtta2ZFcElZXzhZeFB5OTI5bUdGeWh2TDZWQlROR0gtbDBlUUVXdWp3a3hpX0xBdjU4M0dJUUl5QkZHb0hPYUNpeUlyMjlYS2ZHNkx4SVNQQ2lQOXd2WkpUQWVoQXJsaGxFWnBDdHk0cnpCOHc?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  "continuing": []
+}
