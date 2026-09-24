@@ -1,0 +1,166 @@
+{
+  "date": "2026-09-24",
+  "intro": "Today's developments highlight the rapid evolution of AI infrastructure and new hardware prototypes. We are seeing a mix of breakthrough research benchmarks and practical tool integrations across industries.",
+  "must_know": [
+    {
+      "cluster_id": "a0fb7aa43b62df97",
+      "title": "AI and compute",
+      "summary": "New analysis indicates that compute usage for large AI training runs is doubling every 3.4 months, significantly faster than the 2-year cycle of Moore's Law.",
+      "why_it_matters": "The rapid acceleration of compute requirements highlights the resource-intensive nature of current frontier AI development.",
+      "topic_ids": [
+        "research",
+        "foundation-models"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/ai-and-compute"
+        },
+        {
+          "name": "Google DeepMind Blog",
+          "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory"
+        }
+      ]
+    },
+    {
+      "cluster_id": "d2f07c69bc979a28",
+      "title": "Meta is making a standalone Muse AI gadget",
+      "summary": "Meta unveiled a prototype standalone AI device named 'Muse Charm' during the Meta Connect presentation.",
+      "why_it_matters": "Marks a potential strategic move by Meta toward dedicated AI hardware beyond standard wearables or software apps.",
+      "topic_ids": [
+        "hardware",
+        "big-tech"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware"
+        }
+      ]
+    },
+    {
+      "cluster_id": "3d7b9aab56c8f4fe",
+      "title": "Introducing MentalHealthBench",
+      "summary": "OpenAI has introduced MentalHealthBench, a benchmark designed to evaluate the safety and helpfulness of AI in mental health-related conversations.",
+      "why_it_matters": "Establishes a standardized framework for testing AI capabilities in sensitive, high-stakes human interaction domains.",
+      "topic_ids": [
+        "research",
+        "foundation-models"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-mentalhealthbench"
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "foundation-models": [
+      {
+        "cluster_id": "946881b51bcf8475",
+        "title": "Gemini 3.8 text-to-speech says hello",
+        "summary": "Google DeepMind has introduced the Gemini 3.8 text-to-speech model.",
+        "why_it_matters": "Expands Google's generative audio capabilities within the Gemini product ecosystem.",
+        "topic_ids": [
+          "foundation-models",
+          "tools"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "Google DeepMind Blog",
+            "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech"
+          },
+          {
+            "name": "Hacker News Front Page",
+            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech"
+          }
+        ]
+      }
+    ],
+    "hardware": [
+      {
+        "cluster_id": "d1dc2283bccc86ba",
+        "title": "The Download: India’s smart glasses menace and AI’s trillion-dollar gamble",
+        "summary": "Recent reports highlight the privacy implications of smart glasses following incidents in India, alongside broader discussions on the economic sustainability of AI.",
+        "why_it_matters": "Raises ongoing concerns regarding the intersection of wearable technology and public privacy.",
+        "topic_ids": [
+          "hardware",
+          "policy"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble"
+          }
+        ]
+      }
+    ],
+    "tools": [
+      {
+        "cluster_id": "52b80abd4e046c04",
+        "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+        "summary": "Legal technology firm Harvey is integrating GPT-6 Astra to improve the structure and context-awareness of legal document drafting.",
+        "why_it_matters": "Illustrates the application of frontier models in specialized professional workflows to improve efficiency.",
+        "topic_ids": [
+          "tools"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra"
+          }
+        ]
+      },
+      {
+        "cluster_id": "4e56c7312349a760",
+        "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+        "summary": "Ringg has deployed GPT-5.6 to automate customer service interactions, achieving a 65% resolution rate at a 90% lower cost compared to previous versions.",
+        "why_it_matters": "Highlights the economic impact of scaling AI-driven customer support solutions.",
+        "topic_ids": [
+          "tools"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/ringg"
+          }
+        ]
+      }
+    ],
+    "policy": [
+      {
+        "cluster_id": "347b65ce144a221e",
+        "title": "Sam Altman’s remarks at the United Nations Security Council",
+        "summary": "OpenAI CEO Sam Altman addressed the United Nations Security Council to discuss AI safety, the necessity of human oversight, and international collaboration.",
+        "why_it_matters": "High-level engagement between AI leaders and global policy bodies is increasingly critical for governance frameworks.",
+        "topic_ids": [
+          "policy"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/sam-altman-un-security-council-remarks"
+          }
+        ]
+      }
+    ]
+  },
+  "continuing": []
+}

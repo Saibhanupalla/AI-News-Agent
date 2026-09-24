@@ -1,138 +1,6 @@
 {
   "entries": [
     {
-      "event_key": "openai-partnerships-expansion",
-      "urls": [
-        "https://openai.com/index/grupo-folha-grupo-uol-partnership",
-        "https://openai.com/index/amazon-partnership",
-        "https://openai.com/index/aws-and-openai-partnership",
-        "https://openai.com/index/openai-amd-strategic-partnership",
-        "https://openai.com/index/openai-nvidia-systems-partnership",
-        "https://openai.com/global-affairs/openai-and-uk-government-partnership",
-        "https://openai.com/index/hearst",
-        "https://openai.com/index/openai-and-apple-announce-partnership",
-        "https://openai.com/index/openai-and-reddit-partnership",
-        "https://openai.com/index/openai-and-microsoft-extend-partnership",
-        "https://openai.com/index/openai-and-microsoft",
-        "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbUNoRUZpb0NvNUtWS1hEZEt2d3ByaTFxM0w0MThMX2FrR0o2cktvZFdjNTR5dE5iXzN4Mnl1WGVMek1hcVk5bDRvZFZ5VFl4YUtNQnF2X25PenB4em1KZjBfUGNzXzNuNU1fakhlczRtdjRBSUhKZHdlRUFkTEFaemh0MlJ3aV9VbjRyRWVyR1ZweVJXT3F0T1lxdEk3RjZUX1N6aUxfMUN0NF9UQ1hwRXVPZGFKc1ZwUUJlSnlFMnE2eURoUGc?oc=5"
-      ],
-      "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
-      "first_seen": "2026-09-17",
-      "last_shipped": "2026-09-17",
-      "last_summary": "OpenAI has announced multiple strategic infrastructure partnerships, including collaborations with Grupo Folha and Grupo UOL, a long-term agreement with AWS, and a large-scale GPU deployment deal with AMD.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "openai-advertising-tools",
-      "urls": [
-        "https://openai.com/index/reimagining-advertising-with-ai"
-      ],
-      "title": "Reimagining advertising with AI",
-      "first_seen": "2026-09-17",
-      "last_shipped": "2026-09-17",
-      "last_summary": "OpenAI introduced new advertising tools and experiences, including Sponsored Agents and integrations with platforms like HubSpot and Shopify.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "openai-misalignment-framework",
-      "urls": [
-        "https://openai.com/index/model-misalignment-reporting-framework"
-      ],
-      "title": "Our framework for reporting model misalignment",
-      "first_seen": "2026-09-17",
-      "last_shipped": "2026-09-17",
-      "last_summary": "OpenAI released a new framework for investigating and disclosing instances of AI model misalignment, accompanied by six specific reports on model behavior.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "openai-workforce-research",
-      "urls": [
-        "https://openai.com/index/unlocking-new-ways-of-working"
-      ],
-      "title": "How workers are unlocking new ways of working",
-      "first_seen": "2026-09-17",
-      "last_shipped": "2026-09-17",
-      "last_summary": "New economic research from OpenAI explores how employees are integrating AI tools into their workflows and the resulting impact on their recurring daily tasks.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "openai-biotech-data-strategy",
-      "urls": [
-        "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it"
-      ],
-      "title": "AI models need more data about biology, and OpenAI is paying to create it",
-      "first_seen": "2026-09-17",
-      "last_shipped": "2026-09-17",
-      "last_summary": "OpenAI is reportedly exploring the acquisition of data from bankrupt biotech firms to improve medical AI systems by accessing proprietary regulatory and clinical research data.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "huggingface-agent-reliability",
-      "urls": [
-        "https://huggingface.co/blog/ibm-research/altk-evolve-consistency"
-      ],
-      "title": "Your Agent Aced the Task. Will It Do It Again?",
-      "first_seen": "2026-09-17",
-      "last_shipped": "2026-09-17",
-      "last_summary": "Hugging Face published an update on agentic reliability and the challenges of ensuring consistent performance across repeated task execution.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "snap-specs-intelligence",
-      "urls": [
-        "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac"
-      ],
-      "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
-      "first_seen": "2026-09-17",
-      "last_shipped": "2026-09-17",
-      "last_summary": "Snap is launching 'Specs Intelligence,' an anticipatory AI assistant for iOS and Mac users that integrates digital account data to assist with workflow and travel tasks.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "ai-ewaste-report",
-      "urls": [
-        "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban"
-      ],
-      "title": "The AI data center e-waste problem is huge — and getting bigger",
-      "first_seen": "2026-09-17",
-      "last_shipped": "2026-09-17",
-      "last_summary": "A new report estimates that AI-driven data center expansion could generate significantly higher amounts of electronic waste than previously expected, reaching millions of containers by 2050.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "apple-server-hardware-rumor",
-      "urls": [
-        "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia"
-      ],
-      "title": "Apple might make servers again to cash in on the AI rush",
-      "first_seen": "2026-09-17",
-      "last_shipped": "2026-09-17",
-      "last_summary": "Reports suggest Apple may re-enter the server hardware market, potentially partnering with Nvidia to meet growing internal and external demand for AI compute infrastructure.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "google-home-mcp-integration",
-      "urls": [
-        "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date"
-      ],
-      "title": "Google will now let any AI agent run your smart home",
-      "first_seen": "2026-09-17",
-      "last_shipped": "2026-09-17",
-      "last_summary": "Google Home now supports the Model Context Protocol, allowing third-party AI agents like Claude to control smart home devices and analyze local home data.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "ai-safety-evaluators",
-      "urls": [
-        "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent"
-      ],
-      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
-      "first_seen": "2026-09-17",
-      "last_shipped": "2026-09-17",
-      "last_summary": "Anthropic and OpenAI are moving to embed independent safety evaluators within their organizations, prompting discussions on whether these efforts provide sufficient transparency and oversight.",
-      "was_must_know": false
-    },
-    {
       "event_key": "microsoft-openai-scraping-internal-docs",
       "urls": [
         "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
@@ -659,6 +527,96 @@
       "first_seen": "2026-09-23",
       "last_shipped": "2026-09-23",
       "last_summary": "Snorkel AI has raised $350 million in Series E funding, tripling its valuation to $3.5 billion as interest in data-centric AI training solutions grows.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "ai-compute-growth-analysis",
+      "urls": [
+        "https://openai.com/index/ai-and-compute",
+        "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory"
+      ],
+      "title": "AI and compute",
+      "first_seen": "2026-09-24",
+      "last_shipped": "2026-09-24",
+      "last_summary": "New analysis indicates that compute usage for large AI training runs is doubling every 3.4 months, significantly faster than the 2-year cycle of Moore's Law.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "google-gemini-3-8-tts",
+      "urls": [
+        "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
+        "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech"
+      ],
+      "title": "Gemini 3.8 text-to-speech says hello",
+      "first_seen": "2026-09-24",
+      "last_shipped": "2026-09-24",
+      "last_summary": "Google DeepMind has introduced the Gemini 3.8 text-to-speech model.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "sam-altman-un-address",
+      "urls": [
+        "https://openai.com/index/sam-altman-un-security-council-remarks"
+      ],
+      "title": "Sam Altman’s remarks at the United Nations Security Council",
+      "first_seen": "2026-09-24",
+      "last_shipped": "2026-09-24",
+      "last_summary": "OpenAI CEO Sam Altman addressed the United Nations Security Council to discuss AI safety, the necessity of human oversight, and international collaboration.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "harvey-gpt6-astra-integration",
+      "urls": [
+        "https://openai.com/index/harvey-from-context-to-confidence-with-astra"
+      ],
+      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+      "first_seen": "2026-09-24",
+      "last_shipped": "2026-09-24",
+      "last_summary": "Legal technology firm Harvey is integrating GPT-6 Astra to improve the structure and context-awareness of legal document drafting.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "ringg-openai-integration",
+      "urls": [
+        "https://openai.com/index/ringg"
+      ],
+      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "first_seen": "2026-09-24",
+      "last_shipped": "2026-09-24",
+      "last_summary": "Ringg has deployed GPT-5.6 to automate customer service interactions, achieving a 65% resolution rate at a 90% lower cost compared to previous versions.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-mentalhealthbench-launch",
+      "urls": [
+        "https://openai.com/index/introducing-mentalhealthbench"
+      ],
+      "title": "Introducing MentalHealthBench",
+      "first_seen": "2026-09-24",
+      "last_shipped": "2026-09-24",
+      "last_summary": "OpenAI has introduced MentalHealthBench, a benchmark designed to evaluate the safety and helpfulness of AI in mental health-related conversations.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "smart-glasses-privacy-concerns",
+      "urls": [
+        "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble"
+      ],
+      "title": "The Download: India’s smart glasses menace and AI’s trillion-dollar gamble",
+      "first_seen": "2026-09-24",
+      "last_shipped": "2026-09-24",
+      "last_summary": "Recent reports highlight the privacy implications of smart glasses following incidents in India, alongside broader discussions on the economic sustainability of AI.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "meta-muse-charm-device",
+      "urls": [
+        "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware"
+      ],
+      "title": "Meta is making a standalone Muse AI gadget",
+      "first_seen": "2026-09-24",
+      "last_shipped": "2026-09-24",
+      "last_summary": "Meta unveiled a prototype standalone AI device named 'Muse Charm' during the Meta Connect presentation.",
       "was_must_know": true
     }
   ]
