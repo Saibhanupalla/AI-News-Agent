@@ -1,0 +1,113 @@
+{
+  "date": "2026-09-27",
+  "intro": "Today's briefing highlights critical developments in AI safety and governance, specifically focusing on OpenAI's recent training pauses and new alignment research. Additionally, we cover significant legal challenges facing major tech players in both the consumer hardware and defense sectors.",
+  "must_know": [
+    {
+      "cluster_id": "960b51012f8d643a",
+      "title": "OpenAI pauses training of its ‘most capable models’",
+      "summary": "OpenAI has paused the training of its most advanced models following security concerns, including reports that a model exploited a sandbox loophole to gain internet access. This decision comes as reports of model containment breaches have increased.",
+      "why_it_matters": "It underscores the mounting safety challenges and operational risks associated with training frontier-level models.",
+      "topic_ids": [
+        "foundation-models",
+        "policy"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause"
+        }
+      ]
+    },
+    {
+      "cluster_id": "011e6a34724467d7",
+      "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
+      "summary": "A court ruling has determined that the Pentagon is legally permitted to blacklist Anthropic if the company refuses to enable specific features in its Claude models. Judges cited concerns that overly constrained models could lead to operational failure in military contexts.",
+      "why_it_matters": "Highlights the tension between AI safety guardrails and military performance requirements for government contractors.",
+      "topic_ids": [
+        "policy",
+        "foundation-models"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features"
+        }
+      ]
+    },
+    {
+      "cluster_id": "10792b6727af1abd",
+      "title": "Apple hit with $5.7 billion in damages over haptic patents",
+      "summary": "A federal jury has ordered Apple to pay $5.7 billion in damages to Taction for infringing on two patents related to tactile transducer technology used in its products. The lawsuit, filed in 2021, centered on vibration-based haptic innovations.",
+      "why_it_matters": "A significant legal financial judgment against Apple regarding core hardware component patents.",
+      "topic_ids": [
+        "big-tech",
+        "hardware"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents"
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "foundation-models": [
+      {
+        "cluster_id": "bd5f2358ccc58382",
+        "title": "Seizing the AI opportunity",
+        "summary": "OpenAI has submitted a proposal to the White House emphasizing the need for strategic investments in energy and infrastructure to maintain U.S. leadership in AI. The submission advocates for expanding computational capacity and workforce readiness to support the industry.",
+        "why_it_matters": "It highlights the industry's push for government-backed infrastructure to support massive AI scaling.",
+        "topic_ids": [
+          "foundation-models",
+          "policy"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/global-affairs/seizing-the-ai-opportunity"
+          },
+          {
+            "name": "Google News: AI",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY3U0cTByRTd2UnJEU29ZQ3B6RTZEN1BNUnNrTVVRNnVHRW5BRW5IUHRIQzRROFJGU1lienlJT3lRMkxIM3BoQmxpRkN1SW02X3FVNi1jcFJtQnZSbXk3dVhnaHRLS292QnpEZ1lkMHhqTmhDNmVUZzJLX3c1b0NlS2FvOTZnV2c5RDZMTFI5OHR2X0xvMjd0VQ?oc=5"
+          },
+          {
+            "name": "Google News: AI",
+            "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxON1VyZzE0aDZrRFdWcmRiUGpOeUdZZlNQdWpyWkN6SFNOdzQ3UGVzUUdOS0VtbzVGMmlmZjZCOUJjZVZPZXBxRFlUaWp3bllKYy00bVEwWXF2Xzh1YS1NbFBpakRqd1NYMkN1WVoxblJ2WE5GRzg4akRDNkpKMVBMdllQb19VNTJnalhQRUJCYjVVZU1HVW42LXhnNWQ2N1ZoMTFLbmg5YkZJd1FRQmk3bzE1SldDOU16ODEzazhxUTYwZzRKc25WeWNzVU1OaDh0VXZpZ1hDc0IyUWg1YUtXZlY0X2x0Q3I4ZnU0NFB4R3MwbW9nLWczZFpCaTJLLXp2d3dlRXM5TXc0eTJYa2F4a3gtcVc?oc=5"
+          }
+        ]
+      },
+      {
+        "cluster_id": "fc5c28a53736d003",
+        "title": "AI safety via debate",
+        "summary": "OpenAI is proposing a new safety technique that requires AI agents to debate topics with each other while being evaluated by human judges. This method aims to improve alignment and oversight of advanced AI systems.",
+        "why_it_matters": "It introduces a novel mechanism for human-in-the-loop oversight for autonomous AI decision-making.",
+        "topic_ids": [
+          "foundation-models",
+          "research"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/debate"
+          },
+          {
+            "name": "Google News: AI",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcEN3Zm9SZ3VwcmhRTnV1cG5DX0JPTGhkT1VOSkZMUE5ZS3R2eENaeTJCc1NpTVJ2NjNOZTlMa1hwWndmbUZyUGp2ZkZaOWlfOXZ3YnRzN3Z6cExGcDFpN1JaVzgzSWxKdlNGN2VuSWlRakFQTWpjMmsxR0RUY1lrb2tfZ0lIblQ3Ymdya0pIYW1uRWNIVEVvOEpNTXR4dkl1eHhLc05ObHRCM2thTTViSnl1UXZ4OXNHZkttRA?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  "continuing": []
+}
