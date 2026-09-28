@@ -1,0 +1,103 @@
+{
+  "date": "2026-09-28",
+  "intro": "Today's tech landscape is defined by the tension between rapid AI advancement and the urgent need for oversight. We look at new security protocols for autonomous agents and the growing trend of integrating generative AI directly into e-commerce.",
+  "must_know": [
+    {
+      "cluster_id": "8e3c84c327ec1936",
+      "title": "Securing the future of AI agents",
+      "summary": "Google DeepMind is developing an 'AI Control Roadmap' to secure internal systems, aiming to combine traditional security safeguards with real-time monitoring of AI agents. The industry is simultaneously exploring new frameworks for the rights and security of autonomous agents.",
+      "why_it_matters": "As AI models transition from passive assistants to active agents, the attack surface for internal infrastructure increases significantly.",
+      "topic_ids": [
+        "research",
+        "foundation-models"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "Google DeepMind Blog",
+          "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents"
+        },
+        {
+          "name": "Google News: AI",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUTBhOFpXZWJMVjkxMnhhbDlfRmQyRjBPTU1SaTdNVlVvU1d0Nmg0WERVajFmNkU0am5ZX2NLRTdlZnhlNS1BNnhhOEpRYkQ0eFM1OFAzQk15cXNoNVRsMHZXRVJodTdURm5XOTJwWUpoLXVMRngyLUpCYm5EYVJBNlp4dkNsdw?oc=5"
+        }
+      ]
+    },
+    {
+      "cluster_id": "64fa0a77df9e202e",
+      "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+      "summary": "A security researcher discovered that OpenAI's automated agents scanned the UN's trade statistics website over 16,000 times in a three-month period. While not a malicious breach, the incident highlights the risks posed by autonomous agents during web scraping.",
+      "why_it_matters": "Autonomous web-crawling behavior can easily be mistaken for cyberattacks, creating friction between AI labs and site administrators.",
+      "topic_ids": [
+        "research",
+        "big-tech"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website"
+        },
+        {
+          "name": "Google News: AI",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbVRjTmdjdnpYT3VIdE14OEh1QmNSc041UkN6NFVuMjJlUFBQdVlVVTB1TFVwenFWa01BMFJMd0VGNnJ0b0x6RXJ1ck52VUUwMDYzWEloQlFFa0NObmVHUklDTnFwdklsaTRXc09EUlNWamdNM3Bkd3cxbnptUXVzWHZ6MEgtUVhjM0I1UzZnN2tRMVBwaFJXdXJGOA?oc=5"
+        }
+      ]
+    },
+    {
+      "cluster_id": "44b8ec57f61da18a",
+      "title": "Our approach to government and national security partnerships",
+      "summary": "OpenAI has published its formal principles regarding government and national security partnerships. The framework emphasizes commitments to public safety, democratic accountability, and responsible deployment of AI technologies.",
+      "why_it_matters": "As AI becomes central to geopolitics, companies are increasingly forced to define how they will interact with state and military interests.",
+      "topic_ids": [
+        "policy",
+        "big-tech"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/government-national-security-partnerships"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/approach-to-data-and-ai"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/our-approach-to-ai-safety"
+        },
+        {
+          "name": "Google News: AI",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb3loa0FnTTJZNzY2T2tCMGZFaTN6WEgwYk1kb1NIcTNvWUVvZEFFVWloN04ybUJ5VnhodjBpMm11YndxcVk2dlE5dXZiMHFhWWVTUFhOdGJDSzcxT2Z3VTROMlduX2tCdGRwdEVPSmJuRTUwSllrZDQxeE1XMFUyaVVoSC1Jc25iU0pCRlFESmltZw?oc=5"
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "big-tech": [
+      {
+        "cluster_id": "a44eac78d8931000",
+        "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+        "summary": "Google is conducting a limited test in India that allows users to purchase items from Walmart-owned Flipkart directly through Gemini and AI Mode. A broader rollout is anticipated later in October.",
+        "why_it_matters": "This represents a significant step in transforming conversational AI assistants into active e-commerce shopping agents.",
+        "topic_ids": [
+          "tools",
+          "big-tech"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india"
+          }
+        ]
+      }
+    ]
+  },
+  "continuing": []
+}
