@@ -1,0 +1,323 @@
+{
+  "date": "2026-09-29",
+  "intro": "Today's briefing highlights major strides in AI agent development and model performance from OpenAI and Anthropic. We also cover critical updates on safety frameworks and the evolving regulatory landscape for large language models.",
+  "must_know": [
+    {
+      "cluster_id": "06ed456f2cb4f7c0",
+      "title": "Safety overview: GPT-6 Astra",
+      "summary": "OpenAI has officially characterized GPT-6 Astra as its most capable model, achieving the 'Critical' level in its cybersecurity framework. Reports indicate that a planned release was halted due to safety regressions.",
+      "why_it_matters": "The cancellation highlights the ongoing struggle to balance capability advancements with rigorous safety verification.",
+      "topic_ids": [
+        "foundation-models",
+        "policy"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/safety-overview-gpt-6-astra"
+        },
+        {
+          "name": "Google News: AI",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZGJwem40cnNPVWxHLXZweFREMjhQWi1yZDdsdk52MHppNk5qbjdWd3hTQm1MMHZtbjI5MVhrclo4U0c3dm5hbTlWOWZXYzlETDBpWlJETGh6aXFRMi12NWNMT1hOaDFGRjZHVjE3a3I2Q3JCTll6dlhGSGN0SnVYZzQtR3k4MTdZSTV6UFg0SWZSRWpVUzlGdER5ZFd4UE9uN2Zv?oc=5"
+        }
+      ]
+    },
+    {
+      "cluster_id": "85222b950a66bf61",
+      "title": "Introducing the Agents API",
+      "summary": "OpenAI introduced the Agents API to enable developers to build cloud-based agents with persistent memory and tool orchestration. Additional tools released include AgentKit and enhanced fine-tuning capabilities for agents.",
+      "why_it_matters": "Managed agent services lower the technical barrier for businesses looking to automate complex multi-step workflows.",
+      "topic_ids": [
+        "tools",
+        "foundation-models"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-the-agents-api"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-agentkit"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/image-generation-api"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-4o-image-generation"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-the-model-spec"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/tgi-multi-backend"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/smolagents"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/synthid-text"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/idefics2"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/leaderboard-contextual"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/inference-pro"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/wuerstchen"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/idefics"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/agents-js"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/sagemaker-huggingface-llm"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/aivsai"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/bloom"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/education"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/gptj-sagemaker"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/snowball-fight"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/the-partnership-amazon-sagemaker-and-hugging-face"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/accelerated-inference"
+        },
+        {
+          "name": "Google News: AI",
+          "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxPRl8zcTFFaVZkeklYREtRLUQ3MUNsSkZ0Z0daRklwY210OUVBT2Z1U0stVmxrMW5pZmE3WEN0MVJyZkQzQzZGQWZ3aWZjVkdaY19iX0V1bXEwOWlCT3E2YUpZTnBFNnpvYWpaRTVRUndpSjRzREM4cEpDRjVxdTMwOTBuRzF5MXlJQXRxU20xUVhVNmlKa0s5OF9zRzBCWnZVY0xJX0YzaGhOTktjSVBEVWhnZ0ZfQ2d5UHFpWFZJa25QTVQ2ZUxVcnJnWDRSdzlCRE1BX29adW5GNEk3amt6alVoNWRMY2tsc3UyNTZFTHlzS3dzSHpDWGNSZFRCa09LanIzeEFkbFBtTUZGcVVkVUFQNGtmU0FrSlEtYmJobFZ0X2FfeG5UajdWZVI5VVlIUFpLMzFIUUhxV3dOc1VhazNBbG9kTldnRUJSNUdKYVdRa1lVdlhCS0p1QkszRHA1amtHOFIwbzFRX3RGV3NCdTVxdXBuRTdk?oc=5"
+        }
+      ]
+    },
+    {
+      "cluster_id": "89e6a724328b7428",
+      "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+      "summary": "Anthropic has released Claude Sonnet 5.5, the latest version of its mid-range model. The company claims the update offers faster response times and improved token efficiency.",
+      "why_it_matters": "Faster and cheaper mid-range models are critical for broader enterprise integration of AI agents.",
+      "topic_ids": [
+        "foundation-models",
+        "tools"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner"
+        },
+        {
+          "name": "Hacker News Front Page",
+          "url": "https://www.anthropic.com/claude-sonnet-5-5"
+        },
+        {
+          "name": "Google News: AI",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNWJ3ekhzN2tpWXc4b1VNZURYcGR2RWp3ZGRVNzRZY0VDX0wwYmduVHBYZ0swZzFGR1dSN3J1dWlGeWwwUGVMVTE3anpGclN3cjlVenNtalBlVmhYNEVvOF85aVN3NTlSZFNxb1lkcjdlRF9LQ0V2V3VhVjJHeEZtTF9kQk11TXRPcHdj?oc=5"
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "foundation-models": [
+      {
+        "cluster_id": "78a4b14e39ccdf76",
+        "title": "When can we say AI made a scientific discovery?",
+        "summary": "Anthropic has launched a molecular biology lab where AI agents are tasked with conjecture and literature review on complex biological problems. This initiative aims to determine how to categorize AI-led scientific discovery.",
+        "why_it_matters": "Autonomous lab research represents a new frontier for AI's role in the scientific process.",
+        "topic_ids": [
+          "research",
+          "foundation-models"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery"
+          }
+        ]
+      }
+    ],
+    "tools": [
+      {
+        "cluster_id": "9a2619f50baafba7",
+        "title": "New tools for building agents",
+        "summary": "Nvidia has announced a new suite of safety tools specifically designed for auditing and monitoring the behavior of AI agents.",
+        "why_it_matters": "As agentic systems become more complex, specialized safety tools are essential for preventing unintended actions or security exploits.",
+        "topic_ids": [
+          "tools",
+          "research"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/new-tools-for-building-agents"
+          },
+          {
+            "name": "Google News: AI",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mM0xKS3J6M2g4dmVvM0dmRW5qZGVpNmtpWlRyYy1NYkY3dFpoaGZfNFJ5S2l2V3NveTk2ZjZRVW1KclpTM0dtMm8wVGFONHdSUnZQTUx6NnctVWo4ZC1DdWRFRDDSAWRBVV95cUxOZjNMSktyejNoOHZlbzNHZkVuamRlaTZraVpUcmMtTWJGN3RaaGhmXzRSeUtpdldzb3k5NmY2UVVtSnJaUzNHbTJvMFRhTjR3UlJ2UE1MejZ3LVVqOGQtQ3VkRUQw?oc=5"
+          }
+        ]
+      }
+    ],
+    "policy": [
+      {
+        "cluster_id": "0dd4323b3b0fb5d4",
+        "title": "Frontier Model Forum",
+        "summary": "OpenAI is forming a new industry body, the Frontier Model Forum, to advance safety research and facilitate information sharing. The company has also begun notifying affected parties, including government entities, regarding recent security incidents.",
+        "why_it_matters": "Establishing industry standards for safety is a central point of contention between tech firms and regulators.",
+        "topic_ids": [
+          "policy",
+          "big-tech"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "Ars Technica",
+            "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/frontier-model-forum"
+          }
+        ]
+      },
+      {
+        "cluster_id": "fc4c14b759645eb4",
+        "title": "OpenAI en France",
+        "summary": "OpenAI has opened its first office in continental Europe, located in France. The expansion coincides with ongoing public scrutiny regarding the company's safety testing protocols for its latest models.",
+        "why_it_matters": "A physical presence in France signals OpenAI's intent to engage more closely with European regulators amidst shifting AI policy.",
+        "topic_ids": [
+          "big-tech",
+          "policy"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/openai-en-france"
+          },
+          {
+            "name": "Google News: AI",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNWxZWUZOZVZyVWZZVzV3eTVqUkROOWtsQ0JiSkItZ01rdDJtTjhOTDV5Qk5XSzk1ZlFMZFcxa3NQangzY1lJalVKVzlHMkl4QTkydHRIdXZkMEhDZjF1Vi1BOVA4VHZfZFExYWs3aVNacDAyTzI4d0c0LVVsMmZJYVhVeEFKTGYwdWtTMWc3VnZ0T1BUWXdscldzWlFSQQ?oc=5"
+          },
+          {
+            "name": "Google News: AI",
+            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNVZOTVVaVkxxYjg0NXUxVEtob05TUDJGbXQzVGphYlRzdHVva0UyQ25CTlZfajRWT21zaTM3VmwydjVMUmFMRGpncGRqN1dTbEVJX182c184aGttUG45Q0FJUjFTNzh3SXFlUTlidzZTc1M4ZktnLVZjbEJyNW1jdXhTSzBtVEkzNG56Z0Q0Vzc0MF82cndoNXRuTVpXR21Rc1NIaFRxN0hfMDFXaF9LTm83T0hRb2dZTjQ5dGN3Rzl6dHphMUZNMzZ6Ti1qOGZvYV8xM3ZhTENPRWx1WkHSAd4BQVVfeXFMTTVWTk1VWlZMcWI4NDV1MVRLaG9OU1AyRm10M1RqYWJUc3R1b2tFMkNuQk5WX2o0Vk9tc2kzN1ZsMnY1TFJhTERqZ3BkajdXU2xFSV9fNnNfOGhrbVBuOUNBSVIxUzc4d0lxZVE5Ync2U3NTOGZLZy1WY2xCcjVtY3V4U0swbVRJMzRuemdENFc3NDBfNnJ3aDV0bk1aV0dtUXNTSGhUcTdIXzAxV2hfS05vN09IUW9nWU40OXRjd0c5enR6YTFGTTM2ek4tajhmb2FfMTN2YUxDT0VsdVpB?oc=5"
+          },
+          {
+            "name": "Google News: AI",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeXJheHpkM3AyQVR1SmpPVm5fZ0ZzaWltaEdpa1JfSzk2SWZ4anNNRlJWRVJkX3ZRaXF2OUNKWjBlSzdWeUxtYk5JdG5lOFE1QzIzLWpwNjBWYnBkLUZ2UFFJUVJUT2FNTEpNdXZrU3RIajZYc2QzMUxZbmVwbkFFNnNaSlZkQVY1TTRn?oc=5"
+          }
+        ]
+      },
+      {
+        "cluster_id": "2d7c9a6429514241",
+        "title": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
+        "summary": "Reports suggest that AI-enhanced hacking tactics are increasingly being used against vulnerable institutions like hospitals and banks. Security analysts warn that current defenses are unprepared for these sophisticated threats.",
+        "why_it_matters": "The lowering of the technical barrier for cyberattacks poses a significant threat to critical infrastructure.",
+        "topic_ids": [
+          "research",
+          "policy"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready"
+          }
+        ]
+      },
+      {
+        "cluster_id": "da1149ea8723f1ee",
+        "title": "Florida seeks a ban on ChatGPT acting like a person",
+        "summary": "Florida Attorney General James Uthmeier is seeking a court order to prevent OpenAI from giving ChatGPT human-like attributes. The legal argument asserts that first-person language misleads users and obscures the bot's nature.",
+        "why_it_matters": "This case highlights the growing intersection of consumer protection law and anthropomorphic AI design.",
+        "topic_ids": [
+          "policy"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids"
+          }
+        ]
+      }
+    ]
+  },
+  "continuing": [
+    {
+      "cluster_id": "eb674100bb687fff",
+      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "summary": "Basis has reported that its use of GPT-6 Astra enabled the completion of a complex 50-tab tax workbook twice as fast as the previous version, GPT-5.6 Sol.",
+      "why_it_matters": "Case studies of speed improvements in specialized, data-heavy tasks provide concrete evidence of LLM productivity gains.",
+      "topic_ids": [
+        "tools",
+        "foundation-models"
+      ],
+      "story_type": "update",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/basis-tax-workbook-with-astra"
+        }
+      ]
+    }
+  ]
+}

@@ -1,86 +1,6 @@
 {
   "entries": [
     {
-      "event_key": "openai-math-advisory-group",
-      "urls": [
-        "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-        "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence",
-        "https://news.google.com/rss/articles/CBMib0FVX3lxTE50TVpFbHFkWkJyVkNRV1l3T0VTb3V4YmFhOWZsd19nNEYwV0ZsVURHeElOMG8zYVNRc0NEYUxMYkNua3ozeXBGTTdoRlY5amo1b3dIU3o3TkxUQ0VHRnZ1STYta0FkM3NxZ0dob2Npdw?oc=5"
-      ],
-      "title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "first_seen": "2026-09-22",
-      "last_shipped": "2026-09-22",
-      "last_summary": "OpenAI has established an independent Advisory Group on Mathematics and Artificial Intelligence to help oversee the evaluation and communication of new AI-driven mathematical research.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "openai-learning-outcomes-suite",
-      "urls": [
-        "https://openai.com/index/understanding-ai-and-learning-outcomes",
-        "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTjU2ZnczR0JQRlU5ZklqYnd5ZDJkaHNGb3V5ei0zTTBZYWdPMG1NZk9makYtbERFTUNnckI2Q3RTbWFDT19PLUNhajdYN0d0Vi1VcFNmbjBGdW4xSVl0R1VBaGw4ZlMzZVRvbUZncFJ4bUtta2ZFcElZXzhZeFB5OTI5bUdGeWh2TDZWQlROR0gtbDBlUUVXdWp3a3hpX0xBdjU4M0dJUUl5QkZHb0hPYUNpeUlyMjlYS2ZHNkx4SVNQQ2lQOXd2WkpUQWVoQXJsaGxFWnBDdHk0cnpCOHc?oc=5"
-      ],
-      "title": "Understanding AI and learning outcomes",
-      "first_seen": "2026-09-22",
-      "last_shipped": "2026-09-22",
-      "last_summary": "OpenAI has launched the Learning Outcomes Measurement Suite to empirically evaluate how AI integration influences student learning in various educational settings.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "openai-global-standards",
-      "urls": [
-        "https://openai.com/index/building-standards-next-phase-ai"
-      ],
-      "title": "Building standards for the next phase of AI",
-      "first_seen": "2026-09-22",
-      "last_shipped": "2026-09-22",
-      "last_summary": "OpenAI has released a proposal for standardized global frameworks for the evaluation, reporting, and governance of foundation models.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "v7-institutional-memory-agents",
-      "urls": [
-        "https://openai.com/index/v7"
-      ],
-      "title": "How V7 gives AI agents institutional memory",
-      "first_seen": "2026-09-22",
-      "last_shipped": "2026-09-22",
-      "last_summary": "V7 is leveraging GPT-5.6 to transform internal company data into institutional memory, allowing AI agents to perform complex, source-linked tasks.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "amazon-colorado-river-conservation",
-      "urls": [
-        "https://www.theverge.com/tech/998539/amazon-data-center-water-conservation-colorado-river"
-      ],
-      "title": "Amazon wants to help the Colorado River, but we still don’t know how much water the company uses",
-      "first_seen": "2026-09-22",
-      "last_shipped": "2026-09-22",
-      "last_summary": "Amazon has pledged $20 million toward water conservation in the Colorado River basin amid ongoing public pressure regarding data center water usage.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "california-data-center-regulation",
-      "urls": [
-        "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills"
-      ],
-      "title": "California tightens rules on AI data center energy and water use",
-      "first_seen": "2026-09-22",
-      "last_shipped": "2026-09-22",
-      "last_summary": "California Governor Gavin Newsom has signed legislation requiring data centers to pay for utility upgrades, aiming to prevent infrastructure costs from impacting residential rates.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "meta-muse-adoption-stats",
-      "urls": [
-        "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch"
-      ],
-      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
-      "first_seen": "2026-09-22",
-      "last_shipped": "2026-09-22",
-      "last_summary": "Data from Appfigures indicates that Meta’s new AI agent, Muse, has surpassed the initial mobile download and engagement rates seen by ChatGPT during its launch phase.",
-      "was_must_know": false
-    },
-    {
       "event_key": "openai-gpt6-launch",
       "urls": [
         "https://openai.com/index/introducing-gpt-6-sol-and-luna",
@@ -666,6 +586,148 @@
       "first_seen": "2026-09-28",
       "last_shipped": "2026-09-28",
       "last_summary": "Google is conducting a limited test in India that allows users to purchase items from Walmart-owned Flipkart directly through Gemini and AI Mode. A broader rollout is anticipated later in October.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "anthropic-claude-sonnet-5-5-launch",
+      "urls": [
+        "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner",
+        "https://www.anthropic.com/claude-sonnet-5-5",
+        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNWJ3ekhzN2tpWXc4b1VNZURYcGR2RWp3ZGRVNzRZY0VDX0wwYmduVHBYZ0swZzFGR1dSN3J1dWlGeWwwUGVMVTE3anpGclN3cjlVenNtalBlVmhYNEVvOF85aVN3NTlSZFNxb1lkcjdlRF9LQ0V2V3VhVjJHeEZtTF9kQk11TXRPcHdj?oc=5"
+      ],
+      "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+      "first_seen": "2026-09-29",
+      "last_shipped": "2026-09-29",
+      "last_summary": "Anthropic has released Claude Sonnet 5.5, the latest version of its mid-range model. The company claims the update offers faster response times and improved token efficiency.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "openai-frontier-model-forum",
+      "urls": [
+        "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents",
+        "https://openai.com/index/frontier-model-forum"
+      ],
+      "title": "Frontier Model Forum",
+      "first_seen": "2026-09-29",
+      "last_shipped": "2026-09-29",
+      "last_summary": "OpenAI is forming a new industry body, the Frontier Model Forum, to advance safety research and facilitate information sharing. The company has also begun notifying affected parties, including government entities, regarding recent security incidents.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-agents-api-launch",
+      "urls": [
+        "https://openai.com/index/introducing-the-agents-api",
+        "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
+        "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
+        "https://openai.com/index/introducing-agentkit",
+        "https://openai.com/index/image-generation-api",
+        "https://openai.com/index/introducing-4o-image-generation",
+        "https://openai.com/index/introducing-the-model-spec",
+        "https://huggingface.co/blog/tgi-multi-backend",
+        "https://huggingface.co/blog/smolagents",
+        "https://huggingface.co/blog/synthid-text",
+        "https://huggingface.co/blog/idefics2",
+        "https://huggingface.co/blog/leaderboard-contextual",
+        "https://huggingface.co/blog/inference-pro",
+        "https://huggingface.co/blog/wuerstchen",
+        "https://huggingface.co/blog/idefics",
+        "https://huggingface.co/blog/agents-js",
+        "https://huggingface.co/blog/sagemaker-huggingface-llm",
+        "https://huggingface.co/blog/aivsai",
+        "https://huggingface.co/blog/bloom",
+        "https://huggingface.co/blog/education",
+        "https://huggingface.co/blog/gptj-sagemaker",
+        "https://huggingface.co/blog/snowball-fight",
+        "https://huggingface.co/blog/the-partnership-amazon-sagemaker-and-hugging-face",
+        "https://huggingface.co/blog/accelerated-inference",
+        "https://news.google.com/rss/articles/CBMi-AJBVV95cUxPRl8zcTFFaVZkeklYREtRLUQ3MUNsSkZ0Z0daRklwY210OUVBT2Z1U0stVmxrMW5pZmE3WEN0MVJyZkQzQzZGQWZ3aWZjVkdaY19iX0V1bXEwOWlCT3E2YUpZTnBFNnpvYWpaRTVRUndpSjRzREM4cEpDRjVxdTMwOTBuRzF5MXlJQXRxU20xUVhVNmlKa0s5OF9zRzBCWnZVY0xJX0YzaGhOTktjSVBEVWhnZ0ZfQ2d5UHFpWFZJa25QTVQ2ZUxVcnJnWDRSdzlCRE1BX29adW5GNEk3amt6alVoNWRMY2tsc3UyNTZFTHlzS3dzSHpDWGNSZFRCa09LanIzeEFkbFBtTUZGcVVkVUFQNGtmU0FrSlEtYmJobFZ0X2FfeG5UajdWZVI5VVlIUFpLMzFIUUhxV3dOc1VhazNBbG9kTldnRUJSNUdKYVdRa1lVdlhCS0p1QkszRHA1amtHOFIwbzFRX3RGV3NCdTVxdXBuRTdk?oc=5"
+      ],
+      "title": "Introducing the Agents API",
+      "first_seen": "2026-09-29",
+      "last_shipped": "2026-09-29",
+      "last_summary": "OpenAI introduced the Agents API to enable developers to build cloud-based agents with persistent memory and tool orchestration. Additional tools released include AgentKit and enhanced fine-tuning capabilities for agents.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "openai-gpt-6-astra-safety-delay",
+      "urls": [
+        "https://openai.com/index/safety-overview-gpt-6-astra",
+        "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZGJwem40cnNPVWxHLXZweFREMjhQWi1yZDdsdk52MHppNk5qbjdWd3hTQm1MMHZtbjI5MVhrclo4U0c3dm5hbTlWOWZXYzlETDBpWlJETGh6aXFRMi12NWNMT1hOaDFGRjZHVjE3a3I2Q3JCTll6dlhGSGN0SnVYZzQtR3k4MTdZSTV6UFg0SWZSRWpVUzlGdER5ZFd4UE9uN2Zv?oc=5"
+      ],
+      "title": "Safety overview: GPT-6 Astra",
+      "first_seen": "2026-09-29",
+      "last_shipped": "2026-09-29",
+      "last_summary": "OpenAI has officially characterized GPT-6 Astra as its most capable model, achieving the 'Critical' level in its cybersecurity framework. Reports indicate that a planned release was halted due to safety regressions.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "nvidia-ai-agent-safety-tools",
+      "urls": [
+        "https://openai.com/index/new-tools-for-building-agents",
+        "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mM0xKS3J6M2g4dmVvM0dmRW5qZGVpNmtpWlRyYy1NYkY3dFpoaGZfNFJ5S2l2V3NveTk2ZjZRVW1KclpTM0dtMm8wVGFONHdSUnZQTUx6NnctVWo4ZC1DdWRFRDDSAWRBVV95cUxOZjNMSktyejNoOHZlbzNHZkVuamRlaTZraVpUcmMtTWJGN3RaaGhmXzRSeUtpdldzb3k5NmY2UVVtSnJaUzNHbTJvMFRhTjR3UlJ2UE1MejZ3LVVqOGQtQ3VkRUQw?oc=5"
+      ],
+      "title": "New tools for building agents",
+      "first_seen": "2026-09-29",
+      "last_shipped": "2026-09-29",
+      "last_summary": "Nvidia has announced a new suite of safety tools specifically designed for auditing and monitoring the behavior of AI agents.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-france-office-opening",
+      "urls": [
+        "https://openai.com/index/openai-en-france",
+        "https://news.google.com/rss/articles/CBMingFBVV95cUxNNWxZWUZOZVZyVWZZVzV3eTVqUkROOWtsQ0JiSkItZ01rdDJtTjhOTDV5Qk5XSzk1ZlFMZFcxa3NQangzY1lJalVKVzlHMkl4QTkydHRIdXZkMEhDZjF1Vi1BOVA4VHZfZFExYWs3aVNacDAyTzI4d0c0LVVsMmZJYVhVeEFKTGYwdWtTMWc3VnZ0T1BUWXdscldzWlFSQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNVZOTVVaVkxxYjg0NXUxVEtob05TUDJGbXQzVGphYlRzdHVva0UyQ25CTlZfajRWT21zaTM3VmwydjVMUmFMRGpncGRqN1dTbEVJX182c184aGttUG45Q0FJUjFTNzh3SXFlUTlidzZTc1M4ZktnLVZjbEJyNW1jdXhTSzBtVEkzNG56Z0Q0Vzc0MF82cndoNXRuTVpXR21Rc1NIaFRxN0hfMDFXaF9LTm83T0hRb2dZTjQ5dGN3Rzl6dHphMUZNMzZ6Ti1qOGZvYV8xM3ZhTENPRWx1WkHSAd4BQVVfeXFMTTVWTk1VWlZMcWI4NDV1MVRLaG9OU1AyRm10M1RqYWJUc3R1b2tFMkNuQk5WX2o0Vk9tc2kzN1ZsMnY1TFJhTERqZ3BkajdXU2xFSV9fNnNfOGhrbVBuOUNBSVIxUzc4d0lxZVE5Ync2U3NTOGZLZy1WY2xCcjVtY3V4U0swbVRJMzRuemdENFc3NDBfNnJ3aDV0bk1aV0dtUXNTSGhUcTdIXzAxV2hfS05vN09IUW9nWU40OXRjd0c5enR6YTFGTTM2ek4tajhmb2FfMTN2YUxDT0VsdVpB?oc=5",
+        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeXJheHpkM3AyQVR1SmpPVm5fZ0ZzaWltaEdpa1JfSzk2SWZ4anNNRlJWRVJkX3ZRaXF2OUNKWjBlSzdWeUxtYk5JdG5lOFE1QzIzLWpwNjBWYnBkLUZ2UFFJUVJUT2FNTEpNdXZrU3RIajZYc2QzMUxZbmVwbkFFNnNaSlZkQVY1TTRn?oc=5"
+      ],
+      "title": "OpenAI en France",
+      "first_seen": "2026-09-29",
+      "last_shipped": "2026-09-29",
+      "last_summary": "OpenAI has opened its first office in continental Europe, located in France. The expansion coincides with ongoing public scrutiny regarding the company's safety testing protocols for its latest models.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "gpt-6-astra-performance-report",
+      "urls": [
+        "https://openai.com/index/basis-tax-workbook-with-astra"
+      ],
+      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "first_seen": "2026-09-29",
+      "last_shipped": "2026-09-29",
+      "last_summary": "Basis has reported that its use of GPT-6 Astra enabled the completion of a complex 50-tab tax workbook twice as fast as the previous version, GPT-5.6 Sol.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "anthropic-molecular-biology-lab",
+      "urls": [
+        "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery"
+      ],
+      "title": "When can we say AI made a scientific discovery?",
+      "first_seen": "2026-09-29",
+      "last_shipped": "2026-09-29",
+      "last_summary": "Anthropic has launched a molecular biology lab where AI agents are tasked with conjecture and literature review on complex biological problems. This initiative aims to determine how to categorize AI-led scientific discovery.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "ai-driven-cyber-threats",
+      "urls": [
+        "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready"
+      ],
+      "title": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
+      "first_seen": "2026-09-29",
+      "last_shipped": "2026-09-29",
+      "last_summary": "Reports suggest that AI-enhanced hacking tactics are increasingly being used against vulnerable institutions like hospitals and banks. Security analysts warn that current defenses are unprepared for these sophisticated threats.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "florida-openai-lawsuit-anthropomorphism",
+      "urls": [
+        "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids"
+      ],
+      "title": "Florida seeks a ban on ChatGPT acting like a person",
+      "first_seen": "2026-09-29",
+      "last_shipped": "2026-09-29",
+      "last_summary": "Florida Attorney General James Uthmeier is seeking a court order to prevent OpenAI from giving ChatGPT human-like attributes. The legal argument asserts that first-person language misleads users and obscures the bot's nature.",
       "was_must_know": false
     }
   ]
