@@ -1,182 +1,6 @@
 {
   "entries": [
     {
-      "event_key": "openai-gpt6-launch",
-      "urls": [
-        "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-        "https://openai.com/index/introducing-gpt-live",
-        "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
-        "https://openai.com/index/introducing-gpt-5-5",
-        "https://openai.com/index/introducing-gpt-rosalind",
-        "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
-        "https://openai.com/index/introducing-gpt-5-4",
-        "https://openai.com/index/introducing-gpt-5-3-codex-spark",
-        "https://openai.com/index/introducing-gpt-5-3-codex",
-        "https://openai.com/index/introducing-the-codex-app",
-        "https://openai.com/index/introducing-gpt-5-2-codex",
-        "https://openai.com/index/new-chatgpt-images-is-here",
-        "https://openai.com/index/introducing-gpt-5-2",
-        "https://openai.com/index/gpt-5-1-for-developers",
-        "https://openai.com/index/introducing-gpt-oss-safeguard",
-        "https://openai.com/index/introducing-chatgpt-pulse",
-        "https://openai.com/index/introducing-upgrades-to-codex",
-        "https://openai.com/index/introducing-gpt-realtime",
-        "https://openai.com/index/introducing-gpt-5-for-developers",
-        "https://openai.com/index/introducing-gpt-5",
-        "https://openai.com/index/introducing-gpt-oss",
-        "https://openai.com/index/chatgpt-study-mode",
-        "https://openai.com/index/introducing-chatgpt-agent",
-        "https://openai.com/index/gpt-4-1",
-        "https://openai.com/index/introducing-our-next-generation-audio-models",
-        "https://openai.com/index/introducing-deep-research",
-        "https://openai.com/index/introducing-chatgpt-pro",
-        "https://openai.com/index/introducing-chatgpt-search",
-        "https://openai.com/index/introducing-canvas",
-        "https://openai.com/index/introducing-the-realtime-api",
-        "https://openai.com/index/introducing-vision-to-the-fine-tuning-api",
-        "https://openai.com/index/mercado-libre",
-        "https://openai.com/index/introducing-structured-outputs-in-the-api",
-        "https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free",
-        "https://openai.com/index/introducing-chatgpt-and-whisper-apis",
-        "https://openai.com/index/introducing-improvements-to-the-fine-tuning-api-and-expanding-our-custom-models-program",
-        "https://openai.com/index/introducing-the-gpt-store",
-        "https://openai.com/index/introducing-chatgpt-team",
-        "https://openai.com/index/introducing-chatgpt-enterprise",
-        "https://openai.com/index/introducing-the-chatgpt-app-for-ios",
-        "https://openai.com/index/chatgpt-plus",
-        "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking",
-        "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber",
-        "https://deepmind.google/blog/introducing-gemini-3-7-flash",
-        "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber",
-        "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber",
-        "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash",
-        "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model",
-        "https://deepmind.google/blog/introducing-gemini-omni",
-        "https://deepmind.google/blog/introducing-google-antigravity-2-0",
-        "https://deepmind.google/blog/introducing-google-antigravity",
-        "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
-        "https://huggingface.co/blog/openenv",
-        "https://huggingface.co/blog/agents",
-        "https://huggingface.co/blog/leaderboard-patronus"
-      ],
-      "title": "Introducing GPT-6 Sol and Luna",
-      "first_seen": "2026-09-23",
-      "last_shipped": "2026-09-23",
-      "last_summary": "OpenAI has unveiled GPT-6 Sol and Luna, two new foundation models designed for everyday work, along with GPT-Rosalind, which is specialized for life sciences and biological research.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "chatgpt-work-workflows",
-      "urls": [
-        "https://openai.com/academy/how-to-use-chatgpt-work-for-everyday-tasks",
-        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOS0VSc19rMHltU1g3bFNDaTE2Rno0ZmRFSkJuTV9lS3RDeXdRLWtLUjRCTmZZS29yd1dzWERUeGxNS1ZJSGVRVktCMlNyRjJza2RSMXlqa3JlNEhzRkFVaUktSkRxczZLVTR4UXljbnB0WkR0bFlIRElmVW80SE5Bb0pndEZHRG5XZmIya0k1Rl9ZUEJzQWR2c0hhWWM1aTZZVjJ5bjZLYlRJY2ZabHVmbVFaR0tNUjhlQU83VjUyMGl4RDJaQnJJWGJGaTgyUERI?oc=5"
-      ],
-      "title": "Everyday work with ChatGPT Work",
-      "first_seen": "2026-09-23",
-      "last_shipped": "2026-09-23",
-      "last_summary": "OpenAI released new resources and workflows for ChatGPT Work, focused on helping teams integrate AI into recurring tasks, planning, and operations.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "gpt6-prompt-caching-update",
-      "urls": [
-        "https://openai.com/index/better-prompt-caching-for-gpt-6"
-      ],
-      "title": "Better prompt caching for GPT-6",
-      "first_seen": "2026-09-23",
-      "last_shipped": "2026-09-23",
-      "last_summary": "OpenAI introduced updated prompt caching features for GPT-6, including improved cache hit rates and explicit breakpoints to optimize latency and operational costs.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "gpt6-astra-efficiency-gains",
-      "urls": [
-        "https://openai.com/index/parallel-cuts-time-and-cost-with-astra"
-      ],
-      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
-      "first_seen": "2026-09-23",
-      "last_shipped": "2026-09-23",
-      "last_summary": "Parallel reported that the GPT-6 Astra model enabled its agents to research and synthesize labor-market data with a 50% reduction in time and cost.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "openai-third-party-safety",
-      "urls": [
-        "https://openai.com/index/priorities-principles-third-party-assessments"
-      ],
-      "title": "Priorities and principles for effective third party assessments",
-      "first_seen": "2026-09-23",
-      "last_shipped": "2026-09-23",
-      "last_summary": "OpenAI has published its framework for conducting independent, third-party safety assessments of its frontier AI models.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "higgsfield-ai-gpt6-adoption",
-      "urls": [
-        "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra"
-      ],
-      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-      "first_seen": "2026-09-23",
-      "last_shipped": "2026-09-23",
-      "last_summary": "Higgsfield AI utilized GPT-6 Astra to accelerate the development and release of new creative video tools for small businesses.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "rabbit-os3-release",
-      "urls": [
-        "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3"
-      ],
-      "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
-      "first_seen": "2026-09-23",
-      "last_shipped": "2026-09-23",
-      "last_summary": "Rabbit is launching a standalone 'agentic operating system' that functions across desktop and mobile devices without requiring its proprietary R1 hardware.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "qualcomm-snapdragon-8-elite-gen-6",
-      "urls": [
-        "https://www.theverge.com/gadgets/998842/qualcomm-snapdragon-8-elite-extreme-gen-6"
-      ],
-      "title": "Qualcomm’s Snapdragon 8 Elite Gen 6 comes in an Extreme version too",
-      "first_seen": "2026-09-23",
-      "last_shipped": "2026-09-23",
-      "last_summary": "Qualcomm announced the Snapdragon 8 Elite Gen 6 and an 'Extreme' version, both featuring enhanced AI processing, video, and gaming capabilities.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "motorola-signature-27-launch",
-      "urls": [
-        "https://www.theverge.com/tech/998844/motorola-signature-27-specs-snapdragon-8-elite-extreme-gen-6"
-      ],
-      "title": "Motorola’s wild-looking Signature 27 runs Qualcomm’s new Extreme chipset",
-      "first_seen": "2026-09-23",
-      "last_shipped": "2026-09-23",
-      "last_summary": "Motorola has announced the Signature 27, the first smartphone to integrate Qualcomm's new top-tier Snapdragon 8 Elite Extreme Gen 6 chipset.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "san-francisco-trump-media-lawsuit",
-      "urls": [
-        "https://www.theverge.com/tech/998914/trump-truth-social-api-lawsuit-san-francisco"
-      ],
-      "title": "San Francisco sues Trump Media for selling early access to Trump posts",
-      "first_seen": "2026-09-23",
-      "last_shipped": "2026-09-23",
-      "last_summary": "San Francisco has filed a lawsuit against Trump Media & Technology Group, alleging that the company's Truth Social API access scheme violates state unfair competition laws.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "snorkel-ai-funding-series-e",
-      "urls": [
-        "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms"
-      ],
-      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
-      "first_seen": "2026-09-23",
-      "last_shipped": "2026-09-23",
-      "last_summary": "Snorkel AI has raised $350 million in Series E funding, tripling its valuation to $3.5 billion as interest in data-centric AI training solutions grows.",
-      "was_must_know": true
-    },
-    {
       "event_key": "ai-compute-growth-analysis",
       "urls": [
         "https://openai.com/index/ai-and-compute",
@@ -728,6 +552,170 @@
       "first_seen": "2026-09-29",
       "last_shipped": "2026-09-29",
       "last_summary": "Florida Attorney General James Uthmeier is seeking a court order to prevent OpenAI from giving ChatGPT human-like attributes. The legal argument asserts that first-person language misleads users and obscures the bot's nature.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "xai-openai-dot-com-domain",
+      "urls": [
+        "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch",
+        "https://openai.com/index/openai-elon-musk"
+      ],
+      "title": "OpenAI and Elon Musk",
+      "first_seen": "2026-09-30",
+      "last_shipped": "2026-09-30",
+      "last_summary": "xAI acquired the dot.com domain to redirect to its Grok chatbot ahead of OpenAI launching an AI agent named Dots.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-microsoft-azure-partnership",
+      "urls": [
+        "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite",
+        "https://openai.com/index/openai-and-microsoft",
+        "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVDMxeU5wLWV6cXdTcHk5T0k2d0VDbnRoT3BSNUFULW9DYmh1VTdSUy1aU3k5cksta1dXTV9DU0Joa2Rib19WLWV4alc5OW5DYkU0d2lrcUVKR0I0NGpkOVRvSVkyR1hXU2JybG1DUmc3emt3ajJmcDB2WlFtcUpBd0V4Q3NJU1lma2c?oc=5"
+      ],
+      "title": "OpenAI and Microsoft",
+      "first_seen": "2026-09-30",
+      "last_shipped": "2026-09-30",
+      "last_summary": "OpenAI is expanding its office features to compete with traditional software, while consolidating its large-scale experiments on Microsoft Azure.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-gpt-6-1-sol-launch",
+      "urls": [
+        "https://openai.com/index/introducing-gpt-6-1-sol",
+        "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+        "https://openai.com/index/introducing-gpt-live",
+        "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+        "https://openai.com/index/introducing-gpt-5-5",
+        "https://openai.com/index/introducing-gpt-rosalind",
+        "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+        "https://openai.com/index/introducing-gpt-5-4",
+        "https://openai.com/index/introducing-gpt-5-3-codex-spark",
+        "https://openai.com/index/introducing-gpt-5-3-codex",
+        "https://openai.com/index/introducing-the-codex-app",
+        "https://openai.com/index/introducing-gpt-5-2-codex",
+        "https://openai.com/index/new-chatgpt-images-is-here",
+        "https://openai.com/index/introducing-gpt-5-2",
+        "https://openai.com/index/gpt-5-1-for-developers",
+        "https://openai.com/index/introducing-gpt-oss-safeguard",
+        "https://openai.com/index/introducing-chatgpt-pulse",
+        "https://openai.com/index/introducing-upgrades-to-codex",
+        "https://openai.com/index/introducing-gpt-realtime",
+        "https://openai.com/index/introducing-gpt-5-for-developers",
+        "https://openai.com/index/introducing-gpt-5",
+        "https://openai.com/index/introducing-gpt-oss",
+        "https://openai.com/index/chatgpt-study-mode",
+        "https://openai.com/index/introducing-chatgpt-agent",
+        "https://openai.com/index/gpt-4-1",
+        "https://openai.com/index/introducing-our-next-generation-audio-models",
+        "https://openai.com/index/introducing-deep-research",
+        "https://openai.com/index/introducing-chatgpt-pro",
+        "https://openai.com/index/introducing-chatgpt-search",
+        "https://openai.com/index/introducing-canvas",
+        "https://openai.com/index/introducing-the-realtime-api",
+        "https://openai.com/index/introducing-vision-to-the-fine-tuning-api",
+        "https://openai.com/index/mercado-libre",
+        "https://openai.com/index/introducing-structured-outputs-in-the-api",
+        "https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free",
+        "https://openai.com/index/introducing-chatgpt-and-whisper-apis",
+        "https://openai.com/index/introducing-improvements-to-the-fine-tuning-api-and-expanding-our-custom-models-program",
+        "https://openai.com/index/introducing-the-gpt-store",
+        "https://openai.com/index/introducing-chatgpt-team",
+        "https://openai.com/index/introducing-chatgpt-enterprise",
+        "https://openai.com/index/introducing-the-chatgpt-app-for-ios",
+        "https://openai.com/index/chatgpt-plus",
+        "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar",
+        "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking",
+        "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber",
+        "https://deepmind.google/blog/introducing-gemini-3-7-flash",
+        "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber",
+        "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber",
+        "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash",
+        "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model",
+        "https://deepmind.google/blog/introducing-gemini-omni",
+        "https://deepmind.google/blog/introducing-google-antigravity-2-0",
+        "https://deepmind.google/blog/introducing-google-antigravity",
+        "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+        "https://huggingface.co/blog/openenv",
+        "https://huggingface.co/blog/agents",
+        "https://huggingface.co/blog/leaderboard-patronus"
+      ],
+      "title": "Introducing GPT-6.1 Sol",
+      "first_seen": "2026-09-30",
+      "last_shipped": "2026-09-30",
+      "last_summary": "OpenAI announced GPT-6.1 Sol, a lower-cost model optimized for professional coding and computer use, alongside the specialized GPT-Rosalind for life sciences.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "openai-michigan-data-center",
+      "urls": [
+        "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+        "https://openai.com/index/building-abundant-intelligence",
+        "https://openai.com/index/stargate-michigan-data-center",
+        "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
+        "https://openai.com/index/confidence-building-measures-for-artificial-intelligence",
+        "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQN01TY2VzeWtpb0txd0dmbU5UWEEyRFEyRlp4dFVuV1NIN2N0dWxnaVBJUHlTYTF0N3hmRnZxMXR0UXU2V3ozeU55Q1dZNVd0NUJxOVd5czV2QVI0M29PR3ljSVBmd1FoanMtU25nSlUxYlU1amwwdFItNmVOQUF2NkhaUnZiZ0EyQU1WYjEzNkVDXy1yRDZVM3FhdnVRdXpsWWcwTkNLYjZRcS1hS1VNS3FfcUNxY2hDZWZTUV9SNTN2cC1RQVNzRGYtVEJWQTNqRWdfbE9EeDNmTFZhNThtVg?oc=5"
+      ],
+      "title": "The full stack behind abundant intelligence",
+      "first_seen": "2026-09-30",
+      "last_shipped": "2026-09-30",
+      "last_summary": "OpenAI is scaling its infrastructure, including a new 1GW data center project in Michigan, to support the computational demands of future AGI.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "trump-ai-renaming-order",
+      "urls": [
+        "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
+        "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTzhIdXJCMFJtR3ZaRnI3RTJEY19rUXhiUXQ5a3dkQnVKRDJlTm5kVzNxbmQ4N1RxdFh5OWItZnhpX3VJcXpEa3FzZ2VWLTFtVzNsVllNUm5peG03MXM1Vkt4MWcwMnlIa0oyRWd6cWlUaTMyLWpuNHNMbmdVenBwYXV0aDR3S0lWWTNUVmVSMlJSSmg0ZFozUWdvSG15SDM3Q1Y0X2pyX1JIZFpyazJWZ1Y2MmtDdkF3MVc1QUxiWnN4VEJOWENHemN3YkRSUQ?oc=5"
+      ],
+      "title": "Trump orders US government to call AI ‘Super Intelligence’",
+      "first_seen": "2026-09-30",
+      "last_shipped": "2026-09-30",
+      "last_summary": "President Trump signed an executive order requiring the US federal government to replace the term 'artificial intelligence' with 'Super Intelligence' in all official communications.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-devday-2026-recap",
+      "urls": [
+        "https://openai.com/index/devday-2026-recap"
+      ],
+      "title": "DevDay 2026 Recap",
+      "first_seen": "2026-09-30",
+      "last_shipped": "2026-09-30",
+      "last_summary": "OpenAI's DevDay 2026 featured over 20 announcements, headlined by the introduction of GPT-6 Astra and new developer tools.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "openai-safety-guidelines",
+      "urls": [
+        "https://openai.com/index/towards-safety-cases-for-frontier-ai-training"
+      ],
+      "title": "Towards safety cases for frontier AI training",
+      "first_seen": "2026-09-30",
+      "last_shipped": "2026-09-30",
+      "last_summary": "OpenAI has released early guidelines for conducting safety assessments during the training of frontier AI models.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "ai-agent-liability-debate",
+      "urls": [
+        "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index"
+      ],
+      "title": "The Download: rogue agent liability and the AI Hype Index",
+      "first_seen": "2026-09-30",
+      "last_shipped": "2026-09-30",
+      "last_summary": "Growing concern over cyberattacks by autonomous agents has prompted debates regarding legal liability for AI-driven damage.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-ipo-delay",
+      "urls": [
+        "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety"
+      ],
+      "title": "Sam Altman says OpenAI won’t go public until its models are safe",
+      "first_seen": "2026-09-30",
+      "last_shipped": "2026-09-30",
+      "last_summary": "CEO Sam Altman stated that OpenAI has no immediate plans for an IPO, emphasizing that model safety is a prerequisite for public markets.",
       "was_must_know": false
     }
   ]

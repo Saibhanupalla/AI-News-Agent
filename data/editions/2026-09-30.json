@@ -1,0 +1,435 @@
+{
+  "date": "2026-09-30",
+  "intro": "OpenAI dominated the day with a wave of product announcements and infrastructure updates at DevDay 2026. Beyond the product releases, new policy shifts in government nomenclature and AI safety regulations are shaping the industry landscape.",
+  "must_know": [
+    {
+      "cluster_id": "61a9becfa2d1aa6c",
+      "title": "Introducing GPT-6.1 Sol",
+      "summary": "OpenAI announced GPT-6.1 Sol, a lower-cost model optimized for professional coding and computer use, alongside the specialized GPT-Rosalind for life sciences.",
+      "why_it_matters": "These releases focus on making frontier-level intelligence more affordable and specialized for specific domains like biology.",
+      "topic_ids": [
+        "foundation-models",
+        "tools"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-gpt-6-1-sol"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-gpt-live"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-gpt-5-5"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-gpt-rosalind"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-gpt-5-4"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-gpt-5-3-codex"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-the-codex-app"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-gpt-5-2-codex"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/new-chatgpt-images-is-here"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-gpt-5-2"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/gpt-5-1-for-developers"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-gpt-oss-safeguard"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-chatgpt-pulse"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-upgrades-to-codex"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-gpt-realtime"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-gpt-5-for-developers"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-gpt-5"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-gpt-oss"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/chatgpt-study-mode"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-chatgpt-agent"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/gpt-4-1"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-our-next-generation-audio-models"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-deep-research"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-chatgpt-pro"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-chatgpt-search"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-canvas"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-the-realtime-api"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-vision-to-the-fine-tuning-api"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/mercado-libre"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-structured-outputs-in-the-api"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-chatgpt-and-whisper-apis"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-improvements-to-the-fine-tuning-api-and-expanding-our-custom-models-program"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-the-gpt-store"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-chatgpt-team"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-chatgpt-enterprise"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-the-chatgpt-app-for-ios"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/chatgpt-plus"
+        },
+        {
+          "name": "Google DeepMind Blog",
+          "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar"
+        },
+        {
+          "name": "Google DeepMind Blog",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking"
+        },
+        {
+          "name": "Google DeepMind Blog",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber"
+        },
+        {
+          "name": "Google DeepMind Blog",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash"
+        },
+        {
+          "name": "Google DeepMind Blog",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber"
+        },
+        {
+          "name": "Google DeepMind Blog",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber"
+        },
+        {
+          "name": "Google DeepMind Blog",
+          "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash"
+        },
+        {
+          "name": "Google DeepMind Blog",
+          "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model"
+        },
+        {
+          "name": "Google DeepMind Blog",
+          "url": "https://deepmind.google/blog/introducing-gemini-omni"
+        },
+        {
+          "name": "Google DeepMind Blog",
+          "url": "https://deepmind.google/blog/introducing-google-antigravity-2-0"
+        },
+        {
+          "name": "Google DeepMind Blog",
+          "url": "https://deepmind.google/blog/introducing-google-antigravity"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/openenv"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/agents"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/leaderboard-patronus"
+        }
+      ]
+    },
+    {
+      "cluster_id": "6071f63e21f64254",
+      "title": "DevDay 2026 Recap",
+      "summary": "OpenAI's DevDay 2026 featured over 20 announcements, headlined by the introduction of GPT-6 Astra and new developer tools.",
+      "why_it_matters": "Summarizes the latest ecosystem-wide updates for developers using OpenAI's platform.",
+      "topic_ids": [
+        "tools",
+        "foundation-models"
+      ],
+      "story_type": "update",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/devday-2026-recap"
+        }
+      ]
+    },
+    {
+      "cluster_id": "6568ebdbf2ed9f46",
+      "title": "The full stack behind abundant intelligence",
+      "summary": "OpenAI is scaling its infrastructure, including a new 1GW data center project in Michigan, to support the computational demands of future AGI.",
+      "why_it_matters": "Significant capital expenditure in energy-intensive physical infrastructure is becoming a core part of the firm's scaling strategy.",
+      "topic_ids": [
+        "big-tech",
+        "hardware"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/building-abundant-intelligence"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/stargate-michigan-data-center"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/confidence-building-measures-for-artificial-intelligence"
+        },
+        {
+          "name": "Google News: AI",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQN01TY2VzeWtpb0txd0dmbU5UWEEyRFEyRlp4dFVuV1NIN2N0dWxnaVBJUHlTYTF0N3hmRnZxMXR0UXU2V3ozeU55Q1dZNVd0NUJxOVd5czV2QVI0M29PR3ljSVBmd1FoanMtU25nSlUxYlU1amwwdFItNmVOQUF2NkhaUnZiZ0EyQU1WYjEzNkVDXy1yRDZVM3FhdnVRdXpsWWcwTkNLYjZRcS1hS1VNS3FfcUNxY2hDZWZTUV9SNTN2cC1RQVNzRGYtVEJWQTNqRWdfbE9EeDNmTFZhNThtVg?oc=5"
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "foundation-models": [
+      {
+        "cluster_id": "4b8579aad3f6ad56",
+        "title": "OpenAI and Elon Musk",
+        "summary": "xAI acquired the dot.com domain to redirect to its Grok chatbot ahead of OpenAI launching an AI agent named Dots.",
+        "why_it_matters": "The move highlights the ongoing branding and competitive tension between Elon Musk's xAI and OpenAI.",
+        "topic_ids": [
+          "big-tech",
+          "foundation-models"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/openai-elon-musk"
+          }
+        ]
+      }
+    ],
+    "big-tech": [
+      {
+        "cluster_id": "6a4c215aa4fa5c2c",
+        "title": "OpenAI and Microsoft",
+        "summary": "OpenAI is expanding its office features to compete with traditional software, while consolidating its large-scale experiments on Microsoft Azure.",
+        "why_it_matters": "OpenAI is deepening its product footprint while President Trump has recently urged big tech to self-regulate AI safety decisions.",
+        "topic_ids": [
+          "big-tech",
+          "policy"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/openai-and-microsoft"
+          },
+          {
+            "name": "Google News: AI",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVDMxeU5wLWV6cXdTcHk5T0k2d0VDbnRoT3BSNUFULW9DYmh1VTdSUy1aU3k5cksta1dXTV9DU0Joa2Rib19WLWV4alc5OW5DYkU0d2lrcUVKR0I0NGpkOVRvSVkyR1hXU2JybG1DUmc3emt3ajJmcDB2WlFtcUpBd0V4Q3NJU1lma2c?oc=5"
+          }
+        ]
+      },
+      {
+        "cluster_id": "d6b003b6ebfae6b2",
+        "title": "Sam Altman says OpenAI won’t go public until its models are safe",
+        "summary": "CEO Sam Altman stated that OpenAI has no immediate plans for an IPO, emphasizing that model safety is a prerequisite for public markets.",
+        "why_it_matters": "Signals that OpenAI prioritizes internal safety milestones over public financial markets for the foreseeable future.",
+        "topic_ids": [
+          "big-tech"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety"
+          }
+        ]
+      }
+    ],
+    "policy": [
+      {
+        "cluster_id": "691e41263d0eedd3",
+        "title": "Trump orders US government to call AI ‘Super Intelligence’",
+        "summary": "President Trump signed an executive order requiring the US federal government to replace the term 'artificial intelligence' with 'Super Intelligence' in all official communications.",
+        "why_it_matters": "A symbolic but significant change in official government terminology regarding AI.",
+        "topic_ids": [
+          "policy"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai"
+          },
+          {
+            "name": "Google News: AI",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTzhIdXJCMFJtR3ZaRnI3RTJEY19rUXhiUXQ5a3dkQnVKRDJlTm5kVzNxbmQ4N1RxdFh5OWItZnhpX3VJcXpEa3FzZ2VWLTFtVzNsVllNUm5peG03MXM1Vkt4MWcwMnlIa0oyRWd6cWlUaTMyLWpuNHNMbmdVenBwYXV0aDR3S0lWWTNUVmVSMlJSSmg0ZFozUWdvSG15SDM3Q1Y0X2pyX1JIZFpyazJWZ1Y2MmtDdkF3MVc1QUxiWnN4VEJOWENHemN3YkRSUQ?oc=5"
+          }
+        ]
+      },
+      {
+        "cluster_id": "2fc54b690d7b20a2",
+        "title": "Towards safety cases for frontier AI training",
+        "summary": "OpenAI has released early guidelines for conducting safety assessments during the training of frontier AI models.",
+        "why_it_matters": "Demonstrates an industry-wide effort to standardize safety and risk management protocols for next-generation models.",
+        "topic_ids": [
+          "research",
+          "policy"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training"
+          }
+        ]
+      },
+      {
+        "cluster_id": "95d6ac947b0c1af2",
+        "title": "The Download: rogue agent liability and the AI Hype Index",
+        "summary": "Growing concern over cyberattacks by autonomous agents has prompted debates regarding legal liability for AI-driven damage.",
+        "why_it_matters": "As autonomous AI agents become more prevalent, determining legal accountability is a critical challenge for regulators.",
+        "topic_ids": [
+          "policy",
+          "research"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index"
+          }
+        ]
+      }
+    ]
+  },
+  "continuing": []
+}
