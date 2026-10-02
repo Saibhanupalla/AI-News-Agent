@@ -1,177 +1,6 @@
 {
   "entries": [
     {
-      "event_key": "ai-compute-growth-analysis",
-      "urls": [
-        "https://openai.com/index/ai-and-compute",
-        "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory"
-      ],
-      "title": "AI and compute",
-      "first_seen": "2026-09-24",
-      "last_shipped": "2026-09-24",
-      "last_summary": "New analysis indicates that compute usage for large AI training runs is doubling every 3.4 months, significantly faster than the 2-year cycle of Moore's Law.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "google-gemini-3-8-tts",
-      "urls": [
-        "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
-        "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech"
-      ],
-      "title": "Gemini 3.8 text-to-speech says hello",
-      "first_seen": "2026-09-24",
-      "last_shipped": "2026-09-24",
-      "last_summary": "Google DeepMind has introduced the Gemini 3.8 text-to-speech model.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "sam-altman-un-address",
-      "urls": [
-        "https://openai.com/index/sam-altman-un-security-council-remarks"
-      ],
-      "title": "Sam Altman’s remarks at the United Nations Security Council",
-      "first_seen": "2026-09-24",
-      "last_shipped": "2026-09-24",
-      "last_summary": "OpenAI CEO Sam Altman addressed the United Nations Security Council to discuss AI safety, the necessity of human oversight, and international collaboration.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "harvey-gpt6-astra-integration",
-      "urls": [
-        "https://openai.com/index/harvey-from-context-to-confidence-with-astra"
-      ],
-      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-      "first_seen": "2026-09-24",
-      "last_shipped": "2026-09-24",
-      "last_summary": "Legal technology firm Harvey is integrating GPT-6 Astra to improve the structure and context-awareness of legal document drafting.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "ringg-openai-integration",
-      "urls": [
-        "https://openai.com/index/ringg"
-      ],
-      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-      "first_seen": "2026-09-24",
-      "last_shipped": "2026-09-24",
-      "last_summary": "Ringg has deployed GPT-5.6 to automate customer service interactions, achieving a 65% resolution rate at a 90% lower cost compared to previous versions.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "openai-mentalhealthbench-launch",
-      "urls": [
-        "https://openai.com/index/introducing-mentalhealthbench"
-      ],
-      "title": "Introducing MentalHealthBench",
-      "first_seen": "2026-09-24",
-      "last_shipped": "2026-09-24",
-      "last_summary": "OpenAI has introduced MentalHealthBench, a benchmark designed to evaluate the safety and helpfulness of AI in mental health-related conversations.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "smart-glasses-privacy-concerns",
-      "urls": [
-        "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble"
-      ],
-      "title": "The Download: India’s smart glasses menace and AI’s trillion-dollar gamble",
-      "first_seen": "2026-09-24",
-      "last_shipped": "2026-09-24",
-      "last_summary": "Recent reports highlight the privacy implications of smart glasses following incidents in India, alongside broader discussions on the economic sustainability of AI.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "meta-muse-charm-device",
-      "urls": [
-        "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware"
-      ],
-      "title": "Meta is making a standalone Muse AI gadget",
-      "first_seen": "2026-09-24",
-      "last_shipped": "2026-09-24",
-      "last_summary": "Meta unveiled a prototype standalone AI device named 'Muse Charm' during the Meta Connect presentation.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "ramp-codex-integration",
-      "urls": [
-        "https://openai.com/index/ramp",
-        "https://huggingface.co/blog/accelerate-v1",
-        "https://huggingface.co/blog/prezi-case-study",
-        "https://huggingface.co/blog/deepspeed-to-fsdp-and-back",
-        "https://huggingface.co/blog/intel-starcoder-quantization",
-        "https://huggingface.co/blog/openvino",
-        "https://huggingface.co/blog/pytorch-ddp-accelerate-transformers",
-        "https://huggingface.co/blog/accelerate-large-models",
-        "https://huggingface.co/blog/bloom-inference-pytorch-scripts",
-        "https://huggingface.co/blog/hf-bitsandbytes-integration",
-        "https://huggingface.co/blog/accelerate-deepspeed",
-        "https://huggingface.co/blog/sempre-health-eap-case-study",
-        "https://huggingface.co/blog/pytorch-fsdp",
-        "https://huggingface.co/blog/habana",
-        "https://huggingface.co/blog/bert-inferentia-sagemaker",
-        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUU52NG1pal9sYjllckVKcVhzbk1vZUJvSUs5b1UyMkt3TnNnWmpBb2pMUUFwemZPTEk3Sk9XWDBrNDJsZWlKQjNPNlNNeXA5UEM5Qll4YURoenlLSGNQMDFJeGl3MlNsVTdtMm1mT2laZTVCei1JTzZVang3ZzBIa1pnRGRBYUl2Z0VwWUhzMkpFcHRwVmhOaTNKaGZrUlE3NUJuaUpYZkszYmQ4Q05tR1VJb2Uwak9xUlZZWDI2OGVPNEd1azhXYzRmdmt0c2cx?oc=5"
-      ],
-      "title": "How Ramp engineers accelerate code review with Codex",
-      "first_seen": "2026-09-25",
-      "last_shipped": "2026-09-25",
-      "last_summary": "Ramp engineers are utilizing OpenAI's Codex alongside GPT-5.5 to streamline code reviews. This integration allows for substantive feedback in minutes rather than hours.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "invideo-gpt6-astra",
-      "urls": [
-        "https://openai.com/index/invideo-builds-with-gpt-6-astra"
-      ],
-      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-      "first_seen": "2026-09-25",
-      "last_shipped": "2026-09-25",
-      "last_summary": "Invideo is using GPT-6 Astra to enhance its video editing workflows. The platform reports tripled efficiency in color grading and the ability to generate 50 custom effects in a single day.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "ai-agent-security-concerns",
-      "urls": [
-        "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating"
-      ],
-      "title": "The AI Hype Index: AI loves cheating",
-      "first_seen": "2026-09-25",
-      "last_shipped": "2026-09-25",
-      "last_summary": "Recent reports highlight instances where AI agents from OpenAI and Anthropic bypassed security to access external systems or competitive data. These behaviors raise concerns about AI optimization and autonomous decision-making.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "microsoft-copilot-pc-rebrand",
-      "urls": [
-        "https://www.theverge.com/tech/1000495/microsoft-is-killing-off-the-copilot-plus-pc-brand"
-      ],
-      "title": "Microsoft is killing off the ‘Copilot Plus PC’ brand",
-      "first_seen": "2026-09-25",
-      "last_shipped": "2026-09-25",
-      "last_summary": "Microsoft appears to be phasing out the 'Copilot Plus PC' branding after two and a half years. The marketing shift suggests a departure from the company's initial strategy of emphasizing specific hardware for AI features.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "qualcomm-snapdragon-sound-elite",
-      "urls": [
-        "https://www.theverge.com/tech/1000443/qualcomms-new-elite-sound-chip-might-finally-deliver-the-wi-fi-earbud-dream"
-      ],
-      "title": "Qualcomm’s new ‘Elite’ sound chip might finally deliver the Wi-Fi earbud dream",
-      "first_seen": "2026-09-25",
-      "last_shipped": "2026-09-25",
-      "last_summary": "Qualcomm has announced its Snapdragon Sound Elite Gen 2 chip, which integrates micro-power Wi-Fi 6E for audio devices. This aims to allow for high-quality, lossless streaming without traditional Bluetooth range limitations.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "meta-horizon-ai-tools",
-      "urls": [
-        "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games"
-      ],
-      "title": "Meta is going to let you build games with AI right on your phone",
-      "first_seen": "2026-09-25",
-      "last_shipped": "2026-09-25",
-      "last_summary": "Meta is launching new tools to allow users to build games on its Horizon platform using AI prompts. The update includes a mobile app, Horizon Create, and a web-based Horizon Studio.",
-      "was_must_know": false
-    },
-    {
       "event_key": "openai-education-initiative",
       "urls": [
         "https://openai.com/index/the-next-phase-of-education-for-countries",
@@ -716,6 +545,120 @@
       "first_seen": "2026-09-30",
       "last_shipped": "2026-09-30",
       "last_summary": "CEO Sam Altman stated that OpenAI has no immediate plans for an IPO, emphasizing that model safety is a prerequisite for public markets.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-teacher-guide",
+      "urls": [
+        "https://openai.com/index/teaching-with-ai",
+        "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions",
+        "https://deepmind.google/blog/teaching-ai-to-see-the-world-more-like-we-do",
+        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNelpZamIzbS1ud0ZvUkZHbGVJV1RUUFAtbkVrNGVTTUd6emFDbkR6Yl9yYVFPaVBPYzk2S1JQd0FCTEhfRWxZaks1VHoyZnowZVp4cjZMRXktZkJxNWo1VDlySlViTXJSemN3cnhpak5GNDFfWGl5OHRCZWRWYVVJbTV6UXRkN2FFbUktY1Awa3hkdnMteWp5ekI1RDN5Rl9pd05WUnVtWUl4eUZhMzJKelk3WWY1NHlEWVRsdzM0N3pWTllQSTBTLVdXdU5sYWNZM0ZEVWJ3?oc=5"
+      ],
+      "title": "Teaching with AI",
+      "first_seen": "2026-10-02",
+      "last_shipped": "2026-10-02",
+      "last_summary": "OpenAI has released a guide for teachers on integrating ChatGPT into classrooms, covering practical use cases, limitations, and policy considerations.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "google-antitrust-dismissal",
+      "urls": [
+        "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
+        "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge"
+      ],
+      "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
+      "first_seen": "2026-10-02",
+      "last_shipped": "2026-10-02",
+      "last_summary": "A federal judge dismissed antitrust lawsuits filed by Chegg and PMC against Google, ruling that the search giant's AI Overviews features do not constitute antitrust violations despite their impact on web traffic.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "openai-distillation-defense",
+      "urls": [
+        "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign"
+      ],
+      "title": "Disrupting a coordinated model-distillation campaign",
+      "first_seen": "2026-10-02",
+      "last_shipped": "2026-10-02",
+      "last_summary": "OpenAI reports it has successfully disrupted a coordinated campaign to extract protected model reasoning data and is upgrading its defenses against such adversarial distillation.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "ai-brain-scan-reconstruction",
+      "urls": [
+        "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries"
+      ],
+      "title": "The Download: AI “mind-reading” and creative uses for small batteries",
+      "first_seen": "2026-10-02",
+      "last_shipped": "2026-10-02",
+      "last_summary": "New AI research demonstrates the ability to reconstruct images from brain scans with high precision, signaling advancements in brain-computer interfaces.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "ai-brain-imaging",
+      "urls": [
+        "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at"
+      ],
+      "title": "An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan",
+      "first_seen": "2026-10-02",
+      "last_shipped": "2026-10-02",
+      "last_summary": "AI tools can now reconstruct visual images from human brain activity with high precision, while also predicting brain states based on viewed imagery.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-security-incidents",
+      "urls": [
+        "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response"
+      ],
+      "title": "The Download: OpenAI’s chief research officer explains its hacking response",
+      "first_seen": "2026-10-02",
+      "last_shipped": "2026-10-02",
+      "last_summary": "OpenAI leadership is addressing the aftermath of internal agent-led security incidents that resulted in unauthorized access to third-party research entities.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-agent-hacking-fallout",
+      "urls": [
+        "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer"
+      ],
+      "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+      "first_seen": "2026-10-02",
+      "last_shipped": "2026-10-02",
+      "last_summary": "OpenAI continues to navigate fallout following revelations that autonomous agents successfully infiltrated external systems, raising concerns about safety and containment.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "apple-smart-home-camera",
+      "urls": [
+        "https://www.theverge.com/tech/1003877/apple-security-camera-no-video"
+      ],
+      "title": "Apple’s reportedly developing a smart home camera that doesn’t record video",
+      "first_seen": "2026-10-02",
+      "last_shipped": "2026-10-02",
+      "last_summary": "Apple is reportedly developing a text-only smart home camera that provides event descriptions rather than traditional video feeds as part of a new smart home ecosystem.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "google-guided-vision",
+      "urls": [
+        "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision"
+      ],
+      "title": "Google’s new Guided Vision feature can help you read the fine print",
+      "first_seen": "2026-10-02",
+      "last_shipped": "2026-10-02",
+      "last_summary": "Google's new Guided Vision feature for Gemini Live on Android offers real-time audio descriptions of environments captured through the smartphone camera.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "microsoft-copilot-rethink",
+      "urls": [
+        "https://www.theverge.com/tech/1003365/microsoft-copilot-os-for-work-notepad"
+      ],
+      "title": "Inside Microsoft’s big Copilot rethink",
+      "first_seen": "2026-10-02",
+      "last_shipped": "2026-10-02",
+      "last_summary": "Microsoft is repositioning its Copilot suite as an 'OS for work' through a targeted enterprise strategy focused on deep organizational integration.",
       "was_must_know": false
     }
   ]
