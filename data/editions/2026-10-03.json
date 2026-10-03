@@ -1,0 +1,219 @@
+{
+  "date": "2026-10-03",
+  "intro": "Today's briefing explores the rapid expansion of enterprise AI agents and the rising security concerns accompanying them. Policy shifts are keeping pace with these technological developments as tech giants push forward with new agent-based tools.",
+  "must_know": [
+    {
+      "cluster_id": "4c105a8d48d0ae82",
+      "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+      "summary": "The White House has initiated a branding pivot, officially referring to AI as 'super intelligence' following a safety pledge signed by major tech CEOs, including those from OpenAI and Meta.",
+      "why_it_matters": "Signifies a formal escalation in how government regulators characterize the nature and potential risks of advanced AI systems.",
+      "topic_ids": [
+        "policy"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house"
+        }
+      ]
+    },
+    {
+      "cluster_id": "b3c701d6c61ae510",
+      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+      "summary": "Apple is updating its macOS 'Full Disk Access' security controls to better mitigate risks posed by increasingly autonomous AI agents accessing sensitive user data. The changes aim to prevent unauthorized broad access to files, messages, and browsing history.",
+      "why_it_matters": "As AI agents gain more power to perform tasks, operating systems must evolve to prevent potential privacy and security breaches.",
+      "topic_ids": [
+        "policy",
+        "tools"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents"
+        },
+        {
+          "name": "Hacker News Front Page",
+          "url": "https://developer.apple.com/news?id=p6zjojqw"
+        }
+      ]
+    },
+    {
+      "cluster_id": "b19a7eb5407edebb",
+      "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
+      "summary": "OpenAI has announced 'Dots,' an enterprise-focused agent platform designed for workplace tasks, distinct from more consumer-oriented AI agent offerings.",
+      "why_it_matters": "Clarifies OpenAI's shift toward productivity-centric agent software for the enterprise market.",
+      "topic_ids": [
+        "big-tech",
+        "tools"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent"
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "policy": [
+      {
+        "cluster_id": "381b1d2be6c59bf5",
+        "title": "Medical records giant Epic pauses product development to fix security bugs that risk patients’ data",
+        "summary": "Health tech giant Epic is pausing product development for several weeks to address security vulnerabilities within its MyChart system.",
+        "why_it_matters": "Highlights significant security concerns within critical infrastructure used for managing sensitive patient medical data.",
+        "topic_ids": [
+          "tools",
+          "policy"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/02/medical-records-giant-epic-pauses-product-development-to-fix-security-bugs-that-risk-patients-data"
+          }
+        ]
+      }
+    ],
+    "tools": [
+      {
+        "cluster_id": "882596cbc7639eb4",
+        "title": "Chatham scales its capital markets expertise with OpenAI",
+        "summary": "Chatham Financial is leveraging OpenAI’s Codex and GPT-5.6 models to optimize capital market workflows, reportedly reducing trade validation times from 30 minutes to under 4 minutes.",
+        "why_it_matters": "Highlights tangible efficiency gains in financial services through specific AI model deployments.",
+        "topic_ids": [
+          "big-tech",
+          "tools"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/chatham-financial"
+          }
+        ]
+      },
+      {
+        "cluster_id": "637d3dfa247fa816",
+        "title": "How Albertsons Companies is reimagining retail from the inside out",
+        "summary": "Albertsons Companies is deploying ChatGPT Enterprise and the OpenAI API to streamline internal operations and improve customer service experiences.",
+        "why_it_matters": "Demonstrates enterprise-wide adoption of LLMs in the retail sector for both employee productivity and consumer-facing applications.",
+        "topic_ids": [
+          "big-tech",
+          "tools"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/albertsons-reimagining-retail"
+          }
+        ]
+      },
+      {
+        "cluster_id": "56c490db040147f1",
+        "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+        "summary": "The AutoSynthData tool has been released to help developers generate synthetic training data specifically for enterprise-grade AI agents.",
+        "why_it_matters": "Addresses a critical bottleneck in building reliable agents by facilitating the creation of high-quality, synthetic training sets.",
+        "topic_ids": [
+          "open-source",
+          "tools"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "Hugging Face Blog",
+            "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata"
+          }
+        ]
+      }
+    ],
+    "foundation-models": [
+      {
+        "cluster_id": "a95f825e3eebacb1",
+        "title": "Redefining enterprise intelligence with autonomous AI",
+        "summary": "MIT Technology Review highlights the rapid transition of AI from an experimental ambition to a core enterprise utility, projecting global AI investments to reach $2.5 trillion by 2026.",
+        "why_it_matters": "Quantifies the massive scale of enterprise capital commitment currently flowing into AI technologies.",
+        "topic_ids": [
+          "foundation-models",
+          "startups-funding"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai"
+          }
+        ]
+      }
+    ],
+    "open-source": [
+      {
+        "cluster_id": "038134d95b4f933e",
+        "title": "Meta open sources code to let you make Muse AI gadgets",
+        "summary": "Meta has open-sourced the code for Muse, an AI agent platform, allowing users to integrate it into custom hardware projects like smart displays or connected gadgets.",
+        "why_it_matters": "Lowers the barrier to entry for building physical, agent-powered hardware devices.",
+        "topic_ids": [
+          "open-source",
+          "hardware"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link"
+          }
+        ]
+      }
+    ]
+  },
+  "continuing": [
+    {
+      "cluster_id": "c38af6e5cae43e23",
+      "title": "A model guide for the GPT-6 family",
+      "summary": "OpenAI has published a guide for utilizing the GPT-6 model family, focusing on production workflows, reasoning configuration, and tool integration.",
+      "why_it_matters": "Provides practical guidance for developers and startups looking to operationalize the latest foundation models.",
+      "topic_ids": [
+        "foundation-models",
+        "tools"
+      ],
+      "story_type": "update",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/practical-guide-building-gpt-6"
+        }
+      ]
+    },
+    {
+      "cluster_id": "ac153d8f7821405e",
+      "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+      "summary": "Apple is reinforcing security protocols for 'full disk access' on macOS to counter the risks associated with increasingly capable AI agents.",
+      "why_it_matters": "Reflects growing industry awareness of the unique security vulnerabilities created by autonomous agents.",
+      "topic_ids": [
+        "policy",
+        "big-tech"
+      ],
+      "story_type": "update",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents"
+        }
+      ]
+    }
+  ]
+}
