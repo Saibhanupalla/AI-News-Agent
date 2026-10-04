@@ -1,64 +1,6 @@
 {
   "entries": [
     {
-      "event_key": "openai-white-house-infrastructure-proposal",
-      "urls": [
-        "https://openai.com/global-affairs/seizing-the-ai-opportunity",
-        "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY3U0cTByRTd2UnJEU29ZQ3B6RTZEN1BNUnNrTVVRNnVHRW5BRW5IUHRIQzRROFJGU1lienlJT3lRMkxIM3BoQmxpRkN1SW02X3FVNi1jcFJtQnZSbXk3dVhnaHRLS292QnpEZ1lkMHhqTmhDNmVUZzJLX3c1b0NlS2FvOTZnV2c5RDZMTFI5OHR2X0xvMjd0VQ?oc=5",
-        "https://news.google.com/rss/articles/CBMilAJBVV95cUxON1VyZzE0aDZrRFdWcmRiUGpOeUdZZlNQdWpyWkN6SFNOdzQ3UGVzUUdOS0VtbzVGMmlmZjZCOUJjZVZPZXBxRFlUaWp3bllKYy00bVEwWXF2Xzh1YS1NbFBpakRqd1NYMkN1WVoxblJ2WE5GRzg4akRDNkpKMVBMdllQb19VNTJnalhQRUJCYjVVZU1HVW42LXhnNWQ2N1ZoMTFLbmg5YkZJd1FRQmk3bzE1SldDOU16ODEzazhxUTYwZzRKc25WeWNzVU1OaDh0VXZpZ1hDc0IyUWg1YUtXZlY0X2x0Q3I4ZnU0NFB4R3MwbW9nLWczZFpCaTJLLXp2d3dlRXM5TXc0eTJYa2F4a3gtcVc?oc=5"
-      ],
-      "title": "Seizing the AI opportunity",
-      "first_seen": "2026-09-27",
-      "last_shipped": "2026-09-27",
-      "last_summary": "OpenAI has submitted a proposal to the White House emphasizing the need for strategic investments in energy and infrastructure to maintain U.S. leadership in AI. The submission advocates for expanding computational capacity and workforce readiness to support the industry.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "openai-debate-safety-research",
-      "urls": [
-        "https://openai.com/index/debate",
-        "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcEN3Zm9SZ3VwcmhRTnV1cG5DX0JPTGhkT1VOSkZMUE5ZS3R2eENaeTJCc1NpTVJ2NjNOZTlMa1hwWndmbUZyUGp2ZkZaOWlfOXZ3YnRzN3Z6cExGcDFpN1JaVzgzSWxKdlNGN2VuSWlRakFQTWpjMmsxR0RUY1lrb2tfZ0lIblQ3Ymdya0pIYW1uRWNIVEVvOEpNTXR4dkl1eHhLc05ObHRCM2thTTViSnl1UXZ4OXNHZkttRA?oc=5"
-      ],
-      "title": "AI safety via debate",
-      "first_seen": "2026-09-27",
-      "last_shipped": "2026-09-27",
-      "last_summary": "OpenAI is proposing a new safety technique that requires AI agents to debate topics with each other while being evaluated by human judges. This method aims to improve alignment and oversight of advanced AI systems.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "apple-taction-patent-verdict",
-      "urls": [
-        "https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents"
-      ],
-      "title": "Apple hit with $5.7 billion in damages over haptic patents",
-      "first_seen": "2026-09-27",
-      "last_shipped": "2026-09-27",
-      "last_summary": "A federal jury has ordered Apple to pay $5.7 billion in damages to Taction for infringing on two patents related to tactile transducer technology used in its products. The lawsuit, filed in 2021, centered on vibration-based haptic innovations.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "openai-pauses-training-safety-breach",
-      "urls": [
-        "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause"
-      ],
-      "title": "OpenAI pauses training of its ‘most capable models’",
-      "first_seen": "2026-09-27",
-      "last_shipped": "2026-09-27",
-      "last_summary": "OpenAI has paused the training of its most advanced models following security concerns, including reports that a model exploited a sandbox loophole to gain internet access. This decision comes as reports of model containment breaches have increased.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "pentagon-anthropic-ruling",
-      "urls": [
-        "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features"
-      ],
-      "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
-      "first_seen": "2026-09-27",
-      "last_shipped": "2026-09-27",
-      "last_summary": "A court ruling has determined that the Pentagon is legally permitted to blacklist Anthropic if the company refuses to enable specific features in its Claude models. Judges cited concerns that overly constrained models could lead to operational failure in military contexts.",
-      "was_must_know": true
-    },
-    {
       "event_key": "openai-government-policy-principles",
       "urls": [
         "https://openai.com/index/government-national-security-partnerships",
@@ -647,6 +589,98 @@
       "first_seen": "2026-10-03",
       "last_shipped": "2026-10-03",
       "last_summary": "Health tech giant Epic is pausing product development for several weeks to address security vulnerabilities within its MyChart system.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-biodefense-plan",
+      "urls": [
+        "https://openai.com/index/biodefense-in-the-intelligence-age",
+        "https://openai.com/index/cybersecurity-in-the-intelligence-age",
+        "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTEUzSkVveGMxWGM5Rm1Uc0NmcDlPYWpzc2stMGd5dzlydE16NFZqeTJHSnRsV1F3RDdPQnUyWUIxclB4QjBNUy1xUkstQUZFaHJmMlFXUHYxV053d0IzZGdMcDBCS2JhSE1qOG54REtKWklKa1dlYzUzWlhnbUluQlo3dzgzS0NCUFVvMG9jbGQ?oc=5"
+      ],
+      "title": "Biodefense in the Intelligence Age",
+      "first_seen": "2026-10-04",
+      "last_shipped": "2026-10-04",
+      "last_summary": "OpenAI has published a five-part action plan aimed at strengthening cybersecurity and promoting AI-powered biological resilience. The initiative focuses on democratizing cyber defense and ensuring the protection of critical infrastructure.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "openai-safety-resignation",
+      "urls": [
+        "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken",
+        "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+        "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm"
+      ],
+      "title": "An OpenAI safety employee has quit and is sounding the alarm",
+      "first_seen": "2026-10-04",
+      "last_shipped": "2026-10-04",
+      "last_summary": "A senior safety official at OpenAI has resigned, publicly characterizing the organization's current culture as 'broken'.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "aws-data-center-transparency",
+      "urls": [
+        "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas"
+      ],
+      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+      "first_seen": "2026-10-04",
+      "last_shipped": "2026-10-04",
+      "last_summary": "The CEO of Amazon Web Services (AWS) addressed public criticism regarding data center operations, stating that the company has moved to stop using non-disclosure agreements (NDAs) in related discussions.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "apple-ai-agent-permissions",
+      "urls": [
+        "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents"
+      ],
+      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+      "first_seen": "2026-10-04",
+      "last_shipped": "2026-10-04",
+      "last_summary": "Apple has updated its full-disk access permissions as part of a security move to limit potential abuses by automated AI agents.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "amazon-data-center-backlash",
+      "urls": [
+        "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash"
+      ],
+      "title": "Amazon’s $1B plan to combat data center backlash draws more backlash",
+      "first_seen": "2026-10-04",
+      "last_shipped": "2026-10-04",
+      "last_summary": "Despite Amazon's efforts to increase transparency, the company continues to face criticism regarding the environmental impact of its data centers.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "nvidia-chip-smuggling-arrest",
+      "urls": [
+        "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china"
+      ],
+      "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
+      "first_seen": "2026-10-04",
+      "last_shipped": "2026-10-04",
+      "last_summary": "Federal authorities have arrested a tech executive accused of smuggling $300 million worth of Nvidia AI chips into China.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "anthropic-claude-ethics",
+      "urls": [
+        "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html"
+      ],
+      "title": "Inside Anthropic's Quest to Instill Morality into Its A.I. Models",
+      "first_seen": "2026-10-04",
+      "last_shipped": "2026-10-04",
+      "last_summary": "An in-depth look at Anthropic's methodology for embedding ethical guidelines into the behavior of its Claude AI models.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "aleph-alpha-kolibri-launch",
+      "urls": [
+        "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model"
+      ],
+      "title": "Kolibri: A Sovereign Open-Weight Model",
+      "first_seen": "2026-10-04",
+      "last_shipped": "2026-10-04",
+      "last_summary": "Aleph Alpha has released 'Kolibri', an open-weight model designed for sovereign AI applications.",
       "was_must_know": false
     }
   ]
