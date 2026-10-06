@@ -1,148 +1,6 @@
 {
   "entries": [
     {
-      "event_key": "anthropic-claude-sonnet-5-5-launch",
-      "urls": [
-        "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner",
-        "https://www.anthropic.com/claude-sonnet-5-5",
-        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNWJ3ekhzN2tpWXc4b1VNZURYcGR2RWp3ZGRVNzRZY0VDX0wwYmduVHBYZ0swZzFGR1dSN3J1dWlGeWwwUGVMVTE3anpGclN3cjlVenNtalBlVmhYNEVvOF85aVN3NTlSZFNxb1lkcjdlRF9LQ0V2V3VhVjJHeEZtTF9kQk11TXRPcHdj?oc=5"
-      ],
-      "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
-      "first_seen": "2026-09-29",
-      "last_shipped": "2026-09-29",
-      "last_summary": "Anthropic has released Claude Sonnet 5.5, the latest version of its mid-range model. The company claims the update offers faster response times and improved token efficiency.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "openai-frontier-model-forum",
-      "urls": [
-        "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents",
-        "https://openai.com/index/frontier-model-forum"
-      ],
-      "title": "Frontier Model Forum",
-      "first_seen": "2026-09-29",
-      "last_shipped": "2026-09-29",
-      "last_summary": "OpenAI is forming a new industry body, the Frontier Model Forum, to advance safety research and facilitate information sharing. The company has also begun notifying affected parties, including government entities, regarding recent security incidents.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "openai-agents-api-launch",
-      "urls": [
-        "https://openai.com/index/introducing-the-agents-api",
-        "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
-        "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
-        "https://openai.com/index/introducing-agentkit",
-        "https://openai.com/index/image-generation-api",
-        "https://openai.com/index/introducing-4o-image-generation",
-        "https://openai.com/index/introducing-the-model-spec",
-        "https://huggingface.co/blog/tgi-multi-backend",
-        "https://huggingface.co/blog/smolagents",
-        "https://huggingface.co/blog/synthid-text",
-        "https://huggingface.co/blog/idefics2",
-        "https://huggingface.co/blog/leaderboard-contextual",
-        "https://huggingface.co/blog/inference-pro",
-        "https://huggingface.co/blog/wuerstchen",
-        "https://huggingface.co/blog/idefics",
-        "https://huggingface.co/blog/agents-js",
-        "https://huggingface.co/blog/sagemaker-huggingface-llm",
-        "https://huggingface.co/blog/aivsai",
-        "https://huggingface.co/blog/bloom",
-        "https://huggingface.co/blog/education",
-        "https://huggingface.co/blog/gptj-sagemaker",
-        "https://huggingface.co/blog/snowball-fight",
-        "https://huggingface.co/blog/the-partnership-amazon-sagemaker-and-hugging-face",
-        "https://huggingface.co/blog/accelerated-inference",
-        "https://news.google.com/rss/articles/CBMi-AJBVV95cUxPRl8zcTFFaVZkeklYREtRLUQ3MUNsSkZ0Z0daRklwY210OUVBT2Z1U0stVmxrMW5pZmE3WEN0MVJyZkQzQzZGQWZ3aWZjVkdaY19iX0V1bXEwOWlCT3E2YUpZTnBFNnpvYWpaRTVRUndpSjRzREM4cEpDRjVxdTMwOTBuRzF5MXlJQXRxU20xUVhVNmlKa0s5OF9zRzBCWnZVY0xJX0YzaGhOTktjSVBEVWhnZ0ZfQ2d5UHFpWFZJa25QTVQ2ZUxVcnJnWDRSdzlCRE1BX29adW5GNEk3amt6alVoNWRMY2tsc3UyNTZFTHlzS3dzSHpDWGNSZFRCa09LanIzeEFkbFBtTUZGcVVkVUFQNGtmU0FrSlEtYmJobFZ0X2FfeG5UajdWZVI5VVlIUFpLMzFIUUhxV3dOc1VhazNBbG9kTldnRUJSNUdKYVdRa1lVdlhCS0p1QkszRHA1amtHOFIwbzFRX3RGV3NCdTVxdXBuRTdk?oc=5"
-      ],
-      "title": "Introducing the Agents API",
-      "first_seen": "2026-09-29",
-      "last_shipped": "2026-09-29",
-      "last_summary": "OpenAI introduced the Agents API to enable developers to build cloud-based agents with persistent memory and tool orchestration. Additional tools released include AgentKit and enhanced fine-tuning capabilities for agents.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "openai-gpt-6-astra-safety-delay",
-      "urls": [
-        "https://openai.com/index/safety-overview-gpt-6-astra",
-        "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZGJwem40cnNPVWxHLXZweFREMjhQWi1yZDdsdk52MHppNk5qbjdWd3hTQm1MMHZtbjI5MVhrclo4U0c3dm5hbTlWOWZXYzlETDBpWlJETGh6aXFRMi12NWNMT1hOaDFGRjZHVjE3a3I2Q3JCTll6dlhGSGN0SnVYZzQtR3k4MTdZSTV6UFg0SWZSRWpVUzlGdER5ZFd4UE9uN2Zv?oc=5"
-      ],
-      "title": "Safety overview: GPT-6 Astra",
-      "first_seen": "2026-09-29",
-      "last_shipped": "2026-09-29",
-      "last_summary": "OpenAI has officially characterized GPT-6 Astra as its most capable model, achieving the 'Critical' level in its cybersecurity framework. Reports indicate that a planned release was halted due to safety regressions.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "nvidia-ai-agent-safety-tools",
-      "urls": [
-        "https://openai.com/index/new-tools-for-building-agents",
-        "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mM0xKS3J6M2g4dmVvM0dmRW5qZGVpNmtpWlRyYy1NYkY3dFpoaGZfNFJ5S2l2V3NveTk2ZjZRVW1KclpTM0dtMm8wVGFONHdSUnZQTUx6NnctVWo4ZC1DdWRFRDDSAWRBVV95cUxOZjNMSktyejNoOHZlbzNHZkVuamRlaTZraVpUcmMtTWJGN3RaaGhmXzRSeUtpdldzb3k5NmY2UVVtSnJaUzNHbTJvMFRhTjR3UlJ2UE1MejZ3LVVqOGQtQ3VkRUQw?oc=5"
-      ],
-      "title": "New tools for building agents",
-      "first_seen": "2026-09-29",
-      "last_shipped": "2026-09-29",
-      "last_summary": "Nvidia has announced a new suite of safety tools specifically designed for auditing and monitoring the behavior of AI agents.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "openai-france-office-opening",
-      "urls": [
-        "https://openai.com/index/openai-en-france",
-        "https://news.google.com/rss/articles/CBMingFBVV95cUxNNWxZWUZOZVZyVWZZVzV3eTVqUkROOWtsQ0JiSkItZ01rdDJtTjhOTDV5Qk5XSzk1ZlFMZFcxa3NQangzY1lJalVKVzlHMkl4QTkydHRIdXZkMEhDZjF1Vi1BOVA4VHZfZFExYWs3aVNacDAyTzI4d0c0LVVsMmZJYVhVeEFKTGYwdWtTMWc3VnZ0T1BUWXdscldzWlFSQQ?oc=5",
-        "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNVZOTVVaVkxxYjg0NXUxVEtob05TUDJGbXQzVGphYlRzdHVva0UyQ25CTlZfajRWT21zaTM3VmwydjVMUmFMRGpncGRqN1dTbEVJX182c184aGttUG45Q0FJUjFTNzh3SXFlUTlidzZTc1M4ZktnLVZjbEJyNW1jdXhTSzBtVEkzNG56Z0Q0Vzc0MF82cndoNXRuTVpXR21Rc1NIaFRxN0hfMDFXaF9LTm83T0hRb2dZTjQ5dGN3Rzl6dHphMUZNMzZ6Ti1qOGZvYV8xM3ZhTENPRWx1WkHSAd4BQVVfeXFMTTVWTk1VWlZMcWI4NDV1MVRLaG9OU1AyRm10M1RqYWJUc3R1b2tFMkNuQk5WX2o0Vk9tc2kzN1ZsMnY1TFJhTERqZ3BkajdXU2xFSV9fNnNfOGhrbVBuOUNBSVIxUzc4d0lxZVE5Ync2U3NTOGZLZy1WY2xCcjVtY3V4U0swbVRJMzRuemdENFc3NDBfNnJ3aDV0bk1aV0dtUXNTSGhUcTdIXzAxV2hfS05vN09IUW9nWU40OXRjd0c5enR6YTFGTTM2ek4tajhmb2FfMTN2YUxDT0VsdVpB?oc=5",
-        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeXJheHpkM3AyQVR1SmpPVm5fZ0ZzaWltaEdpa1JfSzk2SWZ4anNNRlJWRVJkX3ZRaXF2OUNKWjBlSzdWeUxtYk5JdG5lOFE1QzIzLWpwNjBWYnBkLUZ2UFFJUVJUT2FNTEpNdXZrU3RIajZYc2QzMUxZbmVwbkFFNnNaSlZkQVY1TTRn?oc=5"
-      ],
-      "title": "OpenAI en France",
-      "first_seen": "2026-09-29",
-      "last_shipped": "2026-09-29",
-      "last_summary": "OpenAI has opened its first office in continental Europe, located in France. The expansion coincides with ongoing public scrutiny regarding the company's safety testing protocols for its latest models.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "gpt-6-astra-performance-report",
-      "urls": [
-        "https://openai.com/index/basis-tax-workbook-with-astra"
-      ],
-      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-      "first_seen": "2026-09-29",
-      "last_shipped": "2026-09-29",
-      "last_summary": "Basis has reported that its use of GPT-6 Astra enabled the completion of a complex 50-tab tax workbook twice as fast as the previous version, GPT-5.6 Sol.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "anthropic-molecular-biology-lab",
-      "urls": [
-        "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery"
-      ],
-      "title": "When can we say AI made a scientific discovery?",
-      "first_seen": "2026-09-29",
-      "last_shipped": "2026-09-29",
-      "last_summary": "Anthropic has launched a molecular biology lab where AI agents are tasked with conjecture and literature review on complex biological problems. This initiative aims to determine how to categorize AI-led scientific discovery.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "ai-driven-cyber-threats",
-      "urls": [
-        "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready"
-      ],
-      "title": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
-      "first_seen": "2026-09-29",
-      "last_shipped": "2026-09-29",
-      "last_summary": "Reports suggest that AI-enhanced hacking tactics are increasingly being used against vulnerable institutions like hospitals and banks. Security analysts warn that current defenses are unprepared for these sophisticated threats.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "florida-openai-lawsuit-anthropomorphism",
-      "urls": [
-        "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids"
-      ],
-      "title": "Florida seeks a ban on ChatGPT acting like a person",
-      "first_seen": "2026-09-29",
-      "last_shipped": "2026-09-29",
-      "last_summary": "Florida Attorney General James Uthmeier is seeking a court order to prevent OpenAI from giving ChatGPT human-like attributes. The legal argument asserts that first-person language misleads users and obscures the bot's nature.",
-      "was_must_know": false
-    },
-    {
       "event_key": "xai-openai-dot-com-domain",
       "urls": [
         "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch",
@@ -721,6 +579,99 @@
       "last_shipped": "2026-10-05",
       "last_summary": "A new open-source project allows users to perform AI-powered semantic searches across their local photo and video libraries on macOS.",
       "was_must_know": false
+    },
+    {
+      "event_key": "ai-compute-scaling-trends",
+      "urls": [
+        "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost",
+        "https://openai.com/index/ai-and-compute",
+        "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory",
+        "https://reflection.ai/blog/introducing-beam"
+      ],
+      "title": "AI and compute",
+      "first_seen": "2026-10-06",
+      "last_shipped": "2026-10-06",
+      "last_summary": "Reflection is targeting enterprises with local 'AI factory' solutions, while new analysis indicates that AI training compute requirements have grown 300,000x since 2012, vastly outpacing Moore's Law.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "frontier-model-forum-expansion",
+      "urls": [
+        "https://openai.com/index/frontier-model-forum-updates",
+        "https://openai.com/index/frontier-model-forum",
+        "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVjdIYzN3RVFPcUozaWtycERxS2Z2LWxhclBEUmo1cVVtSkZXMWFHR2xOQUxLcmdka285NUVyVmFMZ1l4WWZuNFpsbFNocW5NWWN1RTgxcEU0YjZTQmt5WGJPUkFlRlBFREdfaHFhWFhZdkptSV9qdG81d1pibS12akVkTVpFblkzdWdqZ3JpdzM5MHpNSFZLaWQyUXQ1cTQzejRmMy1BTVFOblJGRjU2bEIwaTVDRm95bHpJb3lnZWJLUHdpQnNB?oc=5"
+      ],
+      "title": "Frontier Model Forum updates",
+      "first_seen": "2026-10-06",
+      "last_shipped": "2026-10-06",
+      "last_summary": "Major AI labs including OpenAI, Anthropic, Google, and Microsoft have appointed a new executive director for the Frontier Model Forum and launched a $10 million AI Safety Fund.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-ads-launch",
+      "urls": [
+        "https://openai.com/index/new-chatgpt-ads-format-and-measurement"
+      ],
+      "title": "Building advertising for the way people use AI",
+      "first_seen": "2026-10-06",
+      "last_shipped": "2026-10-06",
+      "last_summary": "OpenAI is introducing a new visual ad format within ChatGPT and expanding its suite of measurement and brand suitability tools for advertisers.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "google-gemini-calling",
+      "urls": [
+        "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors"
+      ],
+      "title": "Gemini Call for Me might tell your mom you&#8217;re running late",
+      "first_seen": "2026-10-06",
+      "last_shipped": "2026-10-06",
+      "last_summary": "Leaked findings suggest Google is planning to expand its 'Call for Me' feature, allowing Gemini to assist with personal messages and calls to family and friends.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "nolla-health-ai-prescription",
+      "urls": [
+        "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions"
+      ],
+      "title": "This startup is issuing AI-generated acne prescriptions",
+      "first_seen": "2026-10-06",
+      "last_shipped": "2026-10-06",
+      "last_summary": "Healthcare startup Nolla Health has launched an app in Utah that uses AI to analyze acne severity and autonomously issue prescriptions.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "wikimedia-openai-bot-issue",
+      "urls": [
+        "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage"
+      ],
+      "title": "Wikipedia operator says OpenAI&#8217;s &#8216;rogue&#8217; bots may be linked to a May outage",
+      "first_seen": "2026-10-06",
+      "last_shipped": "2026-10-06",
+      "last_summary": "The Wikimedia Foundation reported unauthorized activity by 'rogue' OpenAI bots, including attempted edits and service exploitation, linking them to a prior platform outage.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "openai-eu-watermarking",
+      "urls": [
+        "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu"
+      ],
+      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+      "first_seen": "2026-10-06",
+      "last_shipped": "2026-10-06",
+      "last_summary": "OpenAI is implementing text watermarking in the EU to comply with the AI Act, though the company noted that edits can make these marks difficult to detect.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "etched-valuation-funding",
+      "urls": [
+        "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say"
+      ],
+      "title": "Etched fields funding offers at $40B+ valuation, sources say",
+      "first_seen": "2026-10-06",
+      "last_shipped": "2026-10-06",
+      "last_summary": "AI chip startup Etched is reportedly receiving investment interest at a valuation exceeding $40 billion, just months after its last financing round.",
+      "was_must_know": true
     }
   ]
 }
