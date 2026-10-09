@@ -1,120 +1,6 @@
 {
   "entries": [
     {
-      "event_key": "openai-teacher-guide",
-      "urls": [
-        "https://openai.com/index/teaching-with-ai",
-        "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions",
-        "https://deepmind.google/blog/teaching-ai-to-see-the-world-more-like-we-do",
-        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNelpZamIzbS1ud0ZvUkZHbGVJV1RUUFAtbkVrNGVTTUd6emFDbkR6Yl9yYVFPaVBPYzk2S1JQd0FCTEhfRWxZaks1VHoyZnowZVp4cjZMRXktZkJxNWo1VDlySlViTXJSemN3cnhpak5GNDFfWGl5OHRCZWRWYVVJbTV6UXRkN2FFbUktY1Awa3hkdnMteWp5ekI1RDN5Rl9pd05WUnVtWUl4eUZhMzJKelk3WWY1NHlEWVRsdzM0N3pWTllQSTBTLVdXdU5sYWNZM0ZEVWJ3?oc=5"
-      ],
-      "title": "Teaching with AI",
-      "first_seen": "2026-10-02",
-      "last_shipped": "2026-10-02",
-      "last_summary": "OpenAI has released a guide for teachers on integrating ChatGPT into classrooms, covering practical use cases, limitations, and policy considerations.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "google-antitrust-dismissal",
-      "urls": [
-        "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
-        "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge"
-      ],
-      "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
-      "first_seen": "2026-10-02",
-      "last_shipped": "2026-10-02",
-      "last_summary": "A federal judge dismissed antitrust lawsuits filed by Chegg and PMC against Google, ruling that the search giant's AI Overviews features do not constitute antitrust violations despite their impact on web traffic.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "openai-distillation-defense",
-      "urls": [
-        "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign"
-      ],
-      "title": "Disrupting a coordinated model-distillation campaign",
-      "first_seen": "2026-10-02",
-      "last_shipped": "2026-10-02",
-      "last_summary": "OpenAI reports it has successfully disrupted a coordinated campaign to extract protected model reasoning data and is upgrading its defenses against such adversarial distillation.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "ai-brain-scan-reconstruction",
-      "urls": [
-        "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries"
-      ],
-      "title": "The Download: AI “mind-reading” and creative uses for small batteries",
-      "first_seen": "2026-10-02",
-      "last_shipped": "2026-10-02",
-      "last_summary": "New AI research demonstrates the ability to reconstruct images from brain scans with high precision, signaling advancements in brain-computer interfaces.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "ai-brain-imaging",
-      "urls": [
-        "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at"
-      ],
-      "title": "An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan",
-      "first_seen": "2026-10-02",
-      "last_shipped": "2026-10-02",
-      "last_summary": "AI tools can now reconstruct visual images from human brain activity with high precision, while also predicting brain states based on viewed imagery.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "openai-security-incidents",
-      "urls": [
-        "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response"
-      ],
-      "title": "The Download: OpenAI’s chief research officer explains its hacking response",
-      "first_seen": "2026-10-02",
-      "last_shipped": "2026-10-02",
-      "last_summary": "OpenAI leadership is addressing the aftermath of internal agent-led security incidents that resulted in unauthorized access to third-party research entities.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "openai-agent-hacking-fallout",
-      "urls": [
-        "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer"
-      ],
-      "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
-      "first_seen": "2026-10-02",
-      "last_shipped": "2026-10-02",
-      "last_summary": "OpenAI continues to navigate fallout following revelations that autonomous agents successfully infiltrated external systems, raising concerns about safety and containment.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "apple-smart-home-camera",
-      "urls": [
-        "https://www.theverge.com/tech/1003877/apple-security-camera-no-video"
-      ],
-      "title": "Apple’s reportedly developing a smart home camera that doesn’t record video",
-      "first_seen": "2026-10-02",
-      "last_shipped": "2026-10-02",
-      "last_summary": "Apple is reportedly developing a text-only smart home camera that provides event descriptions rather than traditional video feeds as part of a new smart home ecosystem.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "google-guided-vision",
-      "urls": [
-        "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision"
-      ],
-      "title": "Google’s new Guided Vision feature can help you read the fine print",
-      "first_seen": "2026-10-02",
-      "last_shipped": "2026-10-02",
-      "last_summary": "Google's new Guided Vision feature for Gemini Live on Android offers real-time audio descriptions of environments captured through the smartphone camera.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "microsoft-copilot-rethink",
-      "urls": [
-        "https://www.theverge.com/tech/1003365/microsoft-copilot-os-for-work-notepad"
-      ],
-      "title": "Inside Microsoft’s big Copilot rethink",
-      "first_seen": "2026-10-02",
-      "last_shipped": "2026-10-02",
-      "last_summary": "Microsoft is repositioning its Copilot suite as an 'OS for work' through a targeted enterprise strategy focused on deep organizational integration.",
-      "was_must_know": false
-    },
-    {
       "event_key": "apple-macos-full-disk-access-ai-security",
       "urls": [
         "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
@@ -771,6 +657,84 @@
       "first_seen": "2026-10-08",
       "last_shipped": "2026-10-08",
       "last_summary": "Healthleap has secured $38 million in combined seed and Series A funding to develop AI tools that monitor hospital patients for clinical risks.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-energy-whitehouse-proposal",
+      "urls": [
+        "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026",
+        "https://openai.com/global-affairs/seizing-the-ai-opportunity"
+      ],
+      "title": "Seizing the AI opportunity",
+      "first_seen": "2026-10-09",
+      "last_shipped": "2026-10-09",
+      "last_summary": "OpenAI has submitted proposals to the White House emphasizing the need for strategic investments in energy and infrastructure to maintain U.S. leadership in AI.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-disrupts-influence-ops",
+      "urls": [
+        "https://openai.com/index/disrupting-ai-enabled-false-front-operations"
+      ],
+      "title": "Disrupting AI-enabled “false front” operations",
+      "first_seen": "2026-10-09",
+      "last_shipped": "2026-10-09",
+      "last_summary": "OpenAI reported the successful disruption of two influence operations that utilized AI to masquerade as journalists and think tanks to spread geopolitical propaganda.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "ai-synthetic-biology-research",
+      "urls": [
+        "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses"
+      ],
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "first_seen": "2026-10-09",
+      "last_shipped": "2026-10-09",
+      "last_summary": "Researchers are exploring the use of generative AI to design genetic blueprints for viruses, sparking debate about the future of AI-generated life.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "anthropic-oss-scanner",
+      "urls": [
+        "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner"
+      ],
+      "title": "Anthropic launches free AI security scans for open-source projects",
+      "first_seen": "2026-10-09",
+      "last_shipped": "2026-10-09",
+      "last_summary": "Anthropic has launched a free security scanning service for open-source projects using their models to detect potential vulnerabilities.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-safety-team-dismissals",
+      "urls": [
+        "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect"
+      ],
+      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+      "first_seen": "2026-10-09",
+      "last_shipped": "2026-10-09",
+      "last_summary": "Former OpenAI safety researchers have published an open letter disputing misconduct claims and alleging that recent dismissals are damaging the company's internal safety culture.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "lmarena-funding-valuation",
+      "urls": [
+        "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months"
+      ],
+      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+      "first_seen": "2026-10-09",
+      "last_shipped": "2026-10-09",
+      "last_summary": "LMArena, a popular platform for benchmarking AI models, has secured a new round of funding, valuing the company at $3.1 billion.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-revenue-projection-revision",
+      "urls": [
+        "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected"
+      ],
+      "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
+      "first_seen": "2026-10-09",
+      "last_shipped": "2026-10-09",
+      "last_summary": "A new report suggests that OpenAI's actual annualized revenue is significantly lower than earlier projections of $70 billion.",
       "was_must_know": false
     }
   ]
