@@ -1,98 +1,6 @@
 {
   "entries": [
     {
-      "event_key": "openai-biodefense-plan",
-      "urls": [
-        "https://openai.com/index/biodefense-in-the-intelligence-age",
-        "https://openai.com/index/cybersecurity-in-the-intelligence-age",
-        "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTEUzSkVveGMxWGM5Rm1Uc0NmcDlPYWpzc2stMGd5dzlydE16NFZqeTJHSnRsV1F3RDdPQnUyWUIxclB4QjBNUy1xUkstQUZFaHJmMlFXUHYxV053d0IzZGdMcDBCS2JhSE1qOG54REtKWklKa1dlYzUzWlhnbUluQlo3dzgzS0NCUFVvMG9jbGQ?oc=5"
-      ],
-      "title": "Biodefense in the Intelligence Age",
-      "first_seen": "2026-10-04",
-      "last_shipped": "2026-10-04",
-      "last_summary": "OpenAI has published a five-part action plan aimed at strengthening cybersecurity and promoting AI-powered biological resilience. The initiative focuses on democratizing cyber defense and ensuring the protection of critical infrastructure.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "openai-safety-resignation",
-      "urls": [
-        "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken",
-        "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-        "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm"
-      ],
-      "title": "An OpenAI safety employee has quit and is sounding the alarm",
-      "first_seen": "2026-10-04",
-      "last_shipped": "2026-10-04",
-      "last_summary": "A senior safety official at OpenAI has resigned, publicly characterizing the organization's current culture as 'broken'.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "aws-data-center-transparency",
-      "urls": [
-        "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas"
-      ],
-      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-      "first_seen": "2026-10-04",
-      "last_shipped": "2026-10-04",
-      "last_summary": "The CEO of Amazon Web Services (AWS) addressed public criticism regarding data center operations, stating that the company has moved to stop using non-disclosure agreements (NDAs) in related discussions.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "apple-ai-agent-permissions",
-      "urls": [
-        "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents"
-      ],
-      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
-      "first_seen": "2026-10-04",
-      "last_shipped": "2026-10-04",
-      "last_summary": "Apple has updated its full-disk access permissions as part of a security move to limit potential abuses by automated AI agents.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "amazon-data-center-backlash",
-      "urls": [
-        "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash"
-      ],
-      "title": "Amazon’s $1B plan to combat data center backlash draws more backlash",
-      "first_seen": "2026-10-04",
-      "last_shipped": "2026-10-04",
-      "last_summary": "Despite Amazon's efforts to increase transparency, the company continues to face criticism regarding the environmental impact of its data centers.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "nvidia-chip-smuggling-arrest",
-      "urls": [
-        "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china"
-      ],
-      "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
-      "first_seen": "2026-10-04",
-      "last_shipped": "2026-10-04",
-      "last_summary": "Federal authorities have arrested a tech executive accused of smuggling $300 million worth of Nvidia AI chips into China.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "anthropic-claude-ethics",
-      "urls": [
-        "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html"
-      ],
-      "title": "Inside Anthropic's Quest to Instill Morality into Its A.I. Models",
-      "first_seen": "2026-10-04",
-      "last_shipped": "2026-10-04",
-      "last_summary": "An in-depth look at Anthropic's methodology for embedding ethical guidelines into the behavior of its Claude AI models.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "aleph-alpha-kolibri-launch",
-      "urls": [
-        "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model"
-      ],
-      "title": "Kolibri: A Sovereign Open-Weight Model",
-      "first_seen": "2026-10-04",
-      "last_shipped": "2026-10-04",
-      "last_summary": "Aleph Alpha has released 'Kolibri', an open-weight model designed for sovereign AI applications.",
-      "was_must_know": false
-    },
-    {
       "event_key": "trump-super-intelligence-force",
       "urls": [
         "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force",
@@ -706,6 +614,99 @@
       "first_seen": "2026-10-10",
       "last_shipped": "2026-10-10",
       "last_summary": "A study suggests that while AI coding agents increase the volume of code produced, the overall output of finished software is throttled by human review bottlenecks.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-education-guide-research-updates",
+      "urls": [
+        "https://openai.com/index/teaching-with-ai",
+        "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions",
+        "https://deepmind.google/blog/teaching-ai-to-see-the-world-more-like-we-do",
+        "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNS14bW9JbGplV3I5cGE2TEF5d2tTM1hBMUZCTzhvLV9DUXM2NzVOWWQ2d1N5Mll0ZHdTZUxYWjlQTVJaQk1Zd3NOWGZrM1hreldvUWZXRnZ0cTI2T0wwUXBIOXNUZ2RTRldESzU4aFhRQUVIaG1UMU1YbzZYVGozWC01Q1NOdS1OLVJxVXFYdzBYNnhPcDlwS0VOVWkwRk96WjRJUlE5b3lFRzhhb25vdDFrUV8yQm9UMHJsakZ0QUtDMzlUaktOOTBRTTZ6VUhqTC1JTFlDdjYtNTdvTlVzelV3?oc=5",
+        "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcHlPVkhLQ2NKT0JWRUgyR1U3REk3UGFwMmdNV01QVl8yVkVnUFVwUkpSS2xLclBmOGZVX3A2U2t2ZnNyUkZUTFh2eXJITGJMbng0d0FBUGpsanl4REpXTEhRYVVZQWFVX3loTzZaZTg0NXBnbHVzcUUwcm9SYUtxbldDTFV1c3lucWIweVRJSFc?oc=5"
+      ],
+      "title": "Teaching with AI",
+      "first_seen": "2026-10-11",
+      "last_shipped": "2026-10-11",
+      "last_summary": "OpenAI released a guide for educators on using ChatGPT in classrooms, addressing prompts, AI limitations, detection, and bias. Simultaneously, research updates include findings on AI visual organization and a new 4D reconstruction method.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "nadella-ai-emergency-brake",
+      "urls": [
+        "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake",
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNHRQX2VXbDZtb2Z0WS1RRHAzc1NxZjdsWHNDZ1oweTYxTi10NGNESm9KLWNnNmhVYUdQblRqODlmWUdjQlFxYzRJbjVJLUlkUkdib2lwb3VUZ3pYNnJCclhid25RYlRyWEhnbE5ibGY5bWNTb2tzOWNEQlBPcllvMms1YkZxcEJSZHJPbHVpaTZQejRx0gGUAUFVX3lxTE80dFBfZVdsNm1vZnRZLVFEcDNzU3FmN2xYc0NnWjB5NjFOLXQ0Y0RKb0otY2c2aFVhR1BuVGo4OWZZR2NCUXFjNEluNUktSWRSR2JvaXBvdVRnelg2ckJyWGJ3blFiVHJYSGdsTmJsZjltY1Nva3M5Y0RCUE9yWW8yazViRnFwQlJkck9sdWlpNlB6NHE?oc=5"
+      ],
+      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "first_seen": "2026-10-11",
+      "last_shipped": "2026-10-11",
+      "last_summary": "Microsoft CEO Satya Nadella publicly stated that the AI industry needs an \"emergency brake\" to ensure the trust architecture of current models is properly assessed.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "nadella-ai-security-warning",
+      "urls": [
+        "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised"
+      ],
+      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+      "first_seen": "2026-10-11",
+      "last_shipped": "2026-10-11",
+      "last_summary": "In a post on X, Microsoft CEO Satya Nadella argued that the industry must move beyond treating AI as \"nested black boxes\" and should operate under the assumption that models are already compromised.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "distrokid-umg-lawsuit-takedowns",
+      "urls": [
+        "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit"
+      ],
+      "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+      "first_seen": "2026-10-11",
+      "last_shipped": "2026-10-11",
+      "last_summary": "DistroKid has begun removing songs from its platform in response to a lawsuit from Universal Music Group (UMG), which accuses the distributor of facilitating an \"AI-slop pipeline.\"",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-dots-privacy-positioning",
+      "urls": [
+        "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots"
+      ],
+      "title": "AI agent makers are promising privacy — will they deliver?",
+      "first_seen": "2026-10-11",
+      "last_shipped": "2026-10-11",
+      "last_summary": "Following the unveiling of its \"Dots\" AI agent, OpenAI is positioning itself as a new standard-setter for privacy in frontier AI, contrasting its approach with competitors like Meta's Muse.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "cloudflare-acquires-deno",
+      "urls": [
+        "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model"
+      ],
+      "title": "Cloudflare acquires Deno to improve its Workers programming model",
+      "first_seen": "2026-10-11",
+      "last_shipped": "2026-10-11",
+      "last_summary": "Cloudflare has acquired Deno with the intent of integrating its technology to improve the Workers programming model.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "nvidia-reflection-ai-acquisition",
+      "urls": [
+        "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a"
+      ],
+      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+      "first_seen": "2026-10-11",
+      "last_shipped": "2026-10-11",
+      "last_summary": "Nvidia is reportedly in talks to acquire the American \"open\" model startup Reflection AI.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "talorys-cloudflared-agent",
+      "urls": [
+        "https://github.com/rociiu/talorys"
+      ],
+      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+      "first_seen": "2026-10-11",
+      "last_shipped": "2026-10-11",
+      "last_summary": "Talorys is a new project that allows users to deploy a self-hosted personal AI agent utilizing Cloudflare's free infrastructure tier.",
       "was_must_know": false
     }
   ]
