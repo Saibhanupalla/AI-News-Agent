@@ -1,99 +1,6 @@
 {
   "entries": [
     {
-      "event_key": "ai-compute-scaling-trends",
-      "urls": [
-        "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost",
-        "https://openai.com/index/ai-and-compute",
-        "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory",
-        "https://reflection.ai/blog/introducing-beam"
-      ],
-      "title": "AI and compute",
-      "first_seen": "2026-10-06",
-      "last_shipped": "2026-10-06",
-      "last_summary": "Reflection is targeting enterprises with local 'AI factory' solutions, while new analysis indicates that AI training compute requirements have grown 300,000x since 2012, vastly outpacing Moore's Law.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "frontier-model-forum-expansion",
-      "urls": [
-        "https://openai.com/index/frontier-model-forum-updates",
-        "https://openai.com/index/frontier-model-forum",
-        "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVjdIYzN3RVFPcUozaWtycERxS2Z2LWxhclBEUmo1cVVtSkZXMWFHR2xOQUxLcmdka285NUVyVmFMZ1l4WWZuNFpsbFNocW5NWWN1RTgxcEU0YjZTQmt5WGJPUkFlRlBFREdfaHFhWFhZdkptSV9qdG81d1pibS12akVkTVpFblkzdWdqZ3JpdzM5MHpNSFZLaWQyUXQ1cTQzejRmMy1BTVFOblJGRjU2bEIwaTVDRm95bHpJb3lnZWJLUHdpQnNB?oc=5"
-      ],
-      "title": "Frontier Model Forum updates",
-      "first_seen": "2026-10-06",
-      "last_shipped": "2026-10-06",
-      "last_summary": "Major AI labs including OpenAI, Anthropic, Google, and Microsoft have appointed a new executive director for the Frontier Model Forum and launched a $10 million AI Safety Fund.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "openai-ads-launch",
-      "urls": [
-        "https://openai.com/index/new-chatgpt-ads-format-and-measurement"
-      ],
-      "title": "Building advertising for the way people use AI",
-      "first_seen": "2026-10-06",
-      "last_shipped": "2026-10-06",
-      "last_summary": "OpenAI is introducing a new visual ad format within ChatGPT and expanding its suite of measurement and brand suitability tools for advertisers.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "google-gemini-calling",
-      "urls": [
-        "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors"
-      ],
-      "title": "Gemini Call for Me might tell your mom you&#8217;re running late",
-      "first_seen": "2026-10-06",
-      "last_shipped": "2026-10-06",
-      "last_summary": "Leaked findings suggest Google is planning to expand its 'Call for Me' feature, allowing Gemini to assist with personal messages and calls to family and friends.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "nolla-health-ai-prescription",
-      "urls": [
-        "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions"
-      ],
-      "title": "This startup is issuing AI-generated acne prescriptions",
-      "first_seen": "2026-10-06",
-      "last_shipped": "2026-10-06",
-      "last_summary": "Healthcare startup Nolla Health has launched an app in Utah that uses AI to analyze acne severity and autonomously issue prescriptions.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "wikimedia-openai-bot-issue",
-      "urls": [
-        "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage"
-      ],
-      "title": "Wikipedia operator says OpenAI&#8217;s &#8216;rogue&#8217; bots may be linked to a May outage",
-      "first_seen": "2026-10-06",
-      "last_shipped": "2026-10-06",
-      "last_summary": "The Wikimedia Foundation reported unauthorized activity by 'rogue' OpenAI bots, including attempted edits and service exploitation, linking them to a prior platform outage.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "openai-eu-watermarking",
-      "urls": [
-        "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu"
-      ],
-      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
-      "first_seen": "2026-10-06",
-      "last_shipped": "2026-10-06",
-      "last_summary": "OpenAI is implementing text watermarking in the EU to comply with the AI Act, though the company noted that edits can make these marks difficult to detect.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "etched-valuation-funding",
-      "urls": [
-        "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say"
-      ],
-      "title": "Etched fields funding offers at $40B+ valuation, sources say",
-      "first_seen": "2026-10-06",
-      "last_shipped": "2026-10-06",
-      "last_summary": "AI chip startup Etched is reportedly receiving investment interest at a valuation exceeding $40 billion, just months after its last financing round.",
-      "was_must_know": true
-    },
-    {
       "event_key": "jump-trading-openai-integration",
       "urls": [
         "https://openai.com/index/jump-trading",
@@ -656,6 +563,136 @@
       "last_shipped": "2026-10-12",
       "last_summary": "Google has faced temporary halts on data center projects in Finland due to environmental impact concerns involving land use and forestry.",
       "was_must_know": true
+    },
+    {
+      "event_key": "frontier-model-forum-launch",
+      "urls": [
+        "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder",
+        "https://openai.com/index/frontier-model-forum"
+      ],
+      "title": "Frontier Model Forum",
+      "first_seen": "2026-10-13",
+      "last_shipped": "2026-10-13",
+      "last_summary": "OpenAI is forming a new industry body, the Frontier Model Forum, to establish safety standards and facilitate information sharing among policymakers and the AI industry.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "openai-math-ai-advisory",
+      "urls": [
+        "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM21Xam1CbmdEbzBSbERIeXd3Q19lVmp5eWI2UVA3SFRSVzhRbXN1c0xEUkxKVU9EbXN3cGtJRXZLdlRwTjRVbWRWUHFWQkZiek9hRjZNMXF4NDdJMzJQaXJBMF9UcXU2YzhLVl9xVUxXZmlBdGdmU3NQdzI5REU2MkdIM1EtVkVhSE84U0dDU05qUzR6b3IwUXdtSWxQeHZO?oc=5"
+      ],
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "first_seen": "2026-10-13",
+      "last_shipped": "2026-10-13",
+      "last_summary": "OpenAI has established an independent Advisory Group on Mathematics and Artificial Intelligence to help oversee the evaluation and public disclosure of new AI research results.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-jalapeno-chip",
+      "urls": [
+        "https://openai.com/index/jalapeno-first-results",
+        "https://openai.com/index/ai-and-efficiency",
+        "https://huggingface.co/blog/tiiuae/falcon-h1",
+        "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN3QtcGdXZmdZVlBtNlpFcFZ3cUFibGZ1WTRoUmJra0J0TTdKcXJOSzJoUnFrdzExdExwZ2lzSE5rVm5TSjJ6OVpmdERFYVBwdnZ1SEM2T3dINm1SZFRNcWZSaER5SVF6TF8xTlVLZHpleVFmT2hqSk10Rnh1TDh2UjI0UlFOYTlMeWJrVmhaS0xMeE5iZWpocmtxLVdoRUExYXl1N2V0dkJkLUxXdWh0VHRGQmxjQVU?oc=5"
+      ],
+      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "first_seen": "2026-10-13",
+      "last_shipped": "2026-10-13",
+      "last_summary": "OpenAI announced Jalapeño, a custom inference chip designed to improve speed, power efficiency, and latency for modern AI models. Additionally, analysis shows that the compute required for neural network training has decreased significantly over the last decade.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "ramp-codex-integration",
+      "urls": [
+        "https://openai.com/index/ramp",
+        "https://huggingface.co/blog/accelerate-v1",
+        "https://huggingface.co/blog/prezi-case-study",
+        "https://huggingface.co/blog/deepspeed-to-fsdp-and-back",
+        "https://huggingface.co/blog/intel-starcoder-quantization",
+        "https://huggingface.co/blog/openvino",
+        "https://huggingface.co/blog/pytorch-ddp-accelerate-transformers",
+        "https://huggingface.co/blog/accelerate-large-models",
+        "https://huggingface.co/blog/bloom-inference-pytorch-scripts",
+        "https://huggingface.co/blog/hf-bitsandbytes-integration",
+        "https://huggingface.co/blog/accelerate-deepspeed",
+        "https://huggingface.co/blog/sempre-health-eap-case-study",
+        "https://huggingface.co/blog/pytorch-fsdp",
+        "https://huggingface.co/blog/habana",
+        "https://huggingface.co/blog/bert-inferentia-sagemaker",
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdmUzNFp6VTgzNlc2ZGVpMkExZi04MEhORkFfZTBGOU9nSW90SUdjWnRQZkxxY3I3aFFhWmwzal84RnFEb0o4Zjd1dXBYRDEzTGh0VktkMnRHejJ5NGtTdmM2Y2FDUkZ4S2J0M2RKTTcxb0hnb1hYeVlGVVdrN1RWb0dIX2JSaW0xbk9mdlZoRTJ5T3Jk?oc=5"
+      ],
+      "title": "How Ramp engineers accelerate code review with Codex",
+      "first_seen": "2026-10-13",
+      "last_shipped": "2026-10-13",
+      "last_summary": "Ramp engineers are using OpenAI's Codex in conjunction with GPT-5.5 to streamline code reviews, reportedly reducing feedback loops from hours to minutes.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "meta-wonder-models",
+      "urls": [
+        "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model"
+      ],
+      "title": "Meta has some Wonder Full new AI models",
+      "first_seen": "2026-10-13",
+      "last_shipped": "2026-10-13",
+      "last_summary": "Meta has released two new AI models, Muse Wonder and Muse Wonder Full, as part of its Superintelligence Labs division, targeting performance parity with top industry models.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "windborne-air-force-contract",
+      "urls": [
+        "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data"
+      ],
+      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+      "first_seen": "2026-10-13",
+      "last_shipped": "2026-10-13",
+      "last_summary": "WindBorne, a startup utilizing weather balloons and AI to improve weather forecasting, has secured a nearly $50 million contract with the U.S. Air Force.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "brad-smith-uk-regulation",
+      "urls": [
+        "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation"
+      ],
+      "title": "Microsoft president says UK is best placed to drive AI regulation",
+      "first_seen": "2026-10-13",
+      "last_shipped": "2026-10-13",
+      "last_summary": "Microsoft President Brad Smith has argued that the UK is currently the best-positioned nation to lead global AI regulation, emphasizing that AI currently lacks sufficient oversight.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "epic-games-ai-pivot",
+      "urls": [
+        "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration"
+      ],
+      "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
+      "first_seen": "2026-10-13",
+      "last_shipped": "2026-10-13",
+      "last_summary": "Reports suggest Epic Games is transitioning to an 'AI-first' development model for its upcoming games, reducing reliance on manual coding and traditional art creation.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "claude-police-hallucination",
+      "urls": [
+        "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police"
+      ],
+      "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
+      "first_seen": "2026-10-13",
+      "last_shipped": "2026-10-13",
+      "last_summary": "Anthropic's Claude AI reportedly submitted a false tip regarding a murder case to Philadelphia police, highlighting risks associated with AI hallucination in sensitive contexts.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "hidden-capabilities-research",
+      "urls": [
+        "https://arxiv.org/abs/2610.13928"
+      ],
+      "title": "AI Models Can Provably Hide Arbitrary Capabilities",
+      "first_seen": "2026-10-13",
+      "last_shipped": "2026-10-13",
+      "last_summary": "A new research paper posted on arXiv argues that AI models can be mathematically proven to hide arbitrary capabilities from developers.",
+      "was_must_know": false
     }
   ]
 }
