@@ -1,270 +1,6 @@
 {
   "entries": [
     {
-      "event_key": "jump-trading-openai-integration",
-      "urls": [
-        "https://openai.com/index/jump-trading",
-        "https://openai.com/academy/research",
-        "https://openai.com/academy/search-and-deep-research",
-        "https://openai.com/index/chatgpt-shopping-research",
-        "https://openai.com/index/introducing-chatgpt-pulse",
-        "https://openai.com/index/chatgpt-study-mode",
-        "https://openai.com/index/introducing-chatgpt-agent",
-        "https://openai.com/index/introducing-deep-research",
-        "https://openai.com/index/introducing-chatgpt-pro",
-        "https://openai.com/index/introducing-chatgpt-search",
-        "https://openai.com/index/introducing-canvas",
-        "https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free",
-        "https://openai.com/index/introducing-chatgpt-and-whisper-apis",
-        "https://openai.com/index/introducing-chatgpt-team",
-        "https://openai.com/index/introducing-chatgpt-enterprise",
-        "https://openai.com/index/introducing-the-chatgpt-app-for-ios",
-        "https://openai.com/index/chatgpt-plus",
-        "https://huggingface.co/blog/openenv",
-        "https://huggingface.co/blog/leaderboard-patronus"
-      ],
-      "title": "How Jump Trading is scaling quant research with ChatGPT",
-      "first_seen": "2026-10-07",
-      "last_shipped": "2026-10-07",
-      "last_summary": "Jump Trading is utilizing OpenAI's models to scale and structure its quantitative research workflows. The integration supports data analysis and citation-backed insight generation.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "openai-math-research-results",
-      "urls": [
-        "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HRmFiYm1mWTNPVTVGTk9faFRwRVZyTjhmejJwa0U3QjU3djh5SlpXT3ZhUlF2M0lXcV9jNkNka1kzY3RKNkRTTnpJVW16ZG1QdmdPU3owRXdCYzFLSkdTb3pIZWdJV0k1R3o3dw?oc=5",
-        "https://openai.com/index/sharing-ai-progress-in-mathematics",
-        "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github"
-      ],
-      "title": "Sharing AI progress in mathematics",
-      "first_seen": "2026-10-07",
-      "last_shipped": "2026-10-07",
-      "last_summary": "OpenAI released 722 manuscripts detailing solutions to mathematical problems, which were authored by an unreleased frontier model. These findings continue to provoke debate regarding research ethics and the role of AI in academic math.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "openai-stargate-infrastructure",
-      "urls": [
-        "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-        "https://openai.com/index/building-abundant-intelligence",
-        "https://openai.com/index/stargate-michigan-data-center",
-        "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
-        "https://openai.com/index/confidence-building-measures-for-artificial-intelligence",
-        "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdzhfZUlDa1lrX3dDWmp0WjBfd3cxRUxoYWY4bEdvLV9sVGVrVVdUZGtfNHhXcVdCdVNiLU9OYW54ektHTTdTRWVmN3lDV1BGZnZralp4RHE0Q01SR2NZMHdla0VaQk9MdVVlZl95NTRESkZJejA1QU9LS2RaUzFhbFFfblNkWjZfbmtUSDVJeTk2NkJ3TjVVU1hMYnZNMGZkOVF2aVJVYW9fXzFVVF92dtIBtgFBVV95cUxQR1ZaVGJCTjhTMmM5aGN3dklDVE5xNUpzV1JKR2wxNk5KdE5FeFB6a0FJN041OWNTUGdkTXBjTy1nWFpsa3gyNlY5eV9zT1dHTFZtd3E5WW5VN054VHNkd09Tam9mVWt4dWdjWlZsZFRoOWVram5EZE9aRXVUejhMbmNPbW93TldMOUtGdk1sOUVHdER6ZmNneFV0a2kxNlNPTDFtMnNfUS1SWDRuZVlCZ2RGMFBtZw?oc=5"
-      ],
-      "title": "The full stack behind abundant intelligence",
-      "first_seen": "2026-10-07",
-      "last_shipped": "2026-10-07",
-      "last_summary": "OpenAI CFO Sarah Friar outlined a strategy to increase AI accessibility through full-stack infrastructure improvements, including a new 1GW data center project in Michigan. This initiative is part of the broader Stargate infrastructure expansion.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "openai-ironclad-agents",
-      "urls": [
-        "https://openai.com/index/advancing-computer-use-with-ironclad"
-      ],
-      "title": "Advancing computer use with Ironclad",
-      "first_seen": "2026-10-07",
-      "last_shipped": "2026-10-07",
-      "last_summary": "OpenAI and Ironclad are partnering to train and evaluate AI agents on specialized legal contracting workflows. The effort aims to improve the effectiveness of computer-use agents in professional settings.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "google-embeddinggemma-2-launch",
-      "urls": [
-        "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model"
-      ],
-      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-      "first_seen": "2026-10-07",
-      "last_shipped": "2026-10-07",
-      "last_summary": "Google DeepMind has introduced EmbeddingGemma 2, a new open-source, lightweight multimodal embedding model.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "google-nuclear-energy-deal",
-      "urls": [
-        "https://www.theverge.com/science/1006082/google-nuclear-energy-power-purchase-agreement-constellation"
-      ],
-      "title": "Google’s power-hungry data centers crave nuclear energy",
-      "first_seen": "2026-10-07",
-      "last_shipped": "2026-10-07",
-      "last_summary": "Google has signed a 20-year agreement with Constellation to support the upgrading of six nuclear power plants in the U.S. to supply electricity for its data centers.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "musubi-policylm-release",
-      "urls": [
-        "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation"
-      ],
-      "title": "How AI decision models could change content moderation",
-      "first_seen": "2026-10-07",
-      "last_shipped": "2026-10-07",
-      "last_summary": "Musubi has released PolicyLM-1.7B, an open-weights, lightweight model designed for real-time content moderation decision-making.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "lambda-funding-ipo",
-      "urls": [
-        "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo"
-      ],
-      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
-      "first_seen": "2026-10-07",
-      "last_shipped": "2026-10-07",
-      "last_summary": "AI computing startup Lambda is raising $4 billion at a $14.5 billion pre-money valuation, with plans for an IPO in 2027.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "openai-chatgpt-ui-update",
-      "urls": [
-        "https://huggingface.co/blog/getting-started-habana",
-        "https://huggingface.co/blog/getting-started-with-embeddings",
-        "https://huggingface.co/blog/graphcore-getting-started",
-        "https://huggingface.co/blog/inference-endpoints",
-        "https://huggingface.co/blog/sentiment-analysis-python",
-        "https://huggingface.co/blog/sentiment-analysis-twitter",
-        "https://openai.com/academy/getting-started",
-        "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface",
-        "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6"
-      ],
-      "title": "Getting started with ChatGPT",
-      "first_seen": "2026-10-08",
-      "last_shipped": "2026-10-08",
-      "last_summary": "ChatGPT's new 'Intelligent UI' enables the chatbot to generate interactive charts, diagrams, and buttons directly within conversations. This feature is being released as part of the broader GPT-6 rollout.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "openai-gpt-6-launch",
-      "urls": [
-        "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash",
-        "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber",
-        "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber",
-        "https://deepmind.google/blog/introducing-gemini-3-7-flash",
-        "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber",
-        "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking",
-        "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar",
-        "https://deepmind.google/blog/introducing-gemini-omni",
-        "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model",
-        "https://deepmind.google/blog/introducing-google-antigravity",
-        "https://deepmind.google/blog/introducing-google-antigravity-2-0",
-        "https://huggingface.co/blog/agents",
-        "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
-        "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQkU2SklzNGNKdXpOWUpkMFJhVEZvbGpLWlpUeDIzakxtcE1HbVRFeGp5N3FDNXlRd21BWWwzd19Na3RadEpaVk9wY3luT3lBc2tQdk9EcVkwNEZ1RTZJeUlpaDlVaG42MWx6U2h2RERsWXA0RTk3eXlTUC1EVzNFQ25EVjBLQUlrYVE?oc=5",
-        "https://openai.com/index/gpt-4-1",
-        "https://openai.com/index/gpt-5-1-for-developers",
-        "https://openai.com/index/gpt-6-for-everyone",
-        "https://openai.com/index/introducing-gpt-5",
-        "https://openai.com/index/introducing-gpt-5-2",
-        "https://openai.com/index/introducing-gpt-5-2-codex",
-        "https://openai.com/index/introducing-gpt-5-3-codex",
-        "https://openai.com/index/introducing-gpt-5-3-codex-spark",
-        "https://openai.com/index/introducing-gpt-5-4",
-        "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
-        "https://openai.com/index/introducing-gpt-5-5",
-        "https://openai.com/index/introducing-gpt-5-for-developers",
-        "https://openai.com/index/introducing-gpt-6-1-sol",
-        "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-        "https://openai.com/index/introducing-gpt-live",
-        "https://openai.com/index/introducing-gpt-oss",
-        "https://openai.com/index/introducing-gpt-oss-safeguard",
-        "https://openai.com/index/introducing-gpt-realtime",
-        "https://openai.com/index/introducing-gpt-rosalind",
-        "https://openai.com/index/introducing-improvements-to-the-fine-tuning-api-and-expanding-our-custom-models-program",
-        "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
-        "https://openai.com/index/introducing-our-next-generation-audio-models",
-        "https://openai.com/index/introducing-structured-outputs-in-the-api",
-        "https://openai.com/index/introducing-the-codex-app",
-        "https://openai.com/index/introducing-the-gpt-store",
-        "https://openai.com/index/introducing-the-realtime-api",
-        "https://openai.com/index/introducing-upgrades-to-codex",
-        "https://openai.com/index/introducing-vision-to-the-fine-tuning-api",
-        "https://openai.com/index/mercado-libre",
-        "https://openai.com/index/new-chatgpt-images-is-here"
-      ],
-      "title": "Introducing GPT-6.1 Sol",
-      "first_seen": "2026-10-08",
-      "last_shipped": "2026-10-08",
-      "last_summary": "OpenAI is globally deploying GPT-6 in ChatGPT, incorporating an 'Intelligent UI' that supports faster response times and integrated visual, interactive elements.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "nvidia-rtx-spark-laptops",
-      "urls": [
-        "https://www.theverge.com/gadgets/1007040/nvidias-powerful-rtx-spark-laptops-can-cost-up-to-7000"
-      ],
-      "title": "The first Nvidia RTX Spark laptops cost up to $7,000",
-      "first_seen": "2026-10-08",
-      "last_shipped": "2026-10-08",
-      "last_summary": "New high-end laptops featuring Nvidia's RTX Spark chips have been introduced by major manufacturers, starting at $2,599. These machines are positioned to compete directly with premium laptops like the MacBook Pro.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "microsoft-surface-laptop-ultra",
-      "urls": [
-        "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11",
-        "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced"
-      ],
-      "title": "Everything announced at Microsoft&#8217;s Surface Laptop Ultra event",
-      "first_seen": "2026-10-08",
-      "last_shipped": "2026-10-08",
-      "last_summary": "Microsoft has released new AI-focused laptops utilizing Nvidia chips, paired with an updated version of Windows 11 designed for AI agent interactions.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "microsoft-copilot-windows-update",
-      "urls": [
-        "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence"
-      ],
-      "title": "Microsoft is giving Copilot more control over Windows and your files",
-      "first_seen": "2026-10-08",
-      "last_shipped": "2026-10-08",
-      "last_summary": "Microsoft is upgrading Copilot with 'Hybrid Intelligence,' granting it deeper access to local files and system-level actions across Windows.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "mecka-ai-funding",
-      "urls": [
-        "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia"
-      ],
-      "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
-      "first_seen": "2026-10-08",
-      "last_shipped": "2026-10-08",
-      "last_summary": "Mecka AI, a startup that collects human motion data to train humanoid robots, has raised $60 million in funding led by Sequoia Capital.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "nous-research-funding",
-      "urls": [
-        "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users"
-      ],
-      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-      "first_seen": "2026-10-08",
-      "last_shipped": "2026-10-08",
-      "last_summary": "Nous Research has confirmed a $1.5 billion valuation alongside a $90 million Series B round, coinciding with the launch of new business-focused AI agents.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "meta-ai-safety-ads",
-      "urls": [
-        "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material"
-      ],
-      "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
-      "first_seen": "2026-10-08",
-      "last_shipped": "2026-10-08",
-      "last_summary": "Meta is implementing new AI-based detection tools to identify deceptive ads that redirect users to harmful content.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "healthleap-funding",
-      "urls": [
-        "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look"
-      ],
-      "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
-      "first_seen": "2026-10-08",
-      "last_shipped": "2026-10-08",
-      "last_summary": "Healthleap has secured $38 million in combined seed and Series A funding to develop AI tools that monitor hospital patients for clinical risks.",
-      "was_must_know": false
-    },
-    {
       "event_key": "openai-energy-whitehouse-proposal",
       "urls": [
         "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026",
@@ -693,6 +429,124 @@
       "last_shipped": "2026-10-13",
       "last_summary": "A new research paper posted on arXiv argues that AI models can be mathematically proven to hide arbitrary capabilities from developers.",
       "was_must_know": false
+    },
+    {
+      "event_key": "ai-compute-scaling-analysis",
+      "urls": [
+        "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis",
+        "https://openai.com/index/ai-and-compute",
+        "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory"
+      ],
+      "title": "AI and compute",
+      "first_seen": "2026-10-15",
+      "last_shipped": "2026-10-15",
+      "last_summary": "Recent analyses show that compute usage for leading AI training runs has been growing with a 3.4-month doubling period since 2012. Additionally, new developments in private AI compute and chip design automation are shifting how infrastructure is being approached.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "openai-government-partnership-policy",
+      "urls": [
+        "https://openai.com/index/government-national-security-partnerships",
+        "https://openai.com/index/approach-to-data-and-ai",
+        "https://openai.com/index/our-approach-to-ai-safety",
+        "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQXdRb2t5dklEY2tNbUx6VmY5QkY2QjR0ck5UTEJTZ2U4aHQ0RVVac2pYWEpFczB2b241dWs0d1VGNm1Ed2J2SElRcGJFTTBOanowc0NrWmJoZ3BtbHQ3dGpGTDZTVEJSLW1nOU9wdjBNaG1jd0E4U1NkTGtDVFF4aC1yblBWSHE1ZHJfY3B6R256OENNYTJGQW52WFN6eGdpYV9IVno2ZWNsQnBXVlhzY1czbEtkUFBITThPMw?oc=5"
+      ],
+      "title": "Our approach to government and national security partnerships",
+      "first_seen": "2026-10-15",
+      "last_shipped": "2026-10-15",
+      "last_summary": "OpenAI has published its framework for government and national security partnerships, emphasizing safety, accountability, and public-private collaboration. This comes amid broader legislative interest in coordinated government approaches to AI.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "amp-ai-agents-expansion",
+      "urls": [
+        "https://openai.com/index/amp-beyond-coding"
+      ],
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "first_seen": "2026-10-15",
+      "last_shipped": "2026-10-15",
+      "last_summary": "Amp is utilizing OpenAI's newest models, including GPT-6 Astra, to expand the capabilities of AI agents beyond simple code generation.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "third-moment-agent-deployment",
+      "urls": [
+        "https://openai.com/index/third-moment-research"
+      ],
+      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "first_seen": "2026-10-15",
+      "last_shipped": "2026-10-15",
+      "last_summary": "Third Moment Research is utilizing advanced models like GPT-6 Astra and Codex to deploy and manage 10,000 long-running AI agents in the cybersecurity sector.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-eu-expansion",
+      "urls": [
+        "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+        "https://openai.com/index/the-next-chapter-for-ai-in-the-eu",
+        "https://openai.com/index/evals-drive-next-chapter-of-ai",
+        "https://openai.com/index/the-next-chapter-for-uk-sovereign-ai"
+      ],
+      "title": "The EU’s next chapter in AI is agentic",
+      "first_seen": "2026-10-15",
+      "last_shipped": "2026-10-15",
+      "last_summary": "OpenAI has launched an EU Economic Blueprint 2.0 to support AI adoption across Europe, alongside new data residency options and partnerships with the UK government.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "higgsfield-video-generation-update",
+      "urls": [
+        "https://openai.com/index/higgsfield-longer-videos-voice"
+      ],
+      "title": "Higgsfield takes AI video from 1 minute to over 10",
+      "first_seen": "2026-10-15",
+      "last_shipped": "2026-10-15",
+      "last_summary": "Higgsfield is leveraging new OpenAI models to enable the creation of video content exceeding 10 minutes in length and to facilitate voice-based filmmaking.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "deepmind-singapore-scam-detection",
+      "urls": [
+        "https://deepmind.google/blog/on-device-ai-scam-detection-mddi"
+      ],
+      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+      "first_seen": "2026-10-15",
+      "last_shipped": "2026-10-15",
+      "last_summary": "Google DeepMind and the Singapore government have partnered to use lightweight Gemma models for on-device scam detection that maintains data privacy.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "anthropic-open-model-risk-report",
+      "urls": [
+        "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power"
+      ],
+      "title": "The Download: open model trade-offs and geothermal power’s promise",
+      "first_seen": "2026-10-15",
+      "last_shipped": "2026-10-15",
+      "last_summary": "An industry report by Anthropic highlights significant cybersecurity risks posed by the release of powerful open models, fueling the ongoing debate over the balance between openness and safety.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "glm-5-3-safety-assessment",
+      "urls": [
+        "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks"
+      ],
+      "title": "Open models have real benefits. Do they outweigh the risks?",
+      "first_seen": "2026-10-15",
+      "last_shipped": "2026-10-15",
+      "last_summary": "Anthropic's latest report identifies specific cyberattack risks associated with the GLM-5.3 open model, highlighting ongoing industry concerns about model safety.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "ai-training-data-market",
+      "urls": [
+        "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models"
+      ],
+      "title": "AI labs are buying data from dead startups to train their models",
+      "first_seen": "2026-10-15",
+      "last_shipped": "2026-10-15",
+      "last_summary": "Founders of shuttered startups are increasingly finding value in selling their companies' codebases and datasets to AI labs for model training purposes.",
+      "was_must_know": true
     }
   ]
 }

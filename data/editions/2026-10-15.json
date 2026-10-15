@@ -1,0 +1,227 @@
+{
+  "date": "2026-10-15",
+  "intro": "Today's briefing explores the rapid evolution of AI infrastructure and the rise of agentic models. We also cover significant shifts in how tech companies are navigating international policy and security partnerships.",
+  "must_know": [
+    {
+      "cluster_id": "828838496fd58894",
+      "title": "AI and compute",
+      "summary": "Recent analyses show that compute usage for leading AI training runs has been growing with a 3.4-month doubling period since 2012. Additionally, new developments in private AI compute and chip design automation are shifting how infrastructure is being approached.",
+      "why_it_matters": "The exponential demand for compute is far outpacing historical trends like Moore's Law, signaling a rapid escalation in infrastructure requirements.",
+      "topic_ids": [
+        "research",
+        "hardware"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/ai-and-compute"
+        },
+        {
+          "name": "Google DeepMind Blog",
+          "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory"
+        }
+      ]
+    },
+    {
+      "cluster_id": "b76b11a1199f73b7",
+      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+      "summary": "Google DeepMind and the Singapore government have partnered to use lightweight Gemma models for on-device scam detection that maintains data privacy.",
+      "why_it_matters": "On-device, private AI models offer a solution to high-stakes security threats without requiring sensitive data to be sent to the cloud.",
+      "topic_ids": [
+        "research",
+        "tools"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "Google DeepMind Blog",
+          "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi"
+        }
+      ]
+    },
+    {
+      "cluster_id": "bf4128f6671092f1",
+      "title": "AI labs are buying data from dead startups to train their models",
+      "summary": "Founders of shuttered startups are increasingly finding value in selling their companies' codebases and datasets to AI labs for model training purposes.",
+      "why_it_matters": "This secondary market for data provides a new revenue stream for failing ventures while satisfying the AI industry's insatiable need for training data.",
+      "topic_ids": [
+        "research",
+        "startups-funding"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models"
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "research": [
+      {
+        "cluster_id": "a8b8c31de898145e",
+        "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+        "summary": "Third Moment Research is utilizing advanced models like GPT-6 Astra and Codex to deploy and manage 10,000 long-running AI agents in the cybersecurity sector.",
+        "why_it_matters": "Demonstrates the practical application of high-capacity agent swarms in persistent, complex technical environments.",
+        "topic_ids": [
+          "tools",
+          "research"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/third-moment-research"
+          }
+        ]
+      },
+      {
+        "cluster_id": "125efda44bd939ea",
+        "title": "The Download: open model trade-offs and geothermal power’s promise",
+        "summary": "An industry report by Anthropic highlights significant cybersecurity risks posed by the release of powerful open models, fueling the ongoing debate over the balance between openness and safety.",
+        "why_it_matters": "The tension between the benefits of open-source models and the potential for misuse remains a central theme in AI safety discourse.",
+        "topic_ids": [
+          "open-source",
+          "research"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power"
+          }
+        ]
+      },
+      {
+        "cluster_id": "3c693ab3618439a4",
+        "title": "Open models have real benefits. Do they outweigh the risks?",
+        "summary": "Anthropic's latest report identifies specific cyberattack risks associated with the GLM-5.3 open model, highlighting ongoing industry concerns about model safety.",
+        "why_it_matters": "Focusing on specific model vulnerabilities provides a concrete look at why regulators and developers are debating open-source guardrails.",
+        "topic_ids": [
+          "open-source",
+          "research"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks"
+          }
+        ]
+      }
+    ],
+    "tools": [
+      {
+        "cluster_id": "57c3309db5bedcde",
+        "title": "Amp puts AI agents to work beyond code with OpenAI models",
+        "summary": "Amp is utilizing OpenAI's newest models, including GPT-6 Astra, to expand the capabilities of AI agents beyond simple code generation.",
+        "why_it_matters": "This highlights the shift from conversational AI to autonomous, multi-functional agents capable of complex tasks.",
+        "topic_ids": [
+          "tools",
+          "foundation-models"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/amp-beyond-coding"
+          }
+        ]
+      },
+      {
+        "cluster_id": "59d85f81fc40f635",
+        "title": "The EU’s next chapter in AI is agentic",
+        "summary": "OpenAI has launched an EU Economic Blueprint 2.0 to support AI adoption across Europe, alongside new data residency options and partnerships with the UK government.",
+        "why_it_matters": "Strategic initiatives to address EU-specific regulatory and data concerns are critical for global AI expansion.",
+        "topic_ids": [
+          "policy",
+          "tools"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/the-next-chapter-for-ai-in-the-eu"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/evals-drive-next-chapter-of-ai"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/the-next-chapter-for-uk-sovereign-ai"
+          }
+        ]
+      },
+      {
+        "cluster_id": "8d45898e533e591d",
+        "title": "Higgsfield takes AI video from 1 minute to over 10",
+        "summary": "Higgsfield is leveraging new OpenAI models to enable the creation of video content exceeding 10 minutes in length and to facilitate voice-based filmmaking.",
+        "why_it_matters": "Advances in video model duration and precision are lowering the barrier for AI-assisted professional content creation.",
+        "topic_ids": [
+          "tools",
+          "foundation-models"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/higgsfield-longer-videos-voice"
+          }
+        ]
+      }
+    ],
+    "policy": [
+      {
+        "cluster_id": "767ee2a1d567df91",
+        "title": "Our approach to government and national security partnerships",
+        "summary": "OpenAI has published its framework for government and national security partnerships, emphasizing safety, accountability, and public-private collaboration. This comes amid broader legislative interest in coordinated government approaches to AI.",
+        "why_it_matters": "As AI becomes central to national strategy, tech companies are increasingly defining formal policies to balance innovation with government oversight.",
+        "topic_ids": [
+          "policy",
+          "big-tech"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/government-national-security-partnerships"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/approach-to-data-and-ai"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/our-approach-to-ai-safety"
+          },
+          {
+            "name": "Google News: AI",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQXdRb2t5dklEY2tNbUx6VmY5QkY2QjR0ck5UTEJTZ2U4aHQ0RVVac2pYWEpFczB2b241dWs0d1VGNm1Ed2J2SElRcGJFTTBOanowc0NrWmJoZ3BtbHQ3dGpGTDZTVEJSLW1nOU9wdjBNaG1jd0E4U1NkTGtDVFF4aC1yblBWSHE1ZHJfY3B6R256OENNYTJGQW52WFN6eGdpYV9IVno2ZWNsQnBXVlhzY1czbEtkUFBITThPMw?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  "continuing": []
+}
