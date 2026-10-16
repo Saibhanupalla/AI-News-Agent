@@ -1,84 +1,6 @@
 {
   "entries": [
     {
-      "event_key": "openai-energy-whitehouse-proposal",
-      "urls": [
-        "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026",
-        "https://openai.com/global-affairs/seizing-the-ai-opportunity"
-      ],
-      "title": "Seizing the AI opportunity",
-      "first_seen": "2026-10-09",
-      "last_shipped": "2026-10-09",
-      "last_summary": "OpenAI has submitted proposals to the White House emphasizing the need for strategic investments in energy and infrastructure to maintain U.S. leadership in AI.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "openai-disrupts-influence-ops",
-      "urls": [
-        "https://openai.com/index/disrupting-ai-enabled-false-front-operations"
-      ],
-      "title": "Disrupting AI-enabled “false front” operations",
-      "first_seen": "2026-10-09",
-      "last_shipped": "2026-10-09",
-      "last_summary": "OpenAI reported the successful disruption of two influence operations that utilized AI to masquerade as journalists and think tanks to spread geopolitical propaganda.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "ai-synthetic-biology-research",
-      "urls": [
-        "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses"
-      ],
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "first_seen": "2026-10-09",
-      "last_shipped": "2026-10-09",
-      "last_summary": "Researchers are exploring the use of generative AI to design genetic blueprints for viruses, sparking debate about the future of AI-generated life.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "anthropic-oss-scanner",
-      "urls": [
-        "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner"
-      ],
-      "title": "Anthropic launches free AI security scans for open-source projects",
-      "first_seen": "2026-10-09",
-      "last_shipped": "2026-10-09",
-      "last_summary": "Anthropic has launched a free security scanning service for open-source projects using their models to detect potential vulnerabilities.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "openai-safety-team-dismissals",
-      "urls": [
-        "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect"
-      ],
-      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-      "first_seen": "2026-10-09",
-      "last_shipped": "2026-10-09",
-      "last_summary": "Former OpenAI safety researchers have published an open letter disputing misconduct claims and alleging that recent dismissals are damaging the company's internal safety culture.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "lmarena-funding-valuation",
-      "urls": [
-        "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months"
-      ],
-      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-      "first_seen": "2026-10-09",
-      "last_shipped": "2026-10-09",
-      "last_summary": "LMArena, a popular platform for benchmarking AI models, has secured a new round of funding, valuing the company at $3.1 billion.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "openai-revenue-projection-revision",
-      "urls": [
-        "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected"
-      ],
-      "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
-      "first_seen": "2026-10-09",
-      "last_shipped": "2026-10-09",
-      "last_summary": "A new report suggests that OpenAI's actual annualized revenue is significantly lower than earlier projections of $70 billion.",
-      "was_must_know": false
-    },
-    {
       "event_key": "anthropic-false-police-tip",
       "urls": [
         "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
@@ -546,6 +468,92 @@
       "first_seen": "2026-10-15",
       "last_shipped": "2026-10-15",
       "last_summary": "Founders of shuttered startups are increasingly finding value in selling their companies' codebases and datasets to AI labs for model training purposes.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "openai-infrastructure-expansion",
+      "urls": [
+        "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+        "https://openai.com/index/building-abundant-intelligence",
+        "https://openai.com/index/stargate-michigan-data-center",
+        "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
+        "https://openai.com/index/confidence-building-measures-for-artificial-intelligence",
+        "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zSUhkbkwweF9XQ19GZ0JlRG5feWhhdC04S0tpWU96UFp3SVVmZVM3X1doTEEwZWJwNlNIRDdKQy15dUJJNVgxVXVEZVU5UGdDYnU3N2ZQbERaVzFJd2hnNUx1dXpGQzZt?oc=5"
+      ],
+      "title": "The full stack behind abundant intelligence",
+      "first_seen": "2026-10-16",
+      "last_shipped": "2026-10-16",
+      "last_summary": "OpenAI is pursuing a full-stack infrastructure strategy to support AI development, including a new 1GW data center project in Michigan. The initiative focuses on scaling compute capacity and hardware to increase accessibility and manage costs for AGI development.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "enterprise-ai-adoption-report",
+      "urls": [
+        "https://openai.com/index/next-phase-of-enterprise-ai",
+        "https://openai.com/business/guides-and-resources/the-state-of-enterprise-ai-2025-report",
+        "https://openai.com/index/the-state-of-enterprise-ai-2025-report",
+        "https://huggingface.co/blog/huggingface-and-ibm",
+        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORmhFRTh2dlA3YTJDa1FYYjIyUmlUcW05RWFwZjhkeFdQMUQ3YnlLbWJQX3I5Z0hqWVlfbmJsdmtyYmtsY29NU29WZkRTeWJzT3h2aThoeHZuVFhicGhtaGFNckl6QzVqWWJxekNoZGtYN2dSV2NxeEVQM01rU1Zzc2dsZ1N2Vi1fd0pfZEp5LXJPRWlHcW5JTk13ZC1RNzVpeTVXR2NIeVdNdEg2d3g4Um9jcGJwZENLWXA5UmZrS2dBVjBlcVVGSk1KYzVEc3g0UlFZbA?oc=5"
+      ],
+      "title": "The next phase of enterprise AI",
+      "first_seen": "2026-10-16",
+      "last_shipped": "2026-10-16",
+      "last_summary": "OpenAI reports an acceleration in enterprise AI adoption, with organizations shifting from early experimentation to integrating AI agents and specialized models for productivity gains. Data from 2025 shows deeper business integration across industries.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "gpt-rosalind-academic-access",
+      "urls": [
+        "https://openai.com/index/introducing-the-rosalind-academic-plan"
+      ],
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "first_seen": "2026-10-16",
+      "last_shipped": "2026-10-16",
+      "last_summary": "OpenAI has introduced the Rosalind Academic Plan, which provides eligible research labs with sponsored access to the GPT-Rosalind model and specialized tools for life sciences research.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "withings-sync-paywall",
+      "urls": [
+        "https://www.theverge.com/tech/1012350/withings-plus-subscription-new-users-october-13-2026"
+      ],
+      "title": "Withings now charges $100 per year to sync your data to other apps",
+      "first_seen": "2026-10-16",
+      "last_shipped": "2026-10-16",
+      "last_summary": "Withings is now requiring new users to pay a $100 annual subscription fee to sync health data from their wearables to third-party services like Apple Health or Google Health.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "meta-muse-spark-apple-silicon",
+      "urls": [
+        "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx"
+      ],
+      "title": "Meta and Apple team up to make Muse AI models run better on Macs",
+      "first_seen": "2026-10-16",
+      "last_shipped": "2026-10-16",
+      "last_summary": "Meta announced 'Muse Spark,' an open-weight AI model optimized to run locally on Apple silicon via the MLX framework, specifically demonstrating performance on dual M5 Ultra Mac Studios.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "meta-apple-muse-spark-collaboration",
+      "urls": [
+        "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs"
+      ],
+      "title": "Meta launches an open-weight AI model that runs on Macs",
+      "first_seen": "2026-10-16",
+      "last_shipped": "2026-10-16",
+      "last_summary": "Meta and Apple have collaborated to release the 'Muse Spark' open-weight AI model, which is capable of running locally on Apple's desktop hardware.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "anthropic-metr-safety-audit",
+      "urls": [
+        "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access"
+      ],
+      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+      "first_seen": "2026-10-16",
+      "last_shipped": "2026-10-16",
+      "last_summary": "Anthropic has granted METR researchers internal access to its systems to perform independent assessments, relinquishing the company's power to block findings on risks and safety.",
       "was_must_know": true
     }
   ]
