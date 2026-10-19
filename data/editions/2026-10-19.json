@@ -1,0 +1,121 @@
+{
+  "date": "2026-10-19",
+  "intro": "Today's tech landscape highlights shifting alliances in AI model providers and increased scrutiny on safety practices. Meanwhile, cities and regulators continue to grapple with the growing presence of autonomous vehicles and data usage policies.",
+  "must_know": [
+    {
+      "cluster_id": "3055ac5eec49bd6d",
+      "title": "Anthropic gives outside AI watchdog “employee-like” access",
+      "summary": "Anthropic has granted an outside AI watchdog 'employee-like' access to its systems, allowing the organization to publish findings without prior approval. This arrangement is intended to increase transparency regarding safety and development.",
+      "why_it_matters": "Independent oversight models are gaining traction as a way to hold foundation model labs accountable.",
+      "topic_ids": [
+        "foundation-models",
+        "policy"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access"
+        }
+      ]
+    },
+    {
+      "cluster_id": "f1da4b6eb4e4c122",
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "summary": "Replit has switched its default AI model provider from Anthropic's Claude to OpenAI. Users can still access Claude models, but OpenAI now powers the platform's primary AI interactions.",
+      "why_it_matters": "The choice of default model providers significantly influences user adoption and the developer ecosystem.",
+      "topic_ids": [
+        "foundation-models",
+        "tools"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says"
+        }
+      ]
+    },
+    {
+      "cluster_id": "5eb559e50fd7886d",
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "summary": "Meta has removed specific language from its terms of service that had previously sparked concerns regarding data scraping and AI training practices. The company stated that the update does not represent a change in its web crawling operations.",
+      "why_it_matters": "Clarifying how tech giants handle user data remains a high-stakes issue for regulators and the public.",
+      "topic_ids": [
+        "big-tech",
+        "policy"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns"
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "policy": [
+      {
+        "cluster_id": "30168ad36b6a9c9c",
+        "title": "Cities want to put the boot on robotaxis",
+        "summary": "Municipalities are increasingly seeking to regulate the operations of autonomous robotaxis. Local governments are exploring various legal avenues to impose stricter oversight on vehicle deployments.",
+        "why_it_matters": "The tension between local regulatory control and state-level autonomous vehicle mandates is shaping the future of urban transport.",
+        "topic_ids": [
+          "policy"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws"
+          }
+        ]
+      }
+    ],
+    "foundation-models": [
+      {
+        "cluster_id": "ae6e49210029e41a",
+        "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+        "summary": "Researchers have introduced Hybrid Reasoning Agents, which utilize LLMs that perform reasoning in latent space while executing actions via natural language. The project is available on GitHub and Hugging Face.",
+        "why_it_matters": "This approach aims to bridge the gap between high-level reasoning capabilities and practical agentic execution.",
+        "topic_ids": [
+          "research",
+          "foundation-models"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "Hacker News Front Page",
+            "url": "https://arxiv.org/abs/2610.18861"
+          }
+        ]
+      }
+    ],
+    "tools": [
+      {
+        "cluster_id": "2a6ac23eb50f0535",
+        "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+        "summary": "A developer has released a new project that enables a WhatsApp Model Context Protocol (MCP) server to run on Cloudflare. The tool connects to personal WhatsApp and Google accounts to facilitate AI-powered interactions with personal data.",
+        "why_it_matters": "Integrating personal messaging data with LLMs through secure, lightweight infrastructure is a growing interest for power users.",
+        "topic_ids": [
+          "tools"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "Hacker News Front Page",
+            "url": "https://github.com/finereli/whatsapp-mcp"
+          }
+        ]
+      }
+    ]
+  },
+  "continuing": []
+}

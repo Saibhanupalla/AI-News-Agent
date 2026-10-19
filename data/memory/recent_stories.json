@@ -1,135 +1,6 @@
 {
   "entries": [
     {
-      "event_key": "openai-education-guide-research-updates",
-      "urls": [
-        "https://openai.com/index/teaching-with-ai",
-        "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions",
-        "https://deepmind.google/blog/teaching-ai-to-see-the-world-more-like-we-do",
-        "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNS14bW9JbGplV3I5cGE2TEF5d2tTM1hBMUZCTzhvLV9DUXM2NzVOWWQ2d1N5Mll0ZHdTZUxYWjlQTVJaQk1Zd3NOWGZrM1hreldvUWZXRnZ0cTI2T0wwUXBIOXNUZ2RTRldESzU4aFhRQUVIaG1UMU1YbzZYVGozWC01Q1NOdS1OLVJxVXFYdzBYNnhPcDlwS0VOVWkwRk96WjRJUlE5b3lFRzhhb25vdDFrUV8yQm9UMHJsakZ0QUtDMzlUaktOOTBRTTZ6VUhqTC1JTFlDdjYtNTdvTlVzelV3?oc=5",
-        "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcHlPVkhLQ2NKT0JWRUgyR1U3REk3UGFwMmdNV01QVl8yVkVnUFVwUkpSS2xLclBmOGZVX3A2U2t2ZnNyUkZUTFh2eXJITGJMbng0d0FBUGpsanl4REpXTEhRYVVZQWFVX3loTzZaZTg0NXBnbHVzcUUwcm9SYUtxbldDTFV1c3lucWIweVRJSFc?oc=5"
-      ],
-      "title": "Teaching with AI",
-      "first_seen": "2026-10-11",
-      "last_shipped": "2026-10-11",
-      "last_summary": "OpenAI released a guide for educators on using ChatGPT in classrooms, addressing prompts, AI limitations, detection, and bias. Simultaneously, research updates include findings on AI visual organization and a new 4D reconstruction method.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "nadella-ai-emergency-brake",
-      "urls": [
-        "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake",
-        "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNHRQX2VXbDZtb2Z0WS1RRHAzc1NxZjdsWHNDZ1oweTYxTi10NGNESm9KLWNnNmhVYUdQblRqODlmWUdjQlFxYzRJbjVJLUlkUkdib2lwb3VUZ3pYNnJCclhid25RYlRyWEhnbE5ibGY5bWNTb2tzOWNEQlBPcllvMms1YkZxcEJSZHJPbHVpaTZQejRx0gGUAUFVX3lxTE80dFBfZVdsNm1vZnRZLVFEcDNzU3FmN2xYc0NnWjB5NjFOLXQ0Y0RKb0otY2c2aFVhR1BuVGo4OWZZR2NCUXFjNEluNUktSWRSR2JvaXBvdVRnelg2ckJyWGJ3blFiVHJYSGdsTmJsZjltY1Nva3M5Y0RCUE9yWW8yazViRnFwQlJkck9sdWlpNlB6NHE?oc=5"
-      ],
-      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-      "first_seen": "2026-10-11",
-      "last_shipped": "2026-10-11",
-      "last_summary": "Microsoft CEO Satya Nadella publicly stated that the AI industry needs an \"emergency brake\" to ensure the trust architecture of current models is properly assessed.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "nadella-ai-security-warning",
-      "urls": [
-        "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised"
-      ],
-      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
-      "first_seen": "2026-10-11",
-      "last_shipped": "2026-10-11",
-      "last_summary": "In a post on X, Microsoft CEO Satya Nadella argued that the industry must move beyond treating AI as \"nested black boxes\" and should operate under the assumption that models are already compromised.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "distrokid-umg-lawsuit-takedowns",
-      "urls": [
-        "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit"
-      ],
-      "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
-      "first_seen": "2026-10-11",
-      "last_shipped": "2026-10-11",
-      "last_summary": "DistroKid has begun removing songs from its platform in response to a lawsuit from Universal Music Group (UMG), which accuses the distributor of facilitating an \"AI-slop pipeline.\"",
-      "was_must_know": false
-    },
-    {
-      "event_key": "openai-dots-privacy-positioning",
-      "urls": [
-        "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots"
-      ],
-      "title": "AI agent makers are promising privacy — will they deliver?",
-      "first_seen": "2026-10-11",
-      "last_shipped": "2026-10-11",
-      "last_summary": "Following the unveiling of its \"Dots\" AI agent, OpenAI is positioning itself as a new standard-setter for privacy in frontier AI, contrasting its approach with competitors like Meta's Muse.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "cloudflare-acquires-deno",
-      "urls": [
-        "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model"
-      ],
-      "title": "Cloudflare acquires Deno to improve its Workers programming model",
-      "first_seen": "2026-10-11",
-      "last_shipped": "2026-10-11",
-      "last_summary": "Cloudflare has acquired Deno with the intent of integrating its technology to improve the Workers programming model.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "nvidia-reflection-ai-acquisition",
-      "urls": [
-        "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a"
-      ],
-      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-      "first_seen": "2026-10-11",
-      "last_shipped": "2026-10-11",
-      "last_summary": "Nvidia is reportedly in talks to acquire the American \"open\" model startup Reflection AI.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "talorys-cloudflared-agent",
-      "urls": [
-        "https://github.com/rociiu/talorys"
-      ],
-      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-      "first_seen": "2026-10-11",
-      "last_shipped": "2026-10-11",
-      "last_summary": "Talorys is a new project that allows users to deploy a self-hosted personal AI agent utilizing Cloudflare's free infrastructure tier.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "openai-biodefense-plan",
-      "urls": [
-        "https://openai.com/index/biodefense-in-the-intelligence-age",
-        "https://openai.com/index/cybersecurity-in-the-intelligence-age",
-        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcEk2X2NZMDdYTEU2TjRiYzBkVFhRd21USEdHVFhmTlRiN2NMWmVVcmZSdTVvRVRqZlc2ZXNiWWdIV0oxaVZpNHROMG5tRlFzQkNqS3BOTjNjVmlEZGpKWlhSZm1IOU11VDRieFF6emRRU1dRQWNSbVpQRThQcENoa21LZ3JKeVlzaU1BWmFfVGNpYjZ3ZW1rNk52QzQtQnF1cmF6T01wcGJBSjM0eWFDcHdCTEV3MWNMSWJj?oc=5"
-      ],
-      "title": "Biodefense in the Intelligence Age",
-      "first_seen": "2026-10-12",
-      "last_shipped": "2026-10-12",
-      "last_summary": "OpenAI has published a five-part action plan focused on enhancing cybersecurity and biological resilience against AI-related threats. The initiative emphasizes democratizing defensive AI tools and hardening critical infrastructure systems.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "ai-branding-shift",
-      "urls": [
-        "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
-        "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSFI5aTdXbnUyZ19zc2RLZ1ZZZi1pcVhYRlJSR0tXZU9RaUZSYVRxM0JnY0E1YU5hYXFYS1NLRTRpNmRITFE3N1IzZVZSeFRJbHpxWkU5Tng1TDR6ZjVudm5MMGpQa1ZVbzJobUFhUXRwaENJVmpyR21PYjc3Tl9tc2llWlA4OENESTdHOU52c1lQOEJSMG5GLWFnZGc3TFRFR21iWDRqbHV6YjcxcVBFbi1xWEFVRThxRExTSmY1RUdUX1c5?oc=5"
-      ],
-      "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
-      "first_seen": "2026-10-12",
-      "last_shipped": "2026-10-12",
-      "last_summary": "Several Silicon Valley leaders have begun adopting the Trump administration's terminology of \"super intelligence\" in place of \"artificial intelligence.\" While the general public maintains usage of the original term, influential industry figures are shifting their branding to align with official policy.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "google-finland-data-center",
-      "urls": [
-        "https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment"
-      ],
-      "title": "Google is illegaly cutting forest to build data centers",
-      "first_seen": "2026-10-12",
-      "last_shipped": "2026-10-12",
-      "last_summary": "Google has faced temporary halts on data center projects in Finland due to environmental impact concerns involving land use and forestry.",
-      "was_must_know": true
-    },
-    {
       "event_key": "frontier-model-forum-launch",
       "urls": [
         "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder",
@@ -542,6 +413,72 @@
       "first_seen": "2026-10-17",
       "last_shipped": "2026-10-17",
       "last_summary": "The startup Elorian has launched 'Glimpse,' a new AI model designed for visual reasoning. The company claims the model outperforms GPT-6 Astra on specific scientific chart analysis and short-form video captioning tasks.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "city-robotaxi-regulation",
+      "urls": [
+        "https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws"
+      ],
+      "title": "Cities want to put the boot on robotaxis",
+      "first_seen": "2026-10-19",
+      "last_shipped": "2026-10-19",
+      "last_summary": "Municipalities are increasingly seeking to regulate the operations of autonomous robotaxis. Local governments are exploring various legal avenues to impose stricter oversight on vehicle deployments.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "meta-tos-scraping-update",
+      "urls": [
+        "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns"
+      ],
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "first_seen": "2026-10-19",
+      "last_shipped": "2026-10-19",
+      "last_summary": "Meta has removed specific language from its terms of service that had previously sparked concerns regarding data scraping and AI training practices. The company stated that the update does not represent a change in its web crawling operations.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "replit-openai-default-switch",
+      "urls": [
+        "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says"
+      ],
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "first_seen": "2026-10-19",
+      "last_shipped": "2026-10-19",
+      "last_summary": "Replit has switched its default AI model provider from Anthropic's Claude to OpenAI. Users can still access Claude models, but OpenAI now powers the platform's primary AI interactions.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "anthropic-watchdog-access",
+      "urls": [
+        "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access"
+      ],
+      "title": "Anthropic gives outside AI watchdog “employee-like” access",
+      "first_seen": "2026-10-19",
+      "last_shipped": "2026-10-19",
+      "last_summary": "Anthropic has granted an outside AI watchdog 'employee-like' access to its systems, allowing the organization to publish findings without prior approval. This arrangement is intended to increase transparency regarding safety and development.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "whatsapp-mcp-cloudflare",
+      "urls": [
+        "https://github.com/finereli/whatsapp-mcp"
+      ],
+      "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+      "first_seen": "2026-10-19",
+      "last_shipped": "2026-10-19",
+      "last_summary": "A developer has released a new project that enables a WhatsApp Model Context Protocol (MCP) server to run on Cloudflare. The tool connects to personal WhatsApp and Google accounts to facilitate AI-powered interactions with personal data.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "hybrid-reasoning-agents-release",
+      "urls": [
+        "https://arxiv.org/abs/2610.18861"
+      ],
+      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "first_seen": "2026-10-19",
+      "last_shipped": "2026-10-19",
+      "last_summary": "Researchers have introduced Hybrid Reasoning Agents, which utilize LLMs that perform reasoning in latent space while executing actions via natural language. The project is available on GitHub and Hugging Face.",
       "was_must_know": false
     }
   ]
