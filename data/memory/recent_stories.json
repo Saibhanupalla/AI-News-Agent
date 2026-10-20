@@ -1,136 +1,6 @@
 {
   "entries": [
     {
-      "event_key": "frontier-model-forum-launch",
-      "urls": [
-        "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder",
-        "https://openai.com/index/frontier-model-forum"
-      ],
-      "title": "Frontier Model Forum",
-      "first_seen": "2026-10-13",
-      "last_shipped": "2026-10-13",
-      "last_summary": "OpenAI is forming a new industry body, the Frontier Model Forum, to establish safety standards and facilitate information sharing among policymakers and the AI industry.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "openai-math-ai-advisory",
-      "urls": [
-        "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-        "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM21Xam1CbmdEbzBSbERIeXd3Q19lVmp5eWI2UVA3SFRSVzhRbXN1c0xEUkxKVU9EbXN3cGtJRXZLdlRwTjRVbWRWUHFWQkZiek9hRjZNMXF4NDdJMzJQaXJBMF9UcXU2YzhLVl9xVUxXZmlBdGdmU3NQdzI5REU2MkdIM1EtVkVhSE84U0dDU05qUzR6b3IwUXdtSWxQeHZO?oc=5"
-      ],
-      "title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "first_seen": "2026-10-13",
-      "last_shipped": "2026-10-13",
-      "last_summary": "OpenAI has established an independent Advisory Group on Mathematics and Artificial Intelligence to help oversee the evaluation and public disclosure of new AI research results.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "openai-jalapeno-chip",
-      "urls": [
-        "https://openai.com/index/jalapeno-first-results",
-        "https://openai.com/index/ai-and-efficiency",
-        "https://huggingface.co/blog/tiiuae/falcon-h1",
-        "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN3QtcGdXZmdZVlBtNlpFcFZ3cUFibGZ1WTRoUmJra0J0TTdKcXJOSzJoUnFrdzExdExwZ2lzSE5rVm5TSjJ6OVpmdERFYVBwdnZ1SEM2T3dINm1SZFRNcWZSaER5SVF6TF8xTlVLZHpleVFmT2hqSk10Rnh1TDh2UjI0UlFOYTlMeWJrVmhaS0xMeE5iZWpocmtxLVdoRUExYXl1N2V0dkJkLUxXdWh0VHRGQmxjQVU?oc=5"
-      ],
-      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-      "first_seen": "2026-10-13",
-      "last_shipped": "2026-10-13",
-      "last_summary": "OpenAI announced Jalapeño, a custom inference chip designed to improve speed, power efficiency, and latency for modern AI models. Additionally, analysis shows that the compute required for neural network training has decreased significantly over the last decade.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "ramp-codex-integration",
-      "urls": [
-        "https://openai.com/index/ramp",
-        "https://huggingface.co/blog/accelerate-v1",
-        "https://huggingface.co/blog/prezi-case-study",
-        "https://huggingface.co/blog/deepspeed-to-fsdp-and-back",
-        "https://huggingface.co/blog/intel-starcoder-quantization",
-        "https://huggingface.co/blog/openvino",
-        "https://huggingface.co/blog/pytorch-ddp-accelerate-transformers",
-        "https://huggingface.co/blog/accelerate-large-models",
-        "https://huggingface.co/blog/bloom-inference-pytorch-scripts",
-        "https://huggingface.co/blog/hf-bitsandbytes-integration",
-        "https://huggingface.co/blog/accelerate-deepspeed",
-        "https://huggingface.co/blog/sempre-health-eap-case-study",
-        "https://huggingface.co/blog/pytorch-fsdp",
-        "https://huggingface.co/blog/habana",
-        "https://huggingface.co/blog/bert-inferentia-sagemaker",
-        "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdmUzNFp6VTgzNlc2ZGVpMkExZi04MEhORkFfZTBGOU9nSW90SUdjWnRQZkxxY3I3aFFhWmwzal84RnFEb0o4Zjd1dXBYRDEzTGh0VktkMnRHejJ5NGtTdmM2Y2FDUkZ4S2J0M2RKTTcxb0hnb1hYeVlGVVdrN1RWb0dIX2JSaW0xbk9mdlZoRTJ5T3Jk?oc=5"
-      ],
-      "title": "How Ramp engineers accelerate code review with Codex",
-      "first_seen": "2026-10-13",
-      "last_shipped": "2026-10-13",
-      "last_summary": "Ramp engineers are using OpenAI's Codex in conjunction with GPT-5.5 to streamline code reviews, reportedly reducing feedback loops from hours to minutes.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "meta-wonder-models",
-      "urls": [
-        "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model"
-      ],
-      "title": "Meta has some Wonder Full new AI models",
-      "first_seen": "2026-10-13",
-      "last_shipped": "2026-10-13",
-      "last_summary": "Meta has released two new AI models, Muse Wonder and Muse Wonder Full, as part of its Superintelligence Labs division, targeting performance parity with top industry models.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "windborne-air-force-contract",
-      "urls": [
-        "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data"
-      ],
-      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
-      "first_seen": "2026-10-13",
-      "last_shipped": "2026-10-13",
-      "last_summary": "WindBorne, a startup utilizing weather balloons and AI to improve weather forecasting, has secured a nearly $50 million contract with the U.S. Air Force.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "brad-smith-uk-regulation",
-      "urls": [
-        "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation"
-      ],
-      "title": "Microsoft president says UK is best placed to drive AI regulation",
-      "first_seen": "2026-10-13",
-      "last_shipped": "2026-10-13",
-      "last_summary": "Microsoft President Brad Smith has argued that the UK is currently the best-positioned nation to lead global AI regulation, emphasizing that AI currently lacks sufficient oversight.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "epic-games-ai-pivot",
-      "urls": [
-        "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration"
-      ],
-      "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
-      "first_seen": "2026-10-13",
-      "last_shipped": "2026-10-13",
-      "last_summary": "Reports suggest Epic Games is transitioning to an 'AI-first' development model for its upcoming games, reducing reliance on manual coding and traditional art creation.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "claude-police-hallucination",
-      "urls": [
-        "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police"
-      ],
-      "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
-      "first_seen": "2026-10-13",
-      "last_shipped": "2026-10-13",
-      "last_summary": "Anthropic's Claude AI reportedly submitted a false tip regarding a murder case to Philadelphia police, highlighting risks associated with AI hallucination in sensitive contexts.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "hidden-capabilities-research",
-      "urls": [
-        "https://arxiv.org/abs/2610.13928"
-      ],
-      "title": "AI Models Can Provably Hide Arbitrary Capabilities",
-      "first_seen": "2026-10-13",
-      "last_shipped": "2026-10-13",
-      "last_summary": "A new research paper posted on arXiv argues that AI models can be mathematically proven to hide arbitrary capabilities from developers.",
-      "was_must_know": false
-    },
-    {
       "event_key": "ai-compute-scaling-analysis",
       "urls": [
         "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis",
@@ -479,6 +349,140 @@
       "first_seen": "2026-10-19",
       "last_shipped": "2026-10-19",
       "last_summary": "Researchers have introduced Hybrid Reasoning Agents, which utilize LLMs that perform reasoning in latent space while executing actions via natural language. The project is available on GitHub and Hugging Face.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-agents-api-launch",
+      "urls": [
+        "https://openai.com/index/introducing-the-agents-api",
+        "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
+        "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
+        "https://openai.com/index/introducing-agentkit",
+        "https://openai.com/index/image-generation-api",
+        "https://openai.com/index/introducing-4o-image-generation",
+        "https://openai.com/index/introducing-the-model-spec",
+        "https://huggingface.co/blog/tgi-multi-backend",
+        "https://huggingface.co/blog/smolagents",
+        "https://huggingface.co/blog/synthid-text",
+        "https://huggingface.co/blog/idefics2",
+        "https://huggingface.co/blog/leaderboard-contextual",
+        "https://huggingface.co/blog/inference-pro",
+        "https://huggingface.co/blog/wuerstchen",
+        "https://huggingface.co/blog/idefics",
+        "https://huggingface.co/blog/agents-js",
+        "https://huggingface.co/blog/sagemaker-huggingface-llm",
+        "https://huggingface.co/blog/aivsai",
+        "https://huggingface.co/blog/bloom",
+        "https://huggingface.co/blog/education",
+        "https://huggingface.co/blog/gptj-sagemaker",
+        "https://huggingface.co/blog/snowball-fight",
+        "https://huggingface.co/blog/the-partnership-amazon-sagemaker-and-hugging-face",
+        "https://huggingface.co/blog/accelerated-inference",
+        "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTFlBZEpsRUxQRTIyaEt6eXYybzBsWXBKTlV2MHdvM3U0a1lZM0ZzYnpZaTBSY0VQUWVNQ0tKVFNMT3FZbDJNWmhERTllclFBbnRabDJ0akpvalJOeG52U19lT0xzUVRkRDJ0VU1pOVU3RXJWejNERzdYOHVzcERVZWFVOG15WlUtSDc1U1FyV1g4bGtRUGNZTTNQYXRrSi1IR0toSVg4T2wzeE1EdDdRZEwzdXpEa0g1ZHlOeUxUVG84aGREcElkNEdB?oc=5"
+      ],
+      "title": "Introducing the Agents API",
+      "first_seen": "2026-10-20",
+      "last_shipped": "2026-10-20",
+      "last_summary": "OpenAI has introduced the Agents API, a managed service designed for building cloud-based, stateful agents capable of orchestration and multi-step tool use. The release is accompanied by additional developer tools including AgentKit and reinforcement fine-tuning capabilities.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "openai-coding-low-resource",
+      "urls": [
+        "https://openai.com/index/low-resource-programming-languages"
+      ],
+      "title": "Advancing coding in low‑resource programming languages",
+      "first_seen": "2026-10-20",
+      "last_shipped": "2026-10-20",
+      "last_summary": "OpenAI is enhancing ChatGPT's performance in low-resource programming languages by implementing new evaluation benchmarks for COBOL migration and software engineering tasks.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "goodfire-interpretability-claim",
+      "urls": [
+        "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world"
+      ],
+      "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+      "first_seen": "2026-10-20",
+      "last_shipped": "2026-10-20",
+      "last_summary": "A viral 26,000-word blog post by researcher Nick Cammarata of the startup Goodfire claims a breakthrough in understanding the internal mechanisms of neural networks.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "claude-agent-play-research",
+      "urls": [
+        "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play"
+      ],
+      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      "first_seen": "2026-10-20",
+      "last_shipped": "2026-10-20",
+      "last_summary": "Researchers observed Claude Opus 4.7 agents engaging in exploratory, non-directed behaviors—described as 'play'—when placed in a virtual environment for 30 hours without specific tasks.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "microsoft-ai-agent-security",
+      "urls": [
+        "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted"
+      ],
+      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+      "first_seen": "2026-10-20",
+      "last_shipped": "2026-10-20",
+      "last_summary": "Microsoft is cautioning enterprises to treat AI agents as potential insider threats, noting that frontier models should not be implicitly trusted within corporate environments.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "aws-torchneuron-launch",
+      "urls": [
+        "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool"
+      ],
+      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+      "first_seen": "2026-10-20",
+      "last_shipped": "2026-10-20",
+      "last_summary": "Amazon has released the TorchNeuron developer tool, aimed at enabling PyTorch-based applications to run on its proprietary AI chips rather than relying solely on Nvidia hardware.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "opencode-hack",
+      "urls": [
+        "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts"
+      ],
+      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+      "first_seen": "2026-10-20",
+      "last_shipped": "2026-10-20",
+      "last_summary": "The open-source AI coding tool OpenCode experienced a security incident where hackers gained access to its platform, leading to stolen API keys and anomalous charges for users.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "tenstorrent-funding-6b",
+      "urls": [
+        "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips"
+      ],
+      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+      "first_seen": "2026-10-20",
+      "last_shipped": "2026-10-20",
+      "last_summary": "Chip startup Tenstorrent has reached a $6.2 billion valuation after raising $1.5 billion in new funding to support its independent hardware roadmaps.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "town-funding-unicorn",
+      "urls": [
+        "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch"
+      ],
+      "title": "AI assistant startup Town nabs unicorn valuation 4 months after launch",
+      "first_seen": "2026-10-20",
+      "last_shipped": "2026-10-20",
+      "last_summary": "The AI assistant startup Town has achieved a unicorn valuation following a $108 million Series B funding round co-led by Forerunner and Menlo Ventures.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "nvidia-open-models-launch",
+      "urls": [
+        "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs"
+      ],
+      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+      "first_seen": "2026-10-20",
+      "last_shipped": "2026-10-20",
+      "last_summary": "Nvidia has released a series of open-weight AI models designed to support enterprise agent deployment and on-device processing.",
       "was_must_know": false
     }
   ]
