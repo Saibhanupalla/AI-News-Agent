@@ -484,6 +484,127 @@
       "last_shipped": "2026-10-20",
       "last_summary": "Nvidia has released a series of open-weight AI models designed to support enterprise agent deployment and on-device processing.",
       "was_must_know": false
+    },
+    {
+      "event_key": "openai-acquisitions-spree",
+      "urls": [
+        "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business",
+        "https://openai.com/index/openai-to-acquire-orchestra-bio",
+        "https://openai.com/index/openai-acquires-tbpn",
+        "https://openai.com/index/openai-acquires-software-applications-incorporated",
+        "https://openai.com/index/openai-acquires-rockset",
+        "https://openai.com/index/openai-acquires-global-illumination"
+      ],
+      "title": "OpenAI acquires Orchestra Bio",
+      "first_seen": "2026-10-21",
+      "last_shipped": "2026-10-21",
+      "last_summary": "OpenAI has acquired several companies, including Orchestra Bio for life sciences research, Software Applications Incorporated for its macOS integration tools, and TBPN for media initiatives.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "openai-biodefense-plan",
+      "urls": [
+        "https://openai.com/index/biodefense-in-the-intelligence-age",
+        "https://openai.com/index/cybersecurity-in-the-intelligence-age",
+        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWVpXczNWdDNiNFNVWXpzR2hQN01VU1Y0NnhzNFB6N0JJcTJZOGR1Y1o2WE8wMTZMWkJrUG5qT0VlQkJRYVFCdmt1MDk3N0E1WE5mUmtKNXNEOVZ3UjNuX3hNVzdJdzdoUHdqYjFZMExMZDVKQ1pHek1oUjhlOU1kUGF4cExjQ3VZUEl3cDJGLXd0TzFkeUhyc2hVaHYzS3dxdnpFUlVwdHcteDhLY2tDTUZXUXVQM2hYRjJZbFZsbmc2OUN6bkFHNDVHWFY0a0hGWl92VFFVRkVtcWJt?oc=5"
+      ],
+      "title": "Biodefense in the Intelligence Age",
+      "first_seen": "2026-10-21",
+      "last_shipped": "2026-10-21",
+      "last_summary": "OpenAI has published a five-part action plan aimed at strengthening biological resilience and cybersecurity through AI-driven initiatives.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "frontier-model-forum-funding",
+      "urls": [
+        "https://openai.com/index/frontier-model-forum-updates",
+        "https://openai.com/index/frontier-model-forum",
+        "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+        "https://huggingface.co/blog/meta-muse-spark-open"
+      ],
+      "title": "Frontier Model Forum updates",
+      "first_seen": "2026-10-21",
+      "last_shipped": "2026-10-21",
+      "last_summary": "The Frontier Model Forum, a coalition involving OpenAI, Anthropic, Google, and Microsoft, has appointed a new executive director and launched a $10 million AI safety fund.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "terminal-x-gpt6-1",
+      "urls": [
+        "https://openai.com/index/terminal-x"
+      ],
+      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "first_seen": "2026-10-21",
+      "last_shipped": "2026-10-21",
+      "last_summary": "Terminal X reports that its Eval Agent, powered by GPT-6.1, successfully matches human senior investor judgment 88.6% of the time, improving compliance detection by 25%.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "ai-robotic-therapy",
+      "urls": [
+        "https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients"
+      ],
+      "title": "Robotic therapy for stroke patients",
+      "first_seen": "2026-10-21",
+      "last_shipped": "2026-10-21",
+      "last_summary": "Researchers are developing new AI-integrated robotic systems to assist physical therapists in treating stroke survivors amid a global practitioner shortage.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "huggingface-fairstress",
+      "urls": [
+        "https://huggingface.co/blog/allenai/fairstress"
+      ],
+      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+      "first_seen": "2026-10-21",
+      "last_shipped": "2026-10-21",
+      "last_summary": "Hugging Face is addressing the evaluation of fairness in large language model decision-making processes through a framework called FairStress.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "gemini-auto-personalization",
+      "urls": [
+        "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car",
+        "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto"
+      ],
+      "title": "Google’s more personalized Gemini AI is heading to your car",
+      "first_seen": "2026-10-21",
+      "last_shipped": "2026-10-21",
+      "last_summary": "Google is updating Gemini for automotive platforms to include Personal Intelligence, enabling the assistant to pull information from Gmail and other Google services while driving.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "anthropic-safety-bill",
+      "urls": [
+        "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed"
+      ],
+      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      "first_seen": "2026-10-21",
+      "last_shipped": "2026-10-21",
+      "last_summary": "Anthropic has proposed an AI safety bill that critics argue could restrict the government's ability to halt the release of high-risk models without judicial oversight.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "anthropic-compute-squeeze",
+      "urls": [
+        "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy"
+      ],
+      "title": "Anthropic’s cloud partnerships are getting messy",
+      "first_seen": "2026-10-21",
+      "last_shipped": "2026-10-21",
+      "last_summary": "Anthropic is facing challenges in securing compute resources as major cloud providers begin to view the company as a direct competitor.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "google-pytorch-migration",
+      "urls": [
+        "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers"
+      ],
+      "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+      "first_seen": "2026-10-21",
+      "last_shipped": "2026-10-21",
+      "last_summary": "Google has released a new developer tool designed to assist PyTorch users in migrating applications away from Nvidia hardware.",
+      "was_must_know": false
     }
   ]
 }
