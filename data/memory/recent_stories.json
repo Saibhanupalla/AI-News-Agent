@@ -1,124 +1,6 @@
 {
   "entries": [
     {
-      "event_key": "ai-compute-scaling-analysis",
-      "urls": [
-        "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis",
-        "https://openai.com/index/ai-and-compute",
-        "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory"
-      ],
-      "title": "AI and compute",
-      "first_seen": "2026-10-15",
-      "last_shipped": "2026-10-15",
-      "last_summary": "Recent analyses show that compute usage for leading AI training runs has been growing with a 3.4-month doubling period since 2012. Additionally, new developments in private AI compute and chip design automation are shifting how infrastructure is being approached.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "openai-government-partnership-policy",
-      "urls": [
-        "https://openai.com/index/government-national-security-partnerships",
-        "https://openai.com/index/approach-to-data-and-ai",
-        "https://openai.com/index/our-approach-to-ai-safety",
-        "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQXdRb2t5dklEY2tNbUx6VmY5QkY2QjR0ck5UTEJTZ2U4aHQ0RVVac2pYWEpFczB2b241dWs0d1VGNm1Ed2J2SElRcGJFTTBOanowc0NrWmJoZ3BtbHQ3dGpGTDZTVEJSLW1nOU9wdjBNaG1jd0E4U1NkTGtDVFF4aC1yblBWSHE1ZHJfY3B6R256OENNYTJGQW52WFN6eGdpYV9IVno2ZWNsQnBXVlhzY1czbEtkUFBITThPMw?oc=5"
-      ],
-      "title": "Our approach to government and national security partnerships",
-      "first_seen": "2026-10-15",
-      "last_shipped": "2026-10-15",
-      "last_summary": "OpenAI has published its framework for government and national security partnerships, emphasizing safety, accountability, and public-private collaboration. This comes amid broader legislative interest in coordinated government approaches to AI.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "amp-ai-agents-expansion",
-      "urls": [
-        "https://openai.com/index/amp-beyond-coding"
-      ],
-      "title": "Amp puts AI agents to work beyond code with OpenAI models",
-      "first_seen": "2026-10-15",
-      "last_shipped": "2026-10-15",
-      "last_summary": "Amp is utilizing OpenAI's newest models, including GPT-6 Astra, to expand the capabilities of AI agents beyond simple code generation.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "third-moment-agent-deployment",
-      "urls": [
-        "https://openai.com/index/third-moment-research"
-      ],
-      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-      "first_seen": "2026-10-15",
-      "last_shipped": "2026-10-15",
-      "last_summary": "Third Moment Research is utilizing advanced models like GPT-6 Astra and Codex to deploy and manage 10,000 long-running AI agents in the cybersecurity sector.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "openai-eu-expansion",
-      "urls": [
-        "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-        "https://openai.com/index/the-next-chapter-for-ai-in-the-eu",
-        "https://openai.com/index/evals-drive-next-chapter-of-ai",
-        "https://openai.com/index/the-next-chapter-for-uk-sovereign-ai"
-      ],
-      "title": "The EU’s next chapter in AI is agentic",
-      "first_seen": "2026-10-15",
-      "last_shipped": "2026-10-15",
-      "last_summary": "OpenAI has launched an EU Economic Blueprint 2.0 to support AI adoption across Europe, alongside new data residency options and partnerships with the UK government.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "higgsfield-video-generation-update",
-      "urls": [
-        "https://openai.com/index/higgsfield-longer-videos-voice"
-      ],
-      "title": "Higgsfield takes AI video from 1 minute to over 10",
-      "first_seen": "2026-10-15",
-      "last_shipped": "2026-10-15",
-      "last_summary": "Higgsfield is leveraging new OpenAI models to enable the creation of video content exceeding 10 minutes in length and to facilitate voice-based filmmaking.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "deepmind-singapore-scam-detection",
-      "urls": [
-        "https://deepmind.google/blog/on-device-ai-scam-detection-mddi"
-      ],
-      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-      "first_seen": "2026-10-15",
-      "last_shipped": "2026-10-15",
-      "last_summary": "Google DeepMind and the Singapore government have partnered to use lightweight Gemma models for on-device scam detection that maintains data privacy.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "anthropic-open-model-risk-report",
-      "urls": [
-        "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power"
-      ],
-      "title": "The Download: open model trade-offs and geothermal power’s promise",
-      "first_seen": "2026-10-15",
-      "last_shipped": "2026-10-15",
-      "last_summary": "An industry report by Anthropic highlights significant cybersecurity risks posed by the release of powerful open models, fueling the ongoing debate over the balance between openness and safety.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "glm-5-3-safety-assessment",
-      "urls": [
-        "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks"
-      ],
-      "title": "Open models have real benefits. Do they outweigh the risks?",
-      "first_seen": "2026-10-15",
-      "last_shipped": "2026-10-15",
-      "last_summary": "Anthropic's latest report identifies specific cyberattack risks associated with the GLM-5.3 open model, highlighting ongoing industry concerns about model safety.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "ai-training-data-market",
-      "urls": [
-        "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models"
-      ],
-      "title": "AI labs are buying data from dead startups to train their models",
-      "first_seen": "2026-10-15",
-      "last_shipped": "2026-10-15",
-      "last_summary": "Founders of shuttered startups are increasingly finding value in selling their companies' codebases and datasets to AI labs for model training purposes.",
-      "was_must_know": true
-    },
-    {
       "event_key": "openai-infrastructure-expansion",
       "urls": [
         "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
@@ -604,6 +486,155 @@
       "first_seen": "2026-10-21",
       "last_shipped": "2026-10-21",
       "last_summary": "Google has released a new developer tool designed to assist PyTorch users in migrating applications away from Nvidia hardware.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "ai-compute-scaling-analysis",
+      "urls": [
+        "https://techcrunch.com/2026/10/21/gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automakers",
+        "https://openai.com/index/ai-and-compute",
+        "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory"
+      ],
+      "title": "AI and compute",
+      "first_seen": "2026-10-22",
+      "last_shipped": "2026-10-22",
+      "last_summary": "New analysis indicates that compute usage for training the largest AI models has been doubling every 3.4 months since 2012. Additionally, GM announced a new vehicle platform featuring advanced central compute architecture arriving in 2028.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-google-cloud-partnership",
+      "urls": [
+        "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity",
+        "https://openai.com/index/openai-models-google-cloud"
+      ],
+      "title": "OpenAI models are coming to Google Cloud",
+      "first_seen": "2026-10-22",
+      "last_shipped": "2026-10-22",
+      "last_summary": "Google Cloud is adding OpenAI's frontier models, including GPT-6.1 Astra, Sol, and Luna, to its Gemini Model Garden. These models will be accessible to enterprise users via the Google Cloud Marketplace.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "openai-white-house-proposal",
+      "urls": [
+        "https://openai.com/global-affairs/seizing-the-ai-opportunity",
+        "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTWhoV290SHFuV281NGI0TG1RUk1PQXFObTRYeHlndWh2OHlOWnlWWEl4d1dnWTJIMVQ5VEd2NldSd1lJckpsVUpWNjV0NmM3clAxUnY3UDJtQVFieGtiTGVySUxuZTlTWFZoamtqejg2Rnk2b0dhODJWNWhDUDBsVy13RVU3akFuYUc0clU4VU5QN2QxT1pFcg?oc=5"
+      ],
+      "title": "Seizing the AI opportunity",
+      "first_seen": "2026-10-22",
+      "last_shipped": "2026-10-22",
+      "last_summary": "OpenAI has submitted a proposal to the White House detailing a strategy for energy and infrastructure investment to maintain U.S. leadership in AI development.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "meta-data-privacy-penalty",
+      "urls": [
+        "https://techcrunch.com/2026/10/21/meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal",
+        "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html"
+      ],
+      "title": "Meta ordered to pay $25B in case related to Cambridge Analytica scandal",
+      "first_seen": "2026-10-22",
+      "last_shipped": "2026-10-22",
+      "last_summary": "A state-level legal action against Meta concerning historical data privacy practices has resulted in a $25 billion penalty.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "ai-biological-research-agents",
+      "urls": [
+        "https://openai.com/index/scaling-ai-research-for-complex-biological-data"
+      ],
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "first_seen": "2026-10-22",
+      "last_shipped": "2026-10-22",
+      "last_summary": "OpenAI collaborated with Scripps Research and PerturbAI to utilize distributed AI agents for identifying new biological research leads from large-scale brain cell datasets.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-ad-stack-architecture",
+      "urls": [
+        "https://openai.com/index/building-chatgpt-ad-stack"
+      ],
+      "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "first_seen": "2026-10-22",
+      "last_shipped": "2026-10-22",
+      "last_summary": "OpenAI detailed the technical architecture of the ad stack integrated into ChatGPT, focusing on maintaining separation between conversational responses and advertising content.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-governance-blueprint",
+      "urls": [
+        "https://openai.com/index/empowering-cyber-defenders",
+        "https://openai.com/index/frontier-safety-blueprint"
+      ],
+      "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+      "first_seen": "2026-10-22",
+      "last_shipped": "2026-10-22",
+      "last_summary": "OpenAI published a two-part proposal outlining frameworks for federal AI governance and strategies to empower cyber defenders using frontier model capabilities.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "nvidia-kumo-relational-launch",
+      "urls": [
+        "https://huggingface.co/blog/nvidia/kumo-relational"
+      ],
+      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "first_seen": "2026-10-22",
+      "last_shipped": "2026-10-22",
+      "last_summary": "NVIDIA introduced Kumo Relational, a machine learning approach for relational data that reportedly outperforms traditional supervised learning without requiring manual model training.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "meta-stock-issuance-ai",
+      "urls": [
+        "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings"
+      ],
+      "title": "Meta to create a new class of shares to fund AI push",
+      "first_seen": "2026-10-22",
+      "last_shipped": "2026-10-22",
+      "last_summary": "Meta announced plans to issue a new class of non-voting stock starting in 2027 to generate capital for its ongoing AI infrastructure and research investments.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "meta-muse-user-growth",
+      "urls": [
+        "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity"
+      ],
+      "title": "Meta says Muse has over 10M users, with shopping a top activity",
+      "first_seen": "2026-10-22",
+      "last_shipped": "2026-10-22",
+      "last_summary": "Meta reported that its Muse AI app has reached 10 million users, with high engagement in shopping and personal productivity features.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "flapping-airplanes-funding",
+      "urls": [
+        "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation"
+      ],
+      "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
+      "first_seen": "2026-10-22",
+      "last_shipped": "2026-10-22",
+      "last_summary": "AI startup Flapping Airplanes raised $1 billion in Series A funding at a $6 billion valuation to build models with more efficient data training methods.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "tesla-optimus-production",
+      "urls": [
+        "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43"
+      ],
+      "title": "Tesla starts Optimus robot production in California as profit falls 43%",
+      "first_seen": "2026-10-22",
+      "last_shipped": "2026-10-22",
+      "last_summary": "Tesla has commenced production of its Optimus robot as the company navigates a 43% decline in quarterly profits while maintaining heavy investment in AI and autonomous systems.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "recursive-flint-model",
+      "urls": [
+        "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai"
+      ],
+      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+      "first_seen": "2026-10-22",
+      "last_shipped": "2026-10-22",
+      "last_summary": "Startup Recursive released Flint, a free coding model for laptops that was developed largely using an internal self-improving AI research system.",
       "was_must_know": false
     }
   ]
