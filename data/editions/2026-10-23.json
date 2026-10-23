@@ -1,0 +1,232 @@
+{
+  "date": "2026-10-23",
+  "intro": "Today's tech landscape is defined by major hardware and model breakthroughs alongside expanding AI integration in enterprise. We are seeing significant shifts in how organizations deploy automation, secure digital identities, and handle emerging regulatory challenges.",
+  "must_know": [
+    {
+      "cluster_id": "3690e69711c9cfeb",
+      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "summary": "OpenAI has introduced Jalapeño, a custom inference chip designed to optimize performance and power efficiency for modern AI models. The announcement coincides with data suggesting training efficiency has improved 44-fold since 2012.",
+      "why_it_matters": "Custom silicon development by AI labs directly challenges traditional chipmakers and targets the critical bottleneck of inference costs.",
+      "topic_ids": [
+        "hardware",
+        "foundation-models"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/jalapeno-first-results"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/ai-and-efficiency"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/tiiuae/falcon-h1"
+        },
+        {
+          "name": "Google News: AI",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMFE5WXB4Sk41ZEE2NklfWXhlSlp5VzdWbGo0RHRGaFZGUzVtNndBWFR5Q2JwWnN6VDVwcXVHTFdoejZCZGp4RDZkVXFGT3VUNGI5cEIybFE4eEQ1TUM1SVpsYXBRNVZLQ1lUOTcweFVjVnJCaUJKeXRKZ0pxOEpkVkhtZF85QloyQThYME1vMlZFcF9sNEFORmNrOExhLTdFOHlmYmNCcU0?oc=5"
+        }
+      ]
+    },
+    {
+      "cluster_id": "dedf2896ecdb4ab5",
+      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+      "summary": "A Science study reports that Microsoft's AI diagnostic system outperformed generalist doctors on difficult cases, though analysis suggests the success stems from underlying model performance rather than specific system-level improvements.",
+      "why_it_matters": "It underscores that foundational model performance, rather than complex architectural wrappers, remains the primary driver of superior diagnostic outcomes.",
+      "topic_ids": [
+        "research",
+        "big-tech"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence"
+        }
+      ]
+    },
+    {
+      "cluster_id": "7221f59bf2b27908",
+      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "summary": "Uber is rolling out ChatGPT Work to its entire global workforce of over 30,000 employees. The platform will support tasks such as data analysis, research, and presentation creation.",
+      "why_it_matters": "Widespread adoption by large enterprises highlights the shift of generative AI from experimental pilots to core productivity tools.",
+      "topic_ids": [
+        "big-tech",
+        "tools"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/uber-chatgpt-work-rollout"
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "foundation-models": [
+      {
+        "cluster_id": "891b7e0bbf66f86d",
+        "title": "Build more responsive apps with the Decisions API",
+        "summary": "OpenAI has launched the Decisions API, a tool aimed at providing fast, low-cost decision-making capabilities for software applications.",
+        "why_it_matters": "Specialized APIs for specific tasks rather than general chat interfaces are increasingly key to embedding AI into production apps.",
+        "topic_ids": [
+          "tools",
+          "foundation-models"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/decisions-api"
+          }
+        ]
+      },
+      {
+        "cluster_id": "5eee804247a435ab",
+        "title": "Canva’s first AI image model plans designs before generating them",
+        "summary": "Canva has released 'Canva Craft,' an image generation model that utilizes a two-stage architecture to plan designs before rendering them. The model aims to improve control and consistency compared to existing generative offerings.",
+        "why_it_matters": "Canva is vertically integrating AI to become a platform-native design assistant rather than relying on third-party model wrappers.",
+        "topic_ids": [
+          "tools",
+          "foundation-models"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model"
+          }
+        ]
+      },
+      {
+        "cluster_id": "575971a63ca32804",
+        "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+        "summary": "OpenAI has expanded the availability of its decision model, aiming to challenge incumbent 'Jev' models in the automation and reasoning space.",
+        "why_it_matters": "The market for 'decisioning' AI is becoming a competitive battlefield for foundation model providers looking to capture enterprise workflows.",
+        "topic_ids": [
+          "foundation-models",
+          "tools"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up"
+          }
+        ]
+      }
+    ],
+    "hardware": [
+      {
+        "cluster_id": "f6922dc8b925b717",
+        "title": "The FCC is beginning to block gadgets with ‘foreign surveillance chips’",
+        "summary": "The FCC has begun utilizing new authorities to block gadgets containing computer chips identified as threats to national security, citing concerns over foreign surveillance.",
+        "why_it_matters": "This marks a major escalation in US policy aimed at restricting the hardware supply chain in the name of national defense.",
+        "topic_ids": [
+          "policy",
+          "hardware"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/policy/1017016/fcc-block-foreign-surveillance-chips-hivision-huawei-loophole"
+          }
+        ]
+      }
+    ],
+    "tools": [
+      {
+        "cluster_id": "662e68277c6361dd",
+        "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+        "summary": "1Password has introduced a secure authentication feature that enables AI agents to log into personal accounts on a user's behalf without revealing the master password.",
+        "why_it_matters": "Secure hand-off of credentials is a necessary prerequisite for the widespread deployment of autonomous AI agents.",
+        "topic_ids": [
+          "tools",
+          "open-source"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password"
+          }
+        ]
+      }
+    ],
+    "research": [
+      {
+        "cluster_id": "64aba7dfd5d83ac3",
+        "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
+        "summary": "Warp Science, a startup founded by a former OpenAI science lead, is training robots to automate complex wet lab chemistry tasks using sensor-based human demonstration.",
+        "why_it_matters": "Automating physical lab work could significantly accelerate biological and chemical research and development cycles.",
+        "topic_ids": [
+          "startups-funding",
+          "research"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots"
+          }
+        ]
+      }
+    ]
+  },
+  "continuing": [
+    {
+      "cluster_id": "32b3170e24109d9a",
+      "title": "Meta&#8217;s AI could still scrape news sites, legal experts say",
+      "summary": "Legal experts argue that Meta's recent business term revisions regarding data scraping remain insufficient. The changes reportedly fail to address language that allows the company to train AI on news content across various services.",
+      "why_it_matters": "The tension between AI developers and content publishers over scraping practices remains unresolved despite iterative policy updates.",
+      "topic_ids": [
+        "policy",
+        "big-tech"
+      ],
+      "story_type": "update",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns"
+        }
+      ]
+    },
+    {
+      "cluster_id": "317abcdd1b20728a",
+      "title": "Canva releases its first image generation model",
+      "summary": "Canva has made its proprietary image generation model available to all users, claiming higher efficiency and customization than previous versions.",
+      "why_it_matters": "The deployment demonstrates the shift toward specialized, cost-effective models tailored for specific user interfaces.",
+      "topic_ids": [
+        "tools",
+        "foundation-models"
+      ],
+      "story_type": "update",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model"
+        }
+      ]
+    }
+  ]
+}
