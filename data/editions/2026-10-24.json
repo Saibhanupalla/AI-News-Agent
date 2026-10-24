@@ -1,0 +1,174 @@
+{
+  "date": "2026-10-24",
+  "intro": "Today's updates are dominated by significant shifts in AI safety and infrastructure strategy. Major industry players are refining how they handle training data and model security as the field continues to evolve.",
+  "must_know": [
+    {
+      "cluster_id": "a6d2d5fdb7657f8a",
+      "title": "OpenAI now trains its frontier AI models with no internet access",
+      "summary": "OpenAI has moved to training its most advanced frontier models in offline environments to mitigate risks from external access and potential interference.",
+      "why_it_matters": "Security measures at the frontier level are intensifying as companies attempt to prevent data leakage and unauthorized access during training.",
+      "topic_ids": [
+        "foundation-models",
+        "policy"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet"
+        }
+      ]
+    },
+    {
+      "cluster_id": "a9526976eeebfbfe",
+      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+      "summary": "Google has updated its privacy policy to allow the use of personal data from Gmail, Drive, and Photos for targeted advertising when using certain personalized AI features.",
+      "why_it_matters": "This update broadens the scope of data utilization for ads within Google’s ecosystem, raising significant consumer privacy concerns.",
+      "topic_ids": [
+        "big-tech",
+        "policy"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update"
+        }
+      ]
+    },
+    {
+      "cluster_id": "da5b258a613085c6",
+      "title": "The full stack behind abundant intelligence",
+      "summary": "OpenAI is pursuing a full-stack infrastructure strategy to increase AI capability and lower costs, including the development of a 1GW data center project known as Stargate.",
+      "why_it_matters": "Scaling infrastructure to gigawatt levels is becoming the next major hurdle in the race toward AGI.",
+      "topic_ids": [
+        "foundation-models",
+        "hardware"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/building-abundant-intelligence"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/stargate-michigan-data-center"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/confidence-building-measures-for-artificial-intelligence"
+        },
+        {
+          "name": "Google News: AI",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN3E0a2phUlNER0J4U0lyOHpkSnEzaExDR1NOTUpneDZXUENHMU1VOERIanU1YXFfWVVTaWstOF9iT1B6bERzTXpoNEJXRFVkRUx2bzhSTlluRWdvT3BSdEVjV0QxWTluSEY4Y2ZtZFZCb2U0TjcwbGZlUHdJeGdiTVBRTkcxVHI2bTFoXzRNQzVoYnZldnQtLTJBU0dESGdnSGNnMWM5SXDSAagBQVVfeXFMTTdxNGtqYVJTREdCeFNJcjh6ZEpxM2hMQ0dTTk1KZ3g2V1BDRzFNVThESGp1NWFxX1lVU2lrLThfYk9QemxEc016aDRCV0RVZEVMdm84Uk5ZbkVnb09wUnRFY1dEMVk5bkhGOGNmbWRWQm9lNE43MGxmZVB3SXhnYk1QUU5HMVRyNm0xaF80TUM1aGJ2ZXZ0LS0yQVNHREhnZ0hjZzFjOUlw?oc=5"
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "foundation-models": [
+      {
+        "cluster_id": "60b56cc3037dbda3",
+        "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+        "summary": "Block has introduced 'Dessa,' an AI model trained entirely on human conversation, which currently exhibits realistic but often socially awkward interaction patterns.",
+        "why_it_matters": "Training models exclusively on human conversation data represents an alternative approach to general-purpose LLM development.",
+        "topic_ids": [
+          "research",
+          "foundation-models"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech"
+          }
+        ]
+      }
+    ],
+    "startups-funding": [
+      {
+        "cluster_id": "0ce7cbd00087eca3",
+        "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
+        "summary": "Daytona, an agent cloud startup, has reached a $1B valuation with backing from notable industry angels, focusing on providing computing resources for AI agents.",
+        "why_it_matters": "The high valuation reflects the growing investor appetite for infrastructure specifically designed for the next generation of AI agents.",
+        "topic_ids": [
+          "startups-funding",
+          "tools"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels"
+          }
+        ]
+      }
+    ],
+    "tools": [
+      {
+        "cluster_id": "2c20faa424f33af2",
+        "title": "Teaching with AI",
+        "summary": "OpenAI has released a guide for educators on using ChatGPT in the classroom, covering prompt strategies and addressing common concerns like bias and detection.",
+        "why_it_matters": "Practical resources for integrating AI into education help bridge the gap between emerging tech and classroom policy.",
+        "topic_ids": [
+          "tools",
+          "research"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/teaching-with-ai"
+          },
+          {
+            "name": "Google DeepMind Blog",
+            "url": "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions"
+          },
+          {
+            "name": "Google News: AI",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVWZRdkZSWFh6NGotdmlPU2tQSFZRVzdab3VWQ3NoSFBGeDVUZUVIbjBEa01CVG5ZRWZaWUdteE5pdFp3QUhFZVBaMGVoY05xRW01a1BhQ0ZoaGMxWUFVNnBFMEY0TTZ5V0lkTUFZWFdmcWdubndkV3AtNl85QWcxUjlhWEcxa2ZNeHVqcWJZM2FRUQ?oc=5"
+          },
+          {
+            "name": "Google News: AI",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQU2cyZmJnMF9KNUM1alhadXdSRm9XcENRdUlWUFM0Y2hLQTN4THVMRy0zcWFDeEJ3RXBkbFM3TURycnlUb3F5VnkwTjd3YjhXNTFtazh4WURRYXpsUXBOUThPMmxFRTVaZEJpVk8wTUpBS3IybTRPS3ZBM0JEd0RtRWR0aGw4OElrcVlmZnNrSzBFM3dQZW83U1FxbEg1OTZY?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  "continuing": [
+    {
+      "cluster_id": "585ea363f084ac16",
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "summary": "OpenAI announced it will cease training frontier models on live internet data, citing security risks associated with the practice.",
+      "why_it_matters": "This move marks a shift in how leading AI labs balance data freshness with the security of their development pipelines.",
+      "topic_ids": [
+        "foundation-models",
+        "policy"
+      ],
+      "story_type": "update",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks"
+        }
+      ]
+    }
+  ]
+}
