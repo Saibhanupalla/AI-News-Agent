@@ -669,6 +669,119 @@
       "last_shipped": "2026-10-24",
       "last_summary": "Daytona, an agent cloud startup, has reached a $1B valuation with backing from notable industry angels, focusing on providing computing resources for AI agents.",
       "was_must_know": false
+    },
+    {
+      "event_key": "hugging-face-policy-summit",
+      "urls": [
+        "https://huggingface.co/blog/policy-blog",
+        "https://huggingface.co/blog/summer-at-huggingface",
+        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYlF2bi1mTGMwZy1pcWMyQ1FPLTBVTzNad0dqYVoxdnhIa0xtUUdydHExbTR0SV9MeGszU0xzTU9MaS00QkV5THpPWWs5V2JVeHVrLXIzNDR2Y1RPVVZnWnB4UV9sUVRETndsUnotX3U3NkZEdlY3aElkQVQxN1J5TWhHOW9jSXhZNkNQSU9ncUJZalJDZHhwMm5wSnlQU2dXRnJIcHotdEhuYWhsd2VxNGwweFVPVFY3cXBVbGxUcG1oR3ZqU2xCNw?oc=5"
+      ],
+      "title": "Public Policy at Hugging Face",
+      "first_seen": "2026-10-25",
+      "last_shipped": "2026-10-25",
+      "last_summary": "Hugging Face CEO Clem Delangue shared insights on the company's public policy strategy at the Miami AI Summit.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "pa-ai-ad-labeling-law",
+      "urls": [
+        "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+        "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc01zYzdVcy1lZkdPaWdaZG1hTlBWcnpBejRwY05jYU5SR0l5R1J3TFgwektLVTBnQzh0ZDNjdXZOT25tcXY1ZnJKU1AxRXNSem9XQllXUThhUFJ3cDRzU0xQVmhKd2I5dTZxbXpSbG9hdU95T0FPR19DbzRHSjhCSWtNbWYxSEZadGVCSWlNTFBlQjFJQ3o4c1ktcnp0QXV6MGww?oc=5"
+      ],
+      "title": "Pennsylvania will require labels on AI-generated ads",
+      "first_seen": "2026-10-25",
+      "last_shipped": "2026-10-25",
+      "last_summary": "Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act, which mandates clear disclosures for AI-generated advertisements.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "block-local-voice-model",
+      "urls": [
+        "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human"
+      ],
+      "title": "Block’s new voice model sounds eerily human",
+      "first_seen": "2026-10-25",
+      "last_shipped": "2026-10-25",
+      "last_summary": "Block has developed a voice model capable of running locally on hardware as modest as a MacBook M4 Max.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "ai-political-bias-study",
+      "urls": [
+        "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats"
+      ],
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "first_seen": "2026-10-25",
+      "last_shipped": "2026-10-25",
+      "last_summary": "A study comparing AI political biases found that Grok frequently favors Republican candidates, while GPT models tend to favor Democrats.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "commonwealth-fusion-semiconductor-grant",
+      "urls": [
+        "https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors"
+      ],
+      "title": "Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors",
+      "first_seen": "2026-10-25",
+      "last_shipped": "2026-10-25",
+      "last_summary": "Commonwealth Fusion Systems received an $85 million federal grant to develop specialized semiconductors for fusion power plants.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "google-gmail-ad-policy",
+      "urls": [
+        "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising"
+      ],
+      "title": "Updated Google privacy policy says your Gmail might be used for advertising",
+      "first_seen": "2026-10-25",
+      "last_shipped": "2026-10-25",
+      "last_summary": "Google's updated privacy policy indicates that enabling 'Personal Intelligence' features allows the company to use Gmail data for targeted advertising.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "intel-robot-import-waiver",
+      "urls": [
+        "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs"
+      ],
+      "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
+      "first_seen": "2026-10-25",
+      "last_shipped": "2026-10-25",
+      "last_summary": "The US government granted Intel a waiver to import certain foreign-made robotic vehicles needed for its domestic chip manufacturing fabs.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "cerebras-trillion-parameter-deployment",
+      "urls": [
+        "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras"
+      ],
+      "title": "Cerebras Deploys Trillion-Parameter AI Models",
+      "first_seen": "2026-10-25",
+      "last_shipped": "2026-10-25",
+      "last_summary": "Cerebras published documentation on its technical approach to deploying trillion-parameter frontier models using its specialized wafer-scale engine hardware.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "ai-language-comprehension-research",
+      "urls": [
+        "https://arxiv.org/abs/2610.29162"
+      ],
+      "title": "Why is AI generated language so hard to understand?",
+      "first_seen": "2026-10-25",
+      "last_shipped": "2026-10-25",
+      "last_summary": "A new research paper explores the linguistic nuances and cognitive hurdles that make AI-generated text difficult for humans to parse.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "neural-chip-brain-decoding",
+      "urls": [
+        "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2"
+      ],
+      "title": "Neural chip decodes interactions between brain regions",
+      "first_seen": "2026-10-25",
+      "last_shipped": "2026-10-25",
+      "last_summary": "Researchers have developed a specialized neural chip capable of decoding the complex interactions between different regions of the brain.",
+      "was_must_know": false
     }
   ]
 }
