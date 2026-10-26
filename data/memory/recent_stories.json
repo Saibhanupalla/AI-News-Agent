@@ -1,72 +1,6 @@
 {
   "entries": [
     {
-      "event_key": "city-robotaxi-regulation",
-      "urls": [
-        "https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws"
-      ],
-      "title": "Cities want to put the boot on robotaxis",
-      "first_seen": "2026-10-19",
-      "last_shipped": "2026-10-19",
-      "last_summary": "Municipalities are increasingly seeking to regulate the operations of autonomous robotaxis. Local governments are exploring various legal avenues to impose stricter oversight on vehicle deployments.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "meta-tos-scraping-update",
-      "urls": [
-        "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns"
-      ],
-      "title": "Meta removes language that raised scraping and AI training concerns",
-      "first_seen": "2026-10-19",
-      "last_shipped": "2026-10-19",
-      "last_summary": "Meta has removed specific language from its terms of service that had previously sparked concerns regarding data scraping and AI training practices. The company stated that the update does not represent a change in its web crawling operations.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "replit-openai-default-switch",
-      "urls": [
-        "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says"
-      ],
-      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-      "first_seen": "2026-10-19",
-      "last_shipped": "2026-10-19",
-      "last_summary": "Replit has switched its default AI model provider from Anthropic's Claude to OpenAI. Users can still access Claude models, but OpenAI now powers the platform's primary AI interactions.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "anthropic-watchdog-access",
-      "urls": [
-        "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access"
-      ],
-      "title": "Anthropic gives outside AI watchdog “employee-like” access",
-      "first_seen": "2026-10-19",
-      "last_shipped": "2026-10-19",
-      "last_summary": "Anthropic has granted an outside AI watchdog 'employee-like' access to its systems, allowing the organization to publish findings without prior approval. This arrangement is intended to increase transparency regarding safety and development.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "whatsapp-mcp-cloudflare",
-      "urls": [
-        "https://github.com/finereli/whatsapp-mcp"
-      ],
-      "title": "Show HN: WhatsApp MCP running free on Cloudflare",
-      "first_seen": "2026-10-19",
-      "last_shipped": "2026-10-19",
-      "last_summary": "A developer has released a new project that enables a WhatsApp Model Context Protocol (MCP) server to run on Cloudflare. The tool connects to personal WhatsApp and Google accounts to facilitate AI-powered interactions with personal data.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "hybrid-reasoning-agents-release",
-      "urls": [
-        "https://arxiv.org/abs/2610.18861"
-      ],
-      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-      "first_seen": "2026-10-19",
-      "last_shipped": "2026-10-19",
-      "last_summary": "Researchers have introduced Hybrid Reasoning Agents, which utilize LLMs that perform reasoning in latent space while executing actions via natural language. The project is available on GitHub and Hugging Face.",
-      "was_must_know": false
-    },
-    {
       "event_key": "openai-agents-api-launch",
       "urls": [
         "https://openai.com/index/introducing-the-agents-api",
@@ -781,6 +715,62 @@
       "first_seen": "2026-10-25",
       "last_shipped": "2026-10-25",
       "last_summary": "Researchers have developed a specialized neural chip capable of decoding the complex interactions between different regions of the brain.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "apollo-ai-economic-analysis",
+      "urls": [
+        "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
+        "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOW1GQU8wblRMSUZlXzdCY0pDbjNsS1pPQ0EtTk4wTlZnRk1yb0FMWGstcHhKM3J6WmpXZ1d4MXB1QlVlOFR3NlplTlNqcm1SRHBNU2VXZTA4WHd3QnZzWnZJaHpVeV81WkxtYU1oM0N1TldTS0IySXdaQ1hHZzI0c1pBS2tvWnh2Vm9TS29yM1MxYWN2ak0taUMxS0NibGlFS3NPV1NmOUx1MDh4WmFNOE1vbjQxTE0?oc=5"
+      ],
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "first_seen": "2026-10-26",
+      "last_shipped": "2026-10-26",
+      "last_summary": "Apollo's chief economist suggests that outside of the technology sector, artificial intelligence has yet to yield significant financial returns for corporations despite substantial investments.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "reddit-opensource-ai-ban",
+      "urls": [
+        "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban"
+      ],
+      "title": "r/opensource just banned AI, non-English speakers, and more",
+      "first_seen": "2026-10-26",
+      "last_shipped": "2026-10-26",
+      "last_summary": "The moderators of the r/opensource subreddit have implemented new rules that prohibit projects related to or generated by artificial intelligence.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "google-search-publishing-impact",
+      "urls": [
+        "https://www.theverge.com/column/1017983/google-ai-search-online-publishing"
+      ],
+      "title": "Google’s AI search changes upended online publishing",
+      "first_seen": "2026-10-26",
+      "last_shipped": "2026-10-26",
+      "last_summary": "Google's implementation of AI-driven search results has significantly disrupted the traditional digital publishing industry's reliance on standard search traffic.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "llm-price-war",
+      "urls": [
+        "https://minimaxir.com/2026/10/cheap-llms"
+      ],
+      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "first_seen": "2026-10-26",
+      "last_shipped": "2026-10-26",
+      "last_summary": "Leading AI labs, including OpenAI and Anthropic, have aggressively reduced pricing for their large language models by up to 80% over the last few months.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "cnn-vs-llm-medical-imaging",
+      "urls": [
+        "https://lynchlab.net/llm-skin-cancer"
+      ],
+      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "first_seen": "2026-10-26",
+      "last_shipped": "2026-10-26",
+      "last_summary": "A study indicates that a ten-year-old convolutional neural network (CNN) can outperform modern, state-of-the-art LLMs in the specialized task of skin cancer diagnosis.",
       "was_must_know": false
     }
   ]
