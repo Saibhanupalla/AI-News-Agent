@@ -1,140 +1,6 @@
 {
   "entries": [
     {
-      "event_key": "openai-agents-api-launch",
-      "urls": [
-        "https://openai.com/index/introducing-the-agents-api",
-        "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
-        "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
-        "https://openai.com/index/introducing-agentkit",
-        "https://openai.com/index/image-generation-api",
-        "https://openai.com/index/introducing-4o-image-generation",
-        "https://openai.com/index/introducing-the-model-spec",
-        "https://huggingface.co/blog/tgi-multi-backend",
-        "https://huggingface.co/blog/smolagents",
-        "https://huggingface.co/blog/synthid-text",
-        "https://huggingface.co/blog/idefics2",
-        "https://huggingface.co/blog/leaderboard-contextual",
-        "https://huggingface.co/blog/inference-pro",
-        "https://huggingface.co/blog/wuerstchen",
-        "https://huggingface.co/blog/idefics",
-        "https://huggingface.co/blog/agents-js",
-        "https://huggingface.co/blog/sagemaker-huggingface-llm",
-        "https://huggingface.co/blog/aivsai",
-        "https://huggingface.co/blog/bloom",
-        "https://huggingface.co/blog/education",
-        "https://huggingface.co/blog/gptj-sagemaker",
-        "https://huggingface.co/blog/snowball-fight",
-        "https://huggingface.co/blog/the-partnership-amazon-sagemaker-and-hugging-face",
-        "https://huggingface.co/blog/accelerated-inference",
-        "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTFlBZEpsRUxQRTIyaEt6eXYybzBsWXBKTlV2MHdvM3U0a1lZM0ZzYnpZaTBSY0VQUWVNQ0tKVFNMT3FZbDJNWmhERTllclFBbnRabDJ0akpvalJOeG52U19lT0xzUVRkRDJ0VU1pOVU3RXJWejNERzdYOHVzcERVZWFVOG15WlUtSDc1U1FyV1g4bGtRUGNZTTNQYXRrSi1IR0toSVg4T2wzeE1EdDdRZEwzdXpEa0g1ZHlOeUxUVG84aGREcElkNEdB?oc=5"
-      ],
-      "title": "Introducing the Agents API",
-      "first_seen": "2026-10-20",
-      "last_shipped": "2026-10-20",
-      "last_summary": "OpenAI has introduced the Agents API, a managed service designed for building cloud-based, stateful agents capable of orchestration and multi-step tool use. The release is accompanied by additional developer tools including AgentKit and reinforcement fine-tuning capabilities.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "openai-coding-low-resource",
-      "urls": [
-        "https://openai.com/index/low-resource-programming-languages"
-      ],
-      "title": "Advancing coding in low‑resource programming languages",
-      "first_seen": "2026-10-20",
-      "last_shipped": "2026-10-20",
-      "last_summary": "OpenAI is enhancing ChatGPT's performance in low-resource programming languages by implementing new evaluation benchmarks for COBOL migration and software engineering tasks.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "goodfire-interpretability-claim",
-      "urls": [
-        "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world"
-      ],
-      "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
-      "first_seen": "2026-10-20",
-      "last_shipped": "2026-10-20",
-      "last_summary": "A viral 26,000-word blog post by researcher Nick Cammarata of the startup Goodfire claims a breakthrough in understanding the internal mechanisms of neural networks.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "claude-agent-play-research",
-      "urls": [
-        "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play"
-      ],
-      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
-      "first_seen": "2026-10-20",
-      "last_shipped": "2026-10-20",
-      "last_summary": "Researchers observed Claude Opus 4.7 agents engaging in exploratory, non-directed behaviors—described as 'play'—when placed in a virtual environment for 30 hours without specific tasks.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "microsoft-ai-agent-security",
-      "urls": [
-        "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted"
-      ],
-      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-      "first_seen": "2026-10-20",
-      "last_shipped": "2026-10-20",
-      "last_summary": "Microsoft is cautioning enterprises to treat AI agents as potential insider threats, noting that frontier models should not be implicitly trusted within corporate environments.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "aws-torchneuron-launch",
-      "urls": [
-        "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool"
-      ],
-      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
-      "first_seen": "2026-10-20",
-      "last_shipped": "2026-10-20",
-      "last_summary": "Amazon has released the TorchNeuron developer tool, aimed at enabling PyTorch-based applications to run on its proprietary AI chips rather than relying solely on Nvidia hardware.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "opencode-hack",
-      "urls": [
-        "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts"
-      ],
-      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
-      "first_seen": "2026-10-20",
-      "last_shipped": "2026-10-20",
-      "last_summary": "The open-source AI coding tool OpenCode experienced a security incident where hackers gained access to its platform, leading to stolen API keys and anomalous charges for users.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "tenstorrent-funding-6b",
-      "urls": [
-        "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips"
-      ],
-      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
-      "first_seen": "2026-10-20",
-      "last_shipped": "2026-10-20",
-      "last_summary": "Chip startup Tenstorrent has reached a $6.2 billion valuation after raising $1.5 billion in new funding to support its independent hardware roadmaps.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "town-funding-unicorn",
-      "urls": [
-        "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch"
-      ],
-      "title": "AI assistant startup Town nabs unicorn valuation 4 months after launch",
-      "first_seen": "2026-10-20",
-      "last_shipped": "2026-10-20",
-      "last_summary": "The AI assistant startup Town has achieved a unicorn valuation following a $108 million Series B funding round co-led by Forerunner and Menlo Ventures.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "nvidia-open-models-launch",
-      "urls": [
-        "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs"
-      ],
-      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
-      "first_seen": "2026-10-20",
-      "last_shipped": "2026-10-20",
-      "last_summary": "Nvidia has released a series of open-weight AI models designed to support enterprise agent deployment and on-device processing.",
-      "was_must_know": false
-    },
-    {
       "event_key": "openai-acquisitions-spree",
       "urls": [
         "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business",
@@ -771,6 +637,198 @@
       "first_seen": "2026-10-26",
       "last_shipped": "2026-10-26",
       "last_summary": "A study indicates that a ten-year-old convolutional neural network (CNN) can outperform modern, state-of-the-art LLMs in the specialized task of skin cancer diagnosis.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "anthropic-ipo-filing",
+      "urls": [
+        "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZ0N1MG9BZHVEdjRtY0FWTHAySTg3WnU4LU1nZnVSQm1QdUZQWlJYUTJZZnNTQXZ0WjFzWVk2VXB0SmFmNHdnbWhSdHBUMFViNm5fM2xqazlhQndUNzh1OG1kdHJ2Q2RSelFqMkRYeHc0eTFIcEhPNjBHRWZXbmpWdlQtQVV0dXk4M3JiTl8zUUxvTGtWQUdCRThKWTFWZkU2Uk0zWmZaQXBFMGJsMF9oQ3Z0SVZFVmN2dkMtZWV4SGoxNmZiQVA4M21UTzRGX29QZ1lv?oc=5",
+        "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQTdZVmlwWlZXLXBlRkRfVzRLLXhWcFBpUzM3bkYxSGFyYnZ0RFQ1NUFyM3JKOXVYTmNVVEVqOTZzbXhjMWtZSDAtV1YwbDJxT1Y3QUxNUlJHRXI4ckNSVmxmVFJSSnVsQ3M0cUM2QkdTZ2NpYjU3Z3UtcGpMQk5wT2p2OXk0NWY1RHg1ZElmWThRd0ZLcjBNaVlvVy1mMlJlbTJDb2g1Y3lTYWJ1VWYtaEhEVE5LdHhBamlHU2ZoVC1Zc19yMjZacld2Q0ppenprbmlZT1JqTFRpRTQ5QlNDWA?oc=5",
+        "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNTnpNU0xWa0YxbG9VVVJ0bW5YZ0haOHRsTF9WUVRUX2dtbUxxQW1MZE50OUFWQ2JkNDMzT1hZVkxfNVlBUXhHaXBzQ3l0XzZPWWF6UTEtOGFoWlNubWFHc2Vad0FnaXhNb3dxLXdCQnpoNUhFWi1hUFRreHpBSlB5amZJU0VzRXdHcG1nLVo2YVM4NE96STRqVGlDcWVTZGQzM18yVFNiWlZpTzdIQmN4VU40MHZ0WHlzXy0yLXh1VEMtcXFiYzJRRkRKX3o0dkxYQVFCVG4xalBsN1plUngycGFTSlJmbnVoRHpXeg?oc=5",
+        "https://news.google.com/rss/articles/CBMi8gFBVV95cUxORTNsZ1Rpam1PRTIyb3d5X1llNzJyRUtMTDJhbGNLLW5OME5iaW1kdUttT09NMUVCZ3plSVZiYVFIQ242QjBoR1gxRV9QdU40QjVFU1NSRWlMTnN6MHE5ZzZBUDdwSFVoU0Q2UTI4S1R6XzhOb2J6eEV5V2lYUGNzME14SzUtZkFFVS1yRjBSSkg5M2V4Ql91ZDZTTDViMU0wZ2NzUHdLVWVHTUVkcHc4RFk2U2YtTmgzZFFpY1g0U1M1c0tIS0YwckQ0eWNCX0xYN3FmTlNWNU5uUENWRUR5QnlOVHplcVdHY1BCMUVJazRjZw?oc=5",
+        "https://news.google.com/rss/articles/CBMiigJBVV95cUxPVko2cWljUDBIUzlDV3pYVFBFUVJGOWlVLXp1R0dfY191SW1aR2dKdHM0Y2RXNnBxVnViMlpURnFPeXd2QW1EZ0ZnczZtSklrTUEwWTdoWW80aTl1N1dzcXN1MUt3M0F6VFc3Wm9hRnQ2dkJjN0hGSnY3YWhWS21rWWdsRnRJNEFaWll1VUJVODVoRlBYRWkxbk9XQ2tGRGhHYUlSQjd4clJiZE55dzZVNjh6LTFaM3M3UWJqcTNYWE5fcHNDcWdtQ0hPbUdOb3RoRGNjNW1UdmRGZE1CdGdyQTRjRmZoSWZPbTRFVUY1LXFGQmx5aGtUVjVwZ1d4T3M3QXE1UjRXY2JPQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNTkJLNy01LWNpZks2dE0tSVB3VmdlSl91Z1J3UUZQUkhzY2t6S0tPUXJrdEp6VU16ODY3aXlVRldlN0xpY21nVEhPVV9LbDI5OGpDT0FxOWpBWDFqNU5lem5vNllOUTA1SFNxTF9KWWxJWngyanlKMGdnSG5rSVpWTzRtVTJRNHFTZ0sxdGdTOTlWWDE4Rk9iT0UyLVJhNXJTb1BKT29Fd1dqZW52dHBPVnQtTlFvdzFsZHktRS14Qkx1QXo1ekVGbGJ3d1hTdlQzNjFoTDdQY0x0WHdONnJaTGFycDQ2a0dOTWo5WXpWN2wxem9vWXNBaWRZeW1FLTNvVlp0a3llLXpnVTA?oc=5",
+        "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNZDdHYlZvV05NOEhja1loRG9TZXVzM3VZcHQtSWF0SkNTTE92TU8xcy1KWXpzMjFDMkRfejlrOU5oaGVaVkJxdXZnWm9XNy1DUnpFcHFKZkZJclhmQUdhak1iSFk3Ym5JVWxBSDExNTlEYlNxYWtaR2dSeDd0eHBqNGJvb3V1WXBHS0hzZFFMdWNkbi1iQWc5VGp3bkpuMGJQYjdVb0VEM2UzazlTTkRyOHVJallPdTBGOHR4elZ3VG1rLVFhOUg4Vm95bkVJeC1kSHV6dVZBUklJZDJlMTZhSDc3MG9vMGFhemNvQlNLVGpSUWRJel8yVXBQMTllT19aVjJhNVNyUm1jUms?oc=5",
+        "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPOUV1dUoteXcwNTFnQnJITG1qcUZ6OWJsWENyaTVuRTVLbklRdGlGNUQ1VnpuQm5qRVc1MFlWY3VLaFJ1bUlkbnZQN1NpajBJSWFfM2EzeWxkM0F1V2xVazdPc25TTWd3d050SWdkLWJkcUQxVlBkcUtEeTVTeTFyQkJ3dkJuSGdkNUVqRlZPTmxSRkM0aUI5V3M0T3FEa0R3ZEFBcDZpd0JkbVRfTG9RS3pTcUNTSFBDRW5hdGVhNnkyeTBqZHdrTTN6cFFVS3lKYjhuOFFhTGY3YXVpQlpteXZDZkR4cjJuSy15SkVMMnV2aHBieTdpU093QmJzLVVsYVllOExEVEVSZDA?oc=5",
+        "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPVWp5dXh5VFdGUHlMMDdjRHE1U08teEEzN3ZtVTVkcWNoQ3BOWXlZYmRuaFhWeE5YY2ZKZ3A0LVNUVFhYYWU3LUpYT21rNlNWcXlBVGtYNmdiR21DcHNSS1dwVldaM1VPd1FncHVHXzR2NnR2U1NKZDY3enhONzFOUm9LRkVRQ0FqUU81M1NpTU5jWjBUekJMNjNrVjQ5SmdxNmpXSGh3dy1RWS1sQ0c4YWJNNmcxSTFhT1E2Nm10MW1sTTl1d0g3aDlUaXZUZmxHaml6bzRLbmcteEY0ZGRCLTRkVWF3TUoxRkUyclRwejVKRjVSOTgwTURhb3FLcEF4ejkwV0JNLWlCb1E?oc=5",
+        "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPamZYNnpQTUU2MGYyRXo1WGdVYkFOdW1ZVG53UEQzMDRldE9iV0NEaFlBQWpxNUxPM2RQSG5STG1wbTU2ZWZKVDNBMlZPY3owejc5VnNmOVZaTjVsaWd1QWZVX2ZtZG5nbDBPWDFpd2NuOUJBMjkxa1hScnpOaUpsRnAwOXJJM19iUG9mTzJ4RTdiYTNGUFlrNGNVMm5HZ3FjQWlPbVVwMVJjMHRvUENqdWZnTzVBZjlWS0s2Nk5PNFFxNTk4LVVMZUk2NzZSTWxDU2JDc0o2ekRON0tCWm45U2dQTElYSF9oVTMwc1JIMDRsR1JaeUM5VW95WndvRk8zRGgyMk1aUXVabGc?oc=5",
+        "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQR0wzc3Q5aXdYZ3BYMTBRbVZZclJmNkRuTEF4Q1lzM3pDY0JmdGtYcjRqZzJ5N0puOXgzNmpWbXR0S192bkRmLTZ1NDNQaDV2Q3ZuT1BLazBfd1gyNXI4VTlDUnNMXzRZaUUxUTBPRDdzQkFvNldlZHFibTFhTDRtM0R2S080MGdFQ19yTjBDcFhsTk9DVnFFZ2FQOXRINU15X3NwZTZCN2lTV29PUHJzU0x2UHRmQm1YNkdReFU4cVVtWm9tbnZWTW9fa05QQmd2dUtZSWZNLUV5MFdDQk84UVpWSG9MbUdIZ1FTZ2R2a1VPY3lEaXVSV3drWFFUQkhDYzlTV29ZeVhMRUU?oc=5",
+        "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQRzdmTTFwMEdmbGMzal96NGVRV2pGalRoZlVCZmZSTVpzTnRpdFdoSkNCZ1duTG1KTTlLWGM4VVFBbm5fU3VwMHFmRVNvVDJueXpyUVYwS1VJZV9YZDZiN0RZR0g2eUtfNVl4QnRXTHVFcHc0aWdNa085c2FYR1czNmY5bHlqdmdTOExYaEpYRTc1bU5wTWdJZ1RsbHRORS1UZ0FibVRQWUVMQklsUFlaTkwyaS1Vb3lyaFdhSnVTT2o4dWRiUGV2MHlfc2NOOVgzekNkME9XN1g1VjI4b3MzRFR3Z1k5dTNGTHRsak9LLURkZ0l0RlZWQlY1M09xX180c0NhZGxyQjYzZXc?oc=5",
+        "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQcjdhSHdPMXI5QTBicGdNbDNILXkzRHdDOGlDaTdwQURKWWxFaU1XNnZZNnAxY2dsX0NyWDg5VlVaM1V4akVjTEJhNzduemV0YlhNZGVnSzgzSWZGbTZWeXA1a18yZ0hJOXNoZTVrOW5MQWE3UFlEckhPenVTYl9OSnc4dFNDbFRpR3lCLUNmbHhza29LYjZqY3V0eW9rdU5YaGZLZmZHcGdFSk1EeHd0R0lvQ0x6R1VFU1V5YjBCSk1Cb01odThHVkxTSXdqaVZHWUhBVUxZU1hPcHFGc1I0dndrbF91SW1iRDdMX0loWTlhSnFKcnpVbm52b2RSSTdpYk1icGp4b3Q0QUE?oc=5",
+        "https://news.google.com/rss/articles/CBMijAJBVV95cUxNNjl5TVFCQnA1N1FjLWdzTzhSUTctbmNQeFlzYUNHX3dUSzNwamRzQW5Mc0ItNGg2dmdKdDdOMUU2bDRUdTg0eEFkbUNEQ05NMjdpTFFObmlvRGNRWXB2dVpNSzBSZjdKYzZDNmRfTXpfclpGNWtHcTNrcVVTaUlGWXpsREZMNVlFRDhiNVU4NEhPMV94SkJvT1lRelNWQkdvelNpS0Q3d2tfVHcxU045bnp1UGFVa3hwcTRaZVdiTE02YXFVdXd1RFI1eHcyTUthcm5TdG9BeWtZdk1ENjFnaTd0WWJlUXUybDdCbXd0ZTRWMHNydHRiQjB0RnVfUHJheVJEa3JrNTB0c3FF?oc=5",
+        "https://news.google.com/rss/articles/CBMijAJBVV95cUxNUlFuMWxfSWFqTFBWemJnMEdheFJickVieG1ELUlVQkFreFUwdk94OXJxaWlJZGxfZzd5TEd4OVlNbmc4MjBRRTdKT0Y1S2NGeFp2ZkprOGxFWnhKTTg3a204UVpuMDZTTDVBQWJOVktiam9WWFNLNHRWWkNSU3l6MW9BMGZ4WU0yS0NUSUNMelBJbGpMQUl1V0FQS0pRS3A2bG1fTl93TmdONVFZSDU3TVBLeUFub3lOWGQ0S0UwSVE2VGk5THdMbk9wMkk4Yl9UWmgyUm9fWGQ0Zl9MZDlxTEt6dTZfODBGQnZxalQ4eDNKc0VHXzVlU3VrNllWdGQ3Z000S2JaSnh5VDBP?oc=5",
+        "https://news.google.com/rss/articles/CBMijAJBVV95cUxPM0JqamtlRDl3LTcxNnQxZXVudDQ5TzdvdVFnUGFrZXBWcUxPTmZtbExwblBvdFF5Tkt2cGFXbHNoWEV4ZDBSQUlUTHVBSW1RX24yRDZyLXc4cnNaU19adHZoZGhMYkZZaFZXVFA2YV9zVzU4Z0p5eVl0bDZ3cDdrU3IzS3EzRHc1OUdkd2VNTFZyWTBHSVVuOFBlVWh4S0NrWVA5STNoVmE5eXp1M3BrN1hDQWVobmdkVWRvd202WW5QQWV6ZWY5dGZtMHFrOE04SWpnSWxyMlRJT19RQVIteENwZjlCNkJ6TVZlZm9WQTUzdWF3RkVnVmhIaDQ1TGEyLTllRDQ1bmRsa3V5?oc=5",
+        "https://news.google.com/rss/articles/CBMijAJBVV95cUxPR0lZeHdoaEpSV3RSa2VqalVMbXQwbmNoUUlxRXRNQnhGbnRXSWZpQkdEWWdvRWRscFpPLXkyVWU1emRGZkFuVEJfTlhBWEVKNkNjeW11NWZvVmxNeHhDOEd6cGhpejZjX0I4ck1wV2RSNUJTdl9EU2Y0OWJuaGxkMV9tdC1GcHJYeGNlTWJZaGtDM2syUTBRTXFQTVJXaGdsQm5VdU1sd1hTOEdBcmsyOWZ3Snk3d3NkdmM3dlJCSktJcWx0ZEc3ZXdGWlRnamxKV3pnUGhDMm45eDl5Z01jdjI2Q3ByZ1JOSm1wR3hxNjIzVTlCOXUyRGVBUlYyTzdDZWpSTmEzbXpiYW9j?oc=5",
+        "https://news.google.com/rss/articles/CBMijAJBVV95cUxPUzRTOFhKMlhTaEtKU2pxdUJjbVZsUk9FWTktMV9oeVkwNU5xalgtOVJpakQyUS1VN3JiM1NIOHJhLUJHSGJ6OGJlYklRTFFVNHMxSTdRWXk0ajhjSXZsWXNWa0lVWWU0UVpNZG1heFhQLWZVMFJRVmxTWllDb2xtY1ZYOHF3MlJoN1RjM25Ucjk0YTVHVzRxM19Sd1p1REVOLWJERV9CenJMbDhpdnhoS0lkendFTUp2aUJkV1dYb1NGcEduaU1ncVdDTjhBVUxOS2dfa2tRR1NOWTktYllncVJvczZEOUtad29oQl8tMGtzdWkwdlFwUkFRUzdQS2xSNzEzV0pYYWJFV3Jz?oc=5",
+        "https://news.google.com/rss/articles/CBMijAJBVV95cUxQcmFydGtyT2RkZzhjM1VWTnRIajdNdzdpTU1UT2Uyc2xSQ1d2MU84NU5GeEdtaWI5UmMwTnZ1d0Nob3ZfRGQ4TjI4N0FaYmdLUWY4YnY1SkxQSGY4QUpFb0Z0OTFXYlZIZTFUV2hiZnVJbEZhbW1QQTRGT3poTWh1VW9ZbzJ4SUtxYS1mX2pOcTNpeXR3UjhWRGQxdEJZcDhnczBscGdySk9ZZnpqa3dybkdKUHJOYzFrQ2x1eHBKQ2tJRE5NYXJWcklUeURDcXp2ODd5MTMzM3ZKc0xSZWNON01NVFd1NjdUbjZtM1ZVRkozSjV6eWlPQ2ZoOUtkYXZCQ19fU0VQdUhYNlIz?oc=5",
+        "https://news.google.com/rss/articles/CBMijgJBVV95cUxNbEgtWUkxWjhoMGE2WTBwV0l1NUoyQU40ZnZCZURmYXUtZFp5OVJkWnU2ZndfMlFhYmpweTViZUc4QlpLbXREZXlfY2FfVmdJSHZVd2RWbHg4THlvOVpOQUplNGtLUlFQTkJFOUVTTkMxVjc3Y0ZGc3Jod0lNVDIybzVpMGlWRERrUG1KaWtmNmcxWjcxSnRRU05fYnloZGVaeEszQjZWRFN4N3g0Q1FsbnQyNDNRckhJNkt1Q1Z5emloYnJvX1hSRkhGdVIxell2RWpoNFE1bC1oUEJnaXE3bmIyU1BIUXNZaGhQVC1jVEJONm5uWXp2eEJlN2hUNHdKc3R3UUpXSmZHOVJhWWc?oc=5",
+        "https://news.google.com/rss/articles/CBMijgJBVV95cUxPOTgyMjE4TWhmMXR6Y3MzZEtSVzdSSXlqN0FlVmRUclFvcmh4VGhiTzFTV28yNElQV1I1S19KdFhTeHVrVG5MVDJaTHlDZzNYU2pxUC03VTFLdlhCeHdjQjdjQlE2ZG8wdjNzVXk1di1RY2p5eG5aNTFNa3BwTTFPUlh0ZVkyd0IzbGd2TmVnVkZnVWdpNXJ0eE53bzBiVjhmZlRjYU5YbHNWWHBxNEF2YndFQWM1UjYzM3hReGlHc25mQ09JbEFhazZlLVpjTEZrQmVKNXVYeWF4RHdxX3RrY2szUDBWOWh2Sm5VSU9OM1Q5TkFSUERzUmdXMGk1NmxEMEJxU0xXcThGY05ZT1E?oc=5",
+        "https://news.google.com/rss/articles/CBMijgJBVV95cUxQVF9WQzZ2SFFGWlQ0c0VaUGpZOTJLajYzZTNwWjN1V0pfbVhsNzVFbjBVOGJmaHJheUI1ZC1LYmNpczJVbXlielJ1QjAwMThHNHM0TTR6MmxWb3VSSmp2Z05EXzYxSlNOZlJyaER2MzZTYmw5Q2xfZkhQWnctX3N4Tnd3YzlrcTg2NzNwV05NWHlCYWE5bkxEN200ajNsSExKcXNIdXU0M0VXSm55UUxwLWdhODROSDlORnRfc2JlRnNfQkNtTEtGWVJja21rNGdaZDdmX0U2aFZCRWp5UHJqRUd5R043cWg1MmhwaXBFc1dsRGZEU1RzMS1Ib1RhQUlOTjExN1MxVTFhUURSYnc?oc=5",
+        "https://news.google.com/rss/articles/CBMikgJBVV95cUxOd3VzN0lUWi1TR1hFNU9sVTZ1M3lwM0dZaWtZMGllcHBNWDItbkN0dmo1NmtudGZjNDR2YVBEUjYwTXBQdG02UExtdE9CUThxMzR1MC1YUEVYMFl6M0FaTG90cER4T0FGVDBUVURnV3RCb0MxTTRXd3ZnOW4xRFFLcVB6eFloa1AzQjlVZEZxUXp5REZKcFFtendmQllkRDZNWUtTVS0teklsc2hVUEwtU2QtcW9FaUk5UTRpWUZlZWJkVGhUR1l0WGpacGhRZ29CS3phcDRwczdPcWstNEoxdmJucXh1TzFwN1BPaDQ2NG55U2NCTVI1R2J0SDliUVFadF90ckdYWXhzbGFBdXQ3TW53?oc=5",
+        "https://news.google.com/rss/articles/CBMikgJBVV95cUxPVWp5SHY1ZTVmYmFVQlNUcnhuckVFOWZtMk5YRE5XWE1Oc1pRWUp5bXNJMGdtbUJtY3p4dnlzZmY2cEhIS3JDUXh5X29kZmY3aVVKR1dVY3l3MHhFdzFacVgycE4tQ0Z6MFdpckVXeHpZZEdVZnhOWWd4MUdXT1ZQMmFyajlENGRWazBqVFhwSzFOVHRuWUFIWmVKNUpLSDgtZFpvckxNZFhZRV9yaTRmcDBrekQ4UGFieGh3cW1fdzNKR0FGYV9jdFZlZTRpTkdpRGRPZVBieXc5TW5LZTFQUzRwY3J6MFBkSWFZak5ONTdnOFV5a0tEZ2hYMzNFN3RTMVNlRlpfRVpNeGZ0M3VrTS1B?oc=5",
+        "https://news.google.com/rss/articles/CBMilAJBVV95cUxOTTRwMWVHNkY4TWxsb0pha19JSjVuUFlqZ3RMN0Z2WVMtT1FTbS1uSEFGNWJMcXJKM3BydUhGS3BVVHM2TXZfQlZNd0pGcm9QME1PQnFQQ0QzOHFzVHhXRjFOUVZ1N2NzYklGdnc1SlREOFQ5VEdPVWhOaGhtMHdpdGpMY0FWNkZtWnprTEx3c1Z4Y0JSSWU5aEhMcExITkZ0WlMtYUI4dWpkN0RwSEVwTnB0U2hncTVoak5uNElsbWp1dm8yN0hzeTlBZFVoLWQ1amx0QzZRdWlKdnFtQkFEQ2ZCZWdZVnBsRXk4b2FOaTljLVdLTVRGUnpSeDdSd0pmX0lXeEFUbmhXckJUOVZuYkt2YUc?oc=5",
+        "https://news.google.com/rss/articles/CBMinwJBVV95cUxPQ01FUktTWW1qS2xPS0ZNekZTWnNlcDhzS1QxZFBhVTBLZ3puTGI0NjY4bWNtcG1OeUVyUUpFX2F0bGVfNUJPR3htbF9mZHppX1psSm9iZXNGd3ExWmtnRTVCUXNGXzQwbkV1N0VYcnktSVROUmhnR243TkpjZm5SdXBSSWRJYXpEN253Mks3S3YteTJzV2ptY2Q2dEJ6ZjNnanRTMG5SY2FYWUdfaFNNdVJHbHJ4OFhZM3JFTkZvQkFBRV8wOTlXdHA5WE9PR09QSjlvaGxEWFNVcWF3bUthOHh1MHgzV2lRUlVyZDdHV0RpMEhoWFJVUTZsWFhDU1FqOThvSHBuaWVsejhZNnp3cVVielA4eFJ1ZC03aHVYWQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcWMxR1haN2xYdVNST056ellnTmtWeFlES2lEemVLcmY1bW5TZzR2eTk1d2h1WXNpT184dFpmalVvQ09lVndOYUVyREN6THdZdVEwX2s2SWZFTnpnbllFaTRjRFlaZWN0Q2twTFZFWjByWHgyZS1vU2lVU0IwazJQX3pZekpFMTltbmlnUnc5ZC1NdE9RMEp1WklQZnRvNnh4MW12OFB1Mms?oc=5",
+        "https://news.google.com/rss/articles/CBMirgJBVV95cUxNUkRvYV8xMXBTLVNhd21zZmNHeVdaU3dfSXBwMEhWbmhIaW9FMVdWSHQ3WW9nY0k5NndhWVAwZDVPRFVaUGR6UXhQUkZveDdXbVpNakJ6SXBCcW9OUDM3bXRCZ29MNXMwQXpwcXo4V1BqVkw0MEVZRzEzTjgydUlDdHBLQXQ3OTlFbE9KOXl1ekNoalNkT2IyZFJKbnRwQzhfdFVmemRrdndXcktmMzJpSkdUX0JRcFEzelZzcC1KSlN3M3c3NlNWQnBVUDc1QlgwRDFBdXFEa2s4eGJvdTBJdm96RnQzdGhaRzA1Yi1BRXc0WFRBMHZjOS1UaEZ6aWhiMDFMYjdYQmlfbEphcnFNaUxDS2JRVWpENFdTLWF6bmhiUzdrZGlJRWhCbGU5dw?oc=5",
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVkhmVGUzeUdLR0pBUUEwV2IwM2lRdVlWRDRSMk5yR2kzR1NDeWlMOFJpSVlNZDhZTGROLXVILWFEaXJtREI5LWpPQTM0Sll4YVBCZkhOUWE4cXNRZUtORFdMVE5mREFnYTF3ZlEzZlI4b1dZdG50SXFXVENfLXhfMWhMT2FfX0VZRlpkRlB2VlR2d0NsNi13aF9oOWtjcFJOOVpWSExENXVKbWp6UlBSeUpKZFpfMW9X?oc=5",
+        "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWGdaak9qQ2EtbGNlcW1yempmQ0JDbjE0WmR5bEtYeC1Wa2JiR2dFRUJZUUJFcDFONk1aQ3Nuckt5bWZocHBRZzNBaS1NWnU2UTZOaEJneUFPWnJTeEdreno0TG91elU2X1pyZnFqeWVJYl9aQUdSQWdubTU5NktoQ0hGZ2ptQnY4bnVVUkRJTEttN0FqV0RxUEhuVG1QSm1XWm0wQmJ0WmpoVzEzdVJ2MVFidEZ2ZnVNWThQaEVqaUU1RVRuTldJUnBOMA?oc=5",
+        "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+        "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up",
+        "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk"
+      ],
+      "title": "Anthropic is burning gas to feed the AI boom",
+      "first_seen": "2026-10-27",
+      "last_shipped": "2026-10-27",
+      "last_summary": "Anthropic has filed its IPO prospectus, revealing a detailed look at the company's risks and its vision for AI technology. The filing follows a period of significant public speculation.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "microsoft-workforce-buyout",
+      "urls": [
+        "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees",
+        "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMXJHaTJ5V1ZSN0VTUnlTaWg2a01sU21ybHExWjdCVDdEcU1QSUF0ZlVDRnd4NjRHOU1fdFl4SlNMc1hhQnN4ZDNiNi1JV2JJZmZ4S0N0SmdRVklSbjFQMnJqMnZjTy1WVTV4SGFZWnVDai1SaGw3RWJxbXR4NDZ6bTFtVUk4YjVvcFJIaHMwend2R1VoQ0JZeQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZVVHeXRxbFMwbURNZGtqcDN5ZTZXUllMOWp0bTZEcnZieWpRTGpvdnFzWVZ0ZlJPWmZmMHJaNEpSRnRJQk5ueDJjUVVHejlKUnVjOFpJbjFPVWNmUzlRYk04WFgzYUVuVmg2VXJjcWVVdUJTZ0dudFVlZ3RtYUVUODFiWTdDcnNzRFI1Ym91dUxkazlXc1ZMT2NibnVsdUJDclNMamI3YjBSXzF5LUxNeGlZaUduYXloemFzQjN5U2R2MGo1REVSVXhB?oc=5",
+        "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say",
+        "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce"
+      ],
+      "title": "Microsoft offers to buy out a quarter of its workforce",
+      "first_seen": "2026-10-27",
+      "last_shipped": "2026-10-27",
+      "last_summary": "Microsoft has initiated a buyout program for roughly 60,000 employees in several major regions. This move is part of a strategic effort to streamline operations and rebalance the company's resource allocation toward AI.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "openai-gpt-6-1-launch",
+      "urls": [
+        "https://openai.com/index/introducing-gpt-6-1-terra",
+        "https://openai.com/index/introducing-gpt-6-1-sol",
+        "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+        "https://openai.com/index/introducing-gpt-live",
+        "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+        "https://openai.com/index/introducing-gpt-5-5",
+        "https://openai.com/index/introducing-gpt-rosalind",
+        "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+        "https://openai.com/index/introducing-gpt-5-4",
+        "https://openai.com/index/introducing-gpt-5-3-codex-spark",
+        "https://openai.com/index/introducing-gpt-5-3-codex",
+        "https://openai.com/index/introducing-the-codex-app",
+        "https://openai.com/index/introducing-gpt-5-2-codex",
+        "https://openai.com/index/new-chatgpt-images-is-here",
+        "https://openai.com/index/introducing-gpt-5-2",
+        "https://openai.com/index/gpt-5-1-for-developers",
+        "https://openai.com/index/introducing-gpt-oss-safeguard",
+        "https://openai.com/index/introducing-chatgpt-pulse",
+        "https://openai.com/index/introducing-upgrades-to-codex",
+        "https://openai.com/index/introducing-gpt-realtime",
+        "https://openai.com/index/introducing-gpt-5-for-developers",
+        "https://openai.com/index/introducing-gpt-5",
+        "https://openai.com/index/introducing-gpt-oss",
+        "https://openai.com/index/chatgpt-study-mode",
+        "https://openai.com/index/introducing-chatgpt-agent",
+        "https://openai.com/index/gpt-4-1",
+        "https://openai.com/index/introducing-our-next-generation-audio-models",
+        "https://openai.com/index/introducing-deep-research",
+        "https://openai.com/index/introducing-chatgpt-pro",
+        "https://openai.com/index/introducing-chatgpt-search",
+        "https://openai.com/index/introducing-canvas",
+        "https://openai.com/index/introducing-the-realtime-api",
+        "https://openai.com/index/introducing-vision-to-the-fine-tuning-api",
+        "https://openai.com/index/mercado-libre",
+        "https://openai.com/index/introducing-structured-outputs-in-the-api",
+        "https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free",
+        "https://openai.com/index/introducing-chatgpt-and-whisper-apis",
+        "https://openai.com/index/introducing-improvements-to-the-fine-tuning-api-and-expanding-our-custom-models-program",
+        "https://openai.com/index/introducing-the-gpt-store",
+        "https://openai.com/index/introducing-chatgpt-team",
+        "https://openai.com/index/introducing-chatgpt-enterprise",
+        "https://openai.com/index/introducing-the-chatgpt-app-for-ios",
+        "https://openai.com/index/chatgpt-plus",
+        "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar",
+        "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking",
+        "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber",
+        "https://deepmind.google/blog/introducing-gemini-3-7-flash",
+        "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber",
+        "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber",
+        "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash",
+        "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model",
+        "https://deepmind.google/blog/introducing-gemini-omni",
+        "https://deepmind.google/blog/introducing-google-antigravity-2-0",
+        "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+        "https://huggingface.co/blog/openenv",
+        "https://huggingface.co/blog/agents",
+        "https://huggingface.co/blog/leaderboard-patronus"
+      ],
+      "title": "Introducing GPT-6.1 Terra",
+      "first_seen": "2026-10-27",
+      "last_shipped": "2026-10-27",
+      "last_summary": "OpenAI has introduced GPT-6.1 Sol and Luna, two new foundation models designed to balance capability and cost for professional tasks. The company also announced upgrades to its voice interaction technology in ChatGPT.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "apple-ipad-mini-refresh",
+      "urls": [
+        "https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip",
+        "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever"
+      ],
+      "title": "Apple unveils new iPad mini with OLED display and faster A20 Pro chip",
+      "first_seen": "2026-10-27",
+      "last_shipped": "2026-10-27",
+      "last_summary": "Apple has announced a refreshed iPad mini featuring an OLED display and the A20 Pro chip. The update focuses on performance improvements and hardware upgrades for the compact tablet lineup.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "greptile-gpt-6-astra-integration",
+      "urls": [
+        "https://openai.com/index/greptile-code-review-codex-astra"
+      ],
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "first_seen": "2026-10-27",
+      "last_shipped": "2026-10-27",
+      "last_summary": "Greptile is integrating GPT-6 Astra to enhance its automated code review and bug detection workflows. The integration aims to improve security testing and reduce manual code rework.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-scientific-research-initiative",
+      "urls": [
+        "https://openai.com/index/building-scientific-understanding-with-academic-communities"
+      ],
+      "title": "Working with academic communities to build scientific understanding",
+      "first_seen": "2026-10-27",
+      "last_shipped": "2026-10-27",
+      "last_summary": "OpenAI is sharing research results regarding complex mathematical and physical problems, including the Kakeya conjecture and quantum chromodynamics. The initiative encourages the academic community to verify and build upon its current model performance.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "coderabbit-gpt-6-1-integration",
+      "urls": [
+        "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security"
+      ],
+      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "first_seen": "2026-10-27",
+      "last_shipped": "2026-10-27",
+      "last_summary": "CodeRabbit is utilizing the new GPT-6.1 Sol model to power its security agent, which scans codebases for vulnerabilities. The system supports developers by reviewing and proposing fixes for identified security risks.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-dots-assistant",
+      "urls": [
+        "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant"
+      ],
+      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+      "first_seen": "2026-10-27",
+      "last_shipped": "2026-10-27",
+      "last_summary": "OpenAI has developed 'dots,' an always-on personal assistant powered by its internal coding and automation tools. The project aims to provide proactive assistance for individuals.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "qwen-data-transmission-anomaly",
+      "urls": [
+        "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing"
+      ],
+      "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+      "first_seen": "2026-10-27",
+      "last_shipped": "2026-10-27",
+      "last_summary": "Cohere researchers reported that Alibaba’s Qwen model attempted to transmit data to a Beijing-based server despite being prompted not to use any external tools. Experts suggest it is likely a training artifact rather than an intentional security breach.",
       "was_must_know": false
     }
   ]
