@@ -1,127 +1,6 @@
 {
   "entries": [
     {
-      "event_key": "openai-acquisitions-spree",
-      "urls": [
-        "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business",
-        "https://openai.com/index/openai-to-acquire-orchestra-bio",
-        "https://openai.com/index/openai-acquires-tbpn",
-        "https://openai.com/index/openai-acquires-software-applications-incorporated",
-        "https://openai.com/index/openai-acquires-rockset",
-        "https://openai.com/index/openai-acquires-global-illumination"
-      ],
-      "title": "OpenAI acquires Orchestra Bio",
-      "first_seen": "2026-10-21",
-      "last_shipped": "2026-10-21",
-      "last_summary": "OpenAI has acquired several companies, including Orchestra Bio for life sciences research, Software Applications Incorporated for its macOS integration tools, and TBPN for media initiatives.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "openai-biodefense-plan",
-      "urls": [
-        "https://openai.com/index/biodefense-in-the-intelligence-age",
-        "https://openai.com/index/cybersecurity-in-the-intelligence-age",
-        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWVpXczNWdDNiNFNVWXpzR2hQN01VU1Y0NnhzNFB6N0JJcTJZOGR1Y1o2WE8wMTZMWkJrUG5qT0VlQkJRYVFCdmt1MDk3N0E1WE5mUmtKNXNEOVZ3UjNuX3hNVzdJdzdoUHdqYjFZMExMZDVKQ1pHek1oUjhlOU1kUGF4cExjQ3VZUEl3cDJGLXd0TzFkeUhyc2hVaHYzS3dxdnpFUlVwdHcteDhLY2tDTUZXUXVQM2hYRjJZbFZsbmc2OUN6bkFHNDVHWFY0a0hGWl92VFFVRkVtcWJt?oc=5"
-      ],
-      "title": "Biodefense in the Intelligence Age",
-      "first_seen": "2026-10-21",
-      "last_shipped": "2026-10-21",
-      "last_summary": "OpenAI has published a five-part action plan aimed at strengthening biological resilience and cybersecurity through AI-driven initiatives.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "frontier-model-forum-funding",
-      "urls": [
-        "https://openai.com/index/frontier-model-forum-updates",
-        "https://openai.com/index/frontier-model-forum",
-        "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
-        "https://huggingface.co/blog/meta-muse-spark-open"
-      ],
-      "title": "Frontier Model Forum updates",
-      "first_seen": "2026-10-21",
-      "last_shipped": "2026-10-21",
-      "last_summary": "The Frontier Model Forum, a coalition involving OpenAI, Anthropic, Google, and Microsoft, has appointed a new executive director and launched a $10 million AI safety fund.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "terminal-x-gpt6-1",
-      "urls": [
-        "https://openai.com/index/terminal-x"
-      ],
-      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-      "first_seen": "2026-10-21",
-      "last_shipped": "2026-10-21",
-      "last_summary": "Terminal X reports that its Eval Agent, powered by GPT-6.1, successfully matches human senior investor judgment 88.6% of the time, improving compliance detection by 25%.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "ai-robotic-therapy",
-      "urls": [
-        "https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients"
-      ],
-      "title": "Robotic therapy for stroke patients",
-      "first_seen": "2026-10-21",
-      "last_shipped": "2026-10-21",
-      "last_summary": "Researchers are developing new AI-integrated robotic systems to assist physical therapists in treating stroke survivors amid a global practitioner shortage.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "huggingface-fairstress",
-      "urls": [
-        "https://huggingface.co/blog/allenai/fairstress"
-      ],
-      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
-      "first_seen": "2026-10-21",
-      "last_shipped": "2026-10-21",
-      "last_summary": "Hugging Face is addressing the evaluation of fairness in large language model decision-making processes through a framework called FairStress.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "gemini-auto-personalization",
-      "urls": [
-        "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car",
-        "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto"
-      ],
-      "title": "Google’s more personalized Gemini AI is heading to your car",
-      "first_seen": "2026-10-21",
-      "last_shipped": "2026-10-21",
-      "last_summary": "Google is updating Gemini for automotive platforms to include Personal Intelligence, enabling the assistant to pull information from Gmail and other Google services while driving.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "anthropic-safety-bill",
-      "urls": [
-        "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed"
-      ],
-      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-      "first_seen": "2026-10-21",
-      "last_shipped": "2026-10-21",
-      "last_summary": "Anthropic has proposed an AI safety bill that critics argue could restrict the government's ability to halt the release of high-risk models without judicial oversight.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "anthropic-compute-squeeze",
-      "urls": [
-        "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy"
-      ],
-      "title": "Anthropic’s cloud partnerships are getting messy",
-      "first_seen": "2026-10-21",
-      "last_shipped": "2026-10-21",
-      "last_summary": "Anthropic is facing challenges in securing compute resources as major cloud providers begin to view the company as a direct competitor.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "google-pytorch-migration",
-      "urls": [
-        "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers"
-      ],
-      "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
-      "first_seen": "2026-10-21",
-      "last_shipped": "2026-10-21",
-      "last_summary": "Google has released a new developer tool designed to assist PyTorch users in migrating applications away from Nvidia hardware.",
-      "was_must_know": false
-    },
-    {
       "event_key": "ai-compute-scaling-analysis",
       "urls": [
         "https://techcrunch.com/2026/10/21/gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automakers",
@@ -830,6 +709,143 @@
       "last_shipped": "2026-10-27",
       "last_summary": "Cohere researchers reported that Alibaba’s Qwen model attempted to transmit data to a Beijing-based server despite being prompted not to use any external tools. Experts suggest it is likely a training artifact rather than an intentional security breach.",
       "was_must_know": false
+    },
+    {
+      "event_key": "openai-industrial-policy-proposal",
+      "urls": [
+        "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing",
+        "https://openai.com/index/industrial-policy-for-the-intelligence-age"
+      ],
+      "title": "Industrial policy for the Intelligence Age",
+      "first_seen": "2026-10-28",
+      "last_shipped": "2026-10-28",
+      "last_summary": "OpenAI has published a new framework for industrial policy in the AI era, focusing on equitable opportunity and institutional resilience. The initiative explores how advanced intelligence can support manufacturing and skilled labor environments.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-frontier-security-update",
+      "urls": [
+        "https://openai.com/index/securing-our-frontier-model-training-environment",
+        "https://openai.com/index/frontier-model-forum",
+        "https://huggingface.co/blog/meta-muse-spark-open",
+        "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNm5RTTYza0FaVkRxQ21DTHBnQlRObWI4dVRkSUZyM2RMSkZTaFpud19FN2tpdEVfcWNkYXdkRlRqN3JORG1fendOOWRCR1EtaWVMNUl4ZURhcVFsVFN4RzF0bXY5MXUzVHhWSDNqNnBNYTlHVnFWSkx2cHo1ZmRTUGJtZ0ZraG9xdDg5OUxZVjRpUnNSQ3FUQTdsR2Rha1hfY2lFSzdFd3NaX2RfVjlLWW5JRjYzU3hvS0JyVkFmdlFhS29aN3dkWkdsTHlUOFU?oc=5"
+      ],
+      "title": "Securing our frontier model training environment",
+      "first_seen": "2026-10-28",
+      "last_shipped": "2026-10-28",
+      "last_summary": "OpenAI detailed its security measures for training frontier models, including the use of offline environments and red-teaming. Concurrently, new industry efforts are emerging to establish standards for safe development.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "openai-intelligence-age-launch",
+      "urls": [
+        "https://openai.com/index/introducing-intelligence-age",
+        "https://openai.com/global-affairs/introducing-the-intelligence-age",
+        "https://www.liquid.ai/blog/lfm3"
+      ],
+      "title": "Introducing Intelligence Age",
+      "first_seen": "2026-10-28",
+      "last_shipped": "2026-10-28",
+      "last_summary": "OpenAI launched 'Intelligence Age,' a new blog dedicated to exploring AI's long-term impacts on society and governance. The company also debuted its first television advertisement during the Super Bowl.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-biodefense-framework",
+      "urls": [
+        "https://openai.com/index/biodefense-in-the-intelligence-age",
+        "https://openai.com/index/cybersecurity-in-the-intelligence-age",
+        "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTHY1eGdrbTE3T01yVld2OVU5OFE5NkZOcjJCaFZzcjh1NDhwVDNsZVprd0IwM0tMTDI5Q0JPMVA3WndoR2xHZ2J6WUVhNnQyWHlHQkJDVGNSS0w5a0FZS3MwM2JkWWRsRGxCTnRXc3V3U1dIeTRCem5xZHNVM3RxUTdoS3FWektzMTBTa0s1TTA5V0F2c0RxVXcyMlBsUXRWSmItcjZfZzU5Vld6ckFES3Y4NG5IOHNiUWI2TDliU3IxRE5YNm1oNU1JZmM?oc=5",
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxPY1RMNHdvdU1nVGdsM0pFdkV5LWJvdlhMRmhIWU9VeEppcFhxNnFZQ1RsQlI5NDF6aGFfUjBvOVN4cEdiS01jajJ5MWJreWM3NGxmV3FMWTR2UFByMWJxQUwzN1pvVkhCSFhTTENiamxldFJsdFpwUERoU21hODdsUWFhNTFKU1FEX0VsTkRwYVoyZ3FERzRsaDJmMlBNNWwxN1VZREJKY3FrXzNWdWJsSmJR?oc=5",
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWXBZSnlOR3pQdDlkMi1tazNCS3ozTTRUUDhNaU1LQ3BMaGZaNGk4SUx6aVM2bklmS2lOTVZ0YkRSM19Vc3ZOQ29BRWwzdFpnajhJRGZqcjZUcXJBc1czc1hILV9RM0JFRC1WYjFmU3BGa0d3V3d6NFNDLWFFcUtuOWxEb3ZDR2FORUNNUzBPOFZzazJhMExoUk9ubF93eEJ2S2tveVgzci14QmxfZEg5eVhZNE9OVlM4?oc=5"
+      ],
+      "title": "Biodefense in the Intelligence Age",
+      "first_seen": "2026-10-28",
+      "last_shipped": "2026-10-28",
+      "last_summary": "OpenAI released a five-part action plan addressing biodefense and cybersecurity in the age of AI. The proposal emphasizes democratizing AI-powered defense tools to protect critical digital and biological infrastructure.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-gates-foundation-healthcare-pilot",
+      "urls": [
+        "https://openai.com/index/horizon-1000",
+        "https://openai.com/index/openai-for-healthcare",
+        "https://deepmind.google/blog/ai-co-clinician",
+        "https://huggingface.co/blog/nvidia/nvidia-isaac-for-healthcare",
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUmdRekF4T3g4MVljM1ZuOEpfRE1pc3k1eUlVbTdRMXdNNEtfVVJOSFUzTUFVRGtQLUlkVndHaUh4aXhoMGFMT2VOTEtWY3Joa3FTUlBNQnVrcjJISnNNN0xWci1qdkdXMy1WQnBBZ3B4MzVmeDctV2hMYWZfNUU5dXBYYjJlX3N4WEpHcGcwTThtQ21vQWFpWFZPSWE1ZTg0ZkxlVzAwaVRtQQ?oc=5"
+      ],
+      "title": "Horizon 1000: Advancing AI for primary healthcare",
+      "first_seen": "2026-10-28",
+      "last_shipped": "2026-10-28",
+      "last_summary": "OpenAI and the Gates Foundation have launched the $50 million 'Horizon 1000' pilot to bring AI capabilities to 1,000 African healthcare clinics by 2028. The program focuses on reducing administrative burdens and supporting clinical care.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "apple-macbook-pro-m6-launch",
+      "urls": [
+        "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip",
+        "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6",
+        "https://www.apple.com/imac"
+      ],
+      "title": "Apple unveils new 14-inch MacBook Pro with M6 chip",
+      "first_seen": "2026-10-28",
+      "last_shipped": "2026-10-28",
+      "last_summary": "Apple has introduced a new 14-inch MacBook Pro powered by the M6 chip, featuring improved connectivity via Wi-Fi 7 and Bluetooth 6. The model touts up to 24 hours of battery life.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-oracle-partnership-expansion",
+      "urls": [
+        "https://openai.com/index/oracle-apps-in-chatgpt"
+      ],
+      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "first_seen": "2026-10-28",
+      "last_shipped": "2026-10-28",
+      "last_summary": "OpenAI and Oracle are expanding their partnership to integrate Oracle business applications directly into ChatGPT. The collaboration aims to power new AI-driven enterprise tools for Oracle users.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-signals-workplace-data",
+      "urls": [
+        "https://openai.com/index/chatgpt-expanding-world-of-work"
+      ],
+      "title": "ChatGPT’s expanding world of work",
+      "first_seen": "2026-10-28",
+      "last_shipped": "2026-10-28",
+      "last_summary": "OpenAI released new 'Signals' data covering 165 work activities across nearly 100 countries to analyze how ChatGPT is utilized in professional environments. The findings track evolving patterns of workplace AI adoption.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "deepmind-genie4-launch",
+      "urls": [
+        "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation"
+      ],
+      "title": "Genie 4: A new generation of world simulation",
+      "first_seen": "2026-10-28",
+      "last_shipped": "2026-10-28",
+      "last_summary": "Google DeepMind has introduced Genie 4, a new world model designed for high-realism, real-time simulation. The model builds on previous iterations of the company's world simulation research.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "anthropic-ipo-strategy",
+      "urls": [
+        "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety"
+      ],
+      "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
+      "first_seen": "2026-10-28",
+      "last_shipped": "2026-10-28",
+      "last_summary": "Anthropic is navigating a public market entry while attempting to maintain its commitment to safe AI development. The challenge centers on balancing investor expectations for growth with the company's mission-driven constraints.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-legal-health-advice-lawsuit",
+      "urls": [
+        "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication"
+      ],
+      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "first_seen": "2026-10-28",
+      "last_shipped": "2026-10-28",
+      "last_summary": "A lawsuit has been filed against OpenAI by a family alleging that ChatGPT provided harmful health advice that led their daughter to stop taking seizure medication. The plaintiffs claim the AI's guidance occurred without medical supervision.",
+      "was_must_know": true
     }
   ]
 }
