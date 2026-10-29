@@ -1,0 +1,276 @@
+{
+  "date": "2026-10-29",
+  "intro": "Today's tech landscape is defined by the rapid integration of advanced AI models into corporate and consumer workflows. Major players like Google and Microsoft continue to drive growth through AI-powered search and cloud advancements.",
+  "must_know": [
+    {
+      "cluster_id": "2a3a69bc67883928",
+      "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+      "summary": "Google has released Gemini 4 Carbon, a new frontier model claiming top performance on Artificial Analysis Intelligence Index benchmarks with improved capabilities in cybersecurity and coding.",
+      "why_it_matters": "As the latest entry in the frontier model race, this release directly challenges the market positions of competing models like Claude Opus and GPT-6.",
+      "topic_ids": [
+        "foundation-models",
+        "research",
+        "big-tech"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier"
+        },
+        {
+          "name": "Hacker News Front Page",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon"
+        }
+      ]
+    },
+    {
+      "cluster_id": "7ce2c248469b55d0",
+      "title": "Google says its investments in AI are driving more searches",
+      "summary": "Alphabet's Q3 2026 earnings indicate that AI-driven features are directly contributing to the highest year-over-year search query growth seen in recent periods.",
+      "why_it_matters": "This validates the commercial hypothesis that generative AI integration improves core search utility and engagement.",
+      "topic_ids": [
+        "big-tech"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026"
+        }
+      ]
+    },
+    {
+      "cluster_id": "2c03ddb418ae55de",
+      "title": "Microsoft reveals strong cloud growth amid financial reporting overhaul",
+      "summary": "Microsoft reported strong fiscal growth for Q1 2027 with $92.3 billion in revenue, driven by robust performance in its cloud division.",
+      "why_it_matters": "Microsoft's continued cloud growth serves as a primary bellwether for the overall health of enterprise AI infrastructure investment.",
+      "topic_ids": [
+        "big-tech"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027"
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "foundation-models": [
+      {
+        "cluster_id": "eccccd6007707867",
+        "title": "The future of the firm",
+        "summary": "Major AI firms are detailing how models are being integrated into organizational workflows, ranging from education-focused features in ChatGPT to enterprise-grade AI software development.",
+        "why_it_matters": "Understanding these real-world integrations is key to seeing how AI is moving from a novelty to a practical business component.",
+        "topic_ids": [
+          "foundation-models",
+          "tools"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/the-future-of-the-firm"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/teens-learn-and-plan"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/omio"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/sea-david-chen"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/pvh-future-of-fashion"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/gpt-5-mathematical-discovery"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/global-affairs/eu-code-of-practice"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/global-affairs/aft"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/wayfair-fiona-tan"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/morgan-stanley"
+          },
+          {
+            "name": "Google DeepMind Blog",
+            "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents"
+          },
+          {
+            "name": "Google DeepMind Blog",
+            "url": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe"
+          },
+          {
+            "name": "Hugging Face Blog",
+            "url": "https://huggingface.co/blog/cybersecurity-openness"
+          },
+          {
+            "name": "Hugging Face Blog",
+            "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3"
+          }
+        ]
+      },
+      {
+        "cluster_id": "90eee2ffc694f9a5",
+        "title": "What building an AI-native finance function taught me",
+        "summary": "OpenAI CFO Sarah Friar outlined strategies for developing AI-native finance functions, while AWS introduced AgentCore for building agentic AI platforms.",
+        "why_it_matters": "Financial leaders are beginning to standardize the integration of AI models into core corporate infrastructure and automated workflows.",
+        "topic_ids": [
+          "foundation-models",
+          "tools"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/building-an-ai-native-finance-function"
+          },
+          {
+            "name": "Hugging Face Blog",
+            "url": "https://huggingface.co/blog/ai-webtv"
+          },
+          {
+            "name": "Google News: AI",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRldyOHdWSmREakNkdGgwUmZLMkhWdEt1NlpPWGZmaS1JVEhNeUV0UExEUktoaTk1Q091Rmh3VjlNMnI5a0V1RmFGUmJMTmZIUi1kVTZrQ1hZZmdYcVpfNzFKUXB5SzdjbUVyWUtRZ0V6dVMtZG54MGpJSllnWnF6dXVSc2ctUnpPU25aS1pHbGhGVVU2THFmWVpXTXUwWWZORGx2cU9Qa0VSUQ?oc=5"
+          }
+        ]
+      },
+      {
+        "cluster_id": "0c62d1b8c05503d7",
+        "title": "The Download: dead startups fueling AI and interspecies communication",
+        "summary": "AI labs are increasingly acquiring datasets from defunct startups to train their foundation models as high-quality data sources become more scarce.",
+        "why_it_matters": "The reliance on secondary-market data highlights the growing importance of proprietary data acquisition in the AI training lifecycle.",
+        "topic_ids": [
+          "research",
+          "foundation-models"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication"
+          }
+        ]
+      },
+      {
+        "cluster_id": "bb1f2f07f5994d40",
+        "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+        "summary": "Anthropic has introduced new analytics tools designed to provide corporate clients with transparent visibility into their model usage and spending.",
+        "why_it_matters": "Increasing cost transparency is an essential step for Anthropic as it seeks to scale enterprise adoption ahead of a potential public offering.",
+        "topic_ids": [
+          "foundation-models",
+          "tools"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying"
+          }
+        ]
+      }
+    ],
+    "big-tech": [
+      {
+        "cluster_id": "14bd5a3a69122b7b",
+        "title": "Google expands AI Search ads globally as core ad growth slows",
+        "summary": "Google is expanding its AI-powered search advertising globally as it works to maintain revenue growth amid shifting market dynamics.",
+        "why_it_matters": "The transition to AI-integrated advertising is a critical pivot point for Alphabet's business model.",
+        "topic_ids": [
+          "big-tech",
+          "tools"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows"
+          }
+        ]
+      },
+      {
+        "cluster_id": "090274bcc4740a70",
+        "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+        "summary": "Google has introduced a developer platform allowing third-party services to integrate directly into Gemini and Search, aiming to streamline consumer app discovery.",
+        "why_it_matters": "Google is positioning its AI as an ecosystem hub, potentially shifting user behavior away from traditional app-based interfaces.",
+        "topic_ids": [
+          "tools",
+          "big-tech"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps"
+          }
+        ]
+      }
+    ],
+    "tools": [
+      {
+        "cluster_id": "2c5fcb5691316a28",
+        "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+        "summary": "Google Chrome's AI-powered autofill feature has been updated to parse information from a user's Gmail to automatically populate web forms.",
+        "why_it_matters": "This represents a deeper vertical integration of AI agents into browser-based user experiences.",
+        "topic_ids": [
+          "tools"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms"
+          }
+        ]
+      }
+    ],
+    "hardware": [
+      {
+        "cluster_id": "cfd5e9071be8aa35",
+        "title": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
+        "summary": "Anduril and Qualcomm have announced a partnership to produce the 'BlueChip' laptop, aiming for a fully domestic US supply chain starting in 2027.",
+        "why_it_matters": "This move represents a significant attempt to decouple high-tech hardware manufacturing from existing international supply chains.",
+        "topic_ids": [
+          "hardware"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american"
+          }
+        ]
+      }
+    ]
+  },
+  "continuing": []
+}

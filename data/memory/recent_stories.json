@@ -1,155 +1,6 @@
 {
   "entries": [
     {
-      "event_key": "ai-compute-scaling-analysis",
-      "urls": [
-        "https://techcrunch.com/2026/10/21/gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automakers",
-        "https://openai.com/index/ai-and-compute",
-        "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory"
-      ],
-      "title": "AI and compute",
-      "first_seen": "2026-10-22",
-      "last_shipped": "2026-10-22",
-      "last_summary": "New analysis indicates that compute usage for training the largest AI models has been doubling every 3.4 months since 2012. Additionally, GM announced a new vehicle platform featuring advanced central compute architecture arriving in 2028.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "openai-google-cloud-partnership",
-      "urls": [
-        "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity",
-        "https://openai.com/index/openai-models-google-cloud"
-      ],
-      "title": "OpenAI models are coming to Google Cloud",
-      "first_seen": "2026-10-22",
-      "last_shipped": "2026-10-22",
-      "last_summary": "Google Cloud is adding OpenAI's frontier models, including GPT-6.1 Astra, Sol, and Luna, to its Gemini Model Garden. These models will be accessible to enterprise users via the Google Cloud Marketplace.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "openai-white-house-proposal",
-      "urls": [
-        "https://openai.com/global-affairs/seizing-the-ai-opportunity",
-        "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTWhoV290SHFuV281NGI0TG1RUk1PQXFObTRYeHlndWh2OHlOWnlWWEl4d1dnWTJIMVQ5VEd2NldSd1lJckpsVUpWNjV0NmM3clAxUnY3UDJtQVFieGtiTGVySUxuZTlTWFZoamtqejg2Rnk2b0dhODJWNWhDUDBsVy13RVU3akFuYUc0clU4VU5QN2QxT1pFcg?oc=5"
-      ],
-      "title": "Seizing the AI opportunity",
-      "first_seen": "2026-10-22",
-      "last_shipped": "2026-10-22",
-      "last_summary": "OpenAI has submitted a proposal to the White House detailing a strategy for energy and infrastructure investment to maintain U.S. leadership in AI development.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "meta-data-privacy-penalty",
-      "urls": [
-        "https://techcrunch.com/2026/10/21/meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal",
-        "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html"
-      ],
-      "title": "Meta ordered to pay $25B in case related to Cambridge Analytica scandal",
-      "first_seen": "2026-10-22",
-      "last_shipped": "2026-10-22",
-      "last_summary": "A state-level legal action against Meta concerning historical data privacy practices has resulted in a $25 billion penalty.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "ai-biological-research-agents",
-      "urls": [
-        "https://openai.com/index/scaling-ai-research-for-complex-biological-data"
-      ],
-      "title": "Using thousands of AI agents to uncover new leads in biological data",
-      "first_seen": "2026-10-22",
-      "last_shipped": "2026-10-22",
-      "last_summary": "OpenAI collaborated with Scripps Research and PerturbAI to utilize distributed AI agents for identifying new biological research leads from large-scale brain cell datasets.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "openai-ad-stack-architecture",
-      "urls": [
-        "https://openai.com/index/building-chatgpt-ad-stack"
-      ],
-      "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
-      "first_seen": "2026-10-22",
-      "last_shipped": "2026-10-22",
-      "last_summary": "OpenAI detailed the technical architecture of the ad stack integrated into ChatGPT, focusing on maintaining separation between conversational responses and advertising content.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "openai-governance-blueprint",
-      "urls": [
-        "https://openai.com/index/empowering-cyber-defenders",
-        "https://openai.com/index/frontier-safety-blueprint"
-      ],
-      "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
-      "first_seen": "2026-10-22",
-      "last_shipped": "2026-10-22",
-      "last_summary": "OpenAI published a two-part proposal outlining frameworks for federal AI governance and strategies to empower cyber defenders using frontier model capabilities.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "nvidia-kumo-relational-launch",
-      "urls": [
-        "https://huggingface.co/blog/nvidia/kumo-relational"
-      ],
-      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-      "first_seen": "2026-10-22",
-      "last_shipped": "2026-10-22",
-      "last_summary": "NVIDIA introduced Kumo Relational, a machine learning approach for relational data that reportedly outperforms traditional supervised learning without requiring manual model training.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "meta-stock-issuance-ai",
-      "urls": [
-        "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings"
-      ],
-      "title": "Meta to create a new class of shares to fund AI push",
-      "first_seen": "2026-10-22",
-      "last_shipped": "2026-10-22",
-      "last_summary": "Meta announced plans to issue a new class of non-voting stock starting in 2027 to generate capital for its ongoing AI infrastructure and research investments.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "meta-muse-user-growth",
-      "urls": [
-        "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity"
-      ],
-      "title": "Meta says Muse has over 10M users, with shopping a top activity",
-      "first_seen": "2026-10-22",
-      "last_shipped": "2026-10-22",
-      "last_summary": "Meta reported that its Muse AI app has reached 10 million users, with high engagement in shopping and personal productivity features.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "flapping-airplanes-funding",
-      "urls": [
-        "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation"
-      ],
-      "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
-      "first_seen": "2026-10-22",
-      "last_shipped": "2026-10-22",
-      "last_summary": "AI startup Flapping Airplanes raised $1 billion in Series A funding at a $6 billion valuation to build models with more efficient data training methods.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "tesla-optimus-production",
-      "urls": [
-        "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43"
-      ],
-      "title": "Tesla starts Optimus robot production in California as profit falls 43%",
-      "first_seen": "2026-10-22",
-      "last_shipped": "2026-10-22",
-      "last_summary": "Tesla has commenced production of its Optimus robot as the company navigates a 43% decline in quarterly profits while maintaining heavy investment in AI and autonomous systems.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "recursive-flint-model",
-      "urls": [
-        "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai"
-      ],
-      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
-      "first_seen": "2026-10-22",
-      "last_shipped": "2026-10-22",
-      "last_summary": "Startup Recursive released Flint, a free coding model for laptops that was developed largely using an internal self-improving AI research system.",
-      "was_must_know": false
-    },
-    {
       "event_key": "uber-chatgpt-work-enterprise",
       "urls": [
         "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work",
@@ -846,6 +697,143 @@
       "last_shipped": "2026-10-28",
       "last_summary": "A lawsuit has been filed against OpenAI by a family alleging that ChatGPT provided harmful health advice that led their daughter to stop taking seizure medication. The plaintiffs claim the AI's guidance occurred without medical supervision.",
       "was_must_know": true
+    },
+    {
+      "event_key": "ai-organizational-integration",
+      "urls": [
+        "https://openai.com/index/the-future-of-the-firm",
+        "https://openai.com/index/teens-learn-and-plan",
+        "https://openai.com/index/omio",
+        "https://openai.com/index/sea-david-chen",
+        "https://openai.com/index/pvh-future-of-fashion",
+        "https://openai.com/index/gpt-5-mathematical-discovery",
+        "https://openai.com/global-affairs/eu-code-of-practice",
+        "https://openai.com/global-affairs/aft",
+        "https://openai.com/index/wayfair-fiona-tan",
+        "https://openai.com/index/morgan-stanley",
+        "https://deepmind.google/blog/securing-the-future-of-ai-agents",
+        "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe",
+        "https://huggingface.co/blog/cybersecurity-openness",
+        "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3"
+      ],
+      "title": "The future of the firm",
+      "first_seen": "2026-10-29",
+      "last_shipped": "2026-10-29",
+      "last_summary": "Major AI firms are detailing how models are being integrated into organizational workflows, ranging from education-focused features in ChatGPT to enterprise-grade AI software development.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "ai-finance-platform-adoption",
+      "urls": [
+        "https://openai.com/index/building-an-ai-native-finance-function",
+        "https://huggingface.co/blog/ai-webtv",
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRldyOHdWSmREakNkdGgwUmZLMkhWdEt1NlpPWGZmaS1JVEhNeUV0UExEUktoaTk1Q091Rmh3VjlNMnI5a0V1RmFGUmJMTmZIUi1kVTZrQ1hZZmdYcVpfNzFKUXB5SzdjbUVyWUtRZ0V6dVMtZG54MGpJSllnWnF6dXVSc2ctUnpPU25aS1pHbGhGVVU2THFmWVpXTXUwWWZORGx2cU9Qa0VSUQ?oc=5"
+      ],
+      "title": "What building an AI-native finance function taught me",
+      "first_seen": "2026-10-29",
+      "last_shipped": "2026-10-29",
+      "last_summary": "OpenAI CFO Sarah Friar outlined strategies for developing AI-native finance functions, while AWS introduced AgentCore for building agentic AI platforms.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "google-gemini-4-carbon-launch",
+      "urls": [
+        "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+        "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon"
+      ],
+      "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+      "first_seen": "2026-10-29",
+      "last_shipped": "2026-10-29",
+      "last_summary": "Google has released Gemini 4 Carbon, a new frontier model claiming top performance on Artificial Analysis Intelligence Index benchmarks with improved capabilities in cybersecurity and coding.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "ai-labs-data-acquisition",
+      "urls": [
+        "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication"
+      ],
+      "title": "The Download: dead startups fueling AI and interspecies communication",
+      "first_seen": "2026-10-29",
+      "last_shipped": "2026-10-29",
+      "last_summary": "AI labs are increasingly acquiring datasets from defunct startups to train their foundation models as high-quality data sources become more scarce.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "anduril-qualcomm-domestic-laptop",
+      "urls": [
+        "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american"
+      ],
+      "title": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
+      "first_seen": "2026-10-29",
+      "last_shipped": "2026-10-29",
+      "last_summary": "Anduril and Qualcomm have announced a partnership to produce the 'BlueChip' laptop, aiming for a fully domestic US supply chain starting in 2027.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "alphabet-q3-2026-earnings",
+      "urls": [
+        "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026"
+      ],
+      "title": "Google says its investments in AI are driving more searches",
+      "first_seen": "2026-10-29",
+      "last_shipped": "2026-10-29",
+      "last_summary": "Alphabet's Q3 2026 earnings indicate that AI-driven features are directly contributing to the highest year-over-year search query growth seen in recent periods.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "microsoft-q1-2027-earnings",
+      "urls": [
+        "https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027"
+      ],
+      "title": "Microsoft reveals strong cloud growth amid financial reporting overhaul",
+      "first_seen": "2026-10-29",
+      "last_shipped": "2026-10-29",
+      "last_summary": "Microsoft reported strong fiscal growth for Q1 2027 with $92.3 billion in revenue, driven by robust performance in its cloud division.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "google-ai-search-ads-expansion",
+      "urls": [
+        "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows"
+      ],
+      "title": "Google expands AI Search ads globally as core ad growth slows",
+      "first_seen": "2026-10-29",
+      "last_shipped": "2026-10-29",
+      "last_summary": "Google is expanding its AI-powered search advertising globally as it works to maintain revenue growth amid shifting market dynamics.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "anthropic-spend-analytics",
+      "urls": [
+        "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying"
+      ],
+      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+      "first_seen": "2026-10-29",
+      "last_shipped": "2026-10-29",
+      "last_summary": "Anthropic has introduced new analytics tools designed to provide corporate clients with transparent visibility into their model usage and spending.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "google-ai-ecosystem-integration",
+      "urls": [
+        "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps"
+      ],
+      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+      "first_seen": "2026-10-29",
+      "last_shipped": "2026-10-29",
+      "last_summary": "Google has introduced a developer platform allowing third-party services to integrate directly into Gemini and Search, aiming to streamline consumer app discovery.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "chrome-ai-autofill-update",
+      "urls": [
+        "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms"
+      ],
+      "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+      "first_seen": "2026-10-29",
+      "last_shipped": "2026-10-29",
+      "last_summary": "Google Chrome's AI-powered autofill feature has been updated to parse information from a user's Gmail to automatically populate web forms.",
+      "was_must_know": false
     }
   ]
 }
