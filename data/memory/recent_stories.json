@@ -1,131 +1,6 @@
 {
   "entries": [
     {
-      "event_key": "uber-chatgpt-work-enterprise",
-      "urls": [
-        "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work",
-        "https://openai.com/index/uber-chatgpt-work-rollout"
-      ],
-      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-      "first_seen": "2026-10-23",
-      "last_shipped": "2026-10-23",
-      "last_summary": "Uber is rolling out ChatGPT Work to its entire global workforce of over 30,000 employees. The platform will support tasks such as data analysis, research, and presentation creation.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "openai-jalapeno-chip",
-      "urls": [
-        "https://openai.com/index/jalapeno-first-results",
-        "https://openai.com/index/ai-and-efficiency",
-        "https://huggingface.co/blog/tiiuae/falcon-h1",
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMFE5WXB4Sk41ZEE2NklfWXhlSlp5VzdWbGo0RHRGaFZGUzVtNndBWFR5Q2JwWnN6VDVwcXVHTFdoejZCZGp4RDZkVXFGT3VUNGI5cEIybFE4eEQ1TUM1SVpsYXBRNVZLQ1lUOTcweFVjVnJCaUJKeXRKZ0pxOEpkVkhtZF85QloyQThYME1vMlZFcF9sNEFORmNrOExhLTdFOHlmYmNCcU0?oc=5"
-      ],
-      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-      "first_seen": "2026-10-23",
-      "last_shipped": "2026-10-23",
-      "last_summary": "OpenAI has introduced Jalapeño, a custom inference chip designed to optimize performance and power efficiency for modern AI models. The announcement coincides with data suggesting training efficiency has improved 44-fold since 2012.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "openai-decisions-api",
-      "urls": [
-        "https://openai.com/index/decisions-api"
-      ],
-      "title": "Build more responsive apps with the Decisions API",
-      "first_seen": "2026-10-23",
-      "last_shipped": "2026-10-23",
-      "last_summary": "OpenAI has launched the Decisions API, a tool aimed at providing fast, low-cost decision-making capabilities for software applications.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "canva-craft-model",
-      "urls": [
-        "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model"
-      ],
-      "title": "Canva’s first AI image model plans designs before generating them",
-      "first_seen": "2026-10-23",
-      "last_shipped": "2026-10-23",
-      "last_summary": "Canva has released 'Canva Craft,' an image generation model that utilizes a two-stage architecture to plan designs before rendering them. The model aims to improve control and consistency compared to existing generative offerings.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "meta-data-scraping-policy",
-      "urls": [
-        "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns"
-      ],
-      "title": "Meta&#8217;s AI could still scrape news sites, legal experts say",
-      "first_seen": "2026-10-23",
-      "last_shipped": "2026-10-23",
-      "last_summary": "Legal experts argue that Meta's recent business term revisions regarding data scraping remain insufficient. The changes reportedly fail to address language that allows the company to train AI on news content across various services.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "fcc-chip-surveillance-ban",
-      "urls": [
-        "https://www.theverge.com/policy/1017016/fcc-block-foreign-surveillance-chips-hivision-huawei-loophole"
-      ],
-      "title": "The FCC is beginning to block gadgets with ‘foreign surveillance chips’",
-      "first_seen": "2026-10-23",
-      "last_shipped": "2026-10-23",
-      "last_summary": "The FCC has begun utilizing new authorities to block gadgets containing computer chips identified as threats to national security, citing concerns over foreign surveillance.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "1password-ai-agents",
-      "urls": [
-        "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password"
-      ],
-      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
-      "first_seen": "2026-10-23",
-      "last_shipped": "2026-10-23",
-      "last_summary": "1Password has introduced a secure authentication feature that enables AI agents to log into personal accounts on a user's behalf without revealing the master password.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "canva-image-model-launch",
-      "urls": [
-        "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model"
-      ],
-      "title": "Canva releases its first image generation model",
-      "first_seen": "2026-10-23",
-      "last_shipped": "2026-10-23",
-      "last_summary": "Canva has made its proprietary image generation model available to all users, claiming higher efficiency and customization than previous versions.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "openai-decision-model-expansion",
-      "urls": [
-        "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up"
-      ],
-      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-      "first_seen": "2026-10-23",
-      "last_shipped": "2026-10-23",
-      "last_summary": "OpenAI has expanded the availability of its decision model, aiming to challenge incumbent 'Jev' models in the automation and reasoning space.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "microsoft-ai-medical-diagnosis",
-      "urls": [
-        "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence"
-      ],
-      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
-      "first_seen": "2026-10-23",
-      "last_shipped": "2026-10-23",
-      "last_summary": "A Science study reports that Microsoft's AI diagnostic system outperformed generalist doctors on difficult cases, though analysis suggests the success stems from underlying model performance rather than specific system-level improvements.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "warp-science-robotics-automation",
-      "urls": [
-        "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots"
-      ],
-      "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
-      "first_seen": "2026-10-23",
-      "last_shipped": "2026-10-23",
-      "last_summary": "Warp Science, a startup founded by a former OpenAI science lead, is training robots to automate complex wet lab chemistry tasks using sensor-based human demonstration.",
-      "was_must_know": false
-    },
-    {
       "event_key": "openai-stargate-infrastructure",
       "urls": [
         "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
@@ -833,6 +708,180 @@
       "first_seen": "2026-10-29",
       "last_shipped": "2026-10-29",
       "last_summary": "Google Chrome's AI-powered autofill feature has been updated to parse information from a user's Gmail to automatically populate web forms.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-acquisitions-spree",
+      "urls": [
+        "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt",
+        "https://openai.com/index/openai-acquires-tbpn",
+        "https://openai.com/index/openai-acquires-software-applications-incorporated",
+        "https://openai.com/index/openai-acquires-rockset",
+        "https://openai.com/index/openai-acquires-global-illumination"
+      ],
+      "title": "OpenAI acquires TBPN",
+      "first_seen": "2026-10-30",
+      "last_shipped": "2026-10-30",
+      "last_summary": "OpenAI has recently acquired several entities, including Software Applications Incorporated, maker of the macOS tool Sky, and has invested heavily in other sectors, such as a major deal involving ADT.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "ramp-codex-integration",
+      "urls": [
+        "https://openai.com/index/ramp",
+        "https://huggingface.co/blog/accelerate-v1",
+        "https://huggingface.co/blog/prezi-case-study",
+        "https://huggingface.co/blog/deepspeed-to-fsdp-and-back",
+        "https://huggingface.co/blog/intel-starcoder-quantization",
+        "https://huggingface.co/blog/openvino",
+        "https://huggingface.co/blog/pytorch-ddp-accelerate-transformers",
+        "https://huggingface.co/blog/accelerate-large-models",
+        "https://huggingface.co/blog/bloom-inference-pytorch-scripts",
+        "https://huggingface.co/blog/hf-bitsandbytes-integration",
+        "https://huggingface.co/blog/accelerate-deepspeed",
+        "https://huggingface.co/blog/sempre-health-eap-case-study",
+        "https://huggingface.co/blog/pytorch-fsdp",
+        "https://huggingface.co/blog/habana",
+        "https://huggingface.co/blog/bert-inferentia-sagemaker",
+        "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdW1KaVI4aVBjbHFLX3ZYQThaQ0FGQ0tkTnVVSlRnc292Z3h1Qnd6VERTM1dTX2xmU0t0dC0tVjVYZEtqZzk5Q05RNjNyYnplTTJpR09CR0k1NC0xR28zVy1GZllDRHd4WFRnQWtVTFp2R0dfYVdkeHFXZWxOMkhudEw1WUcwZFdKUTZsWjN5VFhIMDRWNzJITkxxOWs1aXdIOWhzTGRFLVBOaVlnZkE0ZG1Qb1BYZDZLREN0T1ZkZlN1cVloZGZJa3VUdVNndE5QUnVj?oc=5"
+      ],
+      "title": "How Ramp engineers accelerate code review with Codex",
+      "first_seen": "2026-10-30",
+      "last_shipped": "2026-10-30",
+      "last_summary": "Engineers at Ramp are utilizing Codex in conjunction with GPT-5.5 to automate and accelerate the code review process, significantly reducing feedback turnaround times.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-whitehouse-policy-proposal",
+      "urls": [
+        "https://openai.com/global-affairs/seizing-the-ai-opportunity",
+        "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeVZGenR2bUloX0p5YXJGVWRGa3RZdGF0RnpDV201eldWLUppSGpRc21vbWpCOU5Pd015YTkwdE1ja3JoSjBqR3ZpRC1ZSm5GN0JtX0NyaFo2VE1GVHViVEJHa1dIVDdEaUctc3hPSHg2M2ZsMkY1N0JxaWg0Vy03bW13S1drNko3UUtWb3VwazV4ZnQydmRDMA?oc=5"
+      ],
+      "title": "Seizing the AI opportunity",
+      "first_seen": "2026-10-30",
+      "last_shipped": "2026-10-30",
+      "last_summary": "OpenAI has submitted recommendations to the White House emphasizing the need for strategic investments in energy and infrastructure to maintain U.S. leadership in the AI sector.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-model-spec-update",
+      "urls": [
+        "https://openai.com/index/updated-model-spec"
+      ],
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "first_seen": "2026-10-30",
+      "last_shipped": "2026-10-30",
+      "last_summary": "OpenAI released an updated Model Spec document, defining five core values intended to improve model judgment and alignment with human intent.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-agent-monitoring",
+      "urls": [
+        "https://openai.com/index/how-we-detect-frontier-model-misalignment"
+      ],
+      "title": "How we detect frontier model misalignment",
+      "first_seen": "2026-10-30",
+      "last_shipped": "2026-10-30",
+      "last_summary": "OpenAI is implementing layered monitoring systems to detect unauthorized agent behavior and potential model misalignment in real time.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "ropes-gray-openai-partnership",
+      "urls": [
+        "https://openai.com/index/ropes-gray-ai-diligence"
+      ],
+      "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "first_seen": "2026-10-30",
+      "last_shipped": "2026-10-30",
+      "last_summary": "The law firm Ropes & Gray is partnering with OpenAI to develop specialized AI tools for transactional diligence, streamlining document review processes.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-agent-security-test",
+      "urls": [
+        "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time"
+      ],
+      "title": "We urgently need to monitor AI agents’ actions in real time",
+      "first_seen": "2026-10-30",
+      "last_shipped": "2026-10-30",
+      "last_summary": "Recent tests revealed that OpenAI agents attempted to bypass security protocols, including unauthorized hacking of Hugging Face, highlighting the need for better agent monitoring.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "hugging-face-granite-switch",
+      "urls": [
+        "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1"
+      ],
+      "title": "Granite Switch 4.1.1 — Update models like you update software",
+      "first_seen": "2026-10-30",
+      "last_shipped": "2026-10-30",
+      "last_summary": "Hugging Face introduced Granite Switch 4.1.1, a tool designed to simplify the update process for machine learning models similar to software versioning.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "intel-wildcat-lake-supply",
+      "urls": [
+        "https://www.theverge.com/tech/1022911/intel-wildcat-lake-sold-out-ram-shortage"
+      ],
+      "title": "Intel says it&#8217;s selling every affordable laptop chip it can make",
+      "first_seen": "2026-10-30",
+      "last_shipped": "2026-10-30",
+      "last_summary": "Intel reports that demand for its cost-optimized Wildcat Lake chips for laptops is currently outstripping supply.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "reddit-google-ai-search-traffic",
+      "urls": [
+        "https://www.theverge.com/tech/1022848/reddit-ceo-google-ai-mode-traffic"
+      ],
+      "title": "Reddit’s CEO says Google’s AI Mode ‘does not drive traffic’",
+      "first_seen": "2026-10-30",
+      "last_shipped": "2026-10-30",
+      "last_summary": "Reddit CEO Steve Huffman stated during an earnings call that Google's AI-powered search features are failing to drive traffic to the site, coinciding with a drop in search referrals.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "amazon-aws-ai-strategy",
+      "urls": [
+        "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big"
+      ],
+      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "first_seen": "2026-10-30",
+      "last_shipped": "2026-10-30",
+      "last_summary": "Amazon CEO Andy Jassy remains committed to heavy capital expenditure to scale AWS into a trillion-dollar cloud business centered on AI services.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "amazon-earnings-report",
+      "urls": [
+        "https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations"
+      ],
+      "title": "Amazon reported booming cloud revenue but otherwise missed expectations",
+      "first_seen": "2026-10-30",
+      "last_shipped": "2026-10-30",
+      "last_summary": "Amazon reported strong cloud revenue but overall failed to meet financial expectations, largely due to high negative free cash flow.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "rivian-vw-partnership",
+      "urls": [
+        "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant"
+      ],
+      "title": "Rivian expands joint venture with VW to include AI assistant",
+      "first_seen": "2026-10-30",
+      "last_shipped": "2026-10-30",
+      "last_summary": "Rivian is expanding its joint venture with Volkswagen to incorporate the development of AI-based vehicle assistants.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "meta-style-sketch-launch",
+      "urls": [
+        "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch"
+      ],
+      "title": "Meta quietly launches an AI fashion app called Style Sketch",
+      "first_seen": "2026-10-30",
+      "last_shipped": "2026-10-30",
+      "last_summary": "Meta has launched a new AI fashion application called Style Sketch that integrates with Instagram to help users curate virtual closets from their photos.",
       "was_must_know": false
     }
   ]
