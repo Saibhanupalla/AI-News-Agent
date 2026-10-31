@@ -1,81 +1,6 @@
 {
   "entries": [
     {
-      "event_key": "openai-stargate-infrastructure",
-      "urls": [
-        "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-        "https://openai.com/index/building-abundant-intelligence",
-        "https://openai.com/index/stargate-michigan-data-center",
-        "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
-        "https://openai.com/index/confidence-building-measures-for-artificial-intelligence",
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN3E0a2phUlNER0J4U0lyOHpkSnEzaExDR1NOTUpneDZXUENHMU1VOERIanU1YXFfWVVTaWstOF9iT1B6bERzTXpoNEJXRFVkRUx2bzhSTlluRWdvT3BSdEVjV0QxWTluSEY4Y2ZtZFZCb2U0TjcwbGZlUHdJeGdiTVBRTkcxVHI2bTFoXzRNQzVoYnZldnQtLTJBU0dESGdnSGNnMWM5SXDSAagBQVVfeXFMTTdxNGtqYVJTREdCeFNJcjh6ZEpxM2hMQ0dTTk1KZ3g2V1BDRzFNVThESGp1NWFxX1lVU2lrLThfYk9QemxEc016aDRCV0RVZEVMdm84Uk5ZbkVnb09wUnRFY1dEMVk5bkhGOGNmbWRWQm9lNE43MGxmZVB3SXhnYk1QUU5HMVRyNm0xaF80TUM1aGJ2ZXZ0LS0yQVNHREhnZ0hjZzFjOUlw?oc=5"
-      ],
-      "title": "The full stack behind abundant intelligence",
-      "first_seen": "2026-10-24",
-      "last_shipped": "2026-10-24",
-      "last_summary": "OpenAI is pursuing a full-stack infrastructure strategy to increase AI capability and lower costs, including the development of a 1GW data center project known as Stargate.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "openai-teacher-guide-release",
-      "urls": [
-        "https://openai.com/index/teaching-with-ai",
-        "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions",
-        "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVWZRdkZSWFh6NGotdmlPU2tQSFZRVzdab3VWQ3NoSFBGeDVUZUVIbjBEa01CVG5ZRWZaWUdteE5pdFp3QUhFZVBaMGVoY05xRW01a1BhQ0ZoaGMxWUFVNnBFMEY0TTZ5V0lkTUFZWFdmcWdubndkV3AtNl85QWcxUjlhWEcxa2ZNeHVqcWJZM2FRUQ?oc=5",
-        "https://news.google.com/rss/articles/CBMioAFBVV95cUxQU2cyZmJnMF9KNUM1alhadXdSRm9XcENRdUlWUFM0Y2hLQTN4THVMRy0zcWFDeEJ3RXBkbFM3TURycnlUb3F5VnkwTjd3YjhXNTFtazh4WURRYXpsUXBOUThPMmxFRTVaZEJpVk8wTUpBS3IybTRPS3ZBM0JEd0RtRWR0aGw4OElrcVlmZnNrSzBFM3dQZW83U1FxbEg1OTZY?oc=5"
-      ],
-      "title": "Teaching with AI",
-      "first_seen": "2026-10-24",
-      "last_shipped": "2026-10-24",
-      "last_summary": "OpenAI has released a guide for educators on using ChatGPT in the classroom, covering prompt strategies and addressing common concerns like bias and detection.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "openai-offline-training",
-      "urls": [
-        "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks",
-        "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet"
-      ],
-      "title": "OpenAI now trains its frontier AI models with no internet access",
-      "first_seen": "2026-10-24",
-      "last_shipped": "2026-10-24",
-      "last_summary": "OpenAI announced it will cease training frontier models on live internet data, citing security risks associated with the practice.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "block-dessa-ai-launch",
-      "urls": [
-        "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech"
-      ],
-      "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
-      "first_seen": "2026-10-24",
-      "last_shipped": "2026-10-24",
-      "last_summary": "Block has introduced 'Dessa,' an AI model trained entirely on human conversation, which currently exhibits realistic but often socially awkward interaction patterns.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "google-privacy-policy-ad-update",
-      "urls": [
-        "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update"
-      ],
-      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-      "first_seen": "2026-10-24",
-      "last_shipped": "2026-10-24",
-      "last_summary": "Google has updated its privacy policy to allow the use of personal data from Gmail, Drive, and Photos for targeted advertising when using certain personalized AI features.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "daytona-unicorn-funding",
-      "urls": [
-        "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels"
-      ],
-      "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
-      "first_seen": "2026-10-24",
-      "last_shipped": "2026-10-24",
-      "last_summary": "Daytona, an agent cloud startup, has reached a $1B valuation with backing from notable industry angels, focusing on providing computing resources for AI agents.",
-      "was_must_know": false
-    },
-    {
       "event_key": "hugging-face-policy-summit",
       "urls": [
         "https://huggingface.co/blog/policy-blog",
@@ -882,6 +807,51 @@
       "first_seen": "2026-10-30",
       "last_shipped": "2026-10-30",
       "last_summary": "Meta has launched a new AI fashion application called Style Sketch that integrates with Instagram to help users curate virtual closets from their photos.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-huggingface-security-incident",
+      "urls": [
+        "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+        "https://status.linode.com/incidents/nt58zhx3pmgm"
+      ],
+      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+      "first_seen": "2026-10-31",
+      "last_shipped": "2026-10-31",
+      "last_summary": "OpenAI and Hugging Face have jointly released preliminary findings regarding a security incident that occurred during the evaluation of an AI model.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "openai-robotstxt-standard",
+      "urls": [
+        "https://openai.com/index/helping-websites-express-ai-training-preferences"
+      ],
+      "title": "Making it easier for websites to express AI training preferences",
+      "first_seen": "2026-10-31",
+      "last_shipped": "2026-10-31",
+      "last_summary": "OpenAI announced it will support a shared robots.txt-based signal that allows website operators to easily communicate their AI training preferences to multiple AI providers.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "shared-ai-opt-out-standard",
+      "urls": [
+        "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out"
+      ],
+      "title": "The biggest names in AI are backing a new way to opt out of scraping",
+      "first_seen": "2026-10-31",
+      "last_shipped": "2026-10-31",
+      "last_summary": "Major AI firms including OpenAI, Google, Microsoft, and Anthropic are adopting a unified 'policy token' signal to respect publisher opt-outs regarding AI data scraping.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "google-ai-satellite-test",
+      "urls": [
+        "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission"
+      ],
+      "title": "Google&#8217;s satellite AI server transmits its first response to Earth",
+      "first_seen": "2026-10-31",
+      "last_shipped": "2026-10-31",
+      "last_summary": "Google successfully tested an AI-equipped satellite that runs the Gemma 4 model, marking a milestone for edge computing in space.",
       "was_must_know": false
     }
   ]

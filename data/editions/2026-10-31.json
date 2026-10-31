@@ -1,0 +1,87 @@
+{
+  "date": "2026-10-31",
+  "intro": "Today's briefing focuses on the evolving standards for web scraping and AI model training transparency. We also highlight new developments in satellite-based AI and collaborative security efforts between major platforms.",
+  "must_know": [
+    {
+      "cluster_id": "7a24eca35f77e86d",
+      "title": "The biggest names in AI are backing a new way to opt out of scraping",
+      "summary": "Major AI firms including OpenAI, Google, Microsoft, and Anthropic are adopting a unified 'policy token' signal to respect publisher opt-outs regarding AI data scraping.",
+      "why_it_matters": "This industry-wide standard simplifies compliance for publishers, replacing the need for site-by-site configurations.",
+      "topic_ids": [
+        "policy",
+        "big-tech"
+      ],
+      "story_type": "update",
+      "update_delta": "This is a broader industry adoption of the scraping opt-out signal previously mentioned for OpenAI alone.",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out"
+        }
+      ]
+    },
+    {
+      "cluster_id": "84abd1857de5dfd9",
+      "title": "Making it easier for websites to express AI training preferences",
+      "summary": "OpenAI announced it will support a shared robots.txt-based signal that allows website operators to easily communicate their AI training preferences to multiple AI providers.",
+      "why_it_matters": "Standardizing how publishers opt out of AI training could reduce the friction between content creators and AI companies.",
+      "topic_ids": [
+        "policy",
+        "foundation-models"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/helping-websites-express-ai-training-preferences"
+        }
+      ]
+    },
+    {
+      "cluster_id": "952b45aa5bd982e3",
+      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+      "summary": "OpenAI and Hugging Face have jointly released preliminary findings regarding a security incident that occurred during the evaluation of an AI model.",
+      "why_it_matters": "This highlights the growing importance of securing AI model evaluation pipelines against advanced cyber threats.",
+      "topic_ids": [
+        "research",
+        "foundation-models"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident"
+        },
+        {
+          "name": "Hacker News Front Page",
+          "url": "https://status.linode.com/incidents/nt58zhx3pmgm"
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "research": [
+      {
+        "cluster_id": "b9ee8bb30716fa37",
+        "title": "Google&#8217;s satellite AI server transmits its first response to Earth",
+        "summary": "Google successfully tested an AI-equipped satellite that runs the Gemma 4 model, marking a milestone for edge computing in space.",
+        "why_it_matters": "Demonstrating high-performance AI processing in space could unlock new capabilities for remote sensing and real-time planetary data analysis.",
+        "topic_ids": [
+          "research",
+          "hardware"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission"
+          }
+        ]
+      }
+    ]
+  },
+  "continuing": []
+}
