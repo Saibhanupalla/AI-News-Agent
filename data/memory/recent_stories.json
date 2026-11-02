@@ -1,175 +1,6 @@
 {
   "entries": [
     {
-      "event_key": "hugging-face-policy-summit",
-      "urls": [
-        "https://huggingface.co/blog/policy-blog",
-        "https://huggingface.co/blog/summer-at-huggingface",
-        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYlF2bi1mTGMwZy1pcWMyQ1FPLTBVTzNad0dqYVoxdnhIa0xtUUdydHExbTR0SV9MeGszU0xzTU9MaS00QkV5THpPWWs5V2JVeHVrLXIzNDR2Y1RPVVZnWnB4UV9sUVRETndsUnotX3U3NkZEdlY3aElkQVQxN1J5TWhHOW9jSXhZNkNQSU9ncUJZalJDZHhwMm5wSnlQU2dXRnJIcHotdEhuYWhsd2VxNGwweFVPVFY3cXBVbGxUcG1oR3ZqU2xCNw?oc=5"
-      ],
-      "title": "Public Policy at Hugging Face",
-      "first_seen": "2026-10-25",
-      "last_shipped": "2026-10-25",
-      "last_summary": "Hugging Face CEO Clem Delangue shared insights on the company's public policy strategy at the Miami AI Summit.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "pa-ai-ad-labeling-law",
-      "urls": [
-        "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-        "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc01zYzdVcy1lZkdPaWdaZG1hTlBWcnpBejRwY05jYU5SR0l5R1J3TFgwektLVTBnQzh0ZDNjdXZOT25tcXY1ZnJKU1AxRXNSem9XQllXUThhUFJ3cDRzU0xQVmhKd2I5dTZxbXpSbG9hdU95T0FPR19DbzRHSjhCSWtNbWYxSEZadGVCSWlNTFBlQjFJQ3o4c1ktcnp0QXV6MGww?oc=5"
-      ],
-      "title": "Pennsylvania will require labels on AI-generated ads",
-      "first_seen": "2026-10-25",
-      "last_shipped": "2026-10-25",
-      "last_summary": "Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act, which mandates clear disclosures for AI-generated advertisements.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "block-local-voice-model",
-      "urls": [
-        "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human"
-      ],
-      "title": "Block’s new voice model sounds eerily human",
-      "first_seen": "2026-10-25",
-      "last_shipped": "2026-10-25",
-      "last_summary": "Block has developed a voice model capable of running locally on hardware as modest as a MacBook M4 Max.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "ai-political-bias-study",
-      "urls": [
-        "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats"
-      ],
-      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-      "first_seen": "2026-10-25",
-      "last_shipped": "2026-10-25",
-      "last_summary": "A study comparing AI political biases found that Grok frequently favors Republican candidates, while GPT models tend to favor Democrats.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "commonwealth-fusion-semiconductor-grant",
-      "urls": [
-        "https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors"
-      ],
-      "title": "Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors",
-      "first_seen": "2026-10-25",
-      "last_shipped": "2026-10-25",
-      "last_summary": "Commonwealth Fusion Systems received an $85 million federal grant to develop specialized semiconductors for fusion power plants.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "google-gmail-ad-policy",
-      "urls": [
-        "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising"
-      ],
-      "title": "Updated Google privacy policy says your Gmail might be used for advertising",
-      "first_seen": "2026-10-25",
-      "last_shipped": "2026-10-25",
-      "last_summary": "Google's updated privacy policy indicates that enabling 'Personal Intelligence' features allows the company to use Gmail data for targeted advertising.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "intel-robot-import-waiver",
-      "urls": [
-        "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs"
-      ],
-      "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
-      "first_seen": "2026-10-25",
-      "last_shipped": "2026-10-25",
-      "last_summary": "The US government granted Intel a waiver to import certain foreign-made robotic vehicles needed for its domestic chip manufacturing fabs.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "cerebras-trillion-parameter-deployment",
-      "urls": [
-        "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras"
-      ],
-      "title": "Cerebras Deploys Trillion-Parameter AI Models",
-      "first_seen": "2026-10-25",
-      "last_shipped": "2026-10-25",
-      "last_summary": "Cerebras published documentation on its technical approach to deploying trillion-parameter frontier models using its specialized wafer-scale engine hardware.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "ai-language-comprehension-research",
-      "urls": [
-        "https://arxiv.org/abs/2610.29162"
-      ],
-      "title": "Why is AI generated language so hard to understand?",
-      "first_seen": "2026-10-25",
-      "last_shipped": "2026-10-25",
-      "last_summary": "A new research paper explores the linguistic nuances and cognitive hurdles that make AI-generated text difficult for humans to parse.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "neural-chip-brain-decoding",
-      "urls": [
-        "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2"
-      ],
-      "title": "Neural chip decodes interactions between brain regions",
-      "first_seen": "2026-10-25",
-      "last_shipped": "2026-10-25",
-      "last_summary": "Researchers have developed a specialized neural chip capable of decoding the complex interactions between different regions of the brain.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "apollo-ai-economic-analysis",
-      "urls": [
-        "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
-        "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOW1GQU8wblRMSUZlXzdCY0pDbjNsS1pPQ0EtTk4wTlZnRk1yb0FMWGstcHhKM3J6WmpXZ1d4MXB1QlVlOFR3NlplTlNqcm1SRHBNU2VXZTA4WHd3QnZzWnZJaHpVeV81WkxtYU1oM0N1TldTS0IySXdaQ1hHZzI0c1pBS2tvWnh2Vm9TS29yM1MxYWN2ak0taUMxS0NibGlFS3NPV1NmOUx1MDh4WmFNOE1vbjQxTE0?oc=5"
-      ],
-      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-      "first_seen": "2026-10-26",
-      "last_shipped": "2026-10-26",
-      "last_summary": "Apollo's chief economist suggests that outside of the technology sector, artificial intelligence has yet to yield significant financial returns for corporations despite substantial investments.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "reddit-opensource-ai-ban",
-      "urls": [
-        "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban"
-      ],
-      "title": "r/opensource just banned AI, non-English speakers, and more",
-      "first_seen": "2026-10-26",
-      "last_shipped": "2026-10-26",
-      "last_summary": "The moderators of the r/opensource subreddit have implemented new rules that prohibit projects related to or generated by artificial intelligence.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "google-search-publishing-impact",
-      "urls": [
-        "https://www.theverge.com/column/1017983/google-ai-search-online-publishing"
-      ],
-      "title": "Google’s AI search changes upended online publishing",
-      "first_seen": "2026-10-26",
-      "last_shipped": "2026-10-26",
-      "last_summary": "Google's implementation of AI-driven search results has significantly disrupted the traditional digital publishing industry's reliance on standard search traffic.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "llm-price-war",
-      "urls": [
-        "https://minimaxir.com/2026/10/cheap-llms"
-      ],
-      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-      "first_seen": "2026-10-26",
-      "last_shipped": "2026-10-26",
-      "last_summary": "Leading AI labs, including OpenAI and Anthropic, have aggressively reduced pricing for their large language models by up to 80% over the last few months.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "cnn-vs-llm-medical-imaging",
-      "urls": [
-        "https://lynchlab.net/llm-skin-cancer"
-      ],
-      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-      "first_seen": "2026-10-26",
-      "last_shipped": "2026-10-26",
-      "last_summary": "A study indicates that a ten-year-old convolutional neural network (CNN) can outperform modern, state-of-the-art LLMs in the specialized task of skin cancer diagnosis.",
-      "was_must_know": false
-    },
-    {
       "event_key": "anthropic-ipo-filing",
       "urls": [
         "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZ0N1MG9BZHVEdjRtY0FWTHAySTg3WnU4LU1nZnVSQm1QdUZQWlJYUTJZZnNTQXZ0WjFzWVk2VXB0SmFmNHdnbWhSdHBUMFViNm5fM2xqazlhQndUNzh1OG1kdHJ2Q2RSelFqMkRYeHc0eTFIcEhPNjBHRWZXbmpWdlQtQVV0dXk4M3JiTl8zUUxvTGtWQUdCRThKWTFWZkU2Uk0zWmZaQXBFMGJsMF9oQ3Z0SVZFVmN2dkMtZWV4SGoxNmZiQVA4M21UTzRGX29QZ1lv?oc=5",
@@ -852,6 +683,67 @@
       "first_seen": "2026-10-31",
       "last_shipped": "2026-10-31",
       "last_summary": "Google successfully tested an AI-equipped satellite that runs the Gemma 4 model, marking a milestone for edge computing in space.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "ai-compute-scaling-analysis",
+      "urls": [
+        "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses",
+        "https://openai.com/index/ai-and-compute",
+        "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory"
+      ],
+      "title": "AI and compute",
+      "first_seen": "2026-11-02",
+      "last_shipped": "2026-11-02",
+      "last_summary": "Recent analyses from OpenAI and Google DeepMind highlight the exponential growth in compute demand for AI training, with major training runs now doubling compute requirements every 3.4 months. Separately, new technical developments are emerging to support private, server-side memory for personal AI compute.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "openai-jalapeno-chip-launch",
+      "urls": [
+        "https://openai.com/index/jalapeno-first-results",
+        "https://openai.com/index/ai-and-efficiency",
+        "https://huggingface.co/blog/tiiuae/falcon-h1",
+        "https://news.google.com/rss/articles/CBMikgJBVV95cUxPXzRWdm1ncnFCckFlWUh2dUllbTFaeXJEYzUxcEl1VkJWSXo3Rk1kZ1daQU9xUWp5Y2dySzdqSDh2bGJEVzJfdTd4N0pzcFF3dHAySzJYTTh4MUtDNnRDRnhFaXZnMVFtYUxOenJUQzN3ejlMU19sTExQQk8wT2xsMUM2SzVCcHVCWG1ZZXM0MGJ5d3F3bFZGZmV5WTBQbWM3RUFzWHQ1UzNDcUtQRTZ6c1phbmNHRTA0WDV0cS0tMVVTb19SUXpLTmpCZWpzc0NLcW9qRnhoSldoYmV0YTZGYll0bUFUb2puX0VuQ2pobFowNzE5a0VSWktKTGhVVjhKSk02aG16UjlhTGw0c1kyM3dR?oc=5",
+        "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS1dCeGkyR1JCRF9nbmNiWFdhR0ljakhsU3paX2laZ1pWMU94WWkwZ0Y4R2hyYmlpcDdxZndydWRyOFQ4R0xhTFNQRzZQYmEyNW5MVDhUWG9Yb1hEd2RrMHNuZlI2WXN2dllhUGsxMjh2WEg2dGUzNUNrT2hzLXIxMkppcFRGVTNPajY3cEd3?oc=5"
+      ],
+      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "first_seen": "2026-11-02",
+      "last_shipped": "2026-11-02",
+      "last_summary": "OpenAI has introduced Jalapeño, a custom inference chip designed to improve speed, power efficiency, and latency for modern AI models. This hardware effort complements findings that compute requirements for training neural networks to specific performance benchmarks are decreasing over time.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "california-prop45-data-centers",
+      "urls": [
+        "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy"
+      ],
+      "title": "Prop 45 in California could be hiding a loophole for data centers",
+      "first_seen": "2026-11-02",
+      "last_shipped": "2026-11-02",
+      "last_summary": "Environmental advocates warn that California's Proposition 45 could create a legal loophole allowing data center developers to bypass mandatory environmental impact assessments and public scrutiny.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "naacp-xai-lawsuit",
+      "urls": [
+        "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward"
+      ],
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "first_seen": "2026-11-02",
+      "last_shipped": "2026-11-02",
+      "last_summary": "A judge has allowed a lawsuit filed by the NAACP against xAI to proceed, which alleges that the company's data center operations violate the Clean Air Act.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "omnidiff-tool-launch",
+      "urls": [
+        "https://github.com/ivankovic/omnidiff"
+      ],
+      "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
+      "first_seen": "2026-11-02",
+      "last_shipped": "2026-11-02",
+      "last_summary": "OmniDiff is a new open-source, Rust-based Git diff tool that offers content-aware comparisons for various file types, including code, images, and documents.",
       "was_must_know": false
     }
   ]

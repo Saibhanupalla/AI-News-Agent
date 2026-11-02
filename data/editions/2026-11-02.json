@@ -1,0 +1,128 @@
+{
+  "date": "2026-11-02",
+  "intro": "Today's headlines focus on the evolving landscape of AI hardware and the growing resource demands of large-scale models. Meanwhile, major tech firms are facing increased scrutiny regarding the environmental impact of their data centers.",
+  "must_know": [
+    {
+      "cluster_id": "3c070646589f0c3b",
+      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "summary": "OpenAI has introduced Jalapeño, a custom inference chip designed to improve speed, power efficiency, and latency for modern AI models. This hardware effort complements findings that compute requirements for training neural networks to specific performance benchmarks are decreasing over time.",
+      "why_it_matters": "Custom silicon represents a major strategic shift for AI labs attempting to lower the high costs and latency associated with large-scale model inference.",
+      "topic_ids": [
+        "hardware",
+        "foundation-models"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/jalapeno-first-results"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/ai-and-efficiency"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/tiiuae/falcon-h1"
+        },
+        {
+          "name": "Google News: AI",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPXzRWdm1ncnFCckFlWUh2dUllbTFaeXJEYzUxcEl1VkJWSXo3Rk1kZ1daQU9xUWp5Y2dySzdqSDh2bGJEVzJfdTd4N0pzcFF3dHAySzJYTTh4MUtDNnRDRnhFaXZnMVFtYUxOenJUQzN3ejlMU19sTExQQk8wT2xsMUM2SzVCcHVCWG1ZZXM0MGJ5d3F3bFZGZmV5WTBQbWM3RUFzWHQ1UzNDcUtQRTZ6c1phbmNHRTA0WDV0cS0tMVVTb19SUXpLTmpCZWpzc0NLcW9qRnhoSldoYmV0YTZGYll0bUFUb2puX0VuQ2pobFowNzE5a0VSWktKTGhVVjhKSk02aG16UjlhTGw0c1kyM3dR?oc=5"
+        },
+        {
+          "name": "Google News: AI",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS1dCeGkyR1JCRF9nbmNiWFdhR0ljakhsU3paX2laZ1pWMU94WWkwZ0Y4R2hyYmlpcDdxZndydWRyOFQ4R0xhTFNQRzZQYmEyNW5MVDhUWG9Yb1hEd2RrMHNuZlI2WXN2dllhUGsxMjh2WEg2dGUzNUNrT2hzLXIxMkppcFRGVTNPajY3cEd3?oc=5"
+        }
+      ]
+    },
+    {
+      "cluster_id": "75be9feeaa60e70e",
+      "title": "AI and compute",
+      "summary": "Recent analyses from OpenAI and Google DeepMind highlight the exponential growth in compute demand for AI training, with major training runs now doubling compute requirements every 3.4 months. Separately, new technical developments are emerging to support private, server-side memory for personal AI compute.",
+      "why_it_matters": "The massive acceleration in compute requirements underscores the ongoing infrastructure strain and hardware intensity of modern foundation model training.",
+      "topic_ids": [
+        "research",
+        "big-tech",
+        "foundation-models"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/ai-and-compute"
+        },
+        {
+          "name": "Google DeepMind Blog",
+          "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory"
+        }
+      ]
+    },
+    {
+      "cluster_id": "0b023320d1e6c259",
+      "title": "Prop 45 in California could be hiding a loophole for data centers",
+      "summary": "Environmental advocates warn that California's Proposition 45 could create a legal loophole allowing data center developers to bypass mandatory environmental impact assessments and public scrutiny.",
+      "why_it_matters": "The intersection of infrastructure expansion and environmental regulation is becoming a critical battleground for Big Tech's data center growth.",
+      "topic_ids": [
+        "policy",
+        "big-tech"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy"
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "big-tech": [
+      {
+        "cluster_id": "b57691e750415c60",
+        "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+        "summary": "A judge has allowed a lawsuit filed by the NAACP against xAI to proceed, which alleges that the company's data center operations violate the Clean Air Act.",
+        "why_it_matters": "This legal challenge marks a significant escalation in regulatory and public pressure regarding the environmental footprint of AI infrastructure.",
+        "topic_ids": [
+          "policy",
+          "big-tech"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward"
+          }
+        ]
+      }
+    ],
+    "tools": [
+      {
+        "cluster_id": "1c2c00360e1569ed",
+        "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
+        "summary": "OmniDiff is a new open-source, Rust-based Git diff tool that offers content-aware comparisons for various file types, including code, images, and documents.",
+        "why_it_matters": "Efficient, modern tooling for developers is seeing significant performance gains through the use of Rust and AI-assisted design.",
+        "topic_ids": [
+          "tools",
+          "open-source"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "Hacker News Front Page",
+            "url": "https://github.com/ivankovic/omnidiff"
+          }
+        ]
+      }
+    ]
+  },
+  "continuing": []
+}
