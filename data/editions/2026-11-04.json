@@ -1,0 +1,174 @@
+{
+  "date": "2026-11-04",
+  "intro": "Today's briefing highlights massive financial milestones and leadership changes in the AI and hardware sectors. We also examine new strategies for AI safety and the infrastructure challenges posed by the rapid growth of data centers.",
+  "must_know": [
+    {
+      "cluster_id": "f7f87a71fb4a7970",
+      "title": "AMD rides data center riches to &#8216;largest and most profitable&#8217; quarter in history",
+      "summary": "AMD reported record-breaking quarterly revenue of $13.4 billion, driven largely by its growing data center business. The company expects further growth to $17 billion next quarter.",
+      "why_it_matters": "AMD's continued data center success highlights the robust demand for AI-capable hardware in the enterprise market.",
+      "topic_ids": [
+        "hardware",
+        "big-tech"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc"
+        }
+      ]
+    },
+    {
+      "cluster_id": "64e891378c13ac06",
+      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+      "summary": "AI inference startup Fal has raised $1.3 billion, doubling its valuation to $16 billion, amid increasing demand for fast AI model execution.",
+      "why_it_matters": "Continued massive investment into inference infrastructure underscores the industry's shift from training models to deploying them at scale.",
+      "topic_ids": [
+        "startups-funding",
+        "foundation-models"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges"
+        }
+      ]
+    },
+    {
+      "cluster_id": "fa00b4f66d246a49",
+      "title": "Anthropic is working on a system to prove AI models’ identity",
+      "summary": "Anthropic is developing 'FlashProve', a system designed to verify the identity and provenance of AI-generated responses.",
+      "why_it_matters": "Verifiable AI identity is essential for combating deepfakes and maintaining trust in model outputs.",
+      "topic_ids": [
+        "research",
+        "foundation-models"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity"
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "big-tech": [
+      {
+        "cluster_id": "13d5399dae0a9e05",
+        "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+        "summary": "David Vélez and Robin Vince have joined the boards of the OpenAI Foundation and OpenAI Group PBC. The Foundation also announced a $1 billion investment commitment for social and health initiatives.",
+        "why_it_matters": "The board additions signal OpenAI's attempt to strengthen its governance and financial leadership as it scales.",
+        "topic_ids": [
+          "big-tech"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/update-on-the-openai-foundation"
+          },
+          {
+            "name": "Google News: AI",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNam1INzlZQzRkd0NpWWJaZ1NkOVJFMnhKdjdfcjUtSnBiWnlfSENOR3lwUnpYcU16UnJQLTBBVFVMUnctbUs4Z3pRUHN5TkNsb1VJLW5Vc25HbUVidkVuVlY0VWNsV0lHYVdPWXAyMkV3VWpoSXBMQl9WTk1vWEU1RHhPaS0wcldoMndnWEpkQTQ5dGIyOWc?oc=5"
+          }
+        ]
+      }
+    ],
+    "hardware": [
+      {
+        "cluster_id": "32c42b1a9bd9b90f",
+        "title": "Data centers are turning to old jet engines as the wait for power grows",
+        "summary": "Due to power grid capacity shortages, some data center operators are resorting to using retired jet engines as temporary, less-efficient power sources.",
+        "why_it_matters": "The massive energy requirements of AI training are creating significant infrastructure bottlenecks and forcing unconventional utility solutions.",
+        "topic_ids": [
+          "hardware"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows"
+          }
+        ]
+      }
+    ],
+    "research": [
+      {
+        "cluster_id": "8439eeded81a3dab",
+        "title": "Biodefense in the Intelligence Age",
+        "summary": "OpenAI has published a five-part action plan focused on AI-powered biological resilience and cybersecurity. The framework emphasizes protecting critical infrastructure against emerging digital and biological threats.",
+        "why_it_matters": "As AI capabilities grow, industry leaders are increasingly focusing on the intersection of model safety and national security.",
+        "topic_ids": [
+          "policy",
+          "research"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/biodefense-in-the-intelligence-age"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/cybersecurity-in-the-intelligence-age"
+          },
+          {
+            "name": "Google News: AI",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdFRUN2FoNHRDY1F6ZENCaXpJeFRsUjYwOTcxanlJdk85SE1QQjZIVEZhTnAxaTY1UF94eTVWS1dUdnRLNkhYN1ZtWnk2ZlFFS3k1eFlvYWVueTdfc0p1a3VMSHRRMHRwT05KakNVTUp2ODBuajJYSFdZdlppa2R6RDl0NUNKRlBWczRGenNjQTBOQQ?oc=5"
+          }
+        ]
+      },
+      {
+        "cluster_id": "453b18c935cee2e4",
+        "title": "How “reverse game theory” could keep AI agents in check",
+        "summary": "Safety researchers are exploring 'reverse game theory' to control AI agents by creating systems that incentivize rule-following. The goal is to ensure autonomous agents remain aligned with human laws and intentions.",
+        "why_it_matters": "New alignment techniques are critical as agents gain the ability to take autonomous actions in real-world environments.",
+        "topic_ids": [
+          "research",
+          "foundation-models"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment"
+          }
+        ]
+      }
+    ],
+    "policy": [
+      {
+        "cluster_id": "e7a1033d90db6800",
+        "title": "Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist",
+        "summary": "Binance revealed that a $6.3 billion crypto heist was facilitated by social engineering, including fake job interviews and the misuse of internal AI-based tools.",
+        "why_it_matters": "This case highlights how AI tools can be weaponized in multi-stage social engineering attacks against tech organizations.",
+        "topic_ids": [
+          "policy"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained"
+          }
+        ]
+      }
+    ]
+  },
+  "continuing": []
+}
