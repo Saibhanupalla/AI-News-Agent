@@ -1,143 +1,6 @@
 {
   "entries": [
     {
-      "event_key": "ai-organizational-integration",
-      "urls": [
-        "https://openai.com/index/the-future-of-the-firm",
-        "https://openai.com/index/teens-learn-and-plan",
-        "https://openai.com/index/omio",
-        "https://openai.com/index/sea-david-chen",
-        "https://openai.com/index/pvh-future-of-fashion",
-        "https://openai.com/index/gpt-5-mathematical-discovery",
-        "https://openai.com/global-affairs/eu-code-of-practice",
-        "https://openai.com/global-affairs/aft",
-        "https://openai.com/index/wayfair-fiona-tan",
-        "https://openai.com/index/morgan-stanley",
-        "https://deepmind.google/blog/securing-the-future-of-ai-agents",
-        "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe",
-        "https://huggingface.co/blog/cybersecurity-openness",
-        "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3"
-      ],
-      "title": "The future of the firm",
-      "first_seen": "2026-10-29",
-      "last_shipped": "2026-10-29",
-      "last_summary": "Major AI firms are detailing how models are being integrated into organizational workflows, ranging from education-focused features in ChatGPT to enterprise-grade AI software development.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "ai-finance-platform-adoption",
-      "urls": [
-        "https://openai.com/index/building-an-ai-native-finance-function",
-        "https://huggingface.co/blog/ai-webtv",
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRldyOHdWSmREakNkdGgwUmZLMkhWdEt1NlpPWGZmaS1JVEhNeUV0UExEUktoaTk1Q091Rmh3VjlNMnI5a0V1RmFGUmJMTmZIUi1kVTZrQ1hZZmdYcVpfNzFKUXB5SzdjbUVyWUtRZ0V6dVMtZG54MGpJSllnWnF6dXVSc2ctUnpPU25aS1pHbGhGVVU2THFmWVpXTXUwWWZORGx2cU9Qa0VSUQ?oc=5"
-      ],
-      "title": "What building an AI-native finance function taught me",
-      "first_seen": "2026-10-29",
-      "last_shipped": "2026-10-29",
-      "last_summary": "OpenAI CFO Sarah Friar outlined strategies for developing AI-native finance functions, while AWS introduced AgentCore for building agentic AI platforms.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "google-gemini-4-carbon-launch",
-      "urls": [
-        "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
-        "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon"
-      ],
-      "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
-      "first_seen": "2026-10-29",
-      "last_shipped": "2026-10-29",
-      "last_summary": "Google has released Gemini 4 Carbon, a new frontier model claiming top performance on Artificial Analysis Intelligence Index benchmarks with improved capabilities in cybersecurity and coding.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "ai-labs-data-acquisition",
-      "urls": [
-        "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication"
-      ],
-      "title": "The Download: dead startups fueling AI and interspecies communication",
-      "first_seen": "2026-10-29",
-      "last_shipped": "2026-10-29",
-      "last_summary": "AI labs are increasingly acquiring datasets from defunct startups to train their foundation models as high-quality data sources become more scarce.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "anduril-qualcomm-domestic-laptop",
-      "urls": [
-        "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american"
-      ],
-      "title": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
-      "first_seen": "2026-10-29",
-      "last_shipped": "2026-10-29",
-      "last_summary": "Anduril and Qualcomm have announced a partnership to produce the 'BlueChip' laptop, aiming for a fully domestic US supply chain starting in 2027.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "alphabet-q3-2026-earnings",
-      "urls": [
-        "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026"
-      ],
-      "title": "Google says its investments in AI are driving more searches",
-      "first_seen": "2026-10-29",
-      "last_shipped": "2026-10-29",
-      "last_summary": "Alphabet's Q3 2026 earnings indicate that AI-driven features are directly contributing to the highest year-over-year search query growth seen in recent periods.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "microsoft-q1-2027-earnings",
-      "urls": [
-        "https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027"
-      ],
-      "title": "Microsoft reveals strong cloud growth amid financial reporting overhaul",
-      "first_seen": "2026-10-29",
-      "last_shipped": "2026-10-29",
-      "last_summary": "Microsoft reported strong fiscal growth for Q1 2027 with $92.3 billion in revenue, driven by robust performance in its cloud division.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "google-ai-search-ads-expansion",
-      "urls": [
-        "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows"
-      ],
-      "title": "Google expands AI Search ads globally as core ad growth slows",
-      "first_seen": "2026-10-29",
-      "last_shipped": "2026-10-29",
-      "last_summary": "Google is expanding its AI-powered search advertising globally as it works to maintain revenue growth amid shifting market dynamics.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "anthropic-spend-analytics",
-      "urls": [
-        "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying"
-      ],
-      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
-      "first_seen": "2026-10-29",
-      "last_shipped": "2026-10-29",
-      "last_summary": "Anthropic has introduced new analytics tools designed to provide corporate clients with transparent visibility into their model usage and spending.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "google-ai-ecosystem-integration",
-      "urls": [
-        "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps"
-      ],
-      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
-      "first_seen": "2026-10-29",
-      "last_shipped": "2026-10-29",
-      "last_summary": "Google has introduced a developer platform allowing third-party services to integrate directly into Gemini and Search, aiming to streamline consumer app discovery.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "chrome-ai-autofill-update",
-      "urls": [
-        "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms"
-      ],
-      "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
-      "first_seen": "2026-10-29",
-      "last_shipped": "2026-10-29",
-      "last_summary": "Google Chrome's AI-powered autofill feature has been updated to parse information from a user's Gmail to automatically populate web forms.",
-      "was_must_know": false
-    },
-    {
       "event_key": "openai-acquisitions-spree",
       "urls": [
         "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt",
@@ -642,6 +505,202 @@
       "last_shipped": "2026-11-04",
       "last_summary": "AI inference startup Fal has raised $1.3 billion, doubling its valuation to $16 billion, amid increasing demand for fast AI model execution.",
       "was_must_know": true
+    },
+    {
+      "event_key": "openai-triple-acquisition",
+      "urls": [
+        "https://openai.com/index/openai-to-acquire-pierre",
+        "https://openai.com/index/openai-to-acquire-ona",
+        "https://openai.com/index/openai-to-acquire-astral",
+        "https://openai.com/index/openai-to-acquire-promptfoo",
+        "https://openai.com/index/openai-to-acquire-neptune",
+        "https://news.google.com/rss/articles/CBMisgJBVV95cUxNbjlQX2VDVDVidXZiZjdzT0VvOENQWUxaMW1vX25BYVI4MkZ2alhKdURnRzNHMWtuZjZESVJWc2hzOUt5VzFCUHZycnl2TE1MZXZYS1JnQmJUTmZqcTJTZnByVVYzT2VnZTREMlc1SHJZN0JfQkwwMXFNdzd5NU8yQnRxUk02ZWQ2WVY3WWdmYkY0MldSNEVlYzhTV0ZMTExESk5jMjlxYlk4dkVCejZVSW4wUDJOOGxweDM2eml6anZxVDBaY0pKQ1E5WnZSRzFhSkpHVXQyYlhZdkZ2V0lWMFpKRzFOOXRUQ2o4Tk05alU5SVRyTU9KS0pjSURFYnRtbVRzUklweU1ObVJZNDZlRS02cTY0RXJCMXlCdW1ya2hHUVJfeFJfaXlJcHpteS1yTUHSAe8BQVVfeXFMUGtITlNGUmhyTURVYU5oMmtXLWlhYkhTMklFMnNQOW5HMTd0Rjh0SDNmRjRxZy1TN2FLQTljLS1hWGdvZ2pSTmVweDRHSFRpNXQtY2Npd2NhdHJqNEZDVENaakVrUTk4Q3ZZblBub21BdlRNME1tc1Q0M0VnNUdWa3E5UE8zZVE4OXhIQTRKZkZDMXdYdFNRRHZEa0FzVDFvbkp3UmVjbGc2V1N4V0ZOYVFGS1RMZDc1MHdvNTVjUC1Oc0JTTGxDTlZkLWFsR0ZNMU5JNzVudXFPWE1OTWFqSjZBYmJVWkRHRUU2cFc2LUE?oc=5"
+      ],
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "first_seen": "2026-11-05",
+      "last_shipped": "2026-11-05",
+      "last_summary": "OpenAI announced the acquisition of Pierre Computer Company, Ona, and the AI security platform Promptfoo. These acquisitions aim to expand the capabilities of its Codex model in secure cloud environments, code development, and vulnerability remediation.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "openai-images-2-6-launch",
+      "urls": [
+        "https://openai.com/index/introducing-images-2-6",
+        "https://openai.com/index/introducing-chatgpt-images-2-5",
+        "https://openai.com/index/introducing-gpt-5-5",
+        "https://openai.com/index/introducing-chatgpt-images-2-0",
+        "https://openai.com/index/introducing-gpt-rosalind",
+        "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+        "https://openai.com/index/introducing-gpt-5-4",
+        "https://openai.com/index/introducing-gpt-5-3-codex-spark",
+        "https://openai.com/index/introducing-gpt-5-3-codex",
+        "https://openai.com/index/introducing-the-codex-app",
+        "https://openai.com/index/introducing-chatgpt-health",
+        "https://openai.com/index/introducing-gpt-5-2-codex",
+        "https://openai.com/index/new-chatgpt-images-is-here",
+        "https://openai.com/index/introducing-gpt-5-2",
+        "https://openai.com/index/chatgpt-shopping-research",
+        "https://openai.com/index/group-chats-in-chatgpt",
+        "https://openai.com/index/gpt-5-1-for-developers",
+        "https://openai.com/index/introducing-gpt-oss-safeguard",
+        "https://openai.com/index/introducing-chatgpt-atlas",
+        "https://openai.com/index/introducing-apps-in-chatgpt",
+        "https://openai.com/index/introducing-chatgpt-pulse",
+        "https://openai.com/index/introducing-upgrades-to-codex",
+        "https://openai.com/index/introducing-gpt-realtime",
+        "https://openai.com/index/introducing-gpt-5-for-developers",
+        "https://openai.com/index/introducing-gpt-5",
+        "https://openai.com/index/introducing-gpt-oss",
+        "https://openai.com/index/chatgpt-study-mode",
+        "https://openai.com/index/introducing-chatgpt-agent",
+        "https://openai.com/index/gpt-4-1",
+        "https://openai.com/index/introducing-our-next-generation-audio-models",
+        "https://openai.com/index/introducing-deep-research",
+        "https://openai.com/index/introducing-chatgpt-pro",
+        "https://openai.com/index/introducing-chatgpt-search",
+        "https://openai.com/index/introducing-canvas",
+        "https://openai.com/index/introducing-the-realtime-api",
+        "https://openai.com/index/introducing-vision-to-the-fine-tuning-api",
+        "https://openai.com/index/mercado-libre",
+        "https://openai.com/index/introducing-structured-outputs-in-the-api",
+        "https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free",
+        "https://openai.com/index/introducing-chatgpt-and-whisper-apis",
+        "https://openai.com/index/introducing-improvements-to-the-fine-tuning-api-and-expanding-our-custom-models-program",
+        "https://openai.com/index/introducing-chatgpt-team",
+        "https://openai.com/index/introducing-the-gpt-store",
+        "https://openai.com/index/introducing-chatgpt-enterprise",
+        "https://openai.com/index/introducing-the-chatgpt-app-for-ios",
+        "https://openai.com/index/chatgpt-plus",
+        "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber",
+        "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber",
+        "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash",
+        "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model",
+        "https://deepmind.google/blog/introducing-gemini-omni",
+        "https://deepmind.google/blog/introducing-google-antigravity-2-0",
+        "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+        "https://huggingface.co/blog/openenv",
+        "https://huggingface.co/blog/doc_aug_hf_alb",
+        "https://huggingface.co/blog/agents",
+        "https://huggingface.co/blog/leaderboard-patronus"
+      ],
+      "title": "Introducing Images 2.6",
+      "first_seen": "2026-11-05",
+      "last_shipped": "2026-11-05",
+      "last_summary": "OpenAI launched Images 2.6, introducing faster generation speeds, improved GIF creation, and enhanced API controls. The update also integrates more refined editing capabilities for users across ChatGPT and API platforms.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-agents-api-release",
+      "urls": [
+        "https://openai.com/index/introducing-the-agents-api",
+        "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
+        "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
+        "https://openai.com/index/introducing-agentkit",
+        "https://openai.com/index/image-generation-api",
+        "https://openai.com/index/introducing-4o-image-generation",
+        "https://openai.com/index/introducing-the-model-spec",
+        "https://huggingface.co/blog/tgi-multi-backend",
+        "https://huggingface.co/blog/smolagents",
+        "https://huggingface.co/blog/synthid-text",
+        "https://huggingface.co/blog/idefics2",
+        "https://huggingface.co/blog/leaderboard-contextual",
+        "https://huggingface.co/blog/inference-pro",
+        "https://huggingface.co/blog/wuerstchen",
+        "https://huggingface.co/blog/idefics",
+        "https://huggingface.co/blog/agents-js",
+        "https://huggingface.co/blog/sagemaker-huggingface-llm",
+        "https://huggingface.co/blog/aivsai",
+        "https://huggingface.co/blog/bloom",
+        "https://huggingface.co/blog/education",
+        "https://huggingface.co/blog/gptj-sagemaker",
+        "https://huggingface.co/blog/snowball-fight",
+        "https://huggingface.co/blog/the-partnership-amazon-sagemaker-and-hugging-face",
+        "https://huggingface.co/blog/accelerated-inference",
+        "https://www.anthropic.com/research/provable-inference"
+      ],
+      "title": "Introducing the Agents API",
+      "first_seen": "2026-11-05",
+      "last_shipped": "2026-11-05",
+      "last_summary": "OpenAI has released the Agents API, a managed service designed to support orchestration, long-running sessions, and secure tool use for AI agents. The release also includes new developer tools like AgentKit and enhanced evaluation capabilities.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "meta-acquires-conductor",
+      "urls": [
+        "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor",
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWWlGMi1naFJoUFpMejc2M0g3ZGhBSmc1WWhkNnFzQ2Nsc2ZQWkVoZUxZOFdybXo1Nk5HeVloaHBSajdDZk1DaDdzazBxNDRIWUEyYUZxWWEwVlp2cTkyTWdfa1dtVGl6blFPMURFLU5wZkNkQTZxQms0NTdIREJaU296bDNzOUNKZVY3bHc1MXhzbVJLbUwxUjJvaS1OczM5?oc=5"
+      ],
+      "title": "Meta acquires AI coding startup Conductor",
+      "first_seen": "2026-11-05",
+      "last_shipped": "2026-11-05",
+      "last_summary": "Meta has acquired Conductor, a startup specializing in the deployment of AI agent teams for simultaneous software project development.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "daybreak-red-govcloud-launch",
+      "urls": [
+        "https://openai.com/index/daybreak-red-aws-govcloud"
+      ],
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "first_seen": "2026-11-05",
+      "last_shipped": "2026-11-05",
+      "last_summary": "Daybreak Red, powered by GPT-5.6 Cyber, is now available to approved customers in AWS GovCloud (US-East) via Amazon Bedrock.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "texas-data-center-political-risk",
+      "urls": [
+        "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput"
+      ],
+      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+      "first_seen": "2026-11-05",
+      "last_shipped": "2026-11-05",
+      "last_summary": "The growth of Texas as a major AI data center hub may face regulatory or political headwinds following recent shifts in the state's political leadership.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "palette-small-model-release",
+      "urls": [
+        "https://huggingface.co/blog/ibm-research/palette-deck-building"
+      ],
+      "title": "Palette: teaching a small model to build decks in your design language",
+      "first_seen": "2026-11-05",
+      "last_shipped": "2026-11-05",
+      "last_summary": "Hugging Face introduced Palette, a small model designed to help users generate presentations that adhere to specific organizational design languages.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "qualcomm-data-center-pivot",
+      "urls": [
+        "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers"
+      ],
+      "title": "Qualcomm is betting big on data centers as smartphone sales sink",
+      "first_seen": "2026-11-05",
+      "last_shipped": "2026-11-05",
+      "last_summary": "Qualcomm is shifting its strategic focus toward the AI data center market to offset declining smartphone sales, leveraging partnerships with Amazon and Meta.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "nothing-ai-device-teaser",
+      "urls": [
+        "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei"
+      ],
+      "title": "Nothing teases a screen-free AI device ahead of launch next month",
+      "first_seen": "2026-11-05",
+      "last_shipped": "2026-11-05",
+      "last_summary": "Nothing CEO Carl Pei announced that the company will launch its first screen-free AI device in December.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "apple-ai-budget-cut",
+      "urls": [
+        "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage"
+      ],
+      "title": "Apple is reportedly cutting budgets for its internal AI usage",
+      "first_seen": "2026-11-05",
+      "last_shipped": "2026-11-05",
+      "last_summary": "Apple is reportedly reducing its budget allocated for internal AI tool usage by engineering teams.",
+      "was_must_know": false
     }
   ]
 }
