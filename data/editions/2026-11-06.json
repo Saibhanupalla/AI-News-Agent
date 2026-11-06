@@ -1,0 +1,285 @@
+{
+  "date": "2026-11-06",
+  "intro": "Today's updates are dominated by major model developments and strategic shifts in AI infrastructure. Companies continue to refine enterprise tools while facing increased scrutiny and policy pressure regarding large-scale data center projects.",
+  "must_know": [
+    {
+      "cluster_id": "42b9ce343d5fec59",
+      "title": "First look at GPT-5",
+      "summary": "Leading developers have been given early access to test the capabilities of GPT-5.",
+      "why_it_matters": "Early testing signals that the next major iteration of OpenAI's flagship model is progressing toward release.",
+      "topic_ids": [
+        "foundation-models"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/gpt-5-first-look"
+        },
+        {
+          "name": "Google News: AI",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMGdSVzFjbExhUXF2cEluaEdTZEpEX3MxWVdtRU5nZno4RDhHcGwzdzhBV3lONmJFclc4ZkloRVZSVFhDSU5RMGpma0NSS20zR0pKOXRJMDdZLWE0ckNDSDR1bzhyYVg0WlpBNms5MDZUd2J4cUpOZnc0bGVZRmxyTUFaM2lxcUROQUVkZ2F3?oc=5"
+        }
+      ]
+    },
+    {
+      "cluster_id": "14e90e72d3401ddf",
+      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+      "summary": "OpenAI introduced GPT-6 Cyber, a specialized model designed to identify and fix cybersecurity vulnerabilities within authorized scopes.",
+      "why_it_matters": "This demonstrates a shift toward highly specialized, domain-specific AI models for critical infrastructure security.",
+      "topic_ids": [
+        "foundation-models",
+        "tools"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-gpt-6-cyber"
+        }
+      ]
+    },
+    {
+      "cluster_id": "8b33f1382f19de19",
+      "title": "Airbnb is working on an AI travel agent",
+      "summary": "Airbnb announced in its Q3 2026 shareholder letter that it plans to release an AI travel agent in early 2027 to assist users with booking and planning.",
+      "why_it_matters": "Major consumer-facing platforms are increasingly betting on specialized AI agents to streamline complex user tasks.",
+      "topic_ids": [
+        "tools",
+        "big-tech"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings"
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "foundation-models": [
+      {
+        "cluster_id": "d26f2b09bf109feb",
+        "title": "The future of the firm",
+        "summary": "Organizations are increasingly integrating AI into internal operations, with companies like Sea Limited deploying coding tools and Omio leveraging OpenAI for travel experiences. Additionally, OpenAI is introducing educational features like a College Planner into ChatGPT.",
+        "why_it_matters": "AI is shifting from a consumer curiosity to a foundational element of enterprise software development and education.",
+        "topic_ids": [
+          "foundation-models",
+          "tools"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/the-future-of-the-firm"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/teens-learn-and-plan"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/omio"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/sea-david-chen"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/pvh-future-of-fashion"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/gpt-5-mathematical-discovery"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/global-affairs/eu-code-of-practice"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/global-affairs/aft"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/wayfair-fiona-tan"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/morgan-stanley"
+          },
+          {
+            "name": "Google DeepMind Blog",
+            "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents"
+          },
+          {
+            "name": "Google DeepMind Blog",
+            "url": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe"
+          },
+          {
+            "name": "Hugging Face Blog",
+            "url": "https://huggingface.co/blog/cybersecurity-openness"
+          },
+          {
+            "name": "Hugging Face Blog",
+            "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3"
+          },
+          {
+            "name": "Google News: AI",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSkR0NUhZb1liSmtXZ0RKMnJZUmRZM2tMdmEtRW9xcXR0Y28xTHQtZ0JOWUtyN1BoTGl2RV9iWjVTakFDUmhkS0VQUHVSYklab1YxZVNsSjVqNTBMUW1MdjRyRmc1LWtfSEVEb3NxOHZ0X2Zrc1luTzlDamhJSFJiMmdjeUVET1ViZVpiZ2JEdzVTWW9yek1FVy1WcnZPNE52ZXpvbWd5NHZ4SkJNRk8wbWVQMGVsNV93OUFiUHE0LWJRUdIBxwFBVV95cUxQUlMwSW1SN0hhQWJQd1BBZFRDb1AtcEJyUllxZ2NGLVdOUVR0TmFtZUZzczhLbV8zS1NNdmRjSGh0LTdHdEtHQ3A3dkpiX0NVOWVTOVpDcHRfbVpXMEQ5SUVDU3d6bEV0ZHpWMzlQSW9wMll5enRpVk1nVlB4ZUI3MWxYU0lzSlo5M1ZudnNIUXNXZmlSemtFMGlEQW1JTXFfYW84YmloVUFUUnphZ1R0Wkx1cWtQVDU1VV9LaTd4akV4NWN5SnVJ?oc=5"
+          }
+        ]
+      },
+      {
+        "cluster_id": "7d64f2a60c5a62c6",
+        "title": "OpenAI’s Frontier Governance Framework",
+        "summary": "OpenAI has published its Frontier Governance Framework, which outlines security and safety practices intended to align with emerging EU and California regulations.",
+        "why_it_matters": "This highlights the industry's attempt to self-regulate and mirror compliance standards before mandatory legal frameworks are fully solidified.",
+        "topic_ids": [
+          "policy",
+          "foundation-models"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/openai-frontier-governance-framework"
+          },
+          {
+            "name": "Google News: AI",
+            "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQcVJDeVB5R3dOeFd2VGtJUUJzcGptdFFWT21lYUZvay1uWTB0NnRjczA4TjZ4LW5lNlNaQ1V4b1JILWpRamF0eXFJdzkxbFlCQ1N1eTE0Y013RDNuLXBaWGtFaWtfNFFyYi1OaXM1YUpjLTMzaGJJNHB4NG5ZczJQQzVpZmpLazA4TUtLX0ZrZ2lUY2tiQjBvMXJWY1RVbHJTSExHWE5FZ3k4VzhsQ2NNY2ZDdDQwWkh3SUhvdGZORUZBb0k3WUVpODZGNFg1aTVNbjlJb3hMc2kzN2NoZWJqbTV4TG5WUVlPcXF3NXJIZ3RUUzQ4bXJNU3I0TkpqNkRIQnhXOGtOY2lFTVVOcEpnbGVpbEhYUnB2TXc0Vm94ZkYxd3lUZjAzNTM5aw?oc=5"
+          }
+        ]
+      }
+    ],
+    "tools": [
+      {
+        "cluster_id": "a8e215d1c3fca63a",
+        "title": "Franklin Templeton uses OpenAI to support investment research",
+        "summary": "Franklin Templeton is implementing AI workflows powered by OpenAI to assist portfolio managers with equity research and investment risk assessment.",
+        "why_it_matters": "The financial services sector is moving quickly to integrate generative AI into high-stakes investment analysis.",
+        "topic_ids": [
+          "tools",
+          "big-tech"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/franklin-templeton"
+          }
+        ]
+      },
+      {
+        "cluster_id": "2165b65a40c289be",
+        "title": "Perplexity launches its own take on AI agents for work",
+        "summary": "Perplexity has launched \"Teammates,\" a suite of always-on AI agents for work that integrate with existing projects and the Perplexity Computer system.",
+        "why_it_matters": "The race for the enterprise desktop is heating up, with search-native companies pivoting toward proactive AI agents that can interact with local devices.",
+        "topic_ids": [
+          "tools",
+          "startups-funding"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work"
+          }
+        ]
+      }
+    ],
+    "policy": [
+      {
+        "cluster_id": "25fa4dd18ec78a48",
+        "title": "Setting a new standard for responsible AI infrastructure",
+        "summary": "OpenAI has released a National Community Compact and a Compute Campus Policy Blueprint to guide responsible development of infrastructure for data centers.",
+        "why_it_matters": "As AI compute demands grow, major players are increasingly addressing the local socio-economic impacts of physical infrastructure development.",
+        "topic_ids": [
+          "policy",
+          "hardware"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure"
+          }
+        ]
+      },
+      {
+        "cluster_id": "e83299b5fb7485d8",
+        "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
+        "summary": "The rapid expansion of data centers in Texas faces potential setbacks due to energy policy shifts and community resistance to infrastructure buildouts.",
+        "why_it_matters": "Energy and grid capacity constraints may limit the physical growth of the AI industry in high-demand regions.",
+        "topic_ids": [
+          "hardware",
+          "policy"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy"
+          }
+        ]
+      },
+      {
+        "cluster_id": "ad929875c5a71925",
+        "title": "OpenAI is stepping back from NDAs for data center projects",
+        "summary": "Following local opposition, OpenAI has committed to eliminating non-disclosure agreements with public officials for future data center development projects.",
+        "why_it_matters": "Increased transparency in industrial policy is becoming a necessary cost for Big Tech companies to maintain local support for infrastructure.",
+        "topic_ids": [
+          "policy",
+          "big-tech"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda"
+          }
+        ]
+      }
+    ],
+    "research": [
+      {
+        "cluster_id": "3e666f5491bf9f3c",
+        "title": "OpenAI Five Benchmark: Results",
+        "summary": "OpenAI Five successfully defeated a team of high-level professional Dota players in a benchmark match, demonstrating advancements in agentic performance.",
+        "why_it_matters": "Gaming benchmarks remain a key indicator of an AI system's ability to plan and execute long-term strategies in complex, dynamic environments.",
+        "topic_ids": [
+          "research"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/openai-five-benchmark-results"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/openai-five-benchmark"
+          },
+          {
+            "name": "Google News: AI",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQX3d0TXRuQW90MU5STmRpelFyLXZ3TDkwZDVQR0w4X0tPbG91NW05cDA1S25ZTGRzZVRjNnBIc3RPUmxqT3doenlVNFRtUGVfaFF2X29FVm42bjBqWFY5b0pqNW9LcUh5V2RKRXR1VFZRMHp0NlRmVDZBU3dvSC1qZGk5cnhzQXd4dlZYMi1NNkJGQUZnb0lLQjRmZGRJR0twSkNFU19ManN6NlRPeG82TGNDcHFfajlxb0VHSGhTQQ?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  "continuing": []
+}
