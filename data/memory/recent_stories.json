@@ -1,51 +1,6 @@
 {
   "entries": [
     {
-      "event_key": "openai-huggingface-security-incident",
-      "urls": [
-        "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-        "https://status.linode.com/incidents/nt58zhx3pmgm"
-      ],
-      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
-      "first_seen": "2026-10-31",
-      "last_shipped": "2026-10-31",
-      "last_summary": "OpenAI and Hugging Face have jointly released preliminary findings regarding a security incident that occurred during the evaluation of an AI model.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "openai-robotstxt-standard",
-      "urls": [
-        "https://openai.com/index/helping-websites-express-ai-training-preferences"
-      ],
-      "title": "Making it easier for websites to express AI training preferences",
-      "first_seen": "2026-10-31",
-      "last_shipped": "2026-10-31",
-      "last_summary": "OpenAI announced it will support a shared robots.txt-based signal that allows website operators to easily communicate their AI training preferences to multiple AI providers.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "shared-ai-opt-out-standard",
-      "urls": [
-        "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out"
-      ],
-      "title": "The biggest names in AI are backing a new way to opt out of scraping",
-      "first_seen": "2026-10-31",
-      "last_shipped": "2026-10-31",
-      "last_summary": "Major AI firms including OpenAI, Google, Microsoft, and Anthropic are adopting a unified 'policy token' signal to respect publisher opt-outs regarding AI data scraping.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "google-ai-satellite-test",
-      "urls": [
-        "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission"
-      ],
-      "title": "Google&#8217;s satellite AI server transmits its first response to Earth",
-      "first_seen": "2026-10-31",
-      "last_shipped": "2026-10-31",
-      "last_summary": "Google successfully tested an AI-equipped satellite that runs the Gemma 4 model, marking a milestone for edge computing in space.",
-      "was_must_know": false
-    },
-    {
       "event_key": "ai-compute-scaling-analysis",
       "urls": [
         "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses",
@@ -665,6 +620,146 @@
       "first_seen": "2026-11-06",
       "last_shipped": "2026-11-06",
       "last_summary": "Perplexity has launched \"Teammates,\" a suite of always-on AI agents for work that integrate with existing projects and the Perplexity Computer system.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-gov-policy-framework",
+      "urls": [
+        "https://openai.com/index/government-national-security-partnerships",
+        "https://openai.com/index/approach-to-data-and-ai",
+        "https://openai.com/index/our-approach-to-ai-safety",
+        "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQUTJXOGZBQjRWNU1DVldSQUFnZ0pUMmlaSW02YTdral84V3I0Q2xOU2ZtY1VpQTRFOXZYZlJ0Y0dYN3ZYR01zX2gtVGlzM3QwWVhWVHlKM3IxVC16Y0x2Zm1rMWVUWmRCNDdEbUJkQXlGTWhwWHRLWF9fbDZfcVd3U1R6RzROQXRwcF84WEZpaXU2bkZpaUtYNnd5V3ZwWUJSNFNkZmo0allkbjJZdkJwbzVKOUQtOWJnODBUTWdTc2s3dmtFaUpBd19laDZNc2dJRkg2d2RFdDBlVEttUmd6UUdyWTZaNkJOYzNTSnZ3bWlJVUJGRTF2U1RYb2E2b3c?oc=5"
+      ],
+      "title": "Our approach to government and national security partnerships",
+      "first_seen": "2026-11-07",
+      "last_shipped": "2026-11-07",
+      "last_summary": "OpenAI has published new principles regarding its partnerships with government and national security entities, emphasizing democratic accountability and safety. The update also includes the introduction of a Media Manager tool for content creators.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "ramp-codex-integration",
+      "urls": [
+        "https://openai.com/index/ramp",
+        "https://huggingface.co/blog/accelerate-v1",
+        "https://huggingface.co/blog/prezi-case-study",
+        "https://huggingface.co/blog/deepspeed-to-fsdp-and-back",
+        "https://huggingface.co/blog/intel-starcoder-quantization",
+        "https://huggingface.co/blog/openvino",
+        "https://huggingface.co/blog/pytorch-ddp-accelerate-transformers",
+        "https://huggingface.co/blog/accelerate-large-models",
+        "https://huggingface.co/blog/bloom-inference-pytorch-scripts",
+        "https://huggingface.co/blog/hf-bitsandbytes-integration",
+        "https://huggingface.co/blog/accelerate-deepspeed",
+        "https://huggingface.co/blog/sempre-health-eap-case-study",
+        "https://huggingface.co/blog/pytorch-fsdp",
+        "https://huggingface.co/blog/habana",
+        "https://huggingface.co/blog/bert-inferentia-sagemaker",
+        "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQNUdWVFlXOHN4dFFWZmpVOFg4eFRBUjg4bVUyZXpTUE5tbW1VLUtqMUN1OEk1eUVpMHdNZFN4SDBDUEpsUWFsaGc5YkY2aWhTT3EzX195MktPODhhZzkzTFBWYnRhVm5qVzFhX0kxUjc5WHBSWG5wS3BIazVUbUp0VGE5ZExzMmZTWEVTY3lydjFENlVkLUJvN3VWNExCbjdMT1dPM2dRTFVkeFJMTFBtUVlmamJsUVJSTUR1UE1QdHFtd0kzMXV3WmdmRTVnZ2syTWJHM2RtdVF4eE5vNWYySUVqOGc0N2x3Ny1kdjZLdw?oc=5"
+      ],
+      "title": "How Ramp engineers accelerate code review with Codex",
+      "first_seen": "2026-11-07",
+      "last_shipped": "2026-11-07",
+      "last_summary": "Engineers at Ramp are utilizing Codex, integrated with GPT-5.5, to automate and accelerate the code review process. This integration reportedly reduces the time required for substantive code feedback from hours to minutes.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "gemini-omni-1-2-flash-launch",
+      "urls": [
+        "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips",
+        "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash"
+      ],
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "first_seen": "2026-11-07",
+      "last_shipped": "2026-11-07",
+      "last_summary": "Google has announced Gemini Omni 1.2 Flash, a new model iteration optimized for speed and cost-efficiency. The update includes expanded support for processing longer video clips.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "openai-hacktron-partnership",
+      "urls": [
+        "https://openai.com/index/partnering-with-hacktron"
+      ],
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "first_seen": "2026-11-07",
+      "last_shipped": "2026-11-07",
+      "last_summary": "OpenAI has partnered with security firm Hacktron to identify vulnerabilities within its systems and test third-party service connections.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-biobasicsbench-launch",
+      "urls": [
+        "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science"
+      ],
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "first_seen": "2026-11-07",
+      "last_shipped": "2026-11-07",
+      "last_summary": "OpenAI has introduced BioBasicsBench, a new benchmark designed to evaluate how AI agents interpret raw experimental data and perform tasks within wet-lab scientific settings.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "china-nvidia-espionage-report",
+      "urls": [
+        "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy"
+      ],
+      "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+      "first_seen": "2026-11-07",
+      "last_shipped": "2026-11-07",
+      "last_summary": "Reports suggest a Chinese intelligence agency recruited an executive from Megaspeed to spy on Nvidia CEO Jensen Huang to gain insights into US advanced AI chip strategy.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "congress-permitting-reform",
+      "urls": [
+        "https://www.theverge.com/policy/1028228/energy-infrastructure-permitting-reform-bill-congress-vote"
+      ],
+      "title": "Lame-duck Congress might actually do something: speed up energy projects",
+      "first_seen": "2026-11-07",
+      "last_shipped": "2026-11-07",
+      "last_summary": "The US Congress is considering a bipartisan permitting reform bill aimed at accelerating energy projects, which could significantly impact the infrastructure needed for data centers.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "meta-muse-spaces-launch",
+      "urls": [
+        "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces"
+      ],
+      "title": "Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now",
+      "first_seen": "2026-11-07",
+      "last_shipped": "2026-11-07",
+      "last_summary": "Meta has introduced 'Spaces' for its Muse AI assistant, allowing users to build and customize specific app-like interfaces for tasks such as shopping, music tracking, or gaming.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "google-crusoe-data-center-deal",
+      "urls": [
+        "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google"
+      ],
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "first_seen": "2026-11-07",
+      "last_shipped": "2026-11-07",
+      "last_summary": "Google has acquired a struggling data center project in Wyoming from energy infrastructure firm Crusoe.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "artex-exposed-servers",
+      "urls": [
+        "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web"
+      ],
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "first_seen": "2026-11-07",
+      "last_shipped": "2026-11-07",
+      "last_summary": "Security researchers have discovered hundreds of instances where servers hosting the 'Artex' penetration testing tool were left publicly exposed to the internet.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "6k-pentagon-loan",
+      "urls": [
+        "https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory"
+      ],
+      "title": "Pentagon offers battery startup 6K $250M loan to build US factory",
+      "first_seen": "2026-11-07",
+      "last_shipped": "2026-11-07",
+      "last_summary": "The Pentagon has conditionally approved a $250 million loan to battery material startup 6K to support the scaling of its microwave-plasma manufacturing process.",
       "was_must_know": false
     }
   ]
