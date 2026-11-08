@@ -1,0 +1,239 @@
+{
+  "date": "2026-11-08",
+  "intro": "Today's tech landscape highlights significant shifts in AI policy and model development. From concerns over chip exports to evolving safety standards, industry leaders are facing increased scrutiny. Researchers are also raising alarms about privacy and rapid autonomous development.",
+  "must_know": [
+    {
+      "cluster_id": "b521172828d62613",
+      "title": "The US let Nvidia sell chips to an empty office in China",
+      "summary": "Investigations reveal that high-end Nvidia AI chips were approved for export to an empty shell office in China, raising questions about current vetting processes.",
+      "why_it_matters": "Gaps in export controls could undermine international policy efforts to restrict Chinese access to advanced AI hardware.",
+      "topic_ids": [
+        "policy",
+        "hardware",
+        "big-tech"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government"
+        }
+      ]
+    },
+    {
+      "cluster_id": "eecad6fef1daea32",
+      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "summary": "A report by the AI safety group METR indicates that Anthropic's internal AI development capabilities are accelerating significantly, leading to faster model improvement cycles.",
+      "why_it_matters": "The trend of using AI to build better AI, or 'recursive self-improvement,' raises both efficiency prospects and significant safety concerns for researchers.",
+      "topic_ids": [
+        "foundation-models",
+        "research"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development"
+        }
+      ]
+    },
+    {
+      "cluster_id": "fd273feaa8fd4ac1",
+      "title": "Consumer brain wave headsets threaten privacy",
+      "summary": "New concerns have emerged regarding consumer brain-wave headsets that may be harvesting neurological data to train AI models without explicit user consent.",
+      "why_it_matters": "The privacy implications of collecting biological data for AI training represent a new and sensitive frontier in tech ethics.",
+      "topic_ids": [
+        "policy",
+        "research"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "Hacker News Front Page",
+          "url": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F"
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "policy": [
+      {
+        "cluster_id": "2563b3e6ff404ee3",
+        "title": "After the midterms, is the AI industry in for a rough two years?",
+        "summary": "Recent US election results suggest a challenging environment for the AI industry, with voters increasingly supporting local restrictions on data center development.",
+        "why_it_matters": "Political pushback against data centers could create significant infrastructure bottlenecks for energy-hungry AI firms.",
+        "topic_ids": [
+          "policy"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years"
+          }
+        ]
+      },
+      {
+        "cluster_id": "0b33259ab4386660",
+        "title": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
+        "summary": "Following user backlash, Meta has abandoned a proposed terms of service update that would have required Facebook page owners to allow AI training on their linked content.",
+        "why_it_matters": "Public resistance remains a potent force in shaping how big tech firms approach data usage for AI training.",
+        "topic_ids": [
+          "policy",
+          "big-tech"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "Ars Technica",
+            "url": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update"
+          }
+        ]
+      }
+    ],
+    "foundation-models": [
+      {
+        "cluster_id": "4d1cb946e264d204",
+        "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+        "summary": "Mistral AI has released 'Mistral Large 4,' now available on Hugging Face.",
+        "why_it_matters": "Adding another powerful open-weight model to the ecosystem gives developers more choice for high-performance LLM applications.",
+        "topic_ids": [
+          "foundation-models",
+          "open-source"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "Hugging Face Blog",
+            "url": "https://huggingface.co/blog/mistral-large4"
+          },
+          {
+            "name": "Hugging Face Blog",
+            "url": "https://huggingface.co/blog/panel-on-hugging-face"
+          },
+          {
+            "name": "Hugging Face Blog",
+            "url": "https://huggingface.co/blog/huggingface-and-amd"
+          },
+          {
+            "name": "Hugging Face Blog",
+            "url": "https://huggingface.co/blog/hub-duckdb"
+          },
+          {
+            "name": "Hugging Face Blog",
+            "url": "https://huggingface.co/blog/hugging-face-endpoints-on-azure"
+          },
+          {
+            "name": "Hugging Face Blog",
+            "url": "https://huggingface.co/blog/fetch-eap-case-study"
+          },
+          {
+            "name": "Hugging Face Blog",
+            "url": "https://huggingface.co/blog/inference-update"
+          },
+          {
+            "name": "Hugging Face Blog",
+            "url": "https://huggingface.co/blog/arxiv"
+          },
+          {
+            "name": "Hugging Face Blog",
+            "url": "https://huggingface.co/blog/spaces_3dmoljs"
+          },
+          {
+            "name": "Hugging Face Blog",
+            "url": "https://huggingface.co/blog/vision-transformers"
+          },
+          {
+            "name": "Hugging Face Blog",
+            "url": "https://huggingface.co/blog/decision-transformers"
+          },
+          {
+            "name": "Hugging Face Blog",
+            "url": "https://huggingface.co/blog/streamlit-spaces"
+          },
+          {
+            "name": "Hugging Face Blog",
+            "url": "https://huggingface.co/blog/pytorch-xla"
+          },
+          {
+            "name": "Google News: AI",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93ZTEzQkdmaE1ULWZCQk9YQ3RMd1lTS3F1OFY0Zi1Hd2d1dEczWG1HcmpoRE9WamFkMGJ6YUVHalVXbG9JZEtKb251NEhCbXptZlBqa1ZlVQ?oc=5"
+          }
+        ]
+      }
+    ],
+    "research": [
+      {
+        "cluster_id": "8d58e762a9a18d8c",
+        "title": "Teaching with AI",
+        "summary": "OpenAI has released a new educational guide for teachers on using ChatGPT, covering integration strategies and limitations. Concurrently, researchers are exploring novel methods for AI-driven 4D reconstruction and self-teaching models without human data.",
+        "why_it_matters": "The intersection of AI in formal education and autonomous research methods signals a shift in both classroom tools and data-independent model training.",
+        "topic_ids": [
+          "tools",
+          "research"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/teaching-with-ai"
+          },
+          {
+            "name": "Google DeepMind Blog",
+            "url": "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions"
+          },
+          {
+            "name": "Google News: AI",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE44R2gwVVJRdk96ekFyOGRoZHVzT0dubzFVT1hVcUwwaU5CWGNxNXNwY0dYLTFBcW9HLUY5TDdQdE9RbEdnY1k2SzZ3bjh4c3IxMWFWXzhqRzhJTWlL?oc=5"
+          }
+        ]
+      },
+      {
+        "cluster_id": "8017ce29f6d88c8d",
+        "title": "The end of Microsoft Research's AI Frontiers group",
+        "summary": "Microsoft has disbanded its AI Frontiers group within Microsoft Research, leading to the departure of prominent researchers.",
+        "why_it_matters": "Internal reorganization at major labs suggests a strategic pivot in how big tech companies are allocating long-term research resources.",
+        "topic_ids": [
+          "research",
+          "big-tech"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "Hacker News Front Page",
+            "url": "https://hunch.net/?p=13764006"
+          }
+        ]
+      }
+    ],
+    "hardware": [
+      {
+        "cluster_id": "415980dff97bdc65",
+        "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+        "summary": "New reports highlight the growing integration of humanoid robots in domestic tasks and Samsung's ongoing infrastructure investments to support the AI chip boom.",
+        "why_it_matters": "The shift toward physical AI applications and chip-focused manufacturing demonstrates the tangible expansion of the AI economy beyond software.",
+        "topic_ids": [
+          "hardware",
+          "tools"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom"
+          }
+        ]
+      }
+    ]
+  },
+  "continuing": []
+}

@@ -761,6 +761,120 @@
       "last_shipped": "2026-11-07",
       "last_summary": "The Pentagon has conditionally approved a $250 million loan to battery material startup 6K to support the scaling of its microwave-plasma manufacturing process.",
       "was_must_know": false
+    },
+    {
+      "event_key": "ai-education-research-updates",
+      "urls": [
+        "https://openai.com/index/teaching-with-ai",
+        "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions",
+        "https://news.google.com/rss/articles/CBMiXEFVX3lxTE44R2gwVVJRdk96ekFyOGRoZHVzT0dubzFVT1hVcUwwaU5CWGNxNXNwY0dYLTFBcW9HLUY5TDdQdE9RbEdnY1k2SzZ3bjh4c3IxMWFWXzhqRzhJTWlL?oc=5"
+      ],
+      "title": "Teaching with AI",
+      "first_seen": "2026-11-08",
+      "last_shipped": "2026-11-08",
+      "last_summary": "OpenAI has released a new educational guide for teachers on using ChatGPT, covering integration strategies and limitations. Concurrently, researchers are exploring novel methods for AI-driven 4D reconstruction and self-teaching models without human data.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "mistral-large-4-release",
+      "urls": [
+        "https://huggingface.co/blog/mistral-large4",
+        "https://huggingface.co/blog/panel-on-hugging-face",
+        "https://huggingface.co/blog/huggingface-and-amd",
+        "https://huggingface.co/blog/hub-duckdb",
+        "https://huggingface.co/blog/hugging-face-endpoints-on-azure",
+        "https://huggingface.co/blog/fetch-eap-case-study",
+        "https://huggingface.co/blog/inference-update",
+        "https://huggingface.co/blog/arxiv",
+        "https://huggingface.co/blog/spaces_3dmoljs",
+        "https://huggingface.co/blog/vision-transformers",
+        "https://huggingface.co/blog/decision-transformers",
+        "https://huggingface.co/blog/streamlit-spaces",
+        "https://huggingface.co/blog/pytorch-xla",
+        "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93ZTEzQkdmaE1ULWZCQk9YQ3RMd1lTS3F1OFY0Zi1Hd2d1dEczWG1HcmpoRE9WamFkMGJ6YUVHalVXbG9JZEtKb251NEhCbXptZlBqa1ZlVQ?oc=5"
+      ],
+      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "first_seen": "2026-11-08",
+      "last_shipped": "2026-11-08",
+      "last_summary": "Mistral AI has released 'Mistral Large 4,' now available on Hugging Face.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "humanoid-robotics-hardware-trends",
+      "urls": [
+        "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom"
+      ],
+      "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+      "first_seen": "2026-11-08",
+      "last_shipped": "2026-11-08",
+      "last_summary": "New reports highlight the growing integration of humanoid robots in domestic tasks and Samsung's ongoing infrastructure investments to support the AI chip boom.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "nvidia-china-export-oversight",
+      "urls": [
+        "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government"
+      ],
+      "title": "The US let Nvidia sell chips to an empty office in China",
+      "first_seen": "2026-11-08",
+      "last_shipped": "2026-11-08",
+      "last_summary": "Investigations reveal that high-end Nvidia AI chips were approved for export to an empty shell office in China, raising questions about current vetting processes.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "anthropic-recursive-ai-dev",
+      "urls": [
+        "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development"
+      ],
+      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "first_seen": "2026-11-08",
+      "last_shipped": "2026-11-08",
+      "last_summary": "A report by the AI safety group METR indicates that Anthropic's internal AI development capabilities are accelerating significantly, leading to faster model improvement cycles.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "election-data-center-policy",
+      "urls": [
+        "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years"
+      ],
+      "title": "After the midterms, is the AI industry in for a rough two years?",
+      "first_seen": "2026-11-08",
+      "last_shipped": "2026-11-08",
+      "last_summary": "Recent US election results suggest a challenging environment for the AI industry, with voters increasingly supporting local restrictions on data center development.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "meta-ai-training-policy-reversal",
+      "urls": [
+        "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update"
+      ],
+      "title": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
+      "first_seen": "2026-11-08",
+      "last_shipped": "2026-11-08",
+      "last_summary": "Following user backlash, Meta has abandoned a proposed terms of service update that would have required Facebook page owners to allow AI training on their linked content.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "brain-data-privacy-concerns",
+      "urls": [
+        "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F"
+      ],
+      "title": "Consumer brain wave headsets threaten privacy",
+      "first_seen": "2026-11-08",
+      "last_shipped": "2026-11-08",
+      "last_summary": "New concerns have emerged regarding consumer brain-wave headsets that may be harvesting neurological data to train AI models without explicit user consent.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "microsoft-research-restructuring",
+      "urls": [
+        "https://hunch.net/?p=13764006"
+      ],
+      "title": "The end of Microsoft Research's AI Frontiers group",
+      "first_seen": "2026-11-08",
+      "last_shipped": "2026-11-08",
+      "last_summary": "Microsoft has disbanded its AI Frontiers group within Microsoft Research, leading to the departure of prominent researchers.",
+      "was_must_know": false
     }
   ]
 }
