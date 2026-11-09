@@ -1,0 +1,114 @@
+{
+  "date": "2026-11-09",
+  "intro": "Today's headlines highlight significant leadership developments and strategic shifts among top tech firms. Major players are racing to integrate advanced agents and chatbot features into their ecosystems to maintain their competitive edge.",
+  "must_know": [
+    {
+      "cluster_id": "f0be6325bfc4dec9",
+      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+      "summary": "Nvidia has launched an investigation into CEO Jensen Huang's relationship with Alice Huang, an executive linked to the Chinese government. Jensen Huang has issued a memo to employees acknowledging the situation.",
+      "why_it_matters": "A leadership scandal involving the CEO of the world's most critical AI hardware company presents significant geopolitical and corporate stability concerns.",
+      "topic_ids": [
+        "big-tech"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia"
+        }
+      ]
+    },
+    {
+      "cluster_id": "c706b7b1eb7aaa34",
+      "title": "The full stack behind abundant intelligence",
+      "summary": "OpenAI is pursuing a full-stack infrastructure strategy to improve AI accessibility and scale, including the development of a 1GW data center project in Michigan. The initiative focuses on integrating hardware and compute resources to reduce costs and increase model performance.",
+      "why_it_matters": "Infrastructure investments are becoming a central competitive pillar for top AI labs to ensure future model capacity.",
+      "topic_ids": [
+        "foundation-models",
+        "hardware"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/building-abundant-intelligence"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/stargate-michigan-data-center"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/confidence-building-measures-for-artificial-intelligence"
+        },
+        {
+          "name": "Google News: AI",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZFNoNVUwVHF2QVBHTW51c1MySXlrR2ZjNk1panpUcFJhSzg2VzJkYVRjM1djOWptQThzZGFpdVJOcTJxdTRvUEI4RVhaMF9uemY5ckcxc0hrTmFWRjkzU2VYQTZRUklXUEpoenYwZzk0OUIzY0stRXVTNFlpQmNGcHl1aUxoRHdmbVE?oc=5"
+        },
+        {
+          "name": "Google News: AI",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWF96TUtjYnVnRXpMQ0NoanM2b3Z0UHNFMlJNdWJGVWRRdDN1Y2F1Y2duQ1NmTUVZMzlsZXlPSHl6TE1yMjhBM3ZQTzlPbU9lQzlYUTdBQ0dWQkhuVy1KLURHMmNTU3B5c1lIVkRQc25QejBEeGlMWG85bTlmN0RSdVZva2U0VXEwSlFPUkJreTNtRHBxME1EdQ?oc=5"
+        },
+        {
+          "name": "Google News: AI",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBxU3FXdWNEZWF0d2FPREJDYldUeFBmNWh5VzEwVUxRdVY4MEdwa1BxZXhkdVFicW5Ub1dDUEl1WUY0cWdYbGJZYWwwT203eVp6eWpZQmkxQnZSMnY0c0hRSFZvdzRtdlhWU0hVbzk2UQ?oc=5"
+        },
+        {
+          "name": "Google News: AI",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNZkNtZXZyV0xyLWJDaHZvNW9GMmdLTU93VHBHaXY1cEF1ZVl2RUpOSWlETWl5WFRrLTRwc3MzZjNNX3lIaDlianNrRTRSczZHcVRBalNsZXUtX3owa3pzV01RckZ0SExUMGtMcEtYSVJUZFB5MWVoRm95WVpaLWFhcWF6Y25GM0RpSlNkblZHRjRMcHhJS0Zob1U4ZnpTMHMxR1JqMzlkRDdhQnJRcTRxdEw3RnFzRlJQMmN1b3lPOThzUlo4S1VDczBMS2EyaDFsb1V3OXNDUUFiVU9PMUhFWklJaHl1LW5VMkVIX3ZnbFF0ZWlHVmUyS1B3UUpiZUU?oc=5"
+        }
+      ]
+    },
+    {
+      "cluster_id": "b9c0dd474c98ba84",
+      "title": "Apple is racing to make Siri more agentic",
+      "summary": "Apple leadership is reportedly pressuring engineering teams to accelerate the development of an agentic version of Siri. This effort seeks to close the gap with emerging AI agents from competitors like OpenAI and Meta.",
+      "why_it_matters": "Apple is under increasing pressure to integrate advanced AI agent capabilities into its ecosystem to remain competitive with the broader AI landscape.",
+      "topic_ids": [
+        "big-tech",
+        "tools"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic"
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "big-tech": [
+      {
+        "cluster_id": "7ff53c833c040800",
+        "title": "Chatbots might be coming to Apple’s HomeView",
+        "summary": "Beta code in iOS 27.3 suggests Apple may be planning to introduce support for chatbots within its HomeView smart home hub. A new category for 'Conversational Apps' indicates potential integration for services like ChatGPT or Claude.",
+        "why_it_matters": "This hints at how Apple intends to bring advanced generative AI features into home automation products.",
+        "topic_ids": [
+          "tools",
+          "big-tech"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview"
+          }
+        ]
+      }
+    ]
+  },
+  "continuing": []
+}

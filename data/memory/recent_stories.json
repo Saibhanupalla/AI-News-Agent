@@ -1,67 +1,6 @@
 {
   "entries": [
     {
-      "event_key": "ai-compute-scaling-analysis",
-      "urls": [
-        "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses",
-        "https://openai.com/index/ai-and-compute",
-        "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory"
-      ],
-      "title": "AI and compute",
-      "first_seen": "2026-11-02",
-      "last_shipped": "2026-11-02",
-      "last_summary": "Recent analyses from OpenAI and Google DeepMind highlight the exponential growth in compute demand for AI training, with major training runs now doubling compute requirements every 3.4 months. Separately, new technical developments are emerging to support private, server-side memory for personal AI compute.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "openai-jalapeno-chip-launch",
-      "urls": [
-        "https://openai.com/index/jalapeno-first-results",
-        "https://openai.com/index/ai-and-efficiency",
-        "https://huggingface.co/blog/tiiuae/falcon-h1",
-        "https://news.google.com/rss/articles/CBMikgJBVV95cUxPXzRWdm1ncnFCckFlWUh2dUllbTFaeXJEYzUxcEl1VkJWSXo3Rk1kZ1daQU9xUWp5Y2dySzdqSDh2bGJEVzJfdTd4N0pzcFF3dHAySzJYTTh4MUtDNnRDRnhFaXZnMVFtYUxOenJUQzN3ejlMU19sTExQQk8wT2xsMUM2SzVCcHVCWG1ZZXM0MGJ5d3F3bFZGZmV5WTBQbWM3RUFzWHQ1UzNDcUtQRTZ6c1phbmNHRTA0WDV0cS0tMVVTb19SUXpLTmpCZWpzc0NLcW9qRnhoSldoYmV0YTZGYll0bUFUb2puX0VuQ2pobFowNzE5a0VSWktKTGhVVjhKSk02aG16UjlhTGw0c1kyM3dR?oc=5",
-        "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS1dCeGkyR1JCRF9nbmNiWFdhR0ljakhsU3paX2laZ1pWMU94WWkwZ0Y4R2hyYmlpcDdxZndydWRyOFQ4R0xhTFNQRzZQYmEyNW5MVDhUWG9Yb1hEd2RrMHNuZlI2WXN2dllhUGsxMjh2WEg2dGUzNUNrT2hzLXIxMkppcFRGVTNPajY3cEd3?oc=5"
-      ],
-      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-      "first_seen": "2026-11-02",
-      "last_shipped": "2026-11-02",
-      "last_summary": "OpenAI has introduced Jalapeño, a custom inference chip designed to improve speed, power efficiency, and latency for modern AI models. This hardware effort complements findings that compute requirements for training neural networks to specific performance benchmarks are decreasing over time.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "california-prop45-data-centers",
-      "urls": [
-        "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy"
-      ],
-      "title": "Prop 45 in California could be hiding a loophole for data centers",
-      "first_seen": "2026-11-02",
-      "last_shipped": "2026-11-02",
-      "last_summary": "Environmental advocates warn that California's Proposition 45 could create a legal loophole allowing data center developers to bypass mandatory environmental impact assessments and public scrutiny.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "naacp-xai-lawsuit",
-      "urls": [
-        "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward"
-      ],
-      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-      "first_seen": "2026-11-02",
-      "last_shipped": "2026-11-02",
-      "last_summary": "A judge has allowed a lawsuit filed by the NAACP against xAI to proceed, which alleges that the company's data center operations violate the Clean Air Act.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "omnidiff-tool-launch",
-      "urls": [
-        "https://github.com/ivankovic/omnidiff"
-      ],
-      "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
-      "first_seen": "2026-11-02",
-      "last_shipped": "2026-11-02",
-      "last_summary": "OmniDiff is a new open-source, Rust-based Git diff tool that offers content-aware comparisons for various file types, including code, images, and documents.",
-      "was_must_know": false
-    },
-    {
       "event_key": "trump-super-intelligence-order",
       "urls": [
         "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test",
@@ -874,6 +813,58 @@
       "first_seen": "2026-11-08",
       "last_shipped": "2026-11-08",
       "last_summary": "Microsoft has disbanded its AI Frontiers group within Microsoft Research, leading to the departure of prominent researchers.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-stargate-infrastructure",
+      "urls": [
+        "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+        "https://openai.com/index/building-abundant-intelligence",
+        "https://openai.com/index/stargate-michigan-data-center",
+        "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
+        "https://openai.com/index/confidence-building-measures-for-artificial-intelligence",
+        "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZFNoNVUwVHF2QVBHTW51c1MySXlrR2ZjNk1panpUcFJhSzg2VzJkYVRjM1djOWptQThzZGFpdVJOcTJxdTRvUEI4RVhaMF9uemY5ckcxc0hrTmFWRjkzU2VYQTZRUklXUEpoenYwZzk0OUIzY0stRXVTNFlpQmNGcHl1aUxoRHdmbVE?oc=5",
+        "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWF96TUtjYnVnRXpMQ0NoanM2b3Z0UHNFMlJNdWJGVWRRdDN1Y2F1Y2duQ1NmTUVZMzlsZXlPSHl6TE1yMjhBM3ZQTzlPbU9lQzlYUTdBQ0dWQkhuVy1KLURHMmNTU3B5c1lIVkRQc25QejBEeGlMWG85bTlmN0RSdVZva2U0VXEwSlFPUkJreTNtRHBxME1EdQ?oc=5",
+        "https://news.google.com/rss/articles/CBMib0FVX3lxTFBxU3FXdWNEZWF0d2FPREJDYldUeFBmNWh5VzEwVUxRdVY4MEdwa1BxZXhkdVFicW5Ub1dDUEl1WUY0cWdYbGJZYWwwT203eVp6eWpZQmkxQnZSMnY0c0hRSFZvdzRtdlhWU0hVbzk2UQ?oc=5",
+        "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNZkNtZXZyV0xyLWJDaHZvNW9GMmdLTU93VHBHaXY1cEF1ZVl2RUpOSWlETWl5WFRrLTRwc3MzZjNNX3lIaDlianNrRTRSczZHcVRBalNsZXUtX3owa3pzV01RckZ0SExUMGtMcEtYSVJUZFB5MWVoRm95WVpaLWFhcWF6Y25GM0RpSlNkblZHRjRMcHhJS0Zob1U4ZnpTMHMxR1JqMzlkRDdhQnJRcTRxdEw3RnFzRlJQMmN1b3lPOThzUlo4S1VDczBMS2EyaDFsb1V3OXNDUUFiVU9PMUhFWklJaHl1LW5VMkVIX3ZnbFF0ZWlHVmUyS1B3UUpiZUU?oc=5"
+      ],
+      "title": "The full stack behind abundant intelligence",
+      "first_seen": "2026-11-09",
+      "last_shipped": "2026-11-09",
+      "last_summary": "OpenAI is pursuing a full-stack infrastructure strategy to improve AI accessibility and scale, including the development of a 1GW data center project in Michigan. The initiative focuses on integrating hardware and compute resources to reduce costs and increase model performance.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "nvidia-jensen-huang-investigation",
+      "urls": [
+        "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia"
+      ],
+      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+      "first_seen": "2026-11-09",
+      "last_shipped": "2026-11-09",
+      "last_summary": "Nvidia has launched an investigation into CEO Jensen Huang's relationship with Alice Huang, an executive linked to the Chinese government. Jensen Huang has issued a memo to employees acknowledging the situation.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "apple-siri-agentic-acceleration",
+      "urls": [
+        "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic"
+      ],
+      "title": "Apple is racing to make Siri more agentic",
+      "first_seen": "2026-11-09",
+      "last_shipped": "2026-11-09",
+      "last_summary": "Apple leadership is reportedly pressuring engineering teams to accelerate the development of an agentic version of Siri. This effort seeks to close the gap with emerging AI agents from competitors like OpenAI and Meta.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "apple-homeview-chatbot-support",
+      "urls": [
+        "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview"
+      ],
+      "title": "Chatbots might be coming to Apple’s HomeView",
+      "first_seen": "2026-11-09",
+      "last_shipped": "2026-11-09",
+      "last_summary": "Beta code in iOS 27.3 suggests Apple may be planning to introduce support for chatbots within its HomeView smart home hub. A new category for 'Conversational Apps' indicates potential integration for services like ChatGPT or Claude.",
       "was_must_know": false
     }
   ]
