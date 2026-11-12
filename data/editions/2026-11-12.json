@@ -1,0 +1,457 @@
+{
+  "date": "2026-11-12",
+  "intro": "Today's briefing focuses on the rapid expansion of AI agent capabilities across both enterprise tools and developer platforms. We also track significant moves by major tech companies in business integrations and industry-specific limitations.",
+  "must_know": [
+    {
+      "cluster_id": "3bf01c420b6b1492",
+      "title": "Introducing Businesses in ChatGPT",
+      "summary": "OpenAI introduced a suite of new ChatGPT business features, including workspace agents for workflow automation and security enhancements like Lockdown Mode.",
+      "why_it_matters": "These tools aim to make ChatGPT more viable for enterprise environments by improving security and task automation.",
+      "topic_ids": [
+        "tools",
+        "foundation-models"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-businesses-chatgpt"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-chatgpt-health"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/new-chatgpt-images-is-here"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-gpt-5-2"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/chatgpt-shopping-research"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/gpt-5-1-for-developers"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/group-chats-in-chatgpt"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-gpt-oss-safeguard"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-chatgpt-atlas"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-apps-in-chatgpt"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-chatgpt-pulse"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-gpt-realtime"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-gpt-5-for-developers"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-gpt-5"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-gpt-oss"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/chatgpt-study-mode"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-chatgpt-agent"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/gpt-4-1"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-our-next-generation-audio-models"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-deep-research"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-chatgpt-pro"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-chatgpt-search"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-canvas"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-the-realtime-api"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-vision-to-the-fine-tuning-api"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/mercado-libre"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-structured-outputs-in-the-api"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-chatgpt-and-whisper-apis"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-improvements-to-the-fine-tuning-api-and-expanding-our-custom-models-program"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-the-gpt-store"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-chatgpt-team"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-chatgpt-enterprise"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-the-chatgpt-app-for-ios"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/chatgpt-plus"
+        },
+        {
+          "name": "Google DeepMind Blog",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber"
+        },
+        {
+          "name": "Google DeepMind Blog",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber"
+        },
+        {
+          "name": "Google DeepMind Blog",
+          "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash"
+        },
+        {
+          "name": "Google DeepMind Blog",
+          "url": "https://deepmind.google/blog/introducing-gemini-omni"
+        },
+        {
+          "name": "Google DeepMind Blog",
+          "url": "https://deepmind.google/blog/introducing-google-antigravity-2-0"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/openenv"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/agents"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/leaderboard-patronus"
+        },
+        {
+          "name": "Google News: AI",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbWV6aXZOWENsNl9ORWZWdXJ3cG5LdmN5OFZQTk1Iekc1bmNxR1loRzVqNVpCLTQxZDF3M1hCOE1kVzgxTmkwVkxrWFhJcWVkUURuSE9LTWhNb3FrWExjWjBYUW1HdzNTT2lNaVpyQnE5eVI0clN1czZIM21kZFpsejFfeW5iVm04dzAtZEJRdFhzRHZzQmFfUjNaTnF5TFJac0I2NFZQSEQ?oc=5"
+        }
+      ]
+    },
+    {
+      "cluster_id": "ead5dcbceeb0212c",
+      "title": "Introducing the Agents API",
+      "summary": "OpenAI and Amazon Bedrock have launched new developer-focused tools, including an Agents API and enhanced runtime support for multi-step workflows.",
+      "why_it_matters": "These infrastructure releases help developers transition from testing AI prototypes to deploying production-ready agentic systems.",
+      "topic_ids": [
+        "tools",
+        "foundation-models"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-the-agents-api"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-agentkit"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/image-generation-api"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-4o-image-generation"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-the-model-spec"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/tgi-multi-backend"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/smolagents"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/synthid-text"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/idefics2"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/leaderboard-contextual"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/inference-pro"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/wuerstchen"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/idefics"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/agents-js"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/sagemaker-huggingface-llm"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/aivsai"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/bloom"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/education"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/gptj-sagemaker"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/snowball-fight"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/the-partnership-amazon-sagemaker-and-hugging-face"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/accelerated-inference"
+        },
+        {
+          "name": "Hacker News Front Page",
+          "url": "https://github.com/huawei-csl/MACaQ"
+        }
+      ]
+    },
+    {
+      "cluster_id": "236a4b63a9ba9042",
+      "title": "OpenAI acquires TBPN",
+      "summary": "OpenAI has acquired TBPN to support independent media and is integrating technology from software firm Sky into ChatGPT for improved desktop capabilities.",
+      "why_it_matters": "OpenAI is expanding its ecosystem beyond core models by acquiring niche software and media tools.",
+      "topic_ids": [
+        "big-tech",
+        "startups-funding"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/openai-acquires-tbpn"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/openai-acquires-software-applications-incorporated"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/openai-acquires-rockset"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/openai-acquires-global-illumination"
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "tools": [
+      {
+        "cluster_id": "0e9fb0eb84f13acf",
+        "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+        "summary": "Google DeepMind's AlphaProof Code agents utilized millions of lines of code in Lean to verify Signal's encryption protocols.",
+        "why_it_matters": "This demonstrates a practical, high-value application of formal verification AI to secure critical software systems.",
+        "topic_ids": [
+          "research",
+          "tools"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "Google DeepMind Blog",
+            "url": "https://deepmind.google/blog/introducing-alphaproof-code"
+          }
+        ]
+      },
+      {
+        "cluster_id": "ccd519173ba2f65a",
+        "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+        "summary": "Google launched 'Tabletop,' an experimental tool that allows users to create customized collaborative apps using natural language prompts.",
+        "why_it_matters": "This move enables non-technical users to build personalized productivity software through generative AI.",
+        "topic_ids": [
+          "tools"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability"
+          }
+        ]
+      }
+    ],
+    "big-tech": [
+      {
+        "cluster_id": "3c4a130ff1dbafc3",
+        "title": "United won’t let your AI agent book your flight",
+        "summary": "United Airlines has restricted the use of AI agents for booking tickets, citing privacy and regulatory compliance concerns.",
+        "why_it_matters": "Companies are beginning to set boundaries on how external AI agents interact with their proprietary booking systems.",
+        "topic_ids": [
+          "policy",
+          "big-tech"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents"
+          }
+        ]
+      }
+    ],
+    "research": [
+      {
+        "cluster_id": "597b5d799919a1e7",
+        "title": "How AI training scales",
+        "summary": "Researchers identified 'gradient noise scale' as a predictor for neural network parallelizability, suggesting future growth can be managed through larger batch sizes.",
+        "why_it_matters": "This insight provides a pathway for scaling large model training more efficiently, addressing a key constraint in AI development.",
+        "topic_ids": [
+          "research"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/how-ai-training-scales"
+          },
+          {
+            "name": "Google News: AI",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRXp4UndOa3dWWml4aC1JNmtyY0MxS3ZOTWdlQ3ZjX1MyWmdtNHFHUHpzal8xTFpadk1YaTNsMV9uLUhlcjd2Y3lSVDVmYlhjWktaUFVZN1FPSXZmZUlHa3BGNGczcUloa3ZmRkNFYzVZeXFnNGRLY2ZtTnFEdmZCT2tKM0FvWG9OUnJKamN4MzVjSHBTYjlXcHh1YnRZZWs?oc=5"
+          }
+        ]
+      },
+      {
+        "cluster_id": "19b4fcb1faac9c9b",
+        "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+        "summary": "BotPsy is a new sub-billion-parameter language model designed for on-device agentic tasks.",
+        "why_it_matters": "Efficiency-focused small models are essential for enabling AI capabilities on mobile hardware without cloud reliance.",
+        "topic_ids": [
+          "research",
+          "open-source"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "Hugging Face Blog",
+            "url": "https://huggingface.co/blog/qvac/botpsy"
+          }
+        ]
+      }
+    ]
+  },
+  "continuing": []
+}
