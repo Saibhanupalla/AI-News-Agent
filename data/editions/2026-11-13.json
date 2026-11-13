@@ -1,0 +1,245 @@
+{
+  "date": "2026-11-13",
+  "intro": "Today's tech landscape is dominated by a major leadership shakeup at Nvidia following Jensen Huang's resignation. Meanwhile, major model updates from OpenAI and Google are reshaping the capabilities of current foundation models.",
+  "must_know": [
+    {
+      "cluster_id": "7c88fba49af33930",
+      "title": "‘It’s a mistake’: reactions from tech leaders on Jensen Huang’s resignation",
+      "summary": "Tech industry figures are reacting to Jensen Huang's resignation from Nvidia, which follows reports of personal misconduct involving an alleged spy and a subordinate.",
+      "why_it_matters": "The sudden departure of a key industry leader, particularly one central to the global AI chip infrastructure, creates significant market and corporate instability.",
+      "topic_ids": [
+        "big-tech",
+        "hardware"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions"
+        }
+      ]
+    },
+    {
+      "cluster_id": "104f40efd6071a51",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "summary": "Jensen Huang has officially resigned as CEO of Nvidia following a scandal involving alleged affairs. Experts are concerned about the implications for U.S.-China technology relations.",
+      "why_it_matters": "The intersection of executive misconduct and critical geopolitical infrastructure creates high-stakes risks for international stability.",
+      "topic_ids": [
+        "big-tech",
+        "hardware",
+        "policy"
+      ],
+      "story_type": "update",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline"
+        }
+      ]
+    },
+    {
+      "cluster_id": "9bbc3d4842b4a5bd",
+      "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+      "summary": "Google has launched Gemini 4 Hydrogen, which is designed for a rapid deployment model rather than the more cautious release cycles of previous iterations like Carbon and Argon.",
+      "why_it_matters": "A shift to a faster release cadence for Gemini models indicates Google's urgency in maintaining parity with industry competitors.",
+      "topic_ids": [
+        "foundation-models",
+        "big-tech"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash"
+        },
+        {
+          "name": "Hacker News Front Page",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen"
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "big-tech": [
+      {
+        "cluster_id": "a3e1afb4a33deb1b",
+        "title": "Google’s new Gemini model is better at understanding complicated questions",
+        "summary": "Google's Gemini 4 Hydrogen model has been updated to better handle multi-part, complex, or ambiguous user queries. It is now available across Google's Gemini application and search tiers.",
+        "why_it_matters": "Improvements in parsing complex logic are critical for maintaining the utility of AI assistants in everyday search tasks.",
+        "topic_ids": [
+          "foundation-models",
+          "big-tech"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen"
+          }
+        ]
+      }
+    ],
+    "hardware": [
+      {
+        "cluster_id": "0b5401a8842f0b62",
+        "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+        "summary": "Nvidia privately confirmed to U.S. officials that implementing chip tracking for anti-smuggling measures is technically feasible, contradicting public claims of infeasibility made by industry groups.",
+        "why_it_matters": "This discrepancy highlights the complexity and internal pressure surrounding export controls and global chip supply chain security.",
+        "topic_ids": [
+          "hardware",
+          "policy"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking"
+          }
+        ]
+      }
+    ],
+    "foundation-models": [
+      {
+        "cluster_id": "6a3a2d9371bca397",
+        "title": "Introducing Images 2.6",
+        "summary": "OpenAI has released Images 2.6, which introduces faster generation, integrated GIF creation, and more precise editing capabilities. The update includes new API controls and enhancements for ChatGPT and Codex.",
+        "why_it_matters": "Faster and more precise image generation tools improve usability for developers and creative users.",
+        "topic_ids": [
+          "foundation-models",
+          "tools"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/introducing-images-2-6"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/introducing-chatgpt-images-2-5"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/introducing-gpt-5-5"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/introducing-chatgpt-images-2-0"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/introducing-gpt-rosalind"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/introducing-gpt-5-4"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/introducing-gpt-5-3-codex"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/introducing-the-codex-app"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/introducing-gpt-5-2-codex"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/introducing-upgrades-to-codex"
+          },
+          {
+            "name": "Google DeepMind Blog",
+            "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen"
+          },
+          {
+            "name": "Google DeepMind Blog",
+            "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model"
+          },
+          {
+            "name": "Hugging Face Blog",
+            "url": "https://huggingface.co/blog/doc_aug_hf_alb"
+          }
+        ]
+      },
+      {
+        "cluster_id": "67672a694e389b29",
+        "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+        "summary": "Amplitude reports that its internal product agent, Wave, utilizes OpenAI models to identify product opportunities and assist in shipping improvements within 1-2 days.",
+        "why_it_matters": "AI-driven product agents are demonstrating significant efficiency gains in enterprise software development and deployment workflows.",
+        "topic_ids": [
+          "tools",
+          "foundation-models"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/business/customer-stories/amplitude"
+          }
+        ]
+      }
+    ],
+    "policy": [
+      {
+        "cluster_id": "a2653723274f3a33",
+        "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+        "summary": "United Airlines has officially blocked the use of AI agents for flight booking and reservation management, citing concerns over cybersecurity. The move reflects growing caution among airlines regarding automated third-party AI interfaces.",
+        "why_it_matters": "Companies are increasingly setting boundaries to manage the risks associated with autonomous agents interacting with their service platforms.",
+        "topic_ids": [
+          "policy",
+          "tools"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks"
+          },
+          {
+            "name": "Google News: AI",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNkVsZUJhUHZoMTlPa05zbzFaSHBObFhuSTJ3QUx5QU15NEVCanBwanpmeHUybDNJWVpQRDVWUEt1T2JvejU2bXhMOWFkNTdLR1FLMTBPS3VqUU1TTUg1VjltMFQ1TF9ZTkFxclB0RTJEZEFvSGlKMEFqRXdCLTFYNG4zLWkzdjZTdXRJUGlMZTRWU042U212YzRUNGQtR2s?oc=5"
+          }
+        ]
+      }
+    ],
+    "tools": [
+      {
+        "cluster_id": "ecab0e7e397b3108",
+        "title": "Humble Bundle redesign removes two-factor verification from settings",
+        "summary": "Humble Bundle users have reported that the store's redesigned settings page no longer allows for the management or addition of two-factor authentication methods.",
+        "why_it_matters": "The removal of core security features in a platform redesign poses significant privacy and account security risks to users.",
+        "topic_ids": [
+          "tools"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/games/1032659/humble-bundle-redesign-two-factor-verification-security-settings"
+          }
+        ]
+      }
+    ]
+  },
+  "continuing": []
+}

@@ -1,145 +1,6 @@
 {
   "entries": [
     {
-      "event_key": "enterprise-ai-adoption-trends",
-      "urls": [
-        "https://openai.com/index/the-future-of-the-firm",
-        "https://openai.com/index/teens-learn-and-plan",
-        "https://openai.com/index/omio",
-        "https://openai.com/index/sea-david-chen",
-        "https://openai.com/index/pvh-future-of-fashion",
-        "https://openai.com/index/gpt-5-mathematical-discovery",
-        "https://openai.com/global-affairs/eu-code-of-practice",
-        "https://openai.com/global-affairs/aft",
-        "https://openai.com/index/wayfair-fiona-tan",
-        "https://openai.com/index/morgan-stanley",
-        "https://deepmind.google/blog/securing-the-future-of-ai-agents",
-        "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe",
-        "https://huggingface.co/blog/cybersecurity-openness",
-        "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3",
-        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSkR0NUhZb1liSmtXZ0RKMnJZUmRZM2tMdmEtRW9xcXR0Y28xTHQtZ0JOWUtyN1BoTGl2RV9iWjVTakFDUmhkS0VQUHVSYklab1YxZVNsSjVqNTBMUW1MdjRyRmc1LWtfSEVEb3NxOHZ0X2Zrc1luTzlDamhJSFJiMmdjeUVET1ViZVpiZ2JEdzVTWW9yek1FVy1WcnZPNE52ZXpvbWd5NHZ4SkJNRk8wbWVQMGVsNV93OUFiUHE0LWJRUdIBxwFBVV95cUxQUlMwSW1SN0hhQWJQd1BBZFRDb1AtcEJyUllxZ2NGLVdOUVR0TmFtZUZzczhLbV8zS1NNdmRjSGh0LTdHdEtHQ3A3dkpiX0NVOWVTOVpDcHRfbVpXMEQ5SUVDU3d6bEV0ZHpWMzlQSW9wMll5enRpVk1nVlB4ZUI3MWxYU0lzSlo5M1ZudnNIUXNXZmlSemtFMGlEQW1JTXFfYW84YmloVUFUUnphZ1R0Wkx1cWtQVDU1VV9LaTd4akV4NWN5SnVJ?oc=5"
-      ],
-      "title": "The future of the firm",
-      "first_seen": "2026-11-06",
-      "last_shipped": "2026-11-06",
-      "last_summary": "Organizations are increasingly integrating AI into internal operations, with companies like Sea Limited deploying coding tools and Omio leveraging OpenAI for travel experiences. Additionally, OpenAI is introducing educational features like a College Planner into ChatGPT.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "openai-frontier-governance-framework",
-      "urls": [
-        "https://openai.com/index/openai-frontier-governance-framework",
-        "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQcVJDeVB5R3dOeFd2VGtJUUJzcGptdFFWT21lYUZvay1uWTB0NnRjczA4TjZ4LW5lNlNaQ1V4b1JILWpRamF0eXFJdzkxbFlCQ1N1eTE0Y013RDNuLXBaWGtFaWtfNFFyYi1OaXM1YUpjLTMzaGJJNHB4NG5ZczJQQzVpZmpLazA4TUtLX0ZrZ2lUY2tiQjBvMXJWY1RVbHJTSExHWE5FZ3k4VzhsQ2NNY2ZDdDQwWkh3SUhvdGZORUZBb0k3WUVpODZGNFg1aTVNbjlJb3hMc2kzN2NoZWJqbTV4TG5WUVlPcXF3NXJIZ3RUUzQ4bXJNU3I0TkpqNkRIQnhXOGtOY2lFTVVOcEpnbGVpbEhYUnB2TXc0Vm94ZkYxd3lUZjAzNTM5aw?oc=5"
-      ],
-      "title": "OpenAI’s Frontier Governance Framework",
-      "first_seen": "2026-11-06",
-      "last_shipped": "2026-11-06",
-      "last_summary": "OpenAI has published its Frontier Governance Framework, which outlines security and safety practices intended to align with emerging EU and California regulations.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "openai-gpt5-early-access",
-      "urls": [
-        "https://openai.com/index/gpt-5-first-look",
-        "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMGdSVzFjbExhUXF2cEluaEdTZEpEX3MxWVdtRU5nZno4RDhHcGwzdzhBV3lONmJFclc4ZkloRVZSVFhDSU5RMGpma0NSS20zR0pKOXRJMDdZLWE0ckNDSDR1bzhyYVg0WlpBNms5MDZUd2J4cUpOZnc0bGVZRmxyTUFaM2lxcUROQUVkZ2F3?oc=5"
-      ],
-      "title": "First look at GPT-5",
-      "first_seen": "2026-11-06",
-      "last_shipped": "2026-11-06",
-      "last_summary": "Leading developers have been given early access to test the capabilities of GPT-5.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "openai-five-dota-benchmark",
-      "urls": [
-        "https://openai.com/index/openai-five-benchmark-results",
-        "https://openai.com/index/openai-five-benchmark",
-        "https://news.google.com/rss/articles/CBMivwFBVV95cUxQX3d0TXRuQW90MU5STmRpelFyLXZ3TDkwZDVQR0w4X0tPbG91NW05cDA1S25ZTGRzZVRjNnBIc3RPUmxqT3doenlVNFRtUGVfaFF2X29FVm42bjBqWFY5b0pqNW9LcUh5V2RKRXR1VFZRMHp0NlRmVDZBU3dvSC1qZGk5cnhzQXd4dlZYMi1NNkJGQUZnb0lLQjRmZGRJR0twSkNFU19ManN6NlRPeG82TGNDcHFfajlxb0VHSGhTQQ?oc=5"
-      ],
-      "title": "OpenAI Five Benchmark: Results",
-      "first_seen": "2026-11-06",
-      "last_shipped": "2026-11-06",
-      "last_summary": "OpenAI Five successfully defeated a team of high-level professional Dota players in a benchmark match, demonstrating advancements in agentic performance.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "openai-gpt6-cyber-launch",
-      "urls": [
-        "https://openai.com/index/introducing-gpt-6-cyber"
-      ],
-      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-      "first_seen": "2026-11-06",
-      "last_shipped": "2026-11-06",
-      "last_summary": "OpenAI introduced GPT-6 Cyber, a specialized model designed to identify and fix cybersecurity vulnerabilities within authorized scopes.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "openai-infrastructure-policy-framework",
-      "urls": [
-        "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure"
-      ],
-      "title": "Setting a new standard for responsible AI infrastructure",
-      "first_seen": "2026-11-06",
-      "last_shipped": "2026-11-06",
-      "last_summary": "OpenAI has released a National Community Compact and a Compute Campus Policy Blueprint to guide responsible development of infrastructure for data centers.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "franklin-templeton-ai-research",
-      "urls": [
-        "https://openai.com/index/franklin-templeton"
-      ],
-      "title": "Franklin Templeton uses OpenAI to support investment research",
-      "first_seen": "2026-11-06",
-      "last_shipped": "2026-11-06",
-      "last_summary": "Franklin Templeton is implementing AI workflows powered by OpenAI to assist portfolio managers with equity research and investment risk assessment.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "texas-data-center-energy-crunch",
-      "urls": [
-        "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy"
-      ],
-      "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
-      "first_seen": "2026-11-06",
-      "last_shipped": "2026-11-06",
-      "last_summary": "The rapid expansion of data centers in Texas faces potential setbacks due to energy policy shifts and community resistance to infrastructure buildouts.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "openai-nda-transparency-commitment",
-      "urls": [
-        "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda"
-      ],
-      "title": "OpenAI is stepping back from NDAs for data center projects",
-      "first_seen": "2026-11-06",
-      "last_shipped": "2026-11-06",
-      "last_summary": "Following local opposition, OpenAI has committed to eliminating non-disclosure agreements with public officials for future data center development projects.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "airbnb-ai-agent-roadmap",
-      "urls": [
-        "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings"
-      ],
-      "title": "Airbnb is working on an AI travel agent",
-      "first_seen": "2026-11-06",
-      "last_shipped": "2026-11-06",
-      "last_summary": "Airbnb announced in its Q3 2026 shareholder letter that it plans to release an AI travel agent in early 2027 to assist users with booking and planning.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "perplexity-teammates-agent-launch",
-      "urls": [
-        "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work"
-      ],
-      "title": "Perplexity launches its own take on AI agents for work",
-      "first_seen": "2026-11-06",
-      "last_shipped": "2026-11-06",
-      "last_summary": "Perplexity has launched \"Teammates,\" a suite of always-on AI agents for work that integrate with existing projects and the Perplexity Computer system.",
-      "was_must_know": false
-    },
-    {
       "event_key": "openai-gov-policy-framework",
       "urls": [
         "https://openai.com/index/government-national-security-partnerships",
@@ -607,6 +468,111 @@
       "last_shipped": "2026-11-12",
       "last_summary": "Google launched 'Tabletop,' an experimental tool that allows users to create customized collaborative apps using natural language prompts.",
       "was_must_know": false
+    },
+    {
+      "event_key": "openai-images-2-6-launch",
+      "urls": [
+        "https://openai.com/index/introducing-images-2-6",
+        "https://openai.com/index/introducing-chatgpt-images-2-5",
+        "https://openai.com/index/introducing-gpt-5-5",
+        "https://openai.com/index/introducing-chatgpt-images-2-0",
+        "https://openai.com/index/introducing-gpt-rosalind",
+        "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+        "https://openai.com/index/introducing-gpt-5-4",
+        "https://openai.com/index/introducing-gpt-5-3-codex-spark",
+        "https://openai.com/index/introducing-gpt-5-3-codex",
+        "https://openai.com/index/introducing-the-codex-app",
+        "https://openai.com/index/introducing-gpt-5-2-codex",
+        "https://openai.com/index/introducing-upgrades-to-codex",
+        "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
+        "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model",
+        "https://huggingface.co/blog/doc_aug_hf_alb"
+      ],
+      "title": "Introducing Images 2.6",
+      "first_seen": "2026-11-13",
+      "last_shipped": "2026-11-13",
+      "last_summary": "OpenAI has released Images 2.6, which introduces faster generation, integrated GIF creation, and more precise editing capabilities. The update includes new API controls and enhancements for ChatGPT and Codex.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "united-airlines-ai-agent-ban",
+      "urls": [
+        "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks",
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNkVsZUJhUHZoMTlPa05zbzFaSHBObFhuSTJ3QUx5QU15NEVCanBwanpmeHUybDNJWVpQRDVWUEt1T2JvejU2bXhMOWFkNTdLR1FLMTBPS3VqUU1TTUg1VjltMFQ1TF9ZTkFxclB0RTJEZEFvSGlKMEFqRXdCLTFYNG4zLWkzdjZTdXRJUGlMZTRWU042U212YzRUNGQtR2s?oc=5"
+      ],
+      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+      "first_seen": "2026-11-13",
+      "last_shipped": "2026-11-13",
+      "last_summary": "United Airlines has officially blocked the use of AI agents for flight booking and reservation management, citing concerns over cybersecurity. The move reflects growing caution among airlines regarding automated third-party AI interfaces.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "google-gemini-4-hydrogen-launch",
+      "urls": [
+        "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash",
+        "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen"
+      ],
+      "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+      "first_seen": "2026-11-13",
+      "last_shipped": "2026-11-13",
+      "last_summary": "Google has launched Gemini 4 Hydrogen, which is designed for a rapid deployment model rather than the more cautious release cycles of previous iterations like Carbon and Argon.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "amplitude-openai-product-agent",
+      "urls": [
+        "https://openai.com/business/customer-stories/amplitude"
+      ],
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "first_seen": "2026-11-13",
+      "last_shipped": "2026-11-13",
+      "last_summary": "Amplitude reports that its internal product agent, Wave, utilizes OpenAI models to identify product opportunities and assist in shipping improvements within 1-2 days.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "nvidia-chip-tracking-feasibility",
+      "urls": [
+        "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking"
+      ],
+      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+      "first_seen": "2026-11-13",
+      "last_shipped": "2026-11-13",
+      "last_summary": "Nvidia privately confirmed to U.S. officials that implementing chip tracking for anti-smuggling measures is technically feasible, contradicting public claims of infeasibility made by industry groups.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "humble-bundle-2fa-removal",
+      "urls": [
+        "https://www.theverge.com/games/1032659/humble-bundle-redesign-two-factor-verification-security-settings"
+      ],
+      "title": "Humble Bundle redesign removes two-factor verification from settings",
+      "first_seen": "2026-11-13",
+      "last_shipped": "2026-11-13",
+      "last_summary": "Humble Bundle users have reported that the store's redesigned settings page no longer allows for the management or addition of two-factor authentication methods.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "google-gemini-4-reasoning-update",
+      "urls": [
+        "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen"
+      ],
+      "title": "Google’s new Gemini model is better at understanding complicated questions",
+      "first_seen": "2026-11-13",
+      "last_shipped": "2026-11-13",
+      "last_summary": "Google's Gemini 4 Hydrogen model has been updated to better handle multi-part, complex, or ambiguous user queries. It is now available across Google's Gemini application and search tiers.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "jensen-huang-resignation",
+      "urls": [
+        "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
+        "https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions"
+      ],
+      "title": "‘It’s a mistake’: reactions from tech leaders on Jensen Huang’s resignation",
+      "first_seen": "2026-11-13",
+      "last_shipped": "2026-11-13",
+      "last_summary": "Jensen Huang has officially resigned as CEO of Nvidia following a scandal involving alleged affairs. Experts are concerned about the implications for U.S.-China technology relations.",
+      "was_must_know": true
     }
   ]
 }
