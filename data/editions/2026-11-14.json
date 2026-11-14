@@ -1,0 +1,284 @@
+{
+  "date": "2026-11-14",
+  "intro": "Today's headlines are dominated by the ripple effects of leadership changes at Nvidia and major shifts in AI tooling. Meanwhile, we are tracking significant developments in hardware innovation and industry-wide infrastructure challenges.",
+  "must_know": [
+    {
+      "cluster_id": "754f24889ed9e00a",
+      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "summary": "OpenAI has launched ChatGPT Wallet, allowing its Dots AI agents to execute purchases for eligible US subscribers.",
+      "why_it_matters": "The introduction of payment capabilities is a major step toward autonomous AI agents performing real-world commercial transactions.",
+      "topic_ids": [
+        "tools",
+        "foundation-models"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet"
+        }
+      ]
+    },
+    {
+      "cluster_id": "1dcca899a4f1e514",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "summary": "A timeline of the Jensen Huang scandal reveals his sudden resignation from Nvidia following an affair, raising questions about national security and corporate leadership stability.",
+      "why_it_matters": "The sudden departure of a key figure in the global AI supply chain has significant implications for both tech markets and international policy.",
+      "topic_ids": [
+        "big-tech",
+        "policy"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline"
+        }
+      ]
+    },
+    {
+      "cluster_id": "921b9fc20e585b89",
+      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "summary": "OpenAI has introduced Jalapeño, a custom inference chip designed for improved speed and energy efficiency. Additionally, new research indicates that the compute required to train neural networks has halved every 16 months since 2012.",
+      "why_it_matters": "Advancements in both custom silicon and training efficiency are critical for scaling AI models while reducing operational costs.",
+      "topic_ids": [
+        "hardware",
+        "research"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/jalapeno-first-results"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/ai-and-efficiency"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/tiiuae/falcon-h1"
+        },
+        {
+          "name": "Google News: AI",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNVcxenVlaTUybjgxR0pyaWRhME1SRnpONVh6TmkyU0NhU2JZaENHRW5QWktMdVRwTFhFZDdONG9ZbzhoZ051YjdtVjhyWXpkS2pUMTFHcVFGNmVtQlF6SVk3dHJlZm5KN3JHcTlocDZ3QWVxNlpnUG03WDcwbm0yRlN6d1pRRUNUeThLcDVZWUZOa2F1TmF1bl80WEpaTXVhc0E3QW1pelgwdlV2MC1UMzhaVDYwSHllUDd6aW5PQnNWWmpZdGpXOHpzajVoWkU?oc=5"
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "big-tech": [
+      {
+        "cluster_id": "96048276e5de0ccf",
+        "title": "Amazon has a plan to index the world’s online shopping data",
+        "summary": "Amazon is reportedly developing a 'World Product Graph' to index global online shopping data, including products not sold on its own platform.",
+        "why_it_matters": "This move suggests an aggressive strategy to capture more consumer traffic by becoming the central source of truth for online commerce.",
+        "topic_ids": [
+          "big-tech"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search"
+          }
+        ]
+      },
+      {
+        "cluster_id": "9d694fa95af0cfae",
+        "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+        "summary": "Following Jensen Huang's departure from Nvidia, investors and founders anticipate a tightening of AI startup funding and a potential correction in valuations.",
+        "why_it_matters": "Nvidia has been a primary financier of the AI boom, and a leadership change could signal a broader cooling of speculative capital.",
+        "topic_ids": [
+          "startups-funding",
+          "big-tech"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say"
+          }
+        ]
+      },
+      {
+        "cluster_id": "940b542808337faa",
+        "title": "Microsoft’s latest email outage turned into a full-blown global cloud crisis",
+        "summary": "A major Microsoft outage affecting Outlook and Teams escalated into a broader global cloud services failure, with restoration currently underway.",
+        "why_it_matters": "The incident demonstrates the critical dependency of global enterprise infrastructure on centralized cloud providers.",
+        "topic_ids": [
+          "big-tech"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis"
+          }
+        ]
+      }
+    ],
+    "tools": [
+      {
+        "cluster_id": "ab45daa0271f3de6",
+        "title": "The future of the firm",
+        "summary": "AI is increasingly being integrated into corporate workflows and educational environments, with new tools for students and enterprise-wide software adoption. Companies like Omio and Sea Limited are leveraging these models to improve productivity.",
+        "why_it_matters": "The broad adoption of AI across various sectors signals a shift toward AI-native business models and automated operational workflows.",
+        "topic_ids": [
+          "foundation-models",
+          "tools"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/the-future-of-the-firm"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/teens-learn-and-plan"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/omio"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/sea-david-chen"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/pvh-future-of-fashion"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/gpt-5-mathematical-discovery"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/global-affairs/eu-code-of-practice"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/global-affairs/aft"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/wayfair-fiona-tan"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/morgan-stanley"
+          },
+          {
+            "name": "Google DeepMind Blog",
+            "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents"
+          },
+          {
+            "name": "Google DeepMind Blog",
+            "url": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe"
+          },
+          {
+            "name": "Hugging Face Blog",
+            "url": "https://huggingface.co/blog/cybersecurity-openness"
+          },
+          {
+            "name": "Hugging Face Blog",
+            "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3"
+          },
+          {
+            "name": "Google News: AI",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPelIxT3FrZ1prNjExUTFTT2F5TGJKdkxBcHlUQTR4ZVc1czJ5cTkwTXFoTXdSODRJZWx0WWN3blFaQzJhUG00MTduRTRLWVlocVdKVmtGVFRFemFobi1EVWVLWjhUcGdjcmFTMGpicDIxaVhwMjJwaGtuYXM0MGxSQmZyaWZ5TkFLSXY1a3lIYldQdUs1bnpxVl9LR2dncUh3RGZFNll2dnZSSEFiM1E?oc=5"
+          },
+          {
+            "name": "Google News: AI",
+            "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNZGdjZzVkcjVoSHpVam1fMjczUGJ1Rlg0LU1pUlZGNDRVVFVQTmhmNkFXX01ob29tQ3FQRTlBZjJ0MFlLUFJSTE9BRndETWF0UlkxbnZyM0M1eGlNR0g3VVM3Mmk0SWZ4RXBOTFpuZlVkM25SelZ1dHVGeVI0RGFVaFNna1U0U0NWMDRVcF9WOVpEUjMzZnhwVi1VRUNjbmJJSThlNGRWT2RjRGZVa3J1WnJWRzh6LXE4T2RwUGxPMGE3VndHXzBycVZSSWNCdG1BdGJkeUJ2R0YtU2o1U1RENXFKS0h4ZWxLMU9zOVp0ajdmb1NYemRfMy1DMNIBjwJBVV95cUxPSmdGbGV2d1J0UV9GcHk2N3BkSEZXR3JpN2NVZlgzREQ5OWVxVWVEZXhmdlN3UDZxOFBIbXYzMzBYSVZiMTI4VHdFOWRoaGtnMHJTWTNCeFpibVp5a0FJN3NKcS1HYTVFVHgyR2d1dWRxbVU5NWgyTmx6Z084U1ljdDdWU0h2N2t6WWZwNm1oMDZNWGl4M3NPZGY3Zm5Dd0hfUGpsVHpnMkVKV3dqekgtSkJ3X1FORGl0UE9ZMHhNUzh4cGoydnVCR3N5UHdTWnhPUk1WSUhvT0hybERCUVdKUEhSXzFnSzVsbkVoU2xSNE9UR3JMVjN3TWdNRFI5WTZESndmTHlCMElsTW5PUjh3?oc=5"
+          }
+        ]
+      },
+      {
+        "cluster_id": "49f0b0840b1ef26a",
+        "title": "AI agent startup LangChain hits $3B valuation",
+        "summary": "LangChain has reached a $3 billion valuation, reporting 7,000 customers for its AI agent management platform, LangSmith.",
+        "why_it_matters": "The valuation reflects strong market confidence in the infrastructure layer required for managing complex AI agent workflows.",
+        "topic_ids": [
+          "startups-funding",
+          "tools"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation"
+          }
+        ]
+      }
+    ],
+    "hardware": [
+      {
+        "cluster_id": "ce5dea6ed91ac5cb",
+        "title": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
+        "summary": "Startup Drogue plans to power floating data centers using ocean thermal energy, with a prototype expected within two years.",
+        "why_it_matters": "This represents an experimental approach to addressing the massive power requirements of future AI data centers.",
+        "topic_ids": [
+          "startups-funding",
+          "hardware"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board"
+          }
+        ]
+      },
+      {
+        "cluster_id": "a5cbeaaf0b4df56f",
+        "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+        "summary": "Research indicates that China's most advanced AI models have been trained using Nvidia chips subject to export bans.",
+        "why_it_matters": "This highlights significant challenges in enforcing export controls meant to restrict China's access to top-tier AI hardware.",
+        "topic_ids": [
+          "policy",
+          "hardware"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen"
+          }
+        ]
+      }
+    ]
+  },
+  "continuing": [
+    {
+      "cluster_id": "6841e619fcd7e8d9",
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "summary": "The llama.cpp project has reached version 1.0.0, establishing a more stable foundation for the local AI ecosystem.",
+      "why_it_matters": "Increased stability in local inference tools makes it easier for developers to run and optimize models on consumer hardware.",
+      "topic_ids": [
+        "open-source",
+        "tools"
+      ],
+      "story_type": "update",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1"
+        }
+      ]
+    }
+  ]
+}

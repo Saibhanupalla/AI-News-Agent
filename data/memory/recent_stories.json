@@ -1,146 +1,6 @@
 {
   "entries": [
     {
-      "event_key": "openai-gov-policy-framework",
-      "urls": [
-        "https://openai.com/index/government-national-security-partnerships",
-        "https://openai.com/index/approach-to-data-and-ai",
-        "https://openai.com/index/our-approach-to-ai-safety",
-        "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQUTJXOGZBQjRWNU1DVldSQUFnZ0pUMmlaSW02YTdral84V3I0Q2xOU2ZtY1VpQTRFOXZYZlJ0Y0dYN3ZYR01zX2gtVGlzM3QwWVhWVHlKM3IxVC16Y0x2Zm1rMWVUWmRCNDdEbUJkQXlGTWhwWHRLWF9fbDZfcVd3U1R6RzROQXRwcF84WEZpaXU2bkZpaUtYNnd5V3ZwWUJSNFNkZmo0allkbjJZdkJwbzVKOUQtOWJnODBUTWdTc2s3dmtFaUpBd19laDZNc2dJRkg2d2RFdDBlVEttUmd6UUdyWTZaNkJOYzNTSnZ3bWlJVUJGRTF2U1RYb2E2b3c?oc=5"
-      ],
-      "title": "Our approach to government and national security partnerships",
-      "first_seen": "2026-11-07",
-      "last_shipped": "2026-11-07",
-      "last_summary": "OpenAI has published new principles regarding its partnerships with government and national security entities, emphasizing democratic accountability and safety. The update also includes the introduction of a Media Manager tool for content creators.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "ramp-codex-integration",
-      "urls": [
-        "https://openai.com/index/ramp",
-        "https://huggingface.co/blog/accelerate-v1",
-        "https://huggingface.co/blog/prezi-case-study",
-        "https://huggingface.co/blog/deepspeed-to-fsdp-and-back",
-        "https://huggingface.co/blog/intel-starcoder-quantization",
-        "https://huggingface.co/blog/openvino",
-        "https://huggingface.co/blog/pytorch-ddp-accelerate-transformers",
-        "https://huggingface.co/blog/accelerate-large-models",
-        "https://huggingface.co/blog/bloom-inference-pytorch-scripts",
-        "https://huggingface.co/blog/hf-bitsandbytes-integration",
-        "https://huggingface.co/blog/accelerate-deepspeed",
-        "https://huggingface.co/blog/sempre-health-eap-case-study",
-        "https://huggingface.co/blog/pytorch-fsdp",
-        "https://huggingface.co/blog/habana",
-        "https://huggingface.co/blog/bert-inferentia-sagemaker",
-        "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQNUdWVFlXOHN4dFFWZmpVOFg4eFRBUjg4bVUyZXpTUE5tbW1VLUtqMUN1OEk1eUVpMHdNZFN4SDBDUEpsUWFsaGc5YkY2aWhTT3EzX195MktPODhhZzkzTFBWYnRhVm5qVzFhX0kxUjc5WHBSWG5wS3BIazVUbUp0VGE5ZExzMmZTWEVTY3lydjFENlVkLUJvN3VWNExCbjdMT1dPM2dRTFVkeFJMTFBtUVlmamJsUVJSTUR1UE1QdHFtd0kzMXV3WmdmRTVnZ2syTWJHM2RtdVF4eE5vNWYySUVqOGc0N2x3Ny1kdjZLdw?oc=5"
-      ],
-      "title": "How Ramp engineers accelerate code review with Codex",
-      "first_seen": "2026-11-07",
-      "last_shipped": "2026-11-07",
-      "last_summary": "Engineers at Ramp are utilizing Codex, integrated with GPT-5.5, to automate and accelerate the code review process. This integration reportedly reduces the time required for substantive code feedback from hours to minutes.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "gemini-omni-1-2-flash-launch",
-      "urls": [
-        "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips",
-        "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash"
-      ],
-      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "first_seen": "2026-11-07",
-      "last_shipped": "2026-11-07",
-      "last_summary": "Google has announced Gemini Omni 1.2 Flash, a new model iteration optimized for speed and cost-efficiency. The update includes expanded support for processing longer video clips.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "openai-hacktron-partnership",
-      "urls": [
-        "https://openai.com/index/partnering-with-hacktron"
-      ],
-      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-      "first_seen": "2026-11-07",
-      "last_shipped": "2026-11-07",
-      "last_summary": "OpenAI has partnered with security firm Hacktron to identify vulnerabilities within its systems and test third-party service connections.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "openai-biobasicsbench-launch",
-      "urls": [
-        "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science"
-      ],
-      "title": "Measuring how AI agents handle everyday wet-lab science",
-      "first_seen": "2026-11-07",
-      "last_shipped": "2026-11-07",
-      "last_summary": "OpenAI has introduced BioBasicsBench, a new benchmark designed to evaluate how AI agents interpret raw experimental data and perform tasks within wet-lab scientific settings.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "china-nvidia-espionage-report",
-      "urls": [
-        "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy"
-      ],
-      "title": "China reportedly recruited AI exec to spy on Jensen Huang",
-      "first_seen": "2026-11-07",
-      "last_shipped": "2026-11-07",
-      "last_summary": "Reports suggest a Chinese intelligence agency recruited an executive from Megaspeed to spy on Nvidia CEO Jensen Huang to gain insights into US advanced AI chip strategy.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "congress-permitting-reform",
-      "urls": [
-        "https://www.theverge.com/policy/1028228/energy-infrastructure-permitting-reform-bill-congress-vote"
-      ],
-      "title": "Lame-duck Congress might actually do something: speed up energy projects",
-      "first_seen": "2026-11-07",
-      "last_shipped": "2026-11-07",
-      "last_summary": "The US Congress is considering a bipartisan permitting reform bill aimed at accelerating energy projects, which could significantly impact the infrastructure needed for data centers.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "meta-muse-spaces-launch",
-      "urls": [
-        "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces"
-      ],
-      "title": "Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now",
-      "first_seen": "2026-11-07",
-      "last_shipped": "2026-11-07",
-      "last_summary": "Meta has introduced 'Spaces' for its Muse AI assistant, allowing users to build and customize specific app-like interfaces for tasks such as shopping, music tracking, or gaming.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "google-crusoe-data-center-deal",
-      "urls": [
-        "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google"
-      ],
-      "title": "Crusoe sells troubled Wyoming data center project to Google",
-      "first_seen": "2026-11-07",
-      "last_shipped": "2026-11-07",
-      "last_summary": "Google has acquired a struggling data center project in Wyoming from energy infrastructure firm Crusoe.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "artex-exposed-servers",
-      "urls": [
-        "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web"
-      ],
-      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-      "first_seen": "2026-11-07",
-      "last_shipped": "2026-11-07",
-      "last_summary": "Security researchers have discovered hundreds of instances where servers hosting the 'Artex' penetration testing tool were left publicly exposed to the internet.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "6k-pentagon-loan",
-      "urls": [
-        "https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory"
-      ],
-      "title": "Pentagon offers battery startup 6K $250M loan to build US factory",
-      "first_seen": "2026-11-07",
-      "last_shipped": "2026-11-07",
-      "last_summary": "The Pentagon has conditionally approved a $250 million loan to battery material startup 6K to support the scaling of its microwave-plasma manufacturing process.",
-      "was_must_know": false
-    },
-    {
       "event_key": "ai-education-research-updates",
       "urls": [
         "https://openai.com/index/teaching-with-ai",
@@ -573,6 +433,145 @@
       "last_shipped": "2026-11-13",
       "last_summary": "Jensen Huang has officially resigned as CEO of Nvidia following a scandal involving alleged affairs. Experts are concerned about the implications for U.S.-China technology relations.",
       "was_must_know": true
+    },
+    {
+      "event_key": "ai-enterprise-integration",
+      "urls": [
+        "https://openai.com/index/the-future-of-the-firm",
+        "https://openai.com/index/teens-learn-and-plan",
+        "https://openai.com/index/omio",
+        "https://openai.com/index/sea-david-chen",
+        "https://openai.com/index/pvh-future-of-fashion",
+        "https://openai.com/index/gpt-5-mathematical-discovery",
+        "https://openai.com/global-affairs/eu-code-of-practice",
+        "https://openai.com/global-affairs/aft",
+        "https://openai.com/index/wayfair-fiona-tan",
+        "https://openai.com/index/morgan-stanley",
+        "https://deepmind.google/blog/securing-the-future-of-ai-agents",
+        "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe",
+        "https://huggingface.co/blog/cybersecurity-openness",
+        "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3",
+        "https://news.google.com/rss/articles/CBMirgFBVV95cUxPelIxT3FrZ1prNjExUTFTT2F5TGJKdkxBcHlUQTR4ZVc1czJ5cTkwTXFoTXdSODRJZWx0WWN3blFaQzJhUG00MTduRTRLWVlocVdKVmtGVFRFemFobi1EVWVLWjhUcGdjcmFTMGpicDIxaVhwMjJwaGtuYXM0MGxSQmZyaWZ5TkFLSXY1a3lIYldQdUs1bnpxVl9LR2dncUh3RGZFNll2dnZSSEFiM1E?oc=5",
+        "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNZGdjZzVkcjVoSHpVam1fMjczUGJ1Rlg0LU1pUlZGNDRVVFVQTmhmNkFXX01ob29tQ3FQRTlBZjJ0MFlLUFJSTE9BRndETWF0UlkxbnZyM0M1eGlNR0g3VVM3Mmk0SWZ4RXBOTFpuZlVkM25SelZ1dHVGeVI0RGFVaFNna1U0U0NWMDRVcF9WOVpEUjMzZnhwVi1VRUNjbmJJSThlNGRWT2RjRGZVa3J1WnJWRzh6LXE4T2RwUGxPMGE3VndHXzBycVZSSWNCdG1BdGJkeUJ2R0YtU2o1U1RENXFKS0h4ZWxLMU9zOVp0ajdmb1NYemRfMy1DMNIBjwJBVV95cUxPSmdGbGV2d1J0UV9GcHk2N3BkSEZXR3JpN2NVZlgzREQ5OWVxVWVEZXhmdlN3UDZxOFBIbXYzMzBYSVZiMTI4VHdFOWRoaGtnMHJTWTNCeFpibVp5a0FJN3NKcS1HYTVFVHgyR2d1dWRxbVU5NWgyTmx6Z084U1ljdDdWU0h2N2t6WWZwNm1oMDZNWGl4M3NPZGY3Zm5Dd0hfUGpsVHpnMkVKV3dqekgtSkJ3X1FORGl0UE9ZMHhNUzh4cGoydnVCR3N5UHdTWnhPUk1WSUhvT0hybERCUVdKUEhSXzFnSzVsbkVoU2xSNE9UR3JMVjN3TWdNRFI5WTZESndmTHlCMElsTW5PUjh3?oc=5"
+      ],
+      "title": "The future of the firm",
+      "first_seen": "2026-11-14",
+      "last_shipped": "2026-11-14",
+      "last_summary": "AI is increasingly being integrated into corporate workflows and educational environments, with new tools for students and enterprise-wide software adoption. Companies like Omio and Sea Limited are leveraging these models to improve productivity.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-jalapeno-launch",
+      "urls": [
+        "https://openai.com/index/jalapeno-first-results",
+        "https://openai.com/index/ai-and-efficiency",
+        "https://huggingface.co/blog/tiiuae/falcon-h1",
+        "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNVcxenVlaTUybjgxR0pyaWRhME1SRnpONVh6TmkyU0NhU2JZaENHRW5QWktMdVRwTFhFZDdONG9ZbzhoZ051YjdtVjhyWXpkS2pUMTFHcVFGNmVtQlF6SVk3dHJlZm5KN3JHcTlocDZ3QWVxNlpnUG03WDcwbm0yRlN6d1pRRUNUeThLcDVZWUZOa2F1TmF1bl80WEpaTXVhc0E3QW1pelgwdlV2MC1UMzhaVDYwSHllUDd6aW5PQnNWWmpZdGpXOHpzajVoWkU?oc=5"
+      ],
+      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "first_seen": "2026-11-14",
+      "last_shipped": "2026-11-14",
+      "last_summary": "OpenAI has introduced Jalapeño, a custom inference chip designed for improved speed and energy efficiency. Additionally, new research indicates that the compute required to train neural networks has halved every 16 months since 2012.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "llamacpp-v1-release",
+      "urls": [
+        "https://huggingface.co/blog/ggml-org/llama-cpp-v1"
+      ],
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "first_seen": "2026-11-14",
+      "last_shipped": "2026-11-14",
+      "last_summary": "The llama.cpp project has reached version 1.0.0, establishing a more stable foundation for the local AI ecosystem.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "amazon-product-graph",
+      "urls": [
+        "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search"
+      ],
+      "title": "Amazon has a plan to index the world’s online shopping data",
+      "first_seen": "2026-11-14",
+      "last_shipped": "2026-11-14",
+      "last_summary": "Amazon is reportedly developing a 'World Product Graph' to index global online shopping data, including products not sold on its own platform.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-chatgpt-wallet",
+      "urls": [
+        "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet"
+      ],
+      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "first_seen": "2026-11-14",
+      "last_shipped": "2026-11-14",
+      "last_summary": "OpenAI has launched ChatGPT Wallet, allowing its Dots AI agents to execute purchases for eligible US subscribers.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "jensen-huang-resignation-funding",
+      "urls": [
+        "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say"
+      ],
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "first_seen": "2026-11-14",
+      "last_shipped": "2026-11-14",
+      "last_summary": "Following Jensen Huang's departure from Nvidia, investors and founders anticipate a tightening of AI startup funding and a potential correction in valuations.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "drogue-floating-data-centers",
+      "urls": [
+        "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board"
+      ],
+      "title": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
+      "first_seen": "2026-11-14",
+      "last_shipped": "2026-11-14",
+      "last_summary": "Startup Drogue plans to power floating data centers using ocean thermal energy, with a prototype expected within two years.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "langchain-valuation-3b",
+      "urls": [
+        "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation"
+      ],
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "first_seen": "2026-11-14",
+      "last_shipped": "2026-11-14",
+      "last_summary": "LangChain has reached a $3 billion valuation, reporting 7,000 customers for its AI agent management platform, LangSmith.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "nvidia-export-ban-bypass",
+      "urls": [
+        "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen"
+      ],
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+      "first_seen": "2026-11-14",
+      "last_shipped": "2026-11-14",
+      "last_summary": "Research indicates that China's most advanced AI models have been trained using Nvidia chips subject to export bans.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "jensen-huang-resignation-timeline",
+      "urls": [
+        "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline"
+      ],
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "first_seen": "2026-11-14",
+      "last_shipped": "2026-11-14",
+      "last_summary": "A timeline of the Jensen Huang scandal reveals his sudden resignation from Nvidia following an affair, raising questions about national security and corporate leadership stability.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "microsoft-global-outage",
+      "urls": [
+        "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis"
+      ],
+      "title": "Microsoft’s latest email outage turned into a full-blown global cloud crisis",
+      "first_seen": "2026-11-14",
+      "last_shipped": "2026-11-14",
+      "last_summary": "A major Microsoft outage affecting Outlook and Teams escalated into a broader global cloud services failure, with restoration currently underway.",
+      "was_must_know": false
     }
   ]
 }
