@@ -1,0 +1,215 @@
+{
+  "date": "2026-11-15",
+  "intro": "Today's briefing explores the rapid evolution of AI models and the major shifts unfolding within the tech hardware industry. We also cover significant regulatory and safety policy developments impacting global infrastructure.",
+  "must_know": [
+    {
+      "cluster_id": "bd06e101dad98bd5",
+      "title": "Advancing science and math with GPT-5.2",
+      "summary": "OpenAI's new GPT-5.2 model demonstrates enhanced capabilities in scientific and mathematical reasoning, achieving state-of-the-art results on benchmarks like FrontierMath.",
+      "why_it_matters": "Advances in model reasoning are enabling AI to contribute to the resolution of complex theoretical mathematical proofs.",
+      "topic_ids": [
+        "foundation-models",
+        "research"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/gpt-5-2-for-science-and-math"
+        },
+        {
+          "name": "Hacker News Front Page",
+          "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature"
+        }
+      ]
+    },
+    {
+      "cluster_id": "fc1d70bba296bc73",
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "summary": "A public petition calling for the reinstatement of Jensen Huang as CEO of Nvidia has surpassed 115,000 signatures.",
+      "why_it_matters": "Reflects significant industry and public pushback against recent leadership changes at a critical semiconductor firm.",
+      "topic_ids": [
+        "hardware",
+        "big-tech"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang"
+        }
+      ]
+    },
+    {
+      "cluster_id": "299cfd655b5df2e6",
+      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "summary": "Governments across Asia are evaluating the supply chain impact and regulatory implications following the departure of Nvidia CEO Jensen Huang.",
+      "why_it_matters": "Illustrates the global dependency on Nvidia's leadership and strategic stability for national technological infrastructure.",
+      "topic_ids": [
+        "hardware",
+        "policy"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit"
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "foundation-models": [
+      {
+        "cluster_id": "5af6b61ace806521",
+        "title": "Biodefense in the Intelligence Age",
+        "summary": "OpenAI has published a five-part action plan designed to enhance cybersecurity resilience and protect critical systems against AI-driven threats.",
+        "why_it_matters": "The plan signals a shift toward proactive industry-wide frameworks for AI safety and national biological defense.",
+        "topic_ids": [
+          "foundation-models",
+          "policy"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/biodefense-in-the-intelligence-age"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/cybersecurity-in-the-intelligence-age"
+          },
+          {
+            "name": "Google News: AI",
+            "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPNVBEQnVfVzd3Y1hSMl96NmtGOTBtSUo0N1YwZmNLMXJaS3R2eWRMNUFGSjdfMXpoZFdzT2ZBZzdENnJPQnBVN2k1dklFaFJXYUhZZFNkd0lCRjVncFIwX3VJUUdmRHJSenh1SVV2aVU5UTVkVVdMVDlad3pKY01DX2lXenBlRlVha185R1NKQ0pJa2NZbmN2SmE4d3Z5M3VkQmxuWnhqNGJXUlZtbEVsWnBhTWtWS2FmN1cxa0xMSzFzeEV1bWRzQzlvNGFyNFR3OTg1eFdCeGVsM3Z1MGRUa2RkMlBuNXgzWXE2enBYYlRRc3ZTcXZOSmRkQnp5VkNFTHdrdFNrSGV1djZzalJqMTYyNTE?oc=5"
+          },
+          {
+            "name": "Google News: AI",
+            "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOaXJvYmJCU0lFU2h4V1BnaEZVd196azdYaFVJVzkzNG1sOHJSOTA1UlpvSGo5WFdSWks3X3I2QWxabG5PM1dRRG1VaVZjdlI5TGIwNk1KVjItWWxtQXlGTDhjMEo3c2h1RllWWVJLN3NNczQxcjhvdm96UXhvWHFMd0plcFR2Vk1maUt6d0Fhb0pmRHo3aVd3azRFU2ZuZ2gyTndVd1BOeXJYaksxZlZJTVk0cGZURzJrYzZpVjU4VGVZZXFMWF9tRkpMdE9YUXJyQklvUGRjY3RnOGxQaGljY2gwRnZYbGJ1SVY2YzdDbjVZX2RCX1QtcVgyQkdfb2tYRUdTQVlwcHJ5NjVBX2FRQ0NuRENXY28?oc=5"
+          }
+        ]
+      },
+      {
+        "cluster_id": "1eea10c9d7c3965e",
+        "title": "How Ramp engineers accelerate code review with Codex",
+        "summary": "Engineers at Ramp are utilizing Codex in conjunction with GPT-5.5 to streamline code reviews and expedite software development cycles.",
+        "why_it_matters": "Demonstrates practical, real-world productivity gains for developers using current-generation large language models.",
+        "topic_ids": [
+          "tools",
+          "foundation-models"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/ramp"
+          },
+          {
+            "name": "Hugging Face Blog",
+            "url": "https://huggingface.co/blog/accelerate-v1"
+          },
+          {
+            "name": "Hugging Face Blog",
+            "url": "https://huggingface.co/blog/prezi-case-study"
+          },
+          {
+            "name": "Hugging Face Blog",
+            "url": "https://huggingface.co/blog/deepspeed-to-fsdp-and-back"
+          },
+          {
+            "name": "Hugging Face Blog",
+            "url": "https://huggingface.co/blog/intel-starcoder-quantization"
+          },
+          {
+            "name": "Hugging Face Blog",
+            "url": "https://huggingface.co/blog/openvino"
+          },
+          {
+            "name": "Hugging Face Blog",
+            "url": "https://huggingface.co/blog/pytorch-ddp-accelerate-transformers"
+          },
+          {
+            "name": "Hugging Face Blog",
+            "url": "https://huggingface.co/blog/accelerate-large-models"
+          },
+          {
+            "name": "Hugging Face Blog",
+            "url": "https://huggingface.co/blog/bloom-inference-pytorch-scripts"
+          },
+          {
+            "name": "Hugging Face Blog",
+            "url": "https://huggingface.co/blog/hf-bitsandbytes-integration"
+          },
+          {
+            "name": "Hugging Face Blog",
+            "url": "https://huggingface.co/blog/accelerate-deepspeed"
+          },
+          {
+            "name": "Hugging Face Blog",
+            "url": "https://huggingface.co/blog/sempre-health-eap-case-study"
+          },
+          {
+            "name": "Hugging Face Blog",
+            "url": "https://huggingface.co/blog/pytorch-fsdp"
+          },
+          {
+            "name": "Hugging Face Blog",
+            "url": "https://huggingface.co/blog/habana"
+          },
+          {
+            "name": "Hugging Face Blog",
+            "url": "https://huggingface.co/blog/bert-inferentia-sagemaker"
+          },
+          {
+            "name": "Google News: AI",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pNjdkbTNTaU8wM1hIQkJYUElOMXR3SVNhNDhGd19Lak9ZelpCWUp0aXdHNm5IMjJaT0psUUJRalpUUGpvQ0JHaDNSenZOOUJIc1Znb2RxRXduU09HM0MzNWRWNEM2ODJ6X2ZZ?oc=5"
+          }
+        ]
+      }
+    ],
+    "policy": [
+      {
+        "cluster_id": "05648108c87680dd",
+        "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+        "summary": "The FAA has expanded the deployment of AI tools aimed at optimizing air traffic management across the United States.",
+        "why_it_matters": "Signals the increasing integration of AI into critical infrastructure while highlighting internal labor union tensions.",
+        "topic_ids": [
+          "policy",
+          "tools"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "Ars Technica",
+            "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace"
+          }
+        ]
+      },
+      {
+        "cluster_id": "4513c6ea6021e8f2",
+        "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+        "summary": "An OpenAI board member has raised public concerns regarding the speed of AI development, suggesting that societal disruption could occur rapidly.",
+        "why_it_matters": "Highlights the persistent internal debate regarding the existential risks and timelines associated with advanced AI deployment.",
+        "topic_ids": [
+          "policy",
+          "research"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "Ars Technica",
+            "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns"
+          }
+        ]
+      }
+    ]
+  },
+  "continuing": []
+}

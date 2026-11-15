@@ -1,120 +1,6 @@
 {
   "entries": [
     {
-      "event_key": "ai-education-research-updates",
-      "urls": [
-        "https://openai.com/index/teaching-with-ai",
-        "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions",
-        "https://news.google.com/rss/articles/CBMiXEFVX3lxTE44R2gwVVJRdk96ekFyOGRoZHVzT0dubzFVT1hVcUwwaU5CWGNxNXNwY0dYLTFBcW9HLUY5TDdQdE9RbEdnY1k2SzZ3bjh4c3IxMWFWXzhqRzhJTWlL?oc=5"
-      ],
-      "title": "Teaching with AI",
-      "first_seen": "2026-11-08",
-      "last_shipped": "2026-11-08",
-      "last_summary": "OpenAI has released a new educational guide for teachers on using ChatGPT, covering integration strategies and limitations. Concurrently, researchers are exploring novel methods for AI-driven 4D reconstruction and self-teaching models without human data.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "mistral-large-4-release",
-      "urls": [
-        "https://huggingface.co/blog/mistral-large4",
-        "https://huggingface.co/blog/panel-on-hugging-face",
-        "https://huggingface.co/blog/huggingface-and-amd",
-        "https://huggingface.co/blog/hub-duckdb",
-        "https://huggingface.co/blog/hugging-face-endpoints-on-azure",
-        "https://huggingface.co/blog/fetch-eap-case-study",
-        "https://huggingface.co/blog/inference-update",
-        "https://huggingface.co/blog/arxiv",
-        "https://huggingface.co/blog/spaces_3dmoljs",
-        "https://huggingface.co/blog/vision-transformers",
-        "https://huggingface.co/blog/decision-transformers",
-        "https://huggingface.co/blog/streamlit-spaces",
-        "https://huggingface.co/blog/pytorch-xla",
-        "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93ZTEzQkdmaE1ULWZCQk9YQ3RMd1lTS3F1OFY0Zi1Hd2d1dEczWG1HcmpoRE9WamFkMGJ6YUVHalVXbG9JZEtKb251NEhCbXptZlBqa1ZlVQ?oc=5"
-      ],
-      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-      "first_seen": "2026-11-08",
-      "last_shipped": "2026-11-08",
-      "last_summary": "Mistral AI has released 'Mistral Large 4,' now available on Hugging Face.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "humanoid-robotics-hardware-trends",
-      "urls": [
-        "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom"
-      ],
-      "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
-      "first_seen": "2026-11-08",
-      "last_shipped": "2026-11-08",
-      "last_summary": "New reports highlight the growing integration of humanoid robots in domestic tasks and Samsung's ongoing infrastructure investments to support the AI chip boom.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "nvidia-china-export-oversight",
-      "urls": [
-        "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government"
-      ],
-      "title": "The US let Nvidia sell chips to an empty office in China",
-      "first_seen": "2026-11-08",
-      "last_shipped": "2026-11-08",
-      "last_summary": "Investigations reveal that high-end Nvidia AI chips were approved for export to an empty shell office in China, raising questions about current vetting processes.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "anthropic-recursive-ai-dev",
-      "urls": [
-        "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development"
-      ],
-      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
-      "first_seen": "2026-11-08",
-      "last_shipped": "2026-11-08",
-      "last_summary": "A report by the AI safety group METR indicates that Anthropic's internal AI development capabilities are accelerating significantly, leading to faster model improvement cycles.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "election-data-center-policy",
-      "urls": [
-        "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years"
-      ],
-      "title": "After the midterms, is the AI industry in for a rough two years?",
-      "first_seen": "2026-11-08",
-      "last_shipped": "2026-11-08",
-      "last_summary": "Recent US election results suggest a challenging environment for the AI industry, with voters increasingly supporting local restrictions on data center development.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "meta-ai-training-policy-reversal",
-      "urls": [
-        "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update"
-      ],
-      "title": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
-      "first_seen": "2026-11-08",
-      "last_shipped": "2026-11-08",
-      "last_summary": "Following user backlash, Meta has abandoned a proposed terms of service update that would have required Facebook page owners to allow AI training on their linked content.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "brain-data-privacy-concerns",
-      "urls": [
-        "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F"
-      ],
-      "title": "Consumer brain wave headsets threaten privacy",
-      "first_seen": "2026-11-08",
-      "last_shipped": "2026-11-08",
-      "last_summary": "New concerns have emerged regarding consumer brain-wave headsets that may be harvesting neurological data to train AI models without explicit user consent.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "microsoft-research-restructuring",
-      "urls": [
-        "https://hunch.net/?p=13764006"
-      ],
-      "title": "The end of Microsoft Research's AI Frontiers group",
-      "first_seen": "2026-11-08",
-      "last_shipped": "2026-11-08",
-      "last_summary": "Microsoft has disbanded its AI Frontiers group within Microsoft Research, leading to the departure of prominent researchers.",
-      "was_must_know": false
-    },
-    {
       "event_key": "openai-stargate-infrastructure",
       "urls": [
         "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
@@ -571,6 +457,102 @@
       "first_seen": "2026-11-14",
       "last_shipped": "2026-11-14",
       "last_summary": "A major Microsoft outage affecting Outlook and Teams escalated into a broader global cloud services failure, with restoration currently underway.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-biodefense-plan",
+      "urls": [
+        "https://openai.com/index/biodefense-in-the-intelligence-age",
+        "https://openai.com/index/cybersecurity-in-the-intelligence-age",
+        "https://news.google.com/rss/articles/CBMilAJBVV95cUxPNVBEQnVfVzd3Y1hSMl96NmtGOTBtSUo0N1YwZmNLMXJaS3R2eWRMNUFGSjdfMXpoZFdzT2ZBZzdENnJPQnBVN2k1dklFaFJXYUhZZFNkd0lCRjVncFIwX3VJUUdmRHJSenh1SVV2aVU5UTVkVVdMVDlad3pKY01DX2lXenBlRlVha185R1NKQ0pJa2NZbmN2SmE4d3Z5M3VkQmxuWnhqNGJXUlZtbEVsWnBhTWtWS2FmN1cxa0xMSzFzeEV1bWRzQzlvNGFyNFR3OTg1eFdCeGVsM3Z1MGRUa2RkMlBuNXgzWXE2enBYYlRRc3ZTcXZOSmRkQnp5VkNFTHdrdFNrSGV1djZzalJqMTYyNTE?oc=5",
+        "https://news.google.com/rss/articles/CBMilwJBVV95cUxOaXJvYmJCU0lFU2h4V1BnaEZVd196azdYaFVJVzkzNG1sOHJSOTA1UlpvSGo5WFdSWks3X3I2QWxabG5PM1dRRG1VaVZjdlI5TGIwNk1KVjItWWxtQXlGTDhjMEo3c2h1RllWWVJLN3NNczQxcjhvdm96UXhvWHFMd0plcFR2Vk1maUt6d0Fhb0pmRHo3aVd3azRFU2ZuZ2gyTndVd1BOeXJYaksxZlZJTVk0cGZURzJrYzZpVjU4VGVZZXFMWF9tRkpMdE9YUXJyQklvUGRjY3RnOGxQaGljY2gwRnZYbGJ1SVY2YzdDbjVZX2RCX1QtcVgyQkdfb2tYRUdTQVlwcHJ5NjVBX2FRQ0NuRENXY28?oc=5"
+      ],
+      "title": "Biodefense in the Intelligence Age",
+      "first_seen": "2026-11-15",
+      "last_shipped": "2026-11-15",
+      "last_summary": "OpenAI has published a five-part action plan designed to enhance cybersecurity resilience and protect critical systems against AI-driven threats.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "ramp-codex-integration",
+      "urls": [
+        "https://openai.com/index/ramp",
+        "https://huggingface.co/blog/accelerate-v1",
+        "https://huggingface.co/blog/prezi-case-study",
+        "https://huggingface.co/blog/deepspeed-to-fsdp-and-back",
+        "https://huggingface.co/blog/intel-starcoder-quantization",
+        "https://huggingface.co/blog/openvino",
+        "https://huggingface.co/blog/pytorch-ddp-accelerate-transformers",
+        "https://huggingface.co/blog/accelerate-large-models",
+        "https://huggingface.co/blog/bloom-inference-pytorch-scripts",
+        "https://huggingface.co/blog/hf-bitsandbytes-integration",
+        "https://huggingface.co/blog/accelerate-deepspeed",
+        "https://huggingface.co/blog/sempre-health-eap-case-study",
+        "https://huggingface.co/blog/pytorch-fsdp",
+        "https://huggingface.co/blog/habana",
+        "https://huggingface.co/blog/bert-inferentia-sagemaker",
+        "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pNjdkbTNTaU8wM1hIQkJYUElOMXR3SVNhNDhGd19Lak9ZelpCWUp0aXdHNm5IMjJaT0psUUJRalpUUGpvQ0JHaDNSenZOOUJIc1Znb2RxRXduU09HM0MzNWRWNEM2ODJ6X2ZZ?oc=5"
+      ],
+      "title": "How Ramp engineers accelerate code review with Codex",
+      "first_seen": "2026-11-15",
+      "last_shipped": "2026-11-15",
+      "last_summary": "Engineers at Ramp are utilizing Codex in conjunction with GPT-5.5 to streamline code reviews and expedite software development cycles.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-gpt5-2-launch",
+      "urls": [
+        "https://openai.com/index/gpt-5-2-for-science-and-math",
+        "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature"
+      ],
+      "title": "Advancing science and math with GPT-5.2",
+      "first_seen": "2026-11-15",
+      "last_shipped": "2026-11-15",
+      "last_summary": "OpenAI's new GPT-5.2 model demonstrates enhanced capabilities in scientific and mathematical reasoning, achieving state-of-the-art results on benchmarks like FrontierMath.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "nvidia-jensen-petition",
+      "urls": [
+        "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang"
+      ],
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "first_seen": "2026-11-15",
+      "last_shipped": "2026-11-15",
+      "last_summary": "A public petition calling for the reinstatement of Jensen Huang as CEO of Nvidia has surpassed 115,000 signatures.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "asia-gov-nvidia-reaction",
+      "urls": [
+        "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit"
+      ],
+      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "first_seen": "2026-11-15",
+      "last_shipped": "2026-11-15",
+      "last_summary": "Governments across Asia are evaluating the supply chain impact and regulatory implications following the departure of Nvidia CEO Jensen Huang.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "faa-ai-traffic-management",
+      "urls": [
+        "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace"
+      ],
+      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "first_seen": "2026-11-15",
+      "last_shipped": "2026-11-15",
+      "last_summary": "The FAA has expanded the deployment of AI tools aimed at optimizing air traffic management across the United States.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "ai-safety-takeover-concerns",
+      "urls": [
+        "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns"
+      ],
+      "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+      "first_seen": "2026-11-15",
+      "last_shipped": "2026-11-15",
+      "last_summary": "An OpenAI board member has raised public concerns regarding the speed of AI development, suggesting that societal disruption could occur rapidly.",
       "was_must_know": false
     }
   ]
