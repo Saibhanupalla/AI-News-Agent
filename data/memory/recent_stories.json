@@ -1,58 +1,6 @@
 {
   "entries": [
     {
-      "event_key": "openai-stargate-infrastructure",
-      "urls": [
-        "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-        "https://openai.com/index/building-abundant-intelligence",
-        "https://openai.com/index/stargate-michigan-data-center",
-        "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
-        "https://openai.com/index/confidence-building-measures-for-artificial-intelligence",
-        "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZFNoNVUwVHF2QVBHTW51c1MySXlrR2ZjNk1panpUcFJhSzg2VzJkYVRjM1djOWptQThzZGFpdVJOcTJxdTRvUEI4RVhaMF9uemY5ckcxc0hrTmFWRjkzU2VYQTZRUklXUEpoenYwZzk0OUIzY0stRXVTNFlpQmNGcHl1aUxoRHdmbVE?oc=5",
-        "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWF96TUtjYnVnRXpMQ0NoanM2b3Z0UHNFMlJNdWJGVWRRdDN1Y2F1Y2duQ1NmTUVZMzlsZXlPSHl6TE1yMjhBM3ZQTzlPbU9lQzlYUTdBQ0dWQkhuVy1KLURHMmNTU3B5c1lIVkRQc25QejBEeGlMWG85bTlmN0RSdVZva2U0VXEwSlFPUkJreTNtRHBxME1EdQ?oc=5",
-        "https://news.google.com/rss/articles/CBMib0FVX3lxTFBxU3FXdWNEZWF0d2FPREJDYldUeFBmNWh5VzEwVUxRdVY4MEdwa1BxZXhkdVFicW5Ub1dDUEl1WUY0cWdYbGJZYWwwT203eVp6eWpZQmkxQnZSMnY0c0hRSFZvdzRtdlhWU0hVbzk2UQ?oc=5",
-        "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNZkNtZXZyV0xyLWJDaHZvNW9GMmdLTU93VHBHaXY1cEF1ZVl2RUpOSWlETWl5WFRrLTRwc3MzZjNNX3lIaDlianNrRTRSczZHcVRBalNsZXUtX3owa3pzV01RckZ0SExUMGtMcEtYSVJUZFB5MWVoRm95WVpaLWFhcWF6Y25GM0RpSlNkblZHRjRMcHhJS0Zob1U4ZnpTMHMxR1JqMzlkRDdhQnJRcTRxdEw3RnFzRlJQMmN1b3lPOThzUlo4S1VDczBMS2EyaDFsb1V3OXNDUUFiVU9PMUhFWklJaHl1LW5VMkVIX3ZnbFF0ZWlHVmUyS1B3UUpiZUU?oc=5"
-      ],
-      "title": "The full stack behind abundant intelligence",
-      "first_seen": "2026-11-09",
-      "last_shipped": "2026-11-09",
-      "last_summary": "OpenAI is pursuing a full-stack infrastructure strategy to improve AI accessibility and scale, including the development of a 1GW data center project in Michigan. The initiative focuses on integrating hardware and compute resources to reduce costs and increase model performance.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "nvidia-jensen-huang-investigation",
-      "urls": [
-        "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia"
-      ],
-      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
-      "first_seen": "2026-11-09",
-      "last_shipped": "2026-11-09",
-      "last_summary": "Nvidia has launched an investigation into CEO Jensen Huang's relationship with Alice Huang, an executive linked to the Chinese government. Jensen Huang has issued a memo to employees acknowledging the situation.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "apple-siri-agentic-acceleration",
-      "urls": [
-        "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic"
-      ],
-      "title": "Apple is racing to make Siri more agentic",
-      "first_seen": "2026-11-09",
-      "last_shipped": "2026-11-09",
-      "last_summary": "Apple leadership is reportedly pressuring engineering teams to accelerate the development of an agentic version of Siri. This effort seeks to close the gap with emerging AI agents from competitors like OpenAI and Meta.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "apple-homeview-chatbot-support",
-      "urls": [
-        "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview"
-      ],
-      "title": "Chatbots might be coming to Apple’s HomeView",
-      "first_seen": "2026-11-09",
-      "last_shipped": "2026-11-09",
-      "last_summary": "Beta code in iOS 27.3 suggests Apple may be planning to introduce support for chatbots within its HomeView smart home hub. A new category for 'Conversational Apps' indicates potential integration for services like ChatGPT or Claude.",
-      "was_must_know": false
-    },
-    {
       "event_key": "openai-acquisitions",
       "urls": [
         "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder",
@@ -554,6 +502,51 @@
       "last_shipped": "2026-11-15",
       "last_summary": "An OpenAI board member has raised public concerns regarding the speed of AI development, suggesting that societal disruption could occur rapidly.",
       "was_must_know": false
+    },
+    {
+      "event_key": "apple-health-ai-study",
+      "urls": [
+        "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health",
+        "https://news.google.com/rss/articles/CBMitwFBVV95cUxQS2g1VE5ncFdqMWNXbnZRUGVOejhFT21maHpyQ2hxRkxzajhWaS1NRDM5bFU2LVlEMkJKTURxcVh2SzBLdGJmdW1nY25SNmpBNFpiY3JNVF9zT3NnbnpDd2pjbERrM3M1enVvelBxd1cwWGtKdk1NbHhwZWZOOG5ERU1vOTBLdmhSSjEwTkFaVllKRzFjcmJuWW5CTzRfY3ZqdF9ZXy1hcmdIMExoR1o4XzcxZ2wtZFE?oc=5"
+      ],
+      "title": "Apple launches new app to study how people use AI for health",
+      "first_seen": "2026-11-16",
+      "last_shipped": "2026-11-16",
+      "last_summary": "Apple has launched the Apple Health AI Usage Study, a 200,000-person project designed to evaluate how consumers use and interact with conversational AI for health-related queries.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "openai-standard-model-research",
+      "urls": [
+        "https://openai.com/index/step-toward-defining-the-standard-model"
+      ],
+      "title": "A step toward defining the Standard Model on a lattice",
+      "first_seen": "2026-11-16",
+      "last_shipped": "2026-11-16",
+      "last_summary": "OpenAI researchers have proposed a nonperturbative lattice definition of the Standard Model, utilizing assistance from GPT-6 Astra to formalize the proof.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "nvidia-china-export-regulation",
+      "urls": [
+        "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china"
+      ],
+      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "first_seen": "2026-11-16",
+      "last_shipped": "2026-11-16",
+      "last_summary": "Following a scandal involving former Nvidia CEO Jensen Huang, US lawmakers are pushing for stricter export controls on AI chips to China and have requested testimony from company leadership.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "apple-smart-glasses-rumor",
+      "urls": [
+        "https://www.theverge.com/tech/1033968/apples-first-smart-glasses-are-coming-together"
+      ],
+      "title": "Apple’s first smart glasses are coming together",
+      "first_seen": "2026-11-16",
+      "last_shipped": "2026-11-16",
+      "last_summary": "Apple is reportedly planning to announce its first pair of non-AR smart glasses at WWDC next June, with shipments expected to begin by the end of that year.",
+      "was_must_know": true
     }
   ]
 }
