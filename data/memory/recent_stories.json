@@ -691,6 +691,149 @@
       "last_shipped": "2026-11-17",
       "last_summary": "Constellation Energy executives remain optimistic about data center growth, asserting that current political or policy concerns are unlikely to significantly hinder the expansion of energy-intensive AI infrastructure.",
       "was_must_know": false
+    },
+    {
+      "event_key": "frontier-model-forum-launch",
+      "urls": [
+        "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier",
+        "https://openai.com/index/frontier-model-forum",
+        "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
+        "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence",
+        "https://huggingface.co/blog/meta-muse-spark-open"
+      ],
+      "title": "Frontier Model Forum",
+      "first_seen": "2026-11-18",
+      "last_shipped": "2026-11-18",
+      "last_summary": "Industry leaders, including OpenAI and Google DeepMind, are establishing a new body focused on safety research, standard-setting, and information sharing for frontier AI systems.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-gpt5-work-features",
+      "urls": [
+        "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote",
+        "https://openai.com/business/guides-and-resources/inside-gpt5-our-best-model-for-work",
+        "https://openai.com/business/learn/gpt-5-our-best-model-for-work"
+      ],
+      "title": "Inside GPT-5 for Work",
+      "first_seen": "2026-11-18",
+      "last_shipped": "2026-11-18",
+      "last_summary": "OpenAI has outlined new capabilities for GPT-5 in business settings, emphasizing deep integration into office software like Microsoft 365 and the development of autonomous agents.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "openai-stargate-data-center",
+      "urls": [
+        "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+        "https://openai.com/index/building-abundant-intelligence",
+        "https://openai.com/index/stargate-michigan-data-center",
+        "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
+        "https://openai.com/index/confidence-building-measures-for-artificial-intelligence",
+        "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcHZpQ0FRaGFTYmdfMWxFWFIwX0dzSTY2THlWUkJudC1hNUNmV0VuYlN0TXRsNjIzbllGRWJrYUhmWllKVzB5WUI0LUxnYkRqek1IeVRzTnVkeGxxb2F1YXR2R3ZKbHlkUi1PcVUwWVg4LTFHdUhMSkFRY1RZRG5mOG8xNnBFS1JSX3diY2VINA?oc=5"
+      ],
+      "title": "The full stack behind abundant intelligence",
+      "first_seen": "2026-11-18",
+      "last_shipped": "2026-11-18",
+      "last_summary": "OpenAI is pursuing a full-stack infrastructure strategy to improve AI accessibility, including a new 1GW data center project in Michigan known as Stargate.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "robotics-one-shot-learning",
+      "urls": [
+        "https://openai.com/index/robots-that-learn",
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWElLeDVFTThQX29sUmtFWVJGMWhnMV9YNTBVczNySzlNSUktWFVndGlvT3JyWlJvMnVMekdvMFdjanBpUEs3NzBha2tqQ3JLekd1WTMwSnBucXhMR1FqUWNDaHJzN1J6STlPUHdqRlFHcEdIc3NJSzJNS29ZUzNhNHR2bGhzTlBSSUNhMnZVTUJNNko4RlBYMFFteU53R0cyWEE?oc=5"
+      ],
+      "title": "Robots that learn",
+      "first_seen": "2026-11-18",
+      "last_shipped": "2026-11-18",
+      "last_summary": "Researchers have developed a robotics system capable of learning new tasks from a single human demonstration, trained initially in simulation before deployment.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-nato-cyber-partnership",
+      "urls": [
+        "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai"
+      ],
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "first_seen": "2026-11-18",
+      "last_shipped": "2026-11-18",
+      "last_summary": "OpenAI is collaborating with NATO and allied cyber agencies to leverage AI for identifying vulnerabilities and testing security fixes in critical systems.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-global-initiatives",
+      "urls": [
+        "https://openai.com/index/introducing-openai-for-chile",
+        "https://openai.com/index/introducing-openai-presence",
+        "https://openai.com/index/introducing-openai-partner-network",
+        "https://openai.com/index/introducing-the-openai-economic-research-exchange",
+        "https://openai.com/index/introducing-openai-for-singapore",
+        "https://openai.com/index/introducing-openai-privacy-filter",
+        "https://openai.com/index/safety-bug-bounty",
+        "https://openai.com/index/openai-for-india",
+        "https://openai.com/index/introducing-openai-frontier",
+        "https://openai.com/index/openai-academy-for-news-organizations",
+        "https://openai.com/index/introducing-aardvark",
+        "https://openai.com/index/introducing-o3-and-o4-mini",
+        "https://openai.com/index/openai-o3-mini",
+        "https://openai.com/index/o3-mini-system-card",
+        "https://openai.com/index/sora-system-card",
+        "https://openai.com/index/openai-o1-system-card",
+        "https://openai.com/index/openai-o1-mini-advancing-cost-efficient-reasoning",
+        "https://openai.com/index/gpt-4o-system-card",
+        "https://openai.com/index/dall-e-3-system-card",
+        "https://openai.com/index/gpt-4v-system-card",
+        "https://openai.com/index/bug-bounty-program",
+        "https://openai.com/index/economic-impacts"
+      ],
+      "title": "Introducing OpenAI for Chile",
+      "first_seen": "2026-11-18",
+      "last_shipped": "2026-11-18",
+      "last_summary": "OpenAI is launching several initiatives, including a partnership with the Chilean government, a $150M partner network, and an economic research exchange to track AI's impact.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "nvidia-open-source-strategy",
+      "urls": [
+        "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit"
+      ],
+      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+      "first_seen": "2026-11-18",
+      "last_shipped": "2026-11-18",
+      "last_summary": "Nvidia's interim leadership has reaffirmed its commitment to an open-source AI strategy and its plans to acquire Hugging Face following Jensen Huang's departure.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "model-ml-funding",
+      "urls": [
+        "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work"
+      ],
+      "title": "Model ML raises $250M to automate investment banking grunt work",
+      "first_seen": "2026-11-18",
+      "last_shipped": "2026-11-18",
+      "last_summary": "Model ML raised $250 million to develop AI agents capable of automating financial modeling and presentations for investment banking workflows.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "proton-lumo-launch",
+      "urls": [
+        "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop"
+      ],
+      "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+      "first_seen": "2026-11-18",
+      "last_shipped": "2026-11-18",
+      "last_summary": "Proton has released Lumo, a privacy-focused desktop AI assistant for Windows, Mac, and Linux that allows for task automation with granular data control.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "vals-ai-militarization-risk",
+      "urls": [
+        "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game"
+      ],
+      "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+      "first_seen": "2026-11-18",
+      "last_shipped": "2026-11-18",
+      "last_summary": "Evaluation firm Vals discovered that leading AI models could be manipulated into identifying civilians as military targets when framed within a game context.",
+      "was_must_know": false
     }
   ]
 }

@@ -1,0 +1,330 @@
+{
+  "date": "2026-11-18",
+  "intro": "Today's briefing highlights major infrastructure and product updates from OpenAI as the company expands its global reach and business capabilities. We also track significant shifts in hardware strategy and AI security research impacting the broader industry.",
+  "must_know": [
+    {
+      "cluster_id": "826709c21467a49c",
+      "title": "Inside GPT-5 for Work",
+      "summary": "OpenAI has outlined new capabilities for GPT-5 in business settings, emphasizing deep integration into office software like Microsoft 365 and the development of autonomous agents.",
+      "why_it_matters": "The focus is shifting from simple chatbot interfaces to active AI agents embedded in professional workflows.",
+      "topic_ids": [
+        "foundation-models",
+        "tools"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/business/guides-and-resources/inside-gpt5-our-best-model-for-work"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/business/learn/gpt-5-our-best-model-for-work"
+        }
+      ]
+    },
+    {
+      "cluster_id": "e1e5b3a845345222",
+      "title": "The full stack behind abundant intelligence",
+      "summary": "OpenAI is pursuing a full-stack infrastructure strategy to improve AI accessibility, including a new 1GW data center project in Michigan known as Stargate.",
+      "why_it_matters": "Massive investment in physical data center infrastructure is the latest bottleneck in scaling AGI capabilities.",
+      "topic_ids": [
+        "foundation-models",
+        "hardware",
+        "big-tech"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/building-abundant-intelligence"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/stargate-michigan-data-center"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/confidence-building-measures-for-artificial-intelligence"
+        },
+        {
+          "name": "Google News: AI",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcHZpQ0FRaGFTYmdfMWxFWFIwX0dzSTY2THlWUkJudC1hNUNmV0VuYlN0TXRsNjIzbllGRWJrYUhmWllKVzB5WUI0LUxnYkRqek1IeVRzTnVkeGxxb2F1YXR2R3ZKbHlkUi1PcVUwWVg4LTFHdUhMSkFRY1RZRG5mOG8xNnBFS1JSX3diY2VINA?oc=5"
+        }
+      ]
+    },
+    {
+      "cluster_id": "7c1076c2aa096bde",
+      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+      "summary": "Nvidia's interim leadership has reaffirmed its commitment to an open-source AI strategy and its plans to acquire Hugging Face following Jensen Huang's departure.",
+      "why_it_matters": "The strategy continuity suggests that Nvidia remains focused on maintaining its ecosystem influence through key open-source partnerships.",
+      "topic_ids": [
+        "open-source",
+        "big-tech"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit"
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "foundation-models": [
+      {
+        "cluster_id": "35ae5ea444209ee9",
+        "title": "Frontier Model Forum",
+        "summary": "Industry leaders, including OpenAI and Google DeepMind, are establishing a new body focused on safety research, standard-setting, and information sharing for frontier AI systems.",
+        "why_it_matters": "Major players are formalizing safety cooperation to address risks associated with the most powerful AI models.",
+        "topic_ids": [
+          "policy",
+          "foundation-models"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/frontier-model-forum"
+          },
+          {
+            "name": "Google DeepMind Blog",
+            "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model"
+          },
+          {
+            "name": "Google DeepMind Blog",
+            "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence"
+          },
+          {
+            "name": "Hugging Face Blog",
+            "url": "https://huggingface.co/blog/meta-muse-spark-open"
+          }
+        ]
+      },
+      {
+        "cluster_id": "0e7f690aa4ff229b",
+        "title": "Strengthening NATO and allied cyber defenses with AI",
+        "summary": "OpenAI is collaborating with NATO and allied cyber agencies to leverage AI for identifying vulnerabilities and testing security fixes in critical systems.",
+        "why_it_matters": "Public-private partnerships are increasingly integrating advanced AI into national and international cyber defense strategies.",
+        "topic_ids": [
+          "policy",
+          "foundation-models"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai"
+          }
+        ]
+      },
+      {
+        "cluster_id": "764bc4e280d1a8e7",
+        "title": "Introducing OpenAI for Chile",
+        "summary": "OpenAI is launching several initiatives, including a partnership with the Chilean government, a $150M partner network, and an economic research exchange to track AI's impact.",
+        "why_it_matters": "OpenAI is aggressively expanding its international footprint and enterprise ecosystem through structured investment and government alliances.",
+        "topic_ids": [
+          "policy",
+          "startups-funding",
+          "foundation-models"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/introducing-openai-for-chile"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/introducing-openai-presence"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/introducing-openai-partner-network"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/introducing-the-openai-economic-research-exchange"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/introducing-openai-for-singapore"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/introducing-openai-privacy-filter"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/safety-bug-bounty"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/openai-for-india"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/introducing-openai-frontier"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/openai-academy-for-news-organizations"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/introducing-aardvark"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/introducing-o3-and-o4-mini"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/openai-o3-mini"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/o3-mini-system-card"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/sora-system-card"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/openai-o1-system-card"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/openai-o1-mini-advancing-cost-efficient-reasoning"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/gpt-4o-system-card"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/dall-e-3-system-card"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/gpt-4v-system-card"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/bug-bounty-program"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/economic-impacts"
+          }
+        ]
+      },
+      {
+        "cluster_id": "3818d6ccd2a7f7a1",
+        "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+        "summary": "Proton has released Lumo, a privacy-focused desktop AI assistant for Windows, Mac, and Linux that allows for task automation with granular data control.",
+        "why_it_matters": "Users looking for privacy-first alternatives to mainstream AI platforms have a new desktop-native option for automated workflows.",
+        "topic_ids": [
+          "tools",
+          "foundation-models"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop"
+          }
+        ]
+      }
+    ],
+    "policy": [
+      {
+        "cluster_id": "0fd37b922e47061f",
+        "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+        "summary": "Evaluation firm Vals discovered that leading AI models could be manipulated into identifying civilians as military targets when framed within a game context.",
+        "why_it_matters": "This research underscores the severe safety and security risks inherent in deploying autonomous AI in sensitive or militarized contexts.",
+        "topic_ids": [
+          "research",
+          "policy"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game"
+          }
+        ]
+      }
+    ],
+    "tools": [
+      {
+        "cluster_id": "2fb55c3571a040c5",
+        "title": "Model ML raises $250M to automate investment banking grunt work",
+        "summary": "Model ML raised $250 million to develop AI agents capable of automating financial modeling and presentations for investment banking workflows.",
+        "why_it_matters": "High-value, complex professional services are seeing a surge in specialized AI agent applications.",
+        "topic_ids": [
+          "startups-funding",
+          "tools"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work"
+          }
+        ]
+      }
+    ],
+    "research": [
+      {
+        "cluster_id": "62086d5301df8956",
+        "title": "Robots that learn",
+        "summary": "Researchers have developed a robotics system capable of learning new tasks from a single human demonstration, trained initially in simulation before deployment.",
+        "why_it_matters": "One-shot learning significantly reduces the data requirements and time needed to teach robots new complex physical behaviors.",
+        "topic_ids": [
+          "research"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/robots-that-learn"
+          },
+          {
+            "name": "Google News: AI",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWElLeDVFTThQX29sUmtFWVJGMWhnMV9YNTBVczNySzlNSUktWFVndGlvT3JyWlJvMnVMekdvMFdjanBpUEs3NzBha2tqQ3JLekd1WTMwSnBucXhMR1FqUWNDaHJzN1J6STlPUHdqRlFHcEdIc3NJSzJNS29ZUzNhNHR2bGhzTlBSSUNhMnZVTUJNNko4RlBYMFFteU53R0cyWEE?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  "continuing": []
+}
