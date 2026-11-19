@@ -1,169 +1,6 @@
 {
   "entries": [
     {
-      "event_key": "openai-acquisitions",
-      "urls": [
-        "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder",
-        "https://openai.com/index/openai-acquires-tbpn",
-        "https://openai.com/index/openai-acquires-software-applications-incorporated",
-        "https://openai.com/index/openai-acquires-rockset",
-        "https://openai.com/index/openai-acquires-global-illumination"
-      ],
-      "title": "OpenAI acquires TBPN",
-      "first_seen": "2026-11-12",
-      "last_shipped": "2026-11-12",
-      "last_summary": "OpenAI has acquired TBPN to support independent media and is integrating technology from software firm Sky into ChatGPT for improved desktop capabilities.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "openai-business-features",
-      "urls": [
-        "https://openai.com/index/introducing-businesses-chatgpt",
-        "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
-        "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
-        "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt",
-        "https://openai.com/index/introducing-chatgpt-health",
-        "https://openai.com/index/new-chatgpt-images-is-here",
-        "https://openai.com/index/introducing-gpt-5-2",
-        "https://openai.com/index/chatgpt-shopping-research",
-        "https://openai.com/index/gpt-5-1-for-developers",
-        "https://openai.com/index/group-chats-in-chatgpt",
-        "https://openai.com/index/introducing-gpt-oss-safeguard",
-        "https://openai.com/index/introducing-chatgpt-atlas",
-        "https://openai.com/index/introducing-apps-in-chatgpt",
-        "https://openai.com/index/introducing-chatgpt-pulse",
-        "https://openai.com/index/introducing-gpt-realtime",
-        "https://openai.com/index/introducing-gpt-5-for-developers",
-        "https://openai.com/index/introducing-gpt-5",
-        "https://openai.com/index/introducing-gpt-oss",
-        "https://openai.com/index/chatgpt-study-mode",
-        "https://openai.com/index/introducing-chatgpt-agent",
-        "https://openai.com/index/gpt-4-1",
-        "https://openai.com/index/introducing-our-next-generation-audio-models",
-        "https://openai.com/index/introducing-deep-research",
-        "https://openai.com/index/introducing-chatgpt-pro",
-        "https://openai.com/index/introducing-chatgpt-search",
-        "https://openai.com/index/introducing-canvas",
-        "https://openai.com/index/introducing-the-realtime-api",
-        "https://openai.com/index/introducing-vision-to-the-fine-tuning-api",
-        "https://openai.com/index/mercado-libre",
-        "https://openai.com/index/introducing-structured-outputs-in-the-api",
-        "https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free",
-        "https://openai.com/index/introducing-chatgpt-and-whisper-apis",
-        "https://openai.com/index/introducing-improvements-to-the-fine-tuning-api-and-expanding-our-custom-models-program",
-        "https://openai.com/index/introducing-the-gpt-store",
-        "https://openai.com/index/introducing-chatgpt-team",
-        "https://openai.com/index/introducing-chatgpt-enterprise",
-        "https://openai.com/index/introducing-the-chatgpt-app-for-ios",
-        "https://openai.com/index/chatgpt-plus",
-        "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber",
-        "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber",
-        "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash",
-        "https://deepmind.google/blog/introducing-gemini-omni",
-        "https://deepmind.google/blog/introducing-google-antigravity-2-0",
-        "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
-        "https://huggingface.co/blog/openenv",
-        "https://huggingface.co/blog/agents",
-        "https://huggingface.co/blog/leaderboard-patronus",
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbWV6aXZOWENsNl9ORWZWdXJ3cG5LdmN5OFZQTk1Iekc1bmNxR1loRzVqNVpCLTQxZDF3M1hCOE1kVzgxTmkwVkxrWFhJcWVkUURuSE9LTWhNb3FrWExjWjBYUW1HdzNTT2lNaVpyQnE5eVI0clN1czZIM21kZFpsejFfeW5iVm04dzAtZEJRdFhzRHZzQmFfUjNaTnF5TFJac0I2NFZQSEQ?oc=5"
-      ],
-      "title": "Introducing Businesses in ChatGPT",
-      "first_seen": "2026-11-12",
-      "last_shipped": "2026-11-12",
-      "last_summary": "OpenAI introduced a suite of new ChatGPT business features, including workspace agents for workflow automation and security enhancements like Lockdown Mode.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "openai-agents-api",
-      "urls": [
-        "https://openai.com/index/introducing-the-agents-api",
-        "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
-        "https://openai.com/index/introducing-agentkit",
-        "https://openai.com/index/image-generation-api",
-        "https://openai.com/index/introducing-4o-image-generation",
-        "https://openai.com/index/introducing-the-model-spec",
-        "https://huggingface.co/blog/tgi-multi-backend",
-        "https://huggingface.co/blog/smolagents",
-        "https://huggingface.co/blog/synthid-text",
-        "https://huggingface.co/blog/idefics2",
-        "https://huggingface.co/blog/leaderboard-contextual",
-        "https://huggingface.co/blog/inference-pro",
-        "https://huggingface.co/blog/wuerstchen",
-        "https://huggingface.co/blog/idefics",
-        "https://huggingface.co/blog/agents-js",
-        "https://huggingface.co/blog/sagemaker-huggingface-llm",
-        "https://huggingface.co/blog/aivsai",
-        "https://huggingface.co/blog/bloom",
-        "https://huggingface.co/blog/education",
-        "https://huggingface.co/blog/gptj-sagemaker",
-        "https://huggingface.co/blog/snowball-fight",
-        "https://huggingface.co/blog/the-partnership-amazon-sagemaker-and-hugging-face",
-        "https://huggingface.co/blog/accelerated-inference",
-        "https://github.com/huawei-csl/MACaQ"
-      ],
-      "title": "Introducing the Agents API",
-      "first_seen": "2026-11-12",
-      "last_shipped": "2026-11-12",
-      "last_summary": "OpenAI and Amazon Bedrock have launched new developer-focused tools, including an Agents API and enhanced runtime support for multi-step workflows.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "ai-training-scaling-research",
-      "urls": [
-        "https://openai.com/index/how-ai-training-scales",
-        "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRXp4UndOa3dWWml4aC1JNmtyY0MxS3ZOTWdlQ3ZjX1MyWmdtNHFHUHpzal8xTFpadk1YaTNsMV9uLUhlcjd2Y3lSVDVmYlhjWktaUFVZN1FPSXZmZUlHa3BGNGczcUloa3ZmRkNFYzVZeXFnNGRLY2ZtTnFEdmZCT2tKM0FvWG9OUnJKamN4MzVjSHBTYjlXcHh1YnRZZWs?oc=5"
-      ],
-      "title": "How AI training scales",
-      "first_seen": "2026-11-12",
-      "last_shipped": "2026-11-12",
-      "last_summary": "Researchers identified 'gradient noise scale' as a predictor for neural network parallelizability, suggesting future growth can be managed through larger batch sizes.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "alphaproof-encryption-verify",
-      "urls": [
-        "https://deepmind.google/blog/introducing-alphaproof-code"
-      ],
-      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-      "first_seen": "2026-11-12",
-      "last_shipped": "2026-11-12",
-      "last_summary": "Google DeepMind's AlphaProof Code agents utilized millions of lines of code in Lean to verify Signal's encryption protocols.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "botpsy-small-model",
-      "urls": [
-        "https://huggingface.co/blog/qvac/botpsy"
-      ],
-      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-      "first_seen": "2026-11-12",
-      "last_shipped": "2026-11-12",
-      "last_summary": "BotPsy is a new sub-billion-parameter language model designed for on-device agentic tasks.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "united-airlines-ai-block",
-      "urls": [
-        "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents"
-      ],
-      "title": "United won’t let your AI agent book your flight",
-      "first_seen": "2026-11-12",
-      "last_shipped": "2026-11-12",
-      "last_summary": "United Airlines has restricted the use of AI agents for booking tickets, citing privacy and regulatory compliance concerns.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "google-tabletop-launch",
-      "urls": [
-        "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability"
-      ],
-      "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
-      "first_seen": "2026-11-12",
-      "last_shipped": "2026-11-12",
-      "last_summary": "Google launched 'Tabletop,' an experimental tool that allows users to create customized collaborative apps using natural language prompts.",
-      "was_must_know": false
-    },
-    {
       "event_key": "openai-images-2-6-launch",
       "urls": [
         "https://openai.com/index/introducing-images-2-6",
@@ -833,6 +670,167 @@
       "first_seen": "2026-11-18",
       "last_shipped": "2026-11-18",
       "last_summary": "Evaluation firm Vals discovered that leading AI models could be manipulated into identifying civilians as military targets when framed within a game context.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "chatgpt-enterprise-aws",
+      "urls": [
+        "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+        "https://openai.com/index/dall-e-3-is-now-available-in-chatgpt-plus-and-enterprise",
+        "https://openai.com/index/dall-e-now-available-in-beta",
+        "https://deepmind.google/blog/genie-4-is-now-available",
+        "https://deepmind.google/blog/gemini-4-carbon-is-now-available",
+        "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie"
+      ],
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "first_seen": "2026-11-19",
+      "last_shipped": "2026-11-19",
+      "last_summary": "OpenAI has made ChatGPT Enterprise available directly through the AWS Marketplace to simplify corporate procurement and billing.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-agents-api-launch",
+      "urls": [
+        "https://openai.com/index/introducing-the-agents-api",
+        "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
+        "https://openai.com/index/introducing-agentkit",
+        "https://openai.com/index/image-generation-api",
+        "https://openai.com/index/introducing-4o-image-generation",
+        "https://openai.com/index/introducing-the-model-spec",
+        "https://huggingface.co/blog/tgi-multi-backend",
+        "https://huggingface.co/blog/smolagents",
+        "https://huggingface.co/blog/synthid-text",
+        "https://huggingface.co/blog/idefics2",
+        "https://huggingface.co/blog/leaderboard-contextual",
+        "https://huggingface.co/blog/inference-pro",
+        "https://huggingface.co/blog/wuerstchen",
+        "https://huggingface.co/blog/idefics",
+        "https://huggingface.co/blog/agents-js",
+        "https://huggingface.co/blog/sagemaker-huggingface-llm",
+        "https://huggingface.co/blog/aivsai",
+        "https://huggingface.co/blog/bloom",
+        "https://huggingface.co/blog/education",
+        "https://huggingface.co/blog/gptj-sagemaker",
+        "https://huggingface.co/blog/snowball-fight",
+        "https://huggingface.co/blog/the-partnership-amazon-sagemaker-and-hugging-face",
+        "https://huggingface.co/blog/accelerated-inference",
+        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOejd2N3J0MFBldlByMWphamZqWW1Bd2FtWXhzNkRJTzBNbWlyak9JN3ltV3dNdkJ1LURjSERKZUt5SlZCeVRacTJwejBWRnl3bWw0R0xOTXNpcFZoaU12dXF0QV9xRmpFLWhUcVFHUFVkQjgtM0hjQkhUX1M3QmcxUHh4VWpwakNBRmIzV1ExeGtXdDFzUWNESVpnVTVRMVZTVFNuc0FYc1FMa2s?oc=5"
+      ],
+      "title": "Introducing the Agents API",
+      "first_seen": "2026-11-19",
+      "last_shipped": "2026-11-19",
+      "last_summary": "OpenAI released a new Agents API for cloud orchestration and introduced several developer-focused tools including AgentKit and reinforcement fine-tuning capabilities.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "openai-agent-research-impact",
+      "urls": [
+        "https://openai.com/index/research-acceleration-jagged-frontier"
+      ],
+      "title": "Research acceleration: The jagged frontier",
+      "first_seen": "2026-11-19",
+      "last_shipped": "2026-11-19",
+      "last_summary": "OpenAI is researching how coding agents are accelerating scientific research and analyzing the performance gaps associated with these systems.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "ai-chip-design-optimization",
+      "urls": [
+        "https://openai.com/index/advancing-chip-design-with-our-models"
+      ],
+      "title": "Advancing chip design with OpenAI models",
+      "first_seen": "2026-11-19",
+      "last_shipped": "2026-11-19",
+      "last_summary": "OpenAI reported progress in AI-assisted chip design, specifically using its models to optimize circuits and RISC-V cores.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-business-plugins-launch",
+      "urls": [
+        "https://openai.com/index/introducing-chatgpt-for-sales",
+        "https://openai.com/index/introducing-chatgpt-wallet",
+        "https://openai.com/index/introducing-businesses-chatgpt",
+        "https://openai.com/index/introducing-chatgpt-financial-services",
+        "https://openai.com/index/introducing-admin-plugin",
+        "https://openai.com/index/chatgpt-for-teens",
+        "https://openai.com/index/introducing-chatgpt-small-business-program",
+        "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
+        "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+        "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
+        "https://openai.com/index/chatgpt-for-excel",
+        "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt",
+        "https://openai.com/index/introducing-chatgpt-go"
+      ],
+      "title": "Introducing ChatGPT for Sales",
+      "first_seen": "2026-11-19",
+      "last_shipped": "2026-11-19",
+      "last_summary": "OpenAI introduced specialized ChatGPT plugins for sales and financial services, alongside a new secure payment feature called ChatGPT Wallet.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "osmo-ai-scent-model",
+      "urls": [
+        "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans"
+      ],
+      "title": "This smell startup says its AI nose is as good as a human’s",
+      "first_seen": "2026-11-19",
+      "last_shipped": "2026-11-19",
+      "last_summary": "Startup Osmo is building a foundation model for scent by training on chemical data and human smell sensory evaluations.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "huggingface-rumble2flash-release",
+      "urls": [
+        "https://huggingface.co/blog/rumble-2-flash"
+      ],
+      "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+      "first_seen": "2026-11-19",
+      "last_shipped": "2026-11-19",
+      "last_summary": "Hugging Face released Rumble-2-Flash, a compact 0.5B parameter open-source model designed for speech recognition across 40+ languages.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "google-search-school-ai-policy",
+      "urls": [
+        "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google"
+      ],
+      "title": "The nation’s largest school districts consider ditching Google Search",
+      "first_seen": "2026-11-19",
+      "last_shipped": "2026-11-19",
+      "last_summary": "Major US school districts are reconsidering their use of Google Search because the company will require AI features to be active on school accounts starting next year.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "2026-tech-regulation-push",
+      "urls": [
+        "https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act"
+      ],
+      "title": "Tech lawsuits defined 2026 — and lawmakers want more",
+      "first_seen": "2026-11-19",
+      "last_shipped": "2026-11-19",
+      "last_summary": "US lawmakers are pushing for new regulations before the end of 2026, targeting deepfakes and restrictions on filing lawsuits against online platforms.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "microsoft-buyout-strategy",
+      "urls": [
+        "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit"
+      ],
+      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "first_seen": "2026-11-19",
+      "last_shipped": "2026-11-19",
+      "last_summary": "Microsoft CEO Satya Nadella clarified that recent voluntary buyout offers to 60,000 employees were driven by the strategic shifts required by AI adoption.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "nadella-infrastructure-security",
+      "urls": [
+        "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable"
+      ],
+      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+      "first_seen": "2026-11-19",
+      "last_shipped": "2026-11-19",
+      "last_summary": "Satya Nadella stated that much of the world's critical infrastructure remains unpatchable, increasing security risks in the age of AI.",
       "was_must_know": false
     }
   ]
