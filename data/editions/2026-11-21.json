@@ -1,0 +1,273 @@
+{
+  "date": "2026-11-21",
+  "intro": "Today's developments highlight significant breakthroughs in model capabilities and AI-driven scientific research. Meanwhile, industry leaders are focusing on the infrastructure and security frameworks necessary for the future of enterprise AI.",
+  "must_know": [
+    {
+      "cluster_id": "675650dffca0c9d4",
+      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "summary": "An Anthropic mathematician claims to have used Claude to help prove the Riemann hypothesis, a long-standing mathematical challenge.",
+      "why_it_matters": "If verified, this would mark a historic milestone for AI in formal mathematics and scientific discovery.",
+      "topic_ids": [
+        "research",
+        "foundation-models"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
+        }
+      ]
+    },
+    {
+      "cluster_id": "6691469f1dc34a79",
+      "title": "The most misunderstood graph in AI just got a major update",
+      "summary": "A report from the nonprofit METR indicates that while some AI capabilities continue to improve exponentially, models remain less effective at tasks requiring complex human-like judgment compared to coding.",
+      "why_it_matters": "Distinguishing between technical coding proficiency and high-level judgment is critical for understanding current AI limitations in professional environments.",
+      "topic_ids": [
+        "research",
+        "foundation-models"
+      ],
+      "story_type": "update",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update"
+        }
+      ]
+    },
+    {
+      "cluster_id": "7ad44f990f0c53ef",
+      "title": "Combatting adversarial distillation",
+      "summary": "OpenAI has outlined a multi-layered security framework designed to prevent the unauthorized extraction of AI model capabilities through adversarial distillation.",
+      "why_it_matters": "As models become more capable, protecting proprietary model weights from being cloned or reverse-engineered is becoming a critical security priority.",
+      "topic_ids": [
+        "foundation-models",
+        "research"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/combatting-adversarial-distillation"
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "research": [
+      {
+        "cluster_id": "8145fefb47ff1ca9",
+        "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+        "summary": "Financial research firm Hebbia reported improved performance in source coverage and citation relevance after testing OpenAI's GPT-6 Astra.",
+        "why_it_matters": "Real-world testing suggests iterative improvements in large model reasoning capabilities, specifically for tasks requiring high-stakes factual accuracy.",
+        "topic_ids": [
+          "foundation-models",
+          "research"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/business/customer-stories/hebbia"
+          }
+        ]
+      },
+      {
+        "cluster_id": "98001fcd04fee053",
+        "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+        "summary": "Spotify founder Daniel Ek has invested in Europa Fusion, a startup led by an AI researcher focused on advancing fusion power technology.",
+        "why_it_matters": "The intersection of AI research and energy infrastructure continues to attract significant venture interest.",
+        "topic_ids": [
+          "startups-funding",
+          "research"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building"
+          }
+        ]
+      },
+      {
+        "cluster_id": "59263bf20834b140",
+        "title": "Super-hot rock geothermal could end data center energy woes",
+        "summary": "New geothermal startups are exploring super-hot rock drilling techniques aimed at providing massive, reliable energy for data centers.",
+        "why_it_matters": "Energy scarcity is a major bottleneck for AI scaling, driving startups to seek novel, high-output geothermal solutions.",
+        "topic_ids": [
+          "startups-funding",
+          "research"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes"
+          }
+        ]
+      }
+    ],
+    "foundation-models": [
+      {
+        "cluster_id": "6dc34d1214d4e57a",
+        "title": "The future of the firm",
+        "summary": "Major tech companies including OpenAI and Google are releasing new AI-driven tools, ranging from educational resources for students to workflow automation software for enterprises.",
+        "why_it_matters": "AI is increasingly being integrated into standard organizational workflows and student life, shifting from novelty toward daily infrastructure.",
+        "topic_ids": [
+          "foundation-models",
+          "big-tech"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/the-future-of-the-firm"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/teens-learn-and-plan"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/omio"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/sea-david-chen"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/pvh-future-of-fashion"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/gpt-5-mathematical-discovery"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/global-affairs/eu-code-of-practice"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/global-affairs/aft"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/wayfair-fiona-tan"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/morgan-stanley"
+          },
+          {
+            "name": "Google DeepMind Blog",
+            "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents"
+          },
+          {
+            "name": "Google DeepMind Blog",
+            "url": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe"
+          },
+          {
+            "name": "Hugging Face Blog",
+            "url": "https://huggingface.co/blog/cybersecurity-openness"
+          },
+          {
+            "name": "Hugging Face Blog",
+            "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3"
+          },
+          {
+            "name": "Google News: AI",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV0s0aHdkbnFxX1c0Q3l4SGladWZIeHdMZGYzZzNUM2lCTEpab01kVFAyN29aV3lvTzZYX2pscU9TR2ZJZG5uSXJ4cS1FSTFobElBQkhIaUo3Q1VOdjNDb0ItU0dhX0U0ekQyLTRjdFJubUJhdnFiM2xIdlJ0S1ZWR1BmaXlNZXJoOFRkYTIzNGwtMGpQcFhuanNXOVN5MHlnb3VKeEZ2cEFienBORGRUbE1yNA?oc=5"
+          }
+        ]
+      }
+    ],
+    "big-tech": [
+      {
+        "cluster_id": "06eb602957541aac",
+        "title": "Google says it’s going to shut off Google Assistant on smart speakers next year",
+        "summary": "Google will retire Google Assistant on smart home speakers and shut down the legacy Nest app, consolidating device management into the Google Home app by 2027.",
+        "why_it_matters": "Google is streamlining its fragmented smart home ecosystem, which will force users to migrate their configurations within the next few years.",
+        "topic_ids": [
+          "big-tech",
+          "tools"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down"
+          }
+        ]
+      },
+      {
+        "cluster_id": "06ba43120c6e046c",
+        "title": "Startup sues Apple in India over tap-to-share contacts feature",
+        "summary": "A U.S. startup has filed a lawsuit against Apple in India, seeking $162 million in damages and an import ban regarding the 'tap-to-share' contact feature.",
+        "why_it_matters": "This litigation highlights ongoing global legal scrutiny regarding Apple's proprietary features and their impact on competition.",
+        "topic_ids": [
+          "big-tech",
+          "policy"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature"
+          }
+        ]
+      }
+    ],
+    "startups-funding": [
+      {
+        "cluster_id": "633a67e2de20159c",
+        "title": "Anthropic rival says companies can (mostly) skip the pricey models",
+        "summary": "Fireworks AI is advocating for the use of open-source models as a cost-effective alternative to expensive proprietary foundation models.",
+        "why_it_matters": "As enterprises look to cut costs, the competitive landscape between open-source and proprietary models remains a major industry friction point.",
+        "topic_ids": [
+          "open-source",
+          "startups-funding"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models"
+          }
+        ]
+      }
+    ],
+    "open-source": [
+      {
+        "cluster_id": "701a571706ec6c00",
+        "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+        "summary": "Hugging Face introduced 'harness adapters' to help users optimize performance and reduce costs when integrating various models into existing toolchains.",
+        "why_it_matters": "Standardizing adapter workflows simplifies the deployment of diverse models, lowering the barrier for developers managing complex AI stacks.",
+        "topic_ids": [
+          "tools",
+          "open-source"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "Hugging Face Blog",
+            "url": "https://huggingface.co/blog/harness-adapters-at-scale"
+          }
+        ]
+      }
+    ]
+  },
+  "continuing": []
+}

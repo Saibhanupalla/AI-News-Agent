@@ -1,145 +1,6 @@
 {
   "entries": [
     {
-      "event_key": "ai-enterprise-integration",
-      "urls": [
-        "https://openai.com/index/the-future-of-the-firm",
-        "https://openai.com/index/teens-learn-and-plan",
-        "https://openai.com/index/omio",
-        "https://openai.com/index/sea-david-chen",
-        "https://openai.com/index/pvh-future-of-fashion",
-        "https://openai.com/index/gpt-5-mathematical-discovery",
-        "https://openai.com/global-affairs/eu-code-of-practice",
-        "https://openai.com/global-affairs/aft",
-        "https://openai.com/index/wayfair-fiona-tan",
-        "https://openai.com/index/morgan-stanley",
-        "https://deepmind.google/blog/securing-the-future-of-ai-agents",
-        "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe",
-        "https://huggingface.co/blog/cybersecurity-openness",
-        "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3",
-        "https://news.google.com/rss/articles/CBMirgFBVV95cUxPelIxT3FrZ1prNjExUTFTT2F5TGJKdkxBcHlUQTR4ZVc1czJ5cTkwTXFoTXdSODRJZWx0WWN3blFaQzJhUG00MTduRTRLWVlocVdKVmtGVFRFemFobi1EVWVLWjhUcGdjcmFTMGpicDIxaVhwMjJwaGtuYXM0MGxSQmZyaWZ5TkFLSXY1a3lIYldQdUs1bnpxVl9LR2dncUh3RGZFNll2dnZSSEFiM1E?oc=5",
-        "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNZGdjZzVkcjVoSHpVam1fMjczUGJ1Rlg0LU1pUlZGNDRVVFVQTmhmNkFXX01ob29tQ3FQRTlBZjJ0MFlLUFJSTE9BRndETWF0UlkxbnZyM0M1eGlNR0g3VVM3Mmk0SWZ4RXBOTFpuZlVkM25SelZ1dHVGeVI0RGFVaFNna1U0U0NWMDRVcF9WOVpEUjMzZnhwVi1VRUNjbmJJSThlNGRWT2RjRGZVa3J1WnJWRzh6LXE4T2RwUGxPMGE3VndHXzBycVZSSWNCdG1BdGJkeUJ2R0YtU2o1U1RENXFKS0h4ZWxLMU9zOVp0ajdmb1NYemRfMy1DMNIBjwJBVV95cUxPSmdGbGV2d1J0UV9GcHk2N3BkSEZXR3JpN2NVZlgzREQ5OWVxVWVEZXhmdlN3UDZxOFBIbXYzMzBYSVZiMTI4VHdFOWRoaGtnMHJTWTNCeFpibVp5a0FJN3NKcS1HYTVFVHgyR2d1dWRxbVU5NWgyTmx6Z084U1ljdDdWU0h2N2t6WWZwNm1oMDZNWGl4M3NPZGY3Zm5Dd0hfUGpsVHpnMkVKV3dqekgtSkJ3X1FORGl0UE9ZMHhNUzh4cGoydnVCR3N5UHdTWnhPUk1WSUhvT0hybERCUVdKUEhSXzFnSzVsbkVoU2xSNE9UR3JMVjN3TWdNRFI5WTZESndmTHlCMElsTW5PUjh3?oc=5"
-      ],
-      "title": "The future of the firm",
-      "first_seen": "2026-11-14",
-      "last_shipped": "2026-11-14",
-      "last_summary": "AI is increasingly being integrated into corporate workflows and educational environments, with new tools for students and enterprise-wide software adoption. Companies like Omio and Sea Limited are leveraging these models to improve productivity.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "openai-jalapeno-launch",
-      "urls": [
-        "https://openai.com/index/jalapeno-first-results",
-        "https://openai.com/index/ai-and-efficiency",
-        "https://huggingface.co/blog/tiiuae/falcon-h1",
-        "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNVcxenVlaTUybjgxR0pyaWRhME1SRnpONVh6TmkyU0NhU2JZaENHRW5QWktMdVRwTFhFZDdONG9ZbzhoZ051YjdtVjhyWXpkS2pUMTFHcVFGNmVtQlF6SVk3dHJlZm5KN3JHcTlocDZ3QWVxNlpnUG03WDcwbm0yRlN6d1pRRUNUeThLcDVZWUZOa2F1TmF1bl80WEpaTXVhc0E3QW1pelgwdlV2MC1UMzhaVDYwSHllUDd6aW5PQnNWWmpZdGpXOHpzajVoWkU?oc=5"
-      ],
-      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-      "first_seen": "2026-11-14",
-      "last_shipped": "2026-11-14",
-      "last_summary": "OpenAI has introduced Jalapeño, a custom inference chip designed for improved speed and energy efficiency. Additionally, new research indicates that the compute required to train neural networks has halved every 16 months since 2012.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "llamacpp-v1-release",
-      "urls": [
-        "https://huggingface.co/blog/ggml-org/llama-cpp-v1"
-      ],
-      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-      "first_seen": "2026-11-14",
-      "last_shipped": "2026-11-14",
-      "last_summary": "The llama.cpp project has reached version 1.0.0, establishing a more stable foundation for the local AI ecosystem.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "amazon-product-graph",
-      "urls": [
-        "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search"
-      ],
-      "title": "Amazon has a plan to index the world’s online shopping data",
-      "first_seen": "2026-11-14",
-      "last_shipped": "2026-11-14",
-      "last_summary": "Amazon is reportedly developing a 'World Product Graph' to index global online shopping data, including products not sold on its own platform.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "openai-chatgpt-wallet",
-      "urls": [
-        "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet"
-      ],
-      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
-      "first_seen": "2026-11-14",
-      "last_shipped": "2026-11-14",
-      "last_summary": "OpenAI has launched ChatGPT Wallet, allowing its Dots AI agents to execute purchases for eligible US subscribers.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "jensen-huang-resignation-funding",
-      "urls": [
-        "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say"
-      ],
-      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-      "first_seen": "2026-11-14",
-      "last_shipped": "2026-11-14",
-      "last_summary": "Following Jensen Huang's departure from Nvidia, investors and founders anticipate a tightening of AI startup funding and a potential correction in valuations.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "drogue-floating-data-centers",
-      "urls": [
-        "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board"
-      ],
-      "title": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
-      "first_seen": "2026-11-14",
-      "last_shipped": "2026-11-14",
-      "last_summary": "Startup Drogue plans to power floating data centers using ocean thermal energy, with a prototype expected within two years.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "langchain-valuation-3b",
-      "urls": [
-        "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation"
-      ],
-      "title": "AI agent startup LangChain hits $3B valuation",
-      "first_seen": "2026-11-14",
-      "last_shipped": "2026-11-14",
-      "last_summary": "LangChain has reached a $3 billion valuation, reporting 7,000 customers for its AI agent management platform, LangSmith.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "nvidia-export-ban-bypass",
-      "urls": [
-        "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen"
-      ],
-      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-      "first_seen": "2026-11-14",
-      "last_shipped": "2026-11-14",
-      "last_summary": "Research indicates that China's most advanced AI models have been trained using Nvidia chips subject to export bans.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "jensen-huang-resignation-timeline",
-      "urls": [
-        "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline"
-      ],
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "first_seen": "2026-11-14",
-      "last_shipped": "2026-11-14",
-      "last_summary": "A timeline of the Jensen Huang scandal reveals his sudden resignation from Nvidia following an affair, raising questions about national security and corporate leadership stability.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "microsoft-global-outage",
-      "urls": [
-        "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis"
-      ],
-      "title": "Microsoft’s latest email outage turned into a full-blown global cloud crisis",
-      "first_seen": "2026-11-14",
-      "last_shipped": "2026-11-14",
-      "last_summary": "A major Microsoft outage affecting Outlook and Teams escalated into a broader global cloud services failure, with restoration currently underway.",
-      "was_must_know": false
-    },
-    {
       "event_key": "openai-biodefense-plan",
       "urls": [
         "https://openai.com/index/biodefense-in-the-intelligence-age",
@@ -909,6 +770,141 @@
       "first_seen": "2026-11-20",
       "last_shipped": "2026-11-20",
       "last_summary": "Google has updated Gemini to include agentic features on macOS that can manage files and execute multi-step tasks.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "ai-organizational-integration",
+      "urls": [
+        "https://openai.com/index/the-future-of-the-firm",
+        "https://openai.com/index/teens-learn-and-plan",
+        "https://openai.com/index/omio",
+        "https://openai.com/index/sea-david-chen",
+        "https://openai.com/index/pvh-future-of-fashion",
+        "https://openai.com/index/gpt-5-mathematical-discovery",
+        "https://openai.com/global-affairs/eu-code-of-practice",
+        "https://openai.com/global-affairs/aft",
+        "https://openai.com/index/wayfair-fiona-tan",
+        "https://openai.com/index/morgan-stanley",
+        "https://deepmind.google/blog/securing-the-future-of-ai-agents",
+        "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe",
+        "https://huggingface.co/blog/cybersecurity-openness",
+        "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3",
+        "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV0s0aHdkbnFxX1c0Q3l4SGladWZIeHdMZGYzZzNUM2lCTEpab01kVFAyN29aV3lvTzZYX2pscU9TR2ZJZG5uSXJ4cS1FSTFobElBQkhIaUo3Q1VOdjNDb0ItU0dhX0U0ekQyLTRjdFJubUJhdnFiM2xIdlJ0S1ZWR1BmaXlNZXJoOFRkYTIzNGwtMGpQcFhuanNXOVN5MHlnb3VKeEZ2cEFienBORGRUbE1yNA?oc=5"
+      ],
+      "title": "The future of the firm",
+      "first_seen": "2026-11-21",
+      "last_shipped": "2026-11-21",
+      "last_summary": "Major tech companies including OpenAI and Google are releasing new AI-driven tools, ranging from educational resources for students to workflow automation software for enterprises.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-adversarial-distillation-protection",
+      "urls": [
+        "https://openai.com/index/combatting-adversarial-distillation"
+      ],
+      "title": "Combatting adversarial distillation",
+      "first_seen": "2026-11-21",
+      "last_shipped": "2026-11-21",
+      "last_summary": "OpenAI has outlined a multi-layered security framework designed to prevent the unauthorized extraction of AI model capabilities through adversarial distillation.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "hebbia-gpt-6-astra-testing",
+      "urls": [
+        "https://openai.com/business/customer-stories/hebbia"
+      ],
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "first_seen": "2026-11-21",
+      "last_shipped": "2026-11-21",
+      "last_summary": "Financial research firm Hebbia reported improved performance in source coverage and citation relevance after testing OpenAI's GPT-6 Astra.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "metr-ai-capability-evaluation",
+      "urls": [
+        "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update"
+      ],
+      "title": "The most misunderstood graph in AI just got a major update",
+      "first_seen": "2026-11-21",
+      "last_shipped": "2026-11-21",
+      "last_summary": "A report from the nonprofit METR indicates that while some AI capabilities continue to improve exponentially, models remain less effective at tasks requiring complex human-like judgment compared to coding.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "hugging-face-harness-adapters",
+      "urls": [
+        "https://huggingface.co/blog/harness-adapters-at-scale"
+      ],
+      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "first_seen": "2026-11-21",
+      "last_shipped": "2026-11-21",
+      "last_summary": "Hugging Face introduced 'harness adapters' to help users optimize performance and reduce costs when integrating various models into existing toolchains.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "google-smart-home-consolidation",
+      "urls": [
+        "https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down"
+      ],
+      "title": "Google says it’s going to shut off Google Assistant on smart speakers next year",
+      "first_seen": "2026-11-21",
+      "last_shipped": "2026-11-21",
+      "last_summary": "Google will retire Google Assistant on smart home speakers and shut down the legacy Nest app, consolidating device management into the Google Home app by 2027.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "anthropic-claude-riemann-hypothesis",
+      "urls": [
+        "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
+      ],
+      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "first_seen": "2026-11-21",
+      "last_shipped": "2026-11-21",
+      "last_summary": "An Anthropic mathematician claims to have used Claude to help prove the Riemann hypothesis, a long-standing mathematical challenge.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "apple-india-lawsuit",
+      "urls": [
+        "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature"
+      ],
+      "title": "Startup sues Apple in India over tap-to-share contacts feature",
+      "first_seen": "2026-11-21",
+      "last_shipped": "2026-11-21",
+      "last_summary": "A U.S. startup has filed a lawsuit against Apple in India, seeking $162 million in damages and an import ban regarding the 'tap-to-share' contact feature.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "europa-fusion-funding",
+      "urls": [
+        "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building"
+      ],
+      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "first_seen": "2026-11-21",
+      "last_shipped": "2026-11-21",
+      "last_summary": "Spotify founder Daniel Ek has invested in Europa Fusion, a startup led by an AI researcher focused on advancing fusion power technology.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "geothermal-data-center-energy",
+      "urls": [
+        "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes"
+      ],
+      "title": "Super-hot rock geothermal could end data center energy woes",
+      "first_seen": "2026-11-21",
+      "last_shipped": "2026-11-21",
+      "last_summary": "New geothermal startups are exploring super-hot rock drilling techniques aimed at providing massive, reliable energy for data centers.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "fireworks-ai-open-source-push",
+      "urls": [
+        "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models"
+      ],
+      "title": "Anthropic rival says companies can (mostly) skip the pricey models",
+      "first_seen": "2026-11-21",
+      "last_shipped": "2026-11-21",
+      "last_summary": "Fireworks AI is advocating for the use of open-source models as a cost-effective alternative to expensive proprietary foundation models.",
       "was_must_know": false
     }
   ]
