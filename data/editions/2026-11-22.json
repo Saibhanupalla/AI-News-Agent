@@ -1,0 +1,91 @@
+{
+  "date": "2026-11-22",
+  "intro": "Today's headlines are dominated by major strategic shifts at industry leaders like OpenAI, Google, and Meta. Developments range from new board appointments and design changes to the challenging sustainability targets of AI expansion.",
+  "must_know": [
+    {
+      "cluster_id": "ff62a6d0a83feae4",
+      "title": "Google rolls out new search homepage with AI chat history and no search button",
+      "summary": "Google has updated its search homepage to provide direct access to AI chat history, removing the traditional search button in the process.",
+      "why_it_matters": "This represents a further shift in Google's interface toward prioritizing generative AI interaction over traditional search queries.",
+      "topic_ids": [
+        "tools",
+        "big-tech"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar"
+        }
+      ]
+    },
+    {
+      "cluster_id": "13d5399dae0a9e05",
+      "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+      "summary": "David Velez and Robin Vince have joined the boards of the OpenAI Foundation and OpenAI Group PBC. The Foundation also announced plans to allocate at least $1 billion toward social impact, health, and AI resilience initiatives.",
+      "why_it_matters": "The board appointments and large philanthropic commitment signal OpenAI's attempt to formalize its structure and public-benefit mission as it continues to scale.",
+      "topic_ids": [
+        "big-tech",
+        "policy"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/update-on-the-openai-foundation"
+        },
+        {
+          "name": "Google News: AI",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNam1INzlZQzRkd0NpWWJaZ1NkOVJFMnhKdjdfcjUtSnBiWnlfSENOR3lwUnpYcU16UnJQLTBBVFVMUnctbUs4Z3pRUHN5TkNsb1VJLW5Vc25HbUVidkVuVlY0VWNsV0lHYVdPWXAyMkV3VWpoSXBMQl9WTk1vWEU1RHhPaS0wcldoMndnWEpkQTQ5dGIyOWc?oc=5"
+        }
+      ]
+    },
+    {
+      "cluster_id": "66eae4612900f2e7",
+      "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+      "summary": "Meta is re-evaluating its 2030 net-zero sustainability goals, citing a surge in record emissions driven by the energy demands of its AI data centers.",
+      "why_it_matters": "The energy-intensive nature of large-scale AI is forcing major tech companies to reassess their environmental commitments.",
+      "topic_ids": [
+        "big-tech",
+        "policy"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers"
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "policy": [
+      {
+        "cluster_id": "414bab6a17e87f29",
+        "title": "Pandex – Official European Law for AI Agents, over MCP",
+        "summary": "Pandex has emerged as a platform focused on implementing European legal standards for AI agents using Model Context Protocol (MCP).",
+        "why_it_matters": "This highlights the growing importance of standardizing AI agent behaviors to comply with regional regulatory frameworks.",
+        "topic_ids": [
+          "policy",
+          "tools"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "Hacker News Front Page",
+            "url": "https://www.pandex.io"
+          }
+        ]
+      }
+    ]
+  },
+  "continuing": []
+}

@@ -1,102 +1,6 @@
 {
   "entries": [
     {
-      "event_key": "openai-biodefense-plan",
-      "urls": [
-        "https://openai.com/index/biodefense-in-the-intelligence-age",
-        "https://openai.com/index/cybersecurity-in-the-intelligence-age",
-        "https://news.google.com/rss/articles/CBMilAJBVV95cUxPNVBEQnVfVzd3Y1hSMl96NmtGOTBtSUo0N1YwZmNLMXJaS3R2eWRMNUFGSjdfMXpoZFdzT2ZBZzdENnJPQnBVN2k1dklFaFJXYUhZZFNkd0lCRjVncFIwX3VJUUdmRHJSenh1SVV2aVU5UTVkVVdMVDlad3pKY01DX2lXenBlRlVha185R1NKQ0pJa2NZbmN2SmE4d3Z5M3VkQmxuWnhqNGJXUlZtbEVsWnBhTWtWS2FmN1cxa0xMSzFzeEV1bWRzQzlvNGFyNFR3OTg1eFdCeGVsM3Z1MGRUa2RkMlBuNXgzWXE2enBYYlRRc3ZTcXZOSmRkQnp5VkNFTHdrdFNrSGV1djZzalJqMTYyNTE?oc=5",
-        "https://news.google.com/rss/articles/CBMilwJBVV95cUxOaXJvYmJCU0lFU2h4V1BnaEZVd196azdYaFVJVzkzNG1sOHJSOTA1UlpvSGo5WFdSWks3X3I2QWxabG5PM1dRRG1VaVZjdlI5TGIwNk1KVjItWWxtQXlGTDhjMEo3c2h1RllWWVJLN3NNczQxcjhvdm96UXhvWHFMd0plcFR2Vk1maUt6d0Fhb0pmRHo3aVd3azRFU2ZuZ2gyTndVd1BOeXJYaksxZlZJTVk0cGZURzJrYzZpVjU4VGVZZXFMWF9tRkpMdE9YUXJyQklvUGRjY3RnOGxQaGljY2gwRnZYbGJ1SVY2YzdDbjVZX2RCX1QtcVgyQkdfb2tYRUdTQVlwcHJ5NjVBX2FRQ0NuRENXY28?oc=5"
-      ],
-      "title": "Biodefense in the Intelligence Age",
-      "first_seen": "2026-11-15",
-      "last_shipped": "2026-11-15",
-      "last_summary": "OpenAI has published a five-part action plan designed to enhance cybersecurity resilience and protect critical systems against AI-driven threats.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "ramp-codex-integration",
-      "urls": [
-        "https://openai.com/index/ramp",
-        "https://huggingface.co/blog/accelerate-v1",
-        "https://huggingface.co/blog/prezi-case-study",
-        "https://huggingface.co/blog/deepspeed-to-fsdp-and-back",
-        "https://huggingface.co/blog/intel-starcoder-quantization",
-        "https://huggingface.co/blog/openvino",
-        "https://huggingface.co/blog/pytorch-ddp-accelerate-transformers",
-        "https://huggingface.co/blog/accelerate-large-models",
-        "https://huggingface.co/blog/bloom-inference-pytorch-scripts",
-        "https://huggingface.co/blog/hf-bitsandbytes-integration",
-        "https://huggingface.co/blog/accelerate-deepspeed",
-        "https://huggingface.co/blog/sempre-health-eap-case-study",
-        "https://huggingface.co/blog/pytorch-fsdp",
-        "https://huggingface.co/blog/habana",
-        "https://huggingface.co/blog/bert-inferentia-sagemaker",
-        "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pNjdkbTNTaU8wM1hIQkJYUElOMXR3SVNhNDhGd19Lak9ZelpCWUp0aXdHNm5IMjJaT0psUUJRalpUUGpvQ0JHaDNSenZOOUJIc1Znb2RxRXduU09HM0MzNWRWNEM2ODJ6X2ZZ?oc=5"
-      ],
-      "title": "How Ramp engineers accelerate code review with Codex",
-      "first_seen": "2026-11-15",
-      "last_shipped": "2026-11-15",
-      "last_summary": "Engineers at Ramp are utilizing Codex in conjunction with GPT-5.5 to streamline code reviews and expedite software development cycles.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "openai-gpt5-2-launch",
-      "urls": [
-        "https://openai.com/index/gpt-5-2-for-science-and-math",
-        "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature"
-      ],
-      "title": "Advancing science and math with GPT-5.2",
-      "first_seen": "2026-11-15",
-      "last_shipped": "2026-11-15",
-      "last_summary": "OpenAI's new GPT-5.2 model demonstrates enhanced capabilities in scientific and mathematical reasoning, achieving state-of-the-art results on benchmarks like FrontierMath.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "nvidia-jensen-petition",
-      "urls": [
-        "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang"
-      ],
-      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-      "first_seen": "2026-11-15",
-      "last_shipped": "2026-11-15",
-      "last_summary": "A public petition calling for the reinstatement of Jensen Huang as CEO of Nvidia has surpassed 115,000 signatures.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "asia-gov-nvidia-reaction",
-      "urls": [
-        "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit"
-      ],
-      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-      "first_seen": "2026-11-15",
-      "last_shipped": "2026-11-15",
-      "last_summary": "Governments across Asia are evaluating the supply chain impact and regulatory implications following the departure of Nvidia CEO Jensen Huang.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "faa-ai-traffic-management",
-      "urls": [
-        "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace"
-      ],
-      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-      "first_seen": "2026-11-15",
-      "last_shipped": "2026-11-15",
-      "last_summary": "The FAA has expanded the deployment of AI tools aimed at optimizing air traffic management across the United States.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "ai-safety-takeover-concerns",
-      "urls": [
-        "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns"
-      ],
-      "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
-      "first_seen": "2026-11-15",
-      "last_shipped": "2026-11-15",
-      "last_summary": "An OpenAI board member has raised public concerns regarding the speed of AI development, suggesting that societal disruption could occur rapidly.",
-      "was_must_know": false
-    },
-    {
       "event_key": "apple-health-ai-study",
       "urls": [
         "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health",
@@ -905,6 +809,52 @@
       "first_seen": "2026-11-21",
       "last_shipped": "2026-11-21",
       "last_summary": "Fireworks AI is advocating for the use of open-source models as a cost-effective alternative to expensive proprietary foundation models.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-board-appointments",
+      "urls": [
+        "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+        "https://openai.com/index/update-on-the-openai-foundation",
+        "https://news.google.com/rss/articles/CBMilgFBVV95cUxNam1INzlZQzRkd0NpWWJaZ1NkOVJFMnhKdjdfcjUtSnBiWnlfSENOR3lwUnpYcU16UnJQLTBBVFVMUnctbUs4Z3pRUHN5TkNsb1VJLW5Vc25HbUVidkVuVlY0VWNsV0lHYVdPWXAyMkV3VWpoSXBMQl9WTk1vWEU1RHhPaS0wcldoMndnWEpkQTQ5dGIyOWc?oc=5"
+      ],
+      "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+      "first_seen": "2026-11-22",
+      "last_shipped": "2026-11-22",
+      "last_summary": "David Velez and Robin Vince have joined the boards of the OpenAI Foundation and OpenAI Group PBC. The Foundation also announced plans to allocate at least $1 billion toward social impact, health, and AI resilience initiatives.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "google-search-ui-update",
+      "urls": [
+        "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar"
+      ],
+      "title": "Google rolls out new search homepage with AI chat history and no search button",
+      "first_seen": "2026-11-22",
+      "last_shipped": "2026-11-22",
+      "last_summary": "Google has updated its search homepage to provide direct access to AI chat history, removing the traditional search button in the process.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "meta-emissions-revaluation",
+      "urls": [
+        "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers"
+      ],
+      "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+      "first_seen": "2026-11-22",
+      "last_shipped": "2026-11-22",
+      "last_summary": "Meta is re-evaluating its 2030 net-zero sustainability goals, citing a surge in record emissions driven by the energy demands of its AI data centers.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "pandex-ai-law-compliance",
+      "urls": [
+        "https://www.pandex.io"
+      ],
+      "title": "Pandex – Official European Law for AI Agents, over MCP",
+      "first_seen": "2026-11-22",
+      "last_shipped": "2026-11-22",
+      "last_summary": "Pandex has emerged as a platform focused on implementing European legal standards for AI agents using Model Context Protocol (MCP).",
       "was_must_know": false
     }
   ]
