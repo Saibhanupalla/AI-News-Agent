@@ -1,0 +1,44 @@
+{
+  "date": "2026-11-23",
+  "intro": "Today's tech landscape highlights the complex tension between market dominance and internal operational challenges. We also explore new conceptual frameworks aimed at simplifying AI permission management.",
+  "must_know": [
+    {
+      "cluster_id": "044fb7804e00ac8e",
+      "title": "A tale of two Nvidias",
+      "summary": "Recent reports highlight a divergence between Nvidia's strong financial earnings and growing criticism from tech executives regarding the company's leadership and operational direction.",
+      "why_it_matters": "Nvidia is the cornerstone of the AI hardware ecosystem, making executive criticism particularly notable for investors and partners.",
+      "topic_ids": [
+        "big-tech",
+        "hardware"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias"
+        }
+      ]
+    },
+    {
+      "cluster_id": "d76d1fd47e7f903a",
+      "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
+      "summary": "0rwx proposes a framework for managing AI usage rights by applying Unix-style permission models to AI operations.",
+      "why_it_matters": "Establishing granular control over AI actions is a critical step for secure and governed enterprise AI adoption.",
+      "topic_ids": [
+        "research",
+        "tools"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "Hacker News Front Page",
+          "url": "https://0rwx.com/"
+        }
+      ]
+    }
+  ],
+  "sections": {},
+  "continuing": []
+}

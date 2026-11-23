@@ -1,51 +1,6 @@
 {
   "entries": [
     {
-      "event_key": "apple-health-ai-study",
-      "urls": [
-        "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health",
-        "https://news.google.com/rss/articles/CBMitwFBVV95cUxQS2g1VE5ncFdqMWNXbnZRUGVOejhFT21maHpyQ2hxRkxzajhWaS1NRDM5bFU2LVlEMkJKTURxcVh2SzBLdGJmdW1nY25SNmpBNFpiY3JNVF9zT3NnbnpDd2pjbERrM3M1enVvelBxd1cwWGtKdk1NbHhwZWZOOG5ERU1vOTBLdmhSSjEwTkFaVllKRzFjcmJuWW5CTzRfY3ZqdF9ZXy1hcmdIMExoR1o4XzcxZ2wtZFE?oc=5"
-      ],
-      "title": "Apple launches new app to study how people use AI for health",
-      "first_seen": "2026-11-16",
-      "last_shipped": "2026-11-16",
-      "last_summary": "Apple has launched the Apple Health AI Usage Study, a 200,000-person project designed to evaluate how consumers use and interact with conversational AI for health-related queries.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "openai-standard-model-research",
-      "urls": [
-        "https://openai.com/index/step-toward-defining-the-standard-model"
-      ],
-      "title": "A step toward defining the Standard Model on a lattice",
-      "first_seen": "2026-11-16",
-      "last_shipped": "2026-11-16",
-      "last_summary": "OpenAI researchers have proposed a nonperturbative lattice definition of the Standard Model, utilizing assistance from GPT-6 Astra to formalize the proof.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "nvidia-china-export-regulation",
-      "urls": [
-        "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china"
-      ],
-      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
-      "first_seen": "2026-11-16",
-      "last_shipped": "2026-11-16",
-      "last_summary": "Following a scandal involving former Nvidia CEO Jensen Huang, US lawmakers are pushing for stricter export controls on AI chips to China and have requested testimony from company leadership.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "apple-smart-glasses-rumor",
-      "urls": [
-        "https://www.theverge.com/tech/1033968/apples-first-smart-glasses-are-coming-together"
-      ],
-      "title": "Apple’s first smart glasses are coming together",
-      "first_seen": "2026-11-16",
-      "last_shipped": "2026-11-16",
-      "last_summary": "Apple is reportedly planning to announce its first pair of non-AR smart glasses at WWDC next June, with shipments expected to begin by the end of that year.",
-      "was_must_know": true
-    },
-    {
       "event_key": "california-vs-openai-lawsuit",
       "urls": [
         "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
@@ -856,6 +811,28 @@
       "last_shipped": "2026-11-22",
       "last_summary": "Pandex has emerged as a platform focused on implementing European legal standards for AI agents using Model Context Protocol (MCP).",
       "was_must_know": false
+    },
+    {
+      "event_key": "nvidia-executive-sentiment",
+      "urls": [
+        "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias"
+      ],
+      "title": "A tale of two Nvidias",
+      "first_seen": "2026-11-23",
+      "last_shipped": "2026-11-23",
+      "last_summary": "Recent reports highlight a divergence between Nvidia's strong financial earnings and growing criticism from tech executives regarding the company's leadership and operational direction.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "0rwx-ai-permissions",
+      "urls": [
+        "https://0rwx.com/"
+      ],
+      "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
+      "first_seen": "2026-11-23",
+      "last_shipped": "2026-11-23",
+      "last_summary": "0rwx proposes a framework for managing AI usage rights by applying Unix-style permission models to AI operations.",
+      "was_must_know": true
     }
   ]
 }
