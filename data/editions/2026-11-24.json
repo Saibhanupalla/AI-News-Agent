@@ -1,0 +1,257 @@
+{
+  "date": "2026-11-24",
+  "intro": "Today's briefing highlights major strides in AI hardware development and significant shifts in corporate AI strategy. We are seeing increased focus on both infrastructure efficiency and the rapid scaling of autonomous agent tools across industries.",
+  "must_know": [
+    {
+      "cluster_id": "525bf4a1e9466afa",
+      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "summary": "OpenAI has introduced Jalapeño, a custom inference chip designed to improve speed and power efficiency for AI models. Additionally, research indicates that the compute required to train neural networks has decreased by half every 16 months since 2012.",
+      "why_it_matters": "The development of custom silicon combined with efficiency gains challenges traditional scaling expectations.",
+      "topic_ids": [
+        "hardware",
+        "research"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/jalapeno-first-results"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/ai-and-efficiency"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/tiiuae/falcon-h1"
+        },
+        {
+          "name": "Google News: AI",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQREhRRVRFN2V5NmpvYTM5dTlmZkFNRUduOWtZZmRnRUR6VVc2cVhWNGwzS0xaOTJkbURqd2UzbkNDSk9TN0NyRHFjQ2Q3YW1sWTE4R3p0MXRlN0U2ZVJ0QU5KLUVpX2lnWnlKV2Yya05RMjZlZGduMVNsaTcyQlNYbWVPYmhDZ0VOMEw5SFJLUy1UVlA1ZGtOV1NWVm1NQUhv?oc=5"
+        }
+      ]
+    },
+    {
+      "cluster_id": "fc32915cc49c0588",
+      "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+      "summary": "Amazon has reportedly acquired Decart’s AI optimization team and technology for $7.5 billion, likely to enhance its internal Trainium chip development.",
+      "why_it_matters": "Amazon is bolstering its vertical integration in AI, specifically in chip performance optimization, to compete with Nvidia.",
+      "topic_ids": [
+        "big-tech",
+        "hardware"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips"
+        }
+      ]
+    },
+    {
+      "cluster_id": "5e2478fb7557e8d3",
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "summary": "Anthropic has released 'Claude Ship', a developer tool that enables AI agents to review, fix, and approve code changes autonomously.",
+      "why_it_matters": "Automating code review is a significant step toward end-to-end agentic software development.",
+      "topic_ids": [
+        "tools",
+        "open-source"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes"
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "big-tech": [
+      {
+        "cluster_id": "a795cb37421c1bdb",
+        "title": "Meta throws out its net-zero goal — its competitors should be furious",
+        "summary": "Meta has officially abandoned its 2030 net-zero sustainability target in its 2026 report, sparking criticism regarding the tech industry's climate commitments.",
+        "why_it_matters": "Large-scale AI energy consumption is clashing with sustainability goals, creating pressure for tech giants.",
+        "topic_ids": [
+          "policy",
+          "big-tech"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/23/meta-throws-out-its-net-zero-goal-its-competitors-should-be-furious"
+          }
+        ]
+      }
+    ],
+    "tools": [
+      {
+        "cluster_id": "8ee2b43d963d979b",
+        "title": "Astra for Law leads in legal intelligence",
+        "summary": "Astra for Law is now available to all ChatGPT Enterprise customers after ranking first in a recent legal evaluation. The tool aims to provide specialized legal intelligence across 24 areas of law.",
+        "why_it_matters": "Broadening access to specialized, verified legal AI tools signals a move toward more practical enterprise adoption.",
+        "topic_ids": [
+          "tools",
+          "foundation-models"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/astra-law-6-2"
+          },
+          {
+            "name": "Google News: AI",
+            "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNZGxGOUdSczR3LVEtcFpFS1M3WlBHV2VFMWt3YmdZWGZfSmYyUmdaeVVLR29tUlo1ZFF5emp4QnhoQzhBUU5XX2t0UjBVZ0FKeENzZ1RWdTR6ZTRibTlKaGZtNjdRczJLVlN2VE5ORWdnZllZMFFfZlRxNklSNG5HbHhzYzVNUkxwWmRObUtsVVk1S2ZUMjU5ZUJQc1J2ZWlXaG5kbzNDNlNVMEJ6Nzc2SWhQM0Z6Zzc2VVJyVl9OMTBITGZwQmhlUE9qZTdkWTNjZVd2S3RhWm1Pb0drVjh0WkIyN1JkNUJqaFpsYVFhaTMxRDRDNS1QeEJ4MVpHdk9IMjFLeA?oc=5"
+          }
+        ]
+      },
+      {
+        "cluster_id": "1259b534687dd8b3",
+        "title": "Richpanel helps companies automate 50% of support in 30 days",
+        "summary": "Customer service platform Richpanel is utilizing GPT-6 models to automate 50% of support interactions. The implementation involves AI-driven agents managing support tools and conversation flows.",
+        "why_it_matters": "Highlights the rapid adoption of agentic workflows for customer experience automation.",
+        "topic_ids": [
+          "tools"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support"
+          }
+        ]
+      }
+    ],
+    "startups-funding": [
+      {
+        "cluster_id": "876aad68c91f878f",
+        "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+        "summary": "Supertake has raised $20 million to develop AI agents capable of translating market predictions into automated stock portfolio management.",
+        "why_it_matters": "This represents another step in applying agentic AI to automated wealth management and investment strategies.",
+        "topic_ids": [
+          "startups-funding"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios"
+          }
+        ]
+      },
+      {
+        "cluster_id": "f623141117fe3174",
+        "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+        "summary": "Sierra, a startup focused on AI for customer experience, has reached a $30 billion valuation after a $1.75 billion Series F funding round.",
+        "why_it_matters": "The massive valuation reflects intense investor demand for AI tools specifically designed for enterprise customer service applications.",
+        "topic_ids": [
+          "startups-funding"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off"
+          }
+        ]
+      }
+    ],
+    "research": [
+      {
+        "cluster_id": "f842d35b44d09de8",
+        "title": "Biodefense in the Intelligence Age",
+        "summary": "OpenAI has published a five-part action plan for biodefense and cybersecurity in the age of AI. The framework emphasizes protecting critical systems and democratizing AI-powered defensive capabilities.",
+        "why_it_matters": "As AI capabilities grow, establishing proactive governance for biological and systemic risks is becoming a focal point for leading labs.",
+        "topic_ids": [
+          "policy",
+          "research"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/biodefense-in-the-intelligence-age"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/cybersecurity-in-the-intelligence-age"
+          },
+          {
+            "name": "Google News: AI",
+            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBxVldZNnVrUnVCMzdmajh3NWpLblcwcFAzVDhQdmVha3pYcENyWWNHQ1pWWGFSbnJpMlZ4QndHbFR0ZWl0YWsxYWNIMl83RXpLX1c4SGNidWtWSnRUVm53MzZIa2laQUlPQmVzRGN2NUdVSkk?oc=5"
+          },
+          {
+            "name": "Google News: AI",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa0Y5bFdTbGFaaDhyeWdsVGdxWnZlUTNzSTFMYzd2NWgxXy1neWpFSU1BdWdkSzhwbkFtdGRGR09VR3hPWk5QcGpLYUVwcHlyV1ZLQXF0Y0Y5MGxYejYzS1FTdXlTaVF1VUJHbTZ0UjZZaUJLakpyZGpQZ1lNSEpzTjVlUUZJS1lMZzNyVEhMNGVDNnpPaDAyU0dpaVlhcEVJME04VUxfMV8zMjBDTWhEQS1ZbUlleTBlalE?oc=5"
+          }
+        ]
+      },
+      {
+        "cluster_id": "895b540db6a8889e",
+        "title": "Finding faster quantum algorithms with agents and formal verification",
+        "summary": "Google DeepMind researchers are using agent teams combined with formal verification to discover more efficient quantum algorithms for chemistry and fusion energy applications.",
+        "why_it_matters": "Integrating formal verification with AI agents could accelerate scientific breakthroughs in physics and chemistry.",
+        "topic_ids": [
+          "research"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "Google DeepMind Blog",
+            "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification"
+          }
+        ]
+      },
+      {
+        "cluster_id": "9bf7472c1fe085bc",
+        "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
+        "summary": "A report from the nonprofit METR indicates that while AI capabilities are improving exponentially, current models often struggle with complex judgment tasks.",
+        "why_it_matters": "The gap between raw performance and reliable judgment remains a critical bottleneck for AI deployment.",
+        "topic_ids": [
+          "research"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat"
+          }
+        ]
+      }
+    ]
+  },
+  "continuing": [
+    {
+      "cluster_id": "25f33d1df44504de",
+      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "summary": "Google is integrating personal data from Drive and Wallet into Gemini's 'AI Mode', allowing the assistant to provide more contextual responses based on individual user activity.",
+      "why_it_matters": "Personalization using user-specific data is becoming a key differentiator for leading AI assistants.",
+      "topic_ids": [
+        "tools",
+        "big-tech"
+      ],
+      "story_type": "update",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses"
+        }
+      ]
+    }
+  ]
+}
