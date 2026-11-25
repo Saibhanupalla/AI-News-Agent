@@ -1,0 +1,228 @@
+{
+  "date": "2026-11-25",
+  "intro": "Today's developments highlight the complex intersections of AI hardware constraints and emerging model capabilities. Industry leaders are pivoting to localized power solutions while grappling with new benchmarks for model reliability and market shifts.",
+  "must_know": [
+    {
+      "cluster_id": "ac2f786b30f6d457",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "summary": "New testing suggests that GPT-6 models possess intrinsic capabilities for protein structure design and sequence generation. Laboratory results indicate successful binding across five tested targets.",
+      "why_it_matters": "This represents a significant advancement in applying reasoning-based models to complex biological engineering tasks.",
+      "topic_ids": [
+        "foundation-models",
+        "research"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities"
+        }
+      ]
+    },
+    {
+      "cluster_id": "844d129947da948b",
+      "title": "The Download: AI’s gas power boom and a consciousness reality check",
+      "summary": "To address significant delays in grid infrastructure, some data center operators are increasingly turning to dedicated on-site natural gas power plants. This trend highlights the growing energy strain created by expanding AI workloads.",
+      "why_it_matters": "The massive energy requirements for AI are forcing a shift in how infrastructure providers secure reliable, independent power.",
+      "topic_ids": [
+        "big-tech",
+        "hardware"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness"
+        }
+      ]
+    },
+    {
+      "cluster_id": "7992bf690613aecd",
+      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "summary": "Anthropic’s stock has fallen below its IPO price, raising concerns about cooling market sentiment toward high-valuation AI startups. Investors are monitoring the slump for signs of a broader valuation reset in the sector.",
+      "why_it_matters": "Financial market performance of major AI firms serves as a bellwether for the health of the entire AI startup ecosystem.",
+      "topic_ids": [
+        "startups-funding"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups"
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "foundation-models": [
+      {
+        "cluster_id": "86266e890e18a6d4",
+        "title": "Even the best AI agents struggle with everyday life",
+        "summary": "A new benchmark indicates that current leading AI agents often fail to perform everyday tasks reliably and safely. These findings underscore the persistent gap between model capabilities and real-world autonomy.",
+        "why_it_matters": "The reliability of autonomous AI agents remains a key hurdle for broader consumer adoption.",
+        "topic_ids": [
+          "foundation-models",
+          "tools"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life"
+          }
+        ]
+      }
+    ],
+    "big-tech": [
+      {
+        "cluster_id": "d64a6f51a4eb0dd6",
+        "title": "Data centers are getting their own natural gas power plants",
+        "summary": "Data center developers facing decade-long waits for grid connections are building behind-the-meter, off-grid natural gas plants to support AI capacity needs.",
+        "why_it_matters": "This shift highlights the critical physical infrastructure bottlenecks limiting the scale of the AI revolution.",
+        "topic_ids": [
+          "big-tech",
+          "hardware"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas"
+          }
+        ]
+      },
+      {
+        "cluster_id": "b0f646dfac9a0a0a",
+        "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+        "summary": "Meta has integrated its Muse AI assistant directly into Instagram Direct Messages. This update removes the friction of switching between apps to access the company's AI tools.",
+        "why_it_matters": "Direct integration into popular social platforms is a key strategy for increasing consumer reach and usage of proprietary AI agents.",
+        "topic_ids": [
+          "tools",
+          "big-tech"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms"
+          }
+        ]
+      }
+    ],
+    "startups-funding": [
+      {
+        "cluster_id": "a3c9028eefd69cfd",
+        "title": "Clay helps sales teams win with Codex and ChatGPT",
+        "summary": "Clay has integrated GPT-6 models into its sales software to automate go-to-market research and data analysis. The tool aims to help sales teams better convert data into actionable revenue strategies.",
+        "why_it_matters": "Practical applications of reasoning-capable models are rapidly shifting from research experiments to specialized B2B software workflows.",
+        "topic_ids": [
+          "tools",
+          "startups-funding"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/business/customer-stories/clay-plugins-openai"
+          }
+        ]
+      },
+      {
+        "cluster_id": "977f9f016cc6ca5b",
+        "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+        "summary": "Startup Maple has raised $5.3 million to develop encrypted AI architectures designed to keep user data private from the provider itself. The technology focuses on secure processing to protect sensitive enterprise information.",
+        "why_it_matters": "Data privacy remains a top priority for businesses looking to adopt AI without compromising proprietary data.",
+        "topic_ids": [
+          "startups-funding",
+          "tools"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself"
+          }
+        ]
+      }
+    ],
+    "tools": [
+      {
+        "cluster_id": "1ccf82a8b1972591",
+        "title": "Teaching with AI",
+        "summary": "OpenAI has published a guide for educators on integrating ChatGPT into classrooms, offering advice on prompts and AI limitations. The release aims to address common concerns regarding academic integrity and AI bias.",
+        "why_it_matters": "As AI becomes common in schools, clear guidance for teachers is essential to manage academic expectations.",
+        "topic_ids": [
+          "research",
+          "tools"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/teaching-with-ai"
+          },
+          {
+            "name": "Google DeepMind Blog",
+            "url": "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions"
+          },
+          {
+            "name": "Google News: AI",
+            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOGtsRkFMYzBza3lrX1FqczlsOEExM2lEWTBheHJ4SGZHLS1PTDZpRERoN2hmVjhaTHU2ZTN0ZnQ3X2VrcG90ck9hemYwSDM3UWRPYVBkSUlqb1dZNjVvY1dwRTM3dUdNeXhQZUNjZEJrZ202MmlXXy11NkpvemxQNEhoOXpabFFzck1wa1RZWXFGX3BlZGZaRlZleEdZOUc5TW5RVlBOMEZtQ1FLS2NrRlZqTXlwRVdZQlZtbFd6azhLZzNNUlVZbF8yX0ZXRWJISkpjd0RR?oc=5"
+          },
+          {
+            "name": "Google News: AI",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSDJUbzNMaFV4ZVFhZ0xkZmpxODY2ZEJUcWpUSE9RZ19fdVVpYjVXN24xQVgyMnpNVlFqZU1GRDYzXzhFb3gyUFJaVUZfNTJPYnk3emcyMmJwalBZMGkxU2FBNXdQV2p5cUVYcmZXOEgxeVdOUWExeWVSamVjNWhmcFJuVUE5V3V0X3hENnk2YlN6MVQyQy1Jal9BeXRUVXZCUGF0c3pBQ2huclFU?oc=5"
+          }
+        ]
+      },
+      {
+        "cluster_id": "6f0f83d3e1c30af4",
+        "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+        "summary": "Tidal plans to remove millions of AI-generated tracks from its platform to combat the influx of AI slop. The streaming service will continue to permit tracks created with AI assistance, but will block fully generative content.",
+        "why_it_matters": "Platforms are facing pressure to manage the quality and authenticity of music catalogs as generative AI tools proliferate.",
+        "topic_ids": [
+          "policy",
+          "tools"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming"
+          }
+        ]
+      }
+    ],
+    "research": [
+      {
+        "cluster_id": "5c5fe93fec00ec42",
+        "title": "Why using rocks for carbon removal could eventually reduce crop growth",
+        "summary": "New concerns are emerging regarding the environmental trade-offs of enhanced rock weathering for carbon removal. Research suggests that spreading crushed minerals like basalt could potentially impact soil health and crop yields.",
+        "why_it_matters": "Large-scale climate interventions may have unintended downstream agricultural consequences, complicating the feasibility of carbon removal strategies.",
+        "topic_ids": [
+          "research",
+          "policy"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth"
+          }
+        ]
+      }
+    ]
+  },
+  "continuing": []
+}
