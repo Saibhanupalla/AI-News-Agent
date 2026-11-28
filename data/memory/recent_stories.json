@@ -1,485 +1,6 @@
 {
   "entries": [
     {
-      "event_key": "chatgpt-enterprise-aws",
-      "urls": [
-        "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-        "https://openai.com/index/dall-e-3-is-now-available-in-chatgpt-plus-and-enterprise",
-        "https://openai.com/index/dall-e-now-available-in-beta",
-        "https://deepmind.google/blog/genie-4-is-now-available",
-        "https://deepmind.google/blog/gemini-4-carbon-is-now-available",
-        "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie"
-      ],
-      "title": "ChatGPT Enterprise now available in AWS Marketplace",
-      "first_seen": "2026-11-19",
-      "last_shipped": "2026-11-19",
-      "last_summary": "OpenAI has made ChatGPT Enterprise available directly through the AWS Marketplace to simplify corporate procurement and billing.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "openai-agents-api-launch",
-      "urls": [
-        "https://openai.com/index/introducing-the-agents-api",
-        "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
-        "https://openai.com/index/introducing-agentkit",
-        "https://openai.com/index/image-generation-api",
-        "https://openai.com/index/introducing-4o-image-generation",
-        "https://openai.com/index/introducing-the-model-spec",
-        "https://huggingface.co/blog/tgi-multi-backend",
-        "https://huggingface.co/blog/smolagents",
-        "https://huggingface.co/blog/synthid-text",
-        "https://huggingface.co/blog/idefics2",
-        "https://huggingface.co/blog/leaderboard-contextual",
-        "https://huggingface.co/blog/inference-pro",
-        "https://huggingface.co/blog/wuerstchen",
-        "https://huggingface.co/blog/idefics",
-        "https://huggingface.co/blog/agents-js",
-        "https://huggingface.co/blog/sagemaker-huggingface-llm",
-        "https://huggingface.co/blog/aivsai",
-        "https://huggingface.co/blog/bloom",
-        "https://huggingface.co/blog/education",
-        "https://huggingface.co/blog/gptj-sagemaker",
-        "https://huggingface.co/blog/snowball-fight",
-        "https://huggingface.co/blog/the-partnership-amazon-sagemaker-and-hugging-face",
-        "https://huggingface.co/blog/accelerated-inference",
-        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOejd2N3J0MFBldlByMWphamZqWW1Bd2FtWXhzNkRJTzBNbWlyak9JN3ltV3dNdkJ1LURjSERKZUt5SlZCeVRacTJwejBWRnl3bWw0R0xOTXNpcFZoaU12dXF0QV9xRmpFLWhUcVFHUFVkQjgtM0hjQkhUX1M3QmcxUHh4VWpwakNBRmIzV1ExeGtXdDFzUWNESVpnVTVRMVZTVFNuc0FYc1FMa2s?oc=5"
-      ],
-      "title": "Introducing the Agents API",
-      "first_seen": "2026-11-19",
-      "last_shipped": "2026-11-19",
-      "last_summary": "OpenAI released a new Agents API for cloud orchestration and introduced several developer-focused tools including AgentKit and reinforcement fine-tuning capabilities.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "openai-agent-research-impact",
-      "urls": [
-        "https://openai.com/index/research-acceleration-jagged-frontier"
-      ],
-      "title": "Research acceleration: The jagged frontier",
-      "first_seen": "2026-11-19",
-      "last_shipped": "2026-11-19",
-      "last_summary": "OpenAI is researching how coding agents are accelerating scientific research and analyzing the performance gaps associated with these systems.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "ai-chip-design-optimization",
-      "urls": [
-        "https://openai.com/index/advancing-chip-design-with-our-models"
-      ],
-      "title": "Advancing chip design with OpenAI models",
-      "first_seen": "2026-11-19",
-      "last_shipped": "2026-11-19",
-      "last_summary": "OpenAI reported progress in AI-assisted chip design, specifically using its models to optimize circuits and RISC-V cores.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "openai-business-plugins-launch",
-      "urls": [
-        "https://openai.com/index/introducing-chatgpt-for-sales",
-        "https://openai.com/index/introducing-chatgpt-wallet",
-        "https://openai.com/index/introducing-businesses-chatgpt",
-        "https://openai.com/index/introducing-chatgpt-financial-services",
-        "https://openai.com/index/introducing-admin-plugin",
-        "https://openai.com/index/chatgpt-for-teens",
-        "https://openai.com/index/introducing-chatgpt-small-business-program",
-        "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
-        "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
-        "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
-        "https://openai.com/index/chatgpt-for-excel",
-        "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt",
-        "https://openai.com/index/introducing-chatgpt-go"
-      ],
-      "title": "Introducing ChatGPT for Sales",
-      "first_seen": "2026-11-19",
-      "last_shipped": "2026-11-19",
-      "last_summary": "OpenAI introduced specialized ChatGPT plugins for sales and financial services, alongside a new secure payment feature called ChatGPT Wallet.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "osmo-ai-scent-model",
-      "urls": [
-        "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans"
-      ],
-      "title": "This smell startup says its AI nose is as good as a human’s",
-      "first_seen": "2026-11-19",
-      "last_shipped": "2026-11-19",
-      "last_summary": "Startup Osmo is building a foundation model for scent by training on chemical data and human smell sensory evaluations.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "huggingface-rumble2flash-release",
-      "urls": [
-        "https://huggingface.co/blog/rumble-2-flash"
-      ],
-      "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
-      "first_seen": "2026-11-19",
-      "last_shipped": "2026-11-19",
-      "last_summary": "Hugging Face released Rumble-2-Flash, a compact 0.5B parameter open-source model designed for speech recognition across 40+ languages.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "google-search-school-ai-policy",
-      "urls": [
-        "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google"
-      ],
-      "title": "The nation’s largest school districts consider ditching Google Search",
-      "first_seen": "2026-11-19",
-      "last_shipped": "2026-11-19",
-      "last_summary": "Major US school districts are reconsidering their use of Google Search because the company will require AI features to be active on school accounts starting next year.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "2026-tech-regulation-push",
-      "urls": [
-        "https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act"
-      ],
-      "title": "Tech lawsuits defined 2026 — and lawmakers want more",
-      "first_seen": "2026-11-19",
-      "last_shipped": "2026-11-19",
-      "last_summary": "US lawmakers are pushing for new regulations before the end of 2026, targeting deepfakes and restrictions on filing lawsuits against online platforms.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "microsoft-buyout-strategy",
-      "urls": [
-        "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit"
-      ],
-      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-      "first_seen": "2026-11-19",
-      "last_shipped": "2026-11-19",
-      "last_summary": "Microsoft CEO Satya Nadella clarified that recent voluntary buyout offers to 60,000 employees were driven by the strategic shifts required by AI adoption.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "nadella-infrastructure-security",
-      "urls": [
-        "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable"
-      ],
-      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
-      "first_seen": "2026-11-19",
-      "last_shipped": "2026-11-19",
-      "last_summary": "Satya Nadella stated that much of the world's critical infrastructure remains unpatchable, increasing security risks in the age of AI.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "anthropic-ipo-nasdaq",
-      "urls": [
-        "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price",
-        "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
-        "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdnZzQ25ucktqYTRpZVBGZmxRYzV5NkVOdlBvcno0RV9hVW5aRk0xSmQzWWRXV2tjWjN2YUFoWldXTVcydjN4Q0d5UURuQUxhZGhzVVNiWUtKbzJrbWR1TG9tZGsxWUVwRkF3a2pTMVNhenNrRm9kazdWMjNDNlFDWW9tcTN1R1d4b284OGxJLXUxX0ppOVHSAZsBQVVfeXFMTnBNdmtqamoxYWgyVjdrUGVTRTF4bFRnRXE0TU9rNFJLbUt0M05VS0hmQ3NBODVuSEl4NEdaeFc0UW9jbS1xa0t0MXhlWHVnZGgxelZDN2hkcEhpVVdqamU0Uk8yYkZzSEVoQUlUaklydmZKcTh2UjFBSlVILU1EaEtJbnZyNy1aNk44VFRrZTd4eXp0bUpLZUMyNFk?oc=5",
-        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZ3RUTUZWNlBTSDVVYTNpTlJOUTY0amg4Y2k1V1ZqVk1zSksweFo1Tzg4VDN2T1JIaTVGSGVUTjRTQVNHT2s4NzEzQ1pHaWxOdW12aFhnbXdMcHdyV3EtaWRjNnRaLUhDWHF4NFpreXJiVWRianFGWlN3VFNUbTBDVHBCTllSUFFPeG1mT3YzaXFOc3lxQ1RWd2FiU3VnZS05dUdNV2Iwa04xemR6azJMNW56OVBUT2R0bWNqMjJiTWtsY1ExMEhmMGw4WHhkcElaNzFwM0lrOA?oc=5"
-      ],
-      "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-      "first_seen": "2026-11-20",
-      "last_shipped": "2026-11-20",
-      "last_summary": "Anthropic has completed its Nasdaq IPO, with shares trading at $111, representing a 33% increase over its $83 offering price.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "openai-gpt-6-2-launch",
-      "urls": [
-        "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-        "https://openai.com/index/introducing-images-2-6",
-        "https://openai.com/index/introducing-gpt-6-1-terra",
-        "https://openai.com/index/introducing-gpt-6-1-sol",
-        "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-        "https://openai.com/index/astra-for-law",
-        "https://openai.com/index/introducing-chatgpt-images-2-5",
-        "https://openai.com/index/introducing-gpt-live",
-        "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
-        "https://openai.com/index/introducing-gpt-5-5",
-        "https://openai.com/index/introducing-chatgpt-images-2-0",
-        "https://openai.com/index/introducing-gpt-rosalind",
-        "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
-        "https://openai.com/index/introducing-gpt-5-4",
-        "https://openai.com/index/introducing-gpt-5-3-codex-spark",
-        "https://openai.com/index/introducing-gpt-5-3-codex",
-        "https://openai.com/index/introducing-the-codex-app",
-        "https://openai.com/index/introducing-chatgpt-health",
-        "https://openai.com/index/introducing-gpt-5-2-codex",
-        "https://openai.com/index/new-chatgpt-images-is-here",
-        "https://openai.com/index/introducing-gpt-5-2",
-        "https://openai.com/global-affairs/openai-for-australia",
-        "https://openai.com/index/chatgpt-shopping-research",
-        "https://openai.com/index/openai-for-ireland",
-        "https://openai.com/index/group-chats-in-chatgpt",
-        "https://openai.com/index/gpt-5-1-for-developers",
-        "https://openai.com/index/introducing-gpt-oss-safeguard",
-        "https://openai.com/index/introducing-chatgpt-atlas",
-        "https://openai.com/index/introducing-apps-in-chatgpt",
-        "https://openai.com/index/introducing-chatgpt-pulse",
-        "https://openai.com/index/introducing-upgrades-to-codex",
-        "https://openai.com/index/introducing-gpt-realtime",
-        "https://openai.com/index/introducing-gpt-5-for-developers",
-        "https://openai.com/index/introducing-gpt-5",
-        "https://openai.com/index/introducing-gpt-oss",
-        "https://openai.com/index/chatgpt-study-mode",
-        "https://openai.com/index/introducing-chatgpt-agent",
-        "https://openai.com/global-affairs/introducing-openai-for-government",
-        "https://openai.com/global-affairs/openai-for-countries",
-        "https://openai.com/index/gpt-4-1",
-        "https://openai.com/index/introducing-our-next-generation-audio-models",
-        "https://openai.com/index/introducing-deep-research",
-        "https://openai.com/index/introducing-chatgpt-pro",
-        "https://openai.com/index/introducing-chatgpt-search",
-        "https://openai.com/index/introducing-canvas",
-        "https://openai.com/index/introducing-the-realtime-api",
-        "https://openai.com/index/introducing-vision-to-the-fine-tuning-api",
-        "https://openai.com/index/mercado-libre",
-        "https://openai.com/index/introducing-openai-o1-preview",
-        "https://openai.com/index/introducing-structured-outputs-in-the-api",
-        "https://openai.com/index/introducing-openai-for-nonprofits",
-        "https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free",
-        "https://openai.com/index/introducing-chatgpt-and-whisper-apis",
-        "https://openai.com/index/introducing-openai-japan",
-        "https://openai.com/index/introducing-improvements-to-the-fine-tuning-api-and-expanding-our-custom-models-program",
-        "https://openai.com/index/introducing-chatgpt-team",
-        "https://openai.com/index/introducing-the-gpt-store",
-        "https://openai.com/index/introducing-openai-dublin",
-        "https://openai.com/index/introducing-chatgpt-enterprise",
-        "https://openai.com/index/introducing-openai-london",
-        "https://openai.com/index/introducing-the-chatgpt-app-for-ios",
-        "https://openai.com/index/chatgpt-plus",
-        "https://deepmind.google/blog/introducing-gemini-4-neon",
-        "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
-        "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar",
-        "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking",
-        "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber",
-        "https://deepmind.google/blog/introducing-agentic-video-in-gemini",
-        "https://deepmind.google/blog/introducing-gemini-3-7-flash",
-        "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber",
-        "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber",
-        "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash",
-        "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model",
-        "https://deepmind.google/blog/introducing-gemini-omni",
-        "https://deepmind.google/blog/introducing-google-antigravity-2-0",
-        "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
-        "https://huggingface.co/blog/openenv",
-        "https://huggingface.co/blog/doc_aug_hf_alb",
-        "https://huggingface.co/blog/agents",
-        "https://huggingface.co/blog/leaderboard-patronus",
-        "https://www.bxfoundry.com/chatgpt_snes"
-      ],
-      "title": "Introducing GPT-6.2 Astra and Sol",
-      "first_seen": "2026-11-20",
-      "last_shipped": "2026-11-20",
-      "last_summary": "OpenAI announced GPT-6.2 Astra and the more affordable GPT-6.1 Sol, alongside updates to its image generation models featuring improved computer use and coding capabilities.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "meta-muse-charm-pricing",
-      "urls": [
-        "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
-        "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300"
-      ],
-      "title": "Meta’s Muse Charm might cost $300",
-      "first_seen": "2026-11-20",
-      "last_shipped": "2026-11-20",
-      "last_summary": "Reports suggest Meta is targeting a $300 price point for its upcoming Muse Charm AI wearable device.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "openai-risk-management-framework",
-      "urls": [
-        "https://openai.com/index/managing-frontier-ai-risk"
-      ],
-      "title": "Managing frontier AI risk: From training to deployment",
-      "first_seen": "2026-11-20",
-      "last_shipped": "2026-11-20",
-      "last_summary": "OpenAI has published an overview of its framework for managing frontier AI risks, covering the development lifecycle from training to deployment.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "nvidia-stock-fluctuation",
-      "urls": [
-        "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings"
-      ],
-      "title": "A brief history of Nvidia’s recent stock fluctuations",
-      "first_seen": "2026-11-20",
-      "last_shipped": "2026-11-20",
-      "last_summary": "Nvidia's stock price has declined to approximately $150, erasing gains from its recent quarterly earnings report.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "google-search-ai-sidebar",
-      "urls": [
-        "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats"
-      ],
-      "title": "Google is putting AI chats right on the homepage",
-      "first_seen": "2026-11-20",
-      "last_shipped": "2026-11-20",
-      "last_summary": "Google is testing a new feature that allows users to access and continue AI chats directly via a collapsible sidebar on the main search homepage.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "apple-ai-agent-development",
-      "urls": [
-        "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac"
-      ],
-      "title": "Apple may be developing its own AI agent that runs your Mac",
-      "first_seen": "2026-11-20",
-      "last_shipped": "2026-11-20",
-      "last_summary": "Apple is reportedly developing an AI agent capable of controlling Mac applications and automating user workflows.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "jensen-huang-resignation",
-      "urls": [
-        "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline"
-      ],
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "first_seen": "2026-11-20",
-      "last_shipped": "2026-11-20",
-      "last_summary": "Jensen Huang has resigned as CEO of Nvidia following revelations of an affair, causing leadership instability at a critical time for AI chip infrastructure.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "google-gemini-macos-agent",
-      "urls": [
-        "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you"
-      ],
-      "title": "Google gives Gemini the ability to use your Mac for you",
-      "first_seen": "2026-11-20",
-      "last_shipped": "2026-11-20",
-      "last_summary": "Google has updated Gemini to include agentic features on macOS that can manage files and execute multi-step tasks.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "ai-organizational-integration",
-      "urls": [
-        "https://openai.com/index/the-future-of-the-firm",
-        "https://openai.com/index/teens-learn-and-plan",
-        "https://openai.com/index/omio",
-        "https://openai.com/index/sea-david-chen",
-        "https://openai.com/index/pvh-future-of-fashion",
-        "https://openai.com/index/gpt-5-mathematical-discovery",
-        "https://openai.com/global-affairs/eu-code-of-practice",
-        "https://openai.com/global-affairs/aft",
-        "https://openai.com/index/wayfair-fiona-tan",
-        "https://openai.com/index/morgan-stanley",
-        "https://deepmind.google/blog/securing-the-future-of-ai-agents",
-        "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe",
-        "https://huggingface.co/blog/cybersecurity-openness",
-        "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3",
-        "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV0s0aHdkbnFxX1c0Q3l4SGladWZIeHdMZGYzZzNUM2lCTEpab01kVFAyN29aV3lvTzZYX2pscU9TR2ZJZG5uSXJ4cS1FSTFobElBQkhIaUo3Q1VOdjNDb0ItU0dhX0U0ekQyLTRjdFJubUJhdnFiM2xIdlJ0S1ZWR1BmaXlNZXJoOFRkYTIzNGwtMGpQcFhuanNXOVN5MHlnb3VKeEZ2cEFienBORGRUbE1yNA?oc=5"
-      ],
-      "title": "The future of the firm",
-      "first_seen": "2026-11-21",
-      "last_shipped": "2026-11-21",
-      "last_summary": "Major tech companies including OpenAI and Google are releasing new AI-driven tools, ranging from educational resources for students to workflow automation software for enterprises.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "openai-adversarial-distillation-protection",
-      "urls": [
-        "https://openai.com/index/combatting-adversarial-distillation"
-      ],
-      "title": "Combatting adversarial distillation",
-      "first_seen": "2026-11-21",
-      "last_shipped": "2026-11-21",
-      "last_summary": "OpenAI has outlined a multi-layered security framework designed to prevent the unauthorized extraction of AI model capabilities through adversarial distillation.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "hebbia-gpt-6-astra-testing",
-      "urls": [
-        "https://openai.com/business/customer-stories/hebbia"
-      ],
-      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-      "first_seen": "2026-11-21",
-      "last_shipped": "2026-11-21",
-      "last_summary": "Financial research firm Hebbia reported improved performance in source coverage and citation relevance after testing OpenAI's GPT-6 Astra.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "metr-ai-capability-evaluation",
-      "urls": [
-        "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update"
-      ],
-      "title": "The most misunderstood graph in AI just got a major update",
-      "first_seen": "2026-11-21",
-      "last_shipped": "2026-11-21",
-      "last_summary": "A report from the nonprofit METR indicates that while some AI capabilities continue to improve exponentially, models remain less effective at tasks requiring complex human-like judgment compared to coding.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "hugging-face-harness-adapters",
-      "urls": [
-        "https://huggingface.co/blog/harness-adapters-at-scale"
-      ],
-      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
-      "first_seen": "2026-11-21",
-      "last_shipped": "2026-11-21",
-      "last_summary": "Hugging Face introduced 'harness adapters' to help users optimize performance and reduce costs when integrating various models into existing toolchains.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "google-smart-home-consolidation",
-      "urls": [
-        "https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down"
-      ],
-      "title": "Google says it’s going to shut off Google Assistant on smart speakers next year",
-      "first_seen": "2026-11-21",
-      "last_shipped": "2026-11-21",
-      "last_summary": "Google will retire Google Assistant on smart home speakers and shut down the legacy Nest app, consolidating device management into the Google Home app by 2027.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "anthropic-claude-riemann-hypothesis",
-      "urls": [
-        "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
-      ],
-      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
-      "first_seen": "2026-11-21",
-      "last_shipped": "2026-11-21",
-      "last_summary": "An Anthropic mathematician claims to have used Claude to help prove the Riemann hypothesis, a long-standing mathematical challenge.",
-      "was_must_know": true
-    },
-    {
-      "event_key": "apple-india-lawsuit",
-      "urls": [
-        "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature"
-      ],
-      "title": "Startup sues Apple in India over tap-to-share contacts feature",
-      "first_seen": "2026-11-21",
-      "last_shipped": "2026-11-21",
-      "last_summary": "A U.S. startup has filed a lawsuit against Apple in India, seeking $162 million in damages and an import ban regarding the 'tap-to-share' contact feature.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "europa-fusion-funding",
-      "urls": [
-        "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building"
-      ],
-      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
-      "first_seen": "2026-11-21",
-      "last_shipped": "2026-11-21",
-      "last_summary": "Spotify founder Daniel Ek has invested in Europa Fusion, a startup led by an AI researcher focused on advancing fusion power technology.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "geothermal-data-center-energy",
-      "urls": [
-        "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes"
-      ],
-      "title": "Super-hot rock geothermal could end data center energy woes",
-      "first_seen": "2026-11-21",
-      "last_shipped": "2026-11-21",
-      "last_summary": "New geothermal startups are exploring super-hot rock drilling techniques aimed at providing massive, reliable energy for data centers.",
-      "was_must_know": false
-    },
-    {
-      "event_key": "fireworks-ai-open-source-push",
-      "urls": [
-        "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models"
-      ],
-      "title": "Anthropic rival says companies can (mostly) skip the pricey models",
-      "first_seen": "2026-11-21",
-      "last_shipped": "2026-11-21",
-      "last_summary": "Fireworks AI is advocating for the use of open-source models as a cost-effective alternative to expensive proprietary foundation models.",
-      "was_must_know": false
-    },
-    {
       "event_key": "openai-board-appointments",
       "urls": [
         "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
@@ -798,6 +319,111 @@
       "first_seen": "2026-11-25",
       "last_shipped": "2026-11-25",
       "last_summary": "Tidal plans to remove millions of AI-generated tracks from its platform to combat the influx of AI slop. The streaming service will continue to permit tracks created with AI assistance, but will block fully generative content.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "openai-le-figaro-partnership",
+      "urls": [
+        "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+        "https://openai.com/index/openai-and-journalism",
+        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMS0zbEVuLTdjRGlpWEcxZ1BCWHlRV2NWLThXaUVYc2Q1Z1ZUQjN3THlYaXBtRGROaXZzSi13a1pBQm5CRGdvam9JUEswcnF2V0JpeVJWNFJoNnEwakxwdnlQX2ZQbDJGbV9SNjY1TXBuRlhDbDloQVU1TUIxd0xHUF9CTGxPbTdxR1FwazQ1TG1xbk1ZU2d2OGwtNHFPMmRzcFIwampMVDJxUF9EMThRbGZfVTJPWllzQlh3LWszb3ZuN3JIdEUxTA?oc=5"
+      ],
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "first_seen": "2026-11-28",
+      "last_shipped": "2026-11-28",
+      "last_summary": "Le Groupe Figaro has entered a partnership with OpenAI to incorporate its journalism into ChatGPT through summaries and excerpts. The integration will feature links to original reporting.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "ai-organizational-integration",
+      "urls": [
+        "https://openai.com/index/the-future-of-the-firm",
+        "https://openai.com/index/teens-learn-and-plan",
+        "https://openai.com/index/omio",
+        "https://openai.com/index/sea-david-chen",
+        "https://openai.com/index/pvh-future-of-fashion",
+        "https://openai.com/index/gpt-5-mathematical-discovery",
+        "https://openai.com/global-affairs/eu-code-of-practice",
+        "https://openai.com/global-affairs/aft",
+        "https://openai.com/index/wayfair-fiona-tan",
+        "https://openai.com/index/morgan-stanley",
+        "https://deepmind.google/blog/securing-the-future-of-ai-agents",
+        "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe",
+        "https://huggingface.co/blog/cybersecurity-openness",
+        "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3",
+        "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOVV93Wng3VmY0ekVFbWxlUktOcTBzSUN0UEhHWHpMdXdleklaOEYzM3pZYWVzamtmUmc4c3BBV2tSS1RJcFE2YU4wc1p2VkFMZVNla3Izb25ZUTVVM0NIY2pPYlREbW8tMWNKbHlyMUtqclQ4V3Ixb05Qd3BVV3ZYN2NXUFFlWEdQNE1kcTkwWXE0U3FmN05sbGVzY2Vvbnl1dXpwZXJ1Wm9LQ3FDZVEtWlhiZmU2cWN0eWJaNDQ3MC1VbEpEY0VCcTRXSkVQSjZiZWJlajhzQ2J5U0NxUnBCN18xNkZYdlpBVExFWXl1SmQ?oc=5"
+      ],
+      "title": "The future of the firm",
+      "first_seen": "2026-11-28",
+      "last_shipped": "2026-11-28",
+      "last_summary": "Major tech companies are highlighting new ways AI is being integrated into organizational workflows and educational tools. This includes new features for ChatGPT aimed at students and enterprise deployments for companies like Omio and Sea Limited.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "swe-lancer-benchmark",
+      "urls": [
+        "https://openai.com/index/swe-lancer",
+        "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench"
+      ],
+      "title": "Introducing the SWE-Lancer benchmark",
+      "first_seen": "2026-11-28",
+      "last_shipped": "2026-11-28",
+      "last_summary": "The SWE-Lancer benchmark has been introduced to evaluate whether frontier large language models can successfully perform freelance software engineering tasks to earn significant income.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "nvidia-southeast-asia-shipment-pause",
+      "urls": [
+        "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia"
+      ],
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "first_seen": "2026-11-28",
+      "last_shipped": "2026-11-28",
+      "last_summary": "Nvidia has instructed manufacturing partners to halt server shipments to Malaysia, Singapore, Thailand, and Indonesia. This move aims to comply with tightening U.S. export controls intended to prevent high-end AI chips from reaching China.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "landlord-ai-eviction-incident",
+      "urls": [
+        "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai"
+      ],
+      "title": "Woman evicted after landlord's AI assistant told her she could delay rent",
+      "first_seen": "2026-11-28",
+      "last_shipped": "2026-11-28",
+      "last_summary": "A tenant was reportedly evicted after following incorrect advice from her landlord's AI assistant regarding rent payments. The incident highlights potential risks and liabilities when businesses automate customer communications.",
+      "was_must_know": true
+    },
+    {
+      "event_key": "google-deepcrossattention-research",
+      "urls": [
+        "https://research.google/blog/supercharging-transformer-residual-connections"
+      ],
+      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+      "first_seen": "2026-11-28",
+      "last_shipped": "2026-11-28",
+      "last_summary": "Google researchers have introduced DeepCrossAttention, a technique that improves the efficiency of transformer residual connections. The method reportedly enables comparable model quality while accelerating processing speed by up to 3x.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "sessiongraph-launch",
+      "urls": [
+        "https://sessiongraph.ai/"
+      ],
+      "title": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
+      "first_seen": "2026-11-28",
+      "last_shipped": "2026-11-28",
+      "last_summary": "SessionGraph is a new tool designed to visualize coding agent sessions as an interactive graph. It allows users to track and navigate the history of AI coding operations.",
+      "was_must_know": false
+    },
+    {
+      "event_key": "prospero-coding-harness",
+      "urls": [
+        "https://github.com/skeeto/prospero"
+      ],
+      "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
+      "first_seen": "2026-11-28",
+      "last_shipped": "2026-11-28",
+      "last_summary": "Prospero is a new lightweight, native AI coding harness built with ImGui. It emphasizes a bloat-free experience for developers integrating AI into their coding environment.",
       "was_must_know": false
     }
   ]

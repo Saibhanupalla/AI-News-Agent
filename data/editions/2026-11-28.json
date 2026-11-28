@@ -1,0 +1,226 @@
+{
+  "date": "2026-11-28",
+  "intro": "Today's tech landscape highlights significant shifts in AI hardware exports and the evolving role of AI in enterprise and media. Research continues to push performance boundaries while new tools emerge for developer workflows.",
+  "must_know": [
+    {
+      "cluster_id": "33b3d08d99aeb285",
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "summary": "Nvidia has instructed manufacturing partners to halt server shipments to Malaysia, Singapore, Thailand, and Indonesia. This move aims to comply with tightening U.S. export controls intended to prevent high-end AI chips from reaching China.",
+      "why_it_matters": "These supply chain restrictions underscore the difficulty of enforcing complex AI chip export bans in regions with interconnected technology markets.",
+      "topic_ids": [
+        "hardware",
+        "policy",
+        "big-tech"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia"
+        }
+      ]
+    },
+    {
+      "cluster_id": "578edb28476cd101",
+      "title": "Introducing the SWE-Lancer benchmark",
+      "summary": "The SWE-Lancer benchmark has been introduced to evaluate whether frontier large language models can successfully perform freelance software engineering tasks to earn significant income.",
+      "why_it_matters": "Moving beyond synthetic tests to real-world freelance work provides a more practical metric for measuring the actual economic utility of AI coding agents.",
+      "topic_ids": [
+        "research",
+        "foundation-models"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/swe-lancer"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench"
+        }
+      ]
+    },
+    {
+      "cluster_id": "37881cc6652cee73",
+      "title": "Woman evicted after landlord's AI assistant told her she could delay rent",
+      "summary": "A tenant was reportedly evicted after following incorrect advice from her landlord's AI assistant regarding rent payments. The incident highlights potential risks and liabilities when businesses automate customer communications.",
+      "why_it_matters": "As companies automate customer service with AI, users face legal and financial risks from potentially hallucinated or inaccurate automated guidance.",
+      "topic_ids": [
+        "policy"
+      ],
+      "story_type": "news",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "Hacker News Front Page",
+          "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai"
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "policy": [
+      {
+        "cluster_id": "13f3f62ce2777cf1",
+        "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+        "summary": "Le Groupe Figaro has entered a partnership with OpenAI to incorporate its journalism into ChatGPT through summaries and excerpts. The integration will feature links to original reporting.",
+        "why_it_matters": "This deal represents another significant publisher agreement as AI companies work to integrate verified news content into their models while navigating copyright concerns.",
+        "topic_ids": [
+          "big-tech",
+          "policy"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership"
+          },
+          {
+            "name": "OpenAI Blog",
+            "url": "https://openai.com/index/openai-and-journalism"
+          },
+          {
+            "name": "Google News: AI",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMS0zbEVuLTdjRGlpWEcxZ1BCWHlRV2NWLThXaUVYc2Q1Z1ZUQjN3THlYaXBtRGROaXZzSi13a1pBQm5CRGdvam9JUEswcnF2V0JpeVJWNFJoNnEwakxwdnlQX2ZQbDJGbV9SNjY1TXBuRlhDbDloQVU1TUIxd0xHUF9CTGxPbTdxR1FwazQ1TG1xbk1ZU2d2OGwtNHFPMmRzcFIwampMVDJxUF9EMThRbGZfVTJPWllzQlh3LWszb3ZuN3JIdEUxTA?oc=5"
+          }
+        ]
+      }
+    ],
+    "research": [
+      {
+        "cluster_id": "8a952e6dea4cd375",
+        "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+        "summary": "Google researchers have introduced DeepCrossAttention, a technique that improves the efficiency of transformer residual connections. The method reportedly enables comparable model quality while accelerating processing speed by up to 3x.",
+        "why_it_matters": "Optimizing core transformer architectures is essential for reducing the computational costs of training and deploying large-scale AI models.",
+        "topic_ids": [
+          "research",
+          "tools"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "Hacker News Front Page",
+            "url": "https://research.google/blog/supercharging-transformer-residual-connections"
+          }
+        ]
+      }
+    ],
+    "tools": [
+      {
+        "cluster_id": "b7f18d41d591cfab",
+        "title": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
+        "summary": "SessionGraph is a new tool designed to visualize coding agent sessions as an interactive graph. It allows users to track and navigate the history of AI coding operations.",
+        "why_it_matters": "Better visualization tools help developers debug and manage the non-linear, multi-step workflows typical of current AI coding agents.",
+        "topic_ids": [
+          "tools"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "Hacker News Front Page",
+            "url": "https://sessiongraph.ai/"
+          }
+        ]
+      },
+      {
+        "cluster_id": "c6ad98147159ef5c",
+        "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
+        "summary": "Prospero is a new lightweight, native AI coding harness built with ImGui. It emphasizes a bloat-free experience for developers integrating AI into their coding environment.",
+        "why_it_matters": "Developers are increasingly seeking minimal, performant alternatives to heavy IDE integrations for AI-assisted programming.",
+        "topic_ids": [
+          "tools"
+        ],
+        "story_type": "news",
+        "update_delta": "",
+        "sources": [
+          {
+            "name": "Hacker News Front Page",
+            "url": "https://github.com/skeeto/prospero"
+          }
+        ]
+      }
+    ]
+  },
+  "continuing": [
+    {
+      "cluster_id": "832059a4688a0dbc",
+      "title": "The future of the firm",
+      "summary": "Major tech companies are highlighting new ways AI is being integrated into organizational workflows and educational tools. This includes new features for ChatGPT aimed at students and enterprise deployments for companies like Omio and Sea Limited.",
+      "why_it_matters": "AI is increasingly moving from a general chatbot interface into specialized roles within education, corporate operations, and software development.",
+      "topic_ids": [
+        "big-tech",
+        "tools"
+      ],
+      "story_type": "update",
+      "update_delta": "",
+      "sources": [
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/the-future-of-the-firm"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/teens-learn-and-plan"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/omio"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/sea-david-chen"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/pvh-future-of-fashion"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/gpt-5-mathematical-discovery"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/global-affairs/eu-code-of-practice"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/global-affairs/aft"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/wayfair-fiona-tan"
+        },
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/morgan-stanley"
+        },
+        {
+          "name": "Google DeepMind Blog",
+          "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents"
+        },
+        {
+          "name": "Google DeepMind Blog",
+          "url": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/cybersecurity-openness"
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3"
+        },
+        {
+          "name": "Google News: AI",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOVV93Wng3VmY0ekVFbWxlUktOcTBzSUN0UEhHWHpMdXdleklaOEYzM3pZYWVzamtmUmc4c3BBV2tSS1RJcFE2YU4wc1p2VkFMZVNla3Izb25ZUTVVM0NIY2pPYlREbW8tMWNKbHlyMUtqclQ4V3Ixb05Qd3BVV3ZYN2NXUFFlWEdQNE1kcTkwWXE0U3FmN05sbGVzY2Vvbnl1dXpwZXJ1Wm9LQ3FDZVEtWlhiZmU2cWN0eWJaNDQ3MC1VbEpEY0VCcTRXSkVQSjZiZWJlajhzQ2J5U0NxUnBCN18xNkZYdlpBVExFWXl1SmQ?oc=5"
+        }
+      ]
+    }
+  ]
+}
